@@ -4,7 +4,7 @@ node_versions="v0.10.30 v0.12.2"
 node_builds="x86 x64"
 reports_dir="$(dirname ${BASH_SOURCE[0]})/core-reports"
 dmod_dir="$(dirname ${BASH_SOURCE[0]})"
-do_extra=false
+do_extra=true
 
 function fail
 {
