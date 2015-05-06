@@ -1,0 +1,106 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+findjsobjects:         elapsed time (seconds) => 0
+findjsobjects:                   heap objects => 665600
+findjsobjects:                     type reads => 143401
+findjsobjects:                   cached reads => 17298
+findjsobjects:             JavaScript objects => 2596
+findjsobjects:              processed objects => 2125
+findjsobjects:               possible garbage => 1589
+findjsobjects:               processed arrays => 238
+findjsobjects:                 unique objects => 207
+findjsobjects:                functions found => 903
+findjsobjects:               unique functions => 879
+findjsobjects:              functions skipped => 661
+  OBJECT #OBJECTS   #PROPS CONSTRUCTOR: PROPS
+8842d20d        1        0 Module
+88409b31        1        0 JSON
+8841a321        1        0 <anonymous> (as d)
+884154a9        1        0 MathConstructor
+884254e1        1        0 Buffer
+ae71f2d5        1        0 <anonymous> (as <anon>)
+ae715901       33        0 Array
+875099e5      362        0 Object
+ae7496cd        1        1 Object: ...
+ae749629        1        1 Object: ...
+ae711295        1        1 Arguments: length
+ae73e045        1        2 Object: target_defaults, variables
+ae71b365        1        2 <anonymous> (as d): name, message
+ae7292a1        2        1 Object: value
+875101f5        2        1 Object: INSPECT_MAX_BYTES
+ae78102d        2        1 Object: get
+8750ddd1        2        1 Object: usingDomains
+ae73f371        2        1 Object: 
+ae71c3a1        1        3 RangeError: stack, arguments, type
+ae71ad71        1        3 Object: receiver, fun, pos
+ae780b71        1        3 Buffer: length, parent, offset
+ae78089d        2        2 Object: encoding, flag
+ae708081        2        2 0, 1
+ae77b419        2        2 Object: enumerable, value
+ae71c715        2        2 Object: time, string
+ae74ae21        2        2 Object: request, paths
+87511071        2        2 Object: sep, delimiter
+ae718a65        1        5 Object: elements, special_string, add, ...
+ae71aa11        1        5 Object: script, from_line, to_line, ...
+ae73e085        1        5 Object: cflags, default_configuration, defines, ...
+ae71a6f5        1        6 Object: script, position, line, column, start, ...
+875157bd        3        2 Object: _idleNext, _idlePrev
+875149f5        3        2 SlowBuffer: length, used
+ae749e05        1        7 Arguments: 0, 1, 2, 3, 4, length, callee
+8840a1e9        1        7 Object: source, name, line_ends, line_offset, ...
+ae77f64d        1        7 Module: id, exports, parent, filename, loaded, ...
+ae7198e5        1        8 MathConstructor: E, LN10, LN2, LOG2E, LOG10E, ...
+ae71119d        4        2 Arguments: length, callee
+ae7450b5        1        9 Array
+8750ab0d        1       10 process: version, moduleLoadList, versions, ...
+ae715c01        1       10 Array
+ae749899        2        5 Object: /home, /home/dap, ...
+8750ab55        1       11 process: version, moduleLoadList, versions, ...
+8750aae9        2        6 Object: debug, uv, ipv6, tls_npn, tls_sni, tls
+87515439        2        6 Object: evals, natives, buffer, fs, constants, ...
+ae74a301        3        4 Arguments: 0, 1, length, callee
+ae744b95        4        3 Arguments: 0, length, callee
+87510bcd        1       13 Object: clang, gcc_version, host_arch, ...
+87512f19        1       13 Object: O_RDONLY, O_WRONLY, O_RDWR, S_IFMT, ...
+8750dadd        1       13 Object: _debugger, _linklist, assert, buffer, ...
+ae718911        1       16 Array
+ae724d85        1       16 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, ...
+ae7397c1        2        8 Object: special, number, boolean, undefined, ...
+8750a885        2        8 Object: http_parser, node, v8, ares, uv, zlib, ...
+ae710939       16        1 Object: constructor
+ae716b05        1       20 Array
+ae71ec09        1       21 Array
+ae73e3c1        1       23 Object: gcc_version, node_use_dtrace, ...
+ae71c885        3        8 Array
+ae71b89d        6        4 Error: stack, arguments, type, name
+ae739201        2       13 Object: bold, italic, underline, inverse, white, ...
+ae716e05        1       28 Array
+ae71a329        2       14 Array
+ae73c441        1       30 Array
+8751545d        2       15 Object: events, buffer, assert, util, path, ...
+ae716469        1       31 Object: value_, hasValue_, writable_, ...
+ae71acc1        1       32 Array
+ae71ac9d       11        3 Array
+ae719ba5        1       36 Array
+ae7163b9        1       38 Array
+875157e1        2       19 process: version, moduleLoadList, versions, ...
+ae7254b5        1       40 Object: events, dns, module, net, tty, readline, ...
+ae7211e1       10        4 0, 1, 2, 3
+ae72934d       40        1 Array
+ae71815d        1       42 Array
+ae73a411       13        4 Object: value, enumerable, writable, ...
+ae71874d        9        6 Array
+ae73c715        2       29 Array
+ae717345       15        4 Array
+ae726a51       15        4 NativeModule: filename, id, exports, loaded
+ae718d7d        1       70 Array
+ae71ca35        1       92 Array
+ae717c49       51        2 Array
+87514791        8       13 <anonymous> (as <anon>): dev, mode, nlink, uid, ...
+ae7188f1       22        5 Array
+ae7160c5       10       12 Array
+ae71c695        1      173 Array
+ae759531        1      178 Object: ESPIPE, O_APPEND, EALREADY, SIGFPE, ...
+ae71a2f5       26        7 Array
+ae7293e1       19       12 PropertyDescriptor: value_, hasValue_, ...

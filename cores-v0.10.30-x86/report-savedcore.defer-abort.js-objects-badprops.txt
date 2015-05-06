@@ -1,6 +1,3 @@
-V8 version: 3.14.5.9
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 8750a375: {
     "time": 8750a375: 33560575,
     "string": 8750a375: <unknown JavaScript object type "Map">,
@@ -90,8 +87,7 @@ property kind: in-object
 object has invalid-looking property values
 875109d5: {
     "cflags": 875109d5: 5,
-    "default_configuration": 875109d5: <unknown JavaScript object type "FixedArr
-ay">,
+    "default_configuration": 875109d5: <unknown JavaScript object type "FixedArray">,
     "defines": 875109d5: "cflags",
     "include_dirs": 875109d5: 129,
     "libraries": 875109d5: 0,

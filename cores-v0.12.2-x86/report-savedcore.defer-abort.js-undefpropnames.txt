@@ -1,3 +1,0 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled

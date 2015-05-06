@@ -1,5 +1,2 @@
-V8 version: 3.14.5.9
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 65 "version" 15991041 undefined
 "sunos" "ia32" "v0.10.30" "3.14.5.9"

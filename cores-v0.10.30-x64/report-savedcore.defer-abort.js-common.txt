@@ -1,0 +1,106 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+findjsobjects:         elapsed time (seconds) => 0
+findjsobjects:                   heap objects => 940032
+findjsobjects:                     type reads => 228293
+findjsobjects:                   cached reads => 17402
+findjsobjects:             JavaScript objects => 2298
+findjsobjects:              processed objects => 1918
+findjsobjects:               possible garbage => 1381
+findjsobjects:               processed arrays => 238
+findjsobjects:                 unique objects => 196
+findjsobjects:                functions found => 903
+findjsobjects:               unique functions => 879
+findjsobjects:              functions skipped => 457
+          OBJECT #OBJECTS   #PROPS CONSTRUCTOR: PROPS
+    4b359fd073f1        1        0 JSON
+    4b359fd37ca1        1        0 Buffer
+    4b359fd1b531        1        0 MathConstructor
+    4b359fd453e9        1        0 Module
+    4b359fd24201        1        0 <anonymous> (as d)
+    73443cf323b9        1        0 <anonymous> (as <anon>)
+    73443cf1f1e1       33        0 Array
+    4b359fd06769      363        0 Object
+    73443cf6fcc1        1        1 Object: ...
+    73443cf16521        1        1 Arguments: length
+    73443cf6fe09        1        1 Object: ...
+    73443cf2a5f1        1        2 <anonymous> (as d): name, message
+    73443cf60839        1        2 Object: target_defaults, variables
+    5079d150e6e1        2        1 Object: usingDomains
+    73443cf62c89        2        1 Object: 
+    73443cfc5bb1        2        1 Object: get
+    5079d1512721        2        1 Object: INSPECT_MAX_BYTES
+    73443cf43b59        2        1 Object: value
+    73443cf2c631        1        3 RangeError: stack, arguments, type
+    73443cfc5281        1        3 Buffer: length, parent, offset
+    73443cf29a21        1        3 Object: receiver, fun, pos
+    73443cf727e9        2        2 Object: request, paths
+    73443cfbac61        2        2 Object: enumerable, value
+    73443cfc4d39        2        2 Object: encoding, flag
+    5079d15140e1        2        2 Object: sep, delimiter
+    73443cf04101        2        2 0, 1
+    73443cf2ccf9        2        2 Object: time, string
+    73443cf25439        1        5 Object: elements, special_string, add, ...
+    73443cf29361        1        5 Object: script, from_line, to_line, ...
+    73443cf608a9        1        5 Object: cflags, default_configuration, ...
+    73443cf28d29        1        6 Object: script, position, line, column, ...
+    5079d151bfa1        3        2 Object: _idleNext, _idlePrev
+    5079d151a721        3        2 SlowBuffer: length, used
+    4b359fd08011        1        7 Object: source, name, line_ends, ...
+    73443cfc2b89        1        7 Module: id, exports, parent, filename, ...
+    73443cf70c71        1        7 Arguments: 0, 1, 2, 3, 4, length, ...
+    73443cf27119        1        8 MathConstructor: E, LN10, LN2, LOG2E, ...
+    73443cf16331        4        2 Arguments: length, callee
+    73443cf6ad41        1        9 Array
+    5079d1508ca1        1       10 process: version, moduleLoadList, ...
+    73443cf1f799        1       10 Array
+    73443cf701a1        2        5 Object: ...
+    5079d1508d21        1       11 process: version, moduleLoadList, ...
+    5079d1508c61        2        6 Object: debug, uv, ipv6, tls_npn, ...
+    5079d151b961        2        6 Object: evals, natives, buffer, fs, ...
+    73443cf71599        3        4 Arguments: 0, 1, length, callee
+    73443cf6a371        4        3 Arguments: 0, length, callee
+    5079d15138a1        1       13 Object: clang, gcc_version, host_arch, ...
+    5079d1517761        1       13 Object: O_RDONLY, O_WRONLY, O_RDWR, ...
+    5079d150e1a1        1       13 Object: _debugger, _linklist, assert, ...
+    73443cf25191        1       16 Array
+    73443cf3d411        1       16 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ...
+    73443cf58a69        2        8 Object: special, number, boolean, ...
+    5079d1508821        2        8 Object: http_parser, node, v8, ares, uv, ...
+    73443cf15269       16        1 Object: constructor
+    73443cf215a1        1       20 Array
+    73443cf316b1        1       21 Array
+    73443cf60ed9        1       23 Object: node_shared_v8, ...
+    73443cf2cfd9        3        8 Array
+    73443cf2b059        6        4 Error: stack, arguments, type, name
+    73443cf57ee9        2       13 Object: bold, italic, underline, ...
+    73443cf21ba1        1       28 Array
+    73443cf28591        2       14 Array
+    73443cf5e351        1       30 Array
+    5079d151b9a1        2       15 Object: events, buffer, assert, util, ...
+    73443cf20869        1       31 Object: value_, hasValue_, writable_, ...
+    73443cf298c1        1       32 Array
+    73443cf29879       11        3 Array
+    73443cf27699        1       36 Array
+    73443cf20709        1       38 Array
+    5079d151bfe1        2       19 process: version, moduleLoadList, ...
+    73443cf3e261        1       40 Object: dgram, fs, zlib, os, sys, ...
+    73443cf36149       10        4 0, 1, 2, 3
+    73443cf43cb1       40        1 Array
+    73443cf24239        1       42 Array
+    73443cf5a309       13        4 Object: value, enumerable, writable, ...
+    73443cf24e19        9        6 Array
+    73443cf5e8f9        2       29 Array
+    73443cf40c89       15        4 NativeModule: filename, id, exports, ...
+    73443cf22621       15        4 Array
+    73443cf25a69        1       70 Array
+    73443cf2d339        1       92 Array
+    73443cf23811       51        2 Array
+    5079d151a2e1        8       13 <anonymous> (as <anon>): dev, mode, ...
+    73443cf25151       22        5 Array
+    73443cf20121       10       12 Array
+    73443cf2cc09        1      173 Array
+    73443cf83ca9        1      178 Object: EINTR, SSL_OP_NO_COMPRESSION, ...
+    73443cf28529       26        7 Array
+    73443cf43dd9       19       12 PropertyDescriptor: value_, hasValue_, ...

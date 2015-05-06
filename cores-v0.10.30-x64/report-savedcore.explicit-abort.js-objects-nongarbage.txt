@@ -1,6 +1,3 @@
-V8 version: 3.14.5.9
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 4379bb31b531: {}
 4379bb3453e9: {}
 53490af323c1: {}
@@ -447,13 +444,11 @@ some properties skipped due to undefined property name
 4379bb308289: {}
 4379bb308189: {}
 53490af6fe19: {
-    "{"request":"/home/dap/node-testing/test-programs/explicit-abort.js","paths"
-:[""]}": 53490af6fe19: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    "{"request":"/home/dap/node-testing/test-programs/explicit-abort.js","paths":[""]}": 53490af6fe19: "/home/dap/node-testing/test-programs/explicit-abort.js",
 }
 property kind: dictionary 
 53490af6fcd1: {
-    "/home/dap/node-testing/test-programs/explicit-abort.js": 53490af6fcd1: [...
-],
+    "/home/dap/node-testing/test-programs/explicit-abort.js": 53490af6fcd1: [...],
 }
 property kind: dictionary 
 53490af16521: {
@@ -534,8 +529,7 @@ property kind: in-object
 }
 property kind: in-object 
 53490af728f1: {
-    "request": 53490af728f1: "/home/dap/node-testing/test-programs/explicit-abor
-t.js",
+    "request": 53490af728f1: "/home/dap/node-testing/test-programs/explicit-abort.js",
     "paths": 53490af728f1: [...],
 }
 property kind: in-object 
@@ -656,8 +650,7 @@ property kind: numeric-named in-object
 }
 property kind: numeric-named in-object 
 53490af70c81: {
-    "0": 53490af70c81: "/home/dap/node-testing/node-v0.10.30-sunos-x64/bin/node"
-,
+    "0": 53490af70c81: "/home/dap/node-testing/node-v0.10.30-sunos-x64/bin/node",
     "1": 53490af70c81: "..",
     "2": 53490af70c81: "..",
     "3": 53490af70c81: "lib",
@@ -680,8 +673,7 @@ property kind: "properties" array
     "id": 53490afc2be1: ".",
     "exports": 53490afc2be1: [...],
     "parent": 53490afc2be1: null,
-    "filename": 53490afc2be1: "/home/dap/node-testing/test-programs/explicit-abo
-rt.js",
+    "filename": 53490afc2be1: "/home/dap/node-testing/test-programs/explicit-abort.js",
     "loaded": 53490afc2be1: false,
     "children": 53490afc2be1: [...],
     "paths": 53490afc2be1: [...],
@@ -755,10 +747,8 @@ property kind: numeric-named in-object
 property kind: "properties" array 
 some properties skipped due to undefined property name
 53490af701b1: {
-    "/home/dap/node-testing/test-programs": 53490af701b1: "/home/dap/node-testin
-g/test-programs",
-    "/home/dap/node-testing/test-programs/explicit-abort.js": 53490af701b1: "/ho
-me/dap/node-testing/test-programs/explicit-abort.js",
+    "/home/dap/node-testing/test-programs": 53490af701b1: "/home/dap/node-testing/test-programs",
+    "/home/dap/node-testing/test-programs/explicit-abort.js": 53490af701b1: "/home/dap/node-testing/test-programs/explicit-abort.js",
     "/home": 53490af701b1: "/home",
     "/home/dap/node-testing": 53490af701b1: "/home/dap/node-testing",
     "/home/dap": 53490af701b1: "/home/dap",
@@ -766,8 +756,7 @@ me/dap/node-testing/test-programs/explicit-abort.js",
 property kind: dictionary 
 53490afbfc71: {
     "/home/dap/node-testing/test-programs": 53490afbfc71: true,
-    "/home/dap/node-testing/test-programs/explicit-abort.js": 53490afbfc71: true
-,
+    "/home/dap/node-testing/test-programs/explicit-abort.js": 53490afbfc71: true,
     "/home": 53490afbfc71: true,
     "/home/dap/node-testing": 53490afbfc71: true,
     "/home/dap": 53490afbfc71: true,
@@ -1679,8 +1668,7 @@ property kind: numeric-named
     "env": 53490af31201: [...],
     "pid": 53490af31201: 17612,
     "features": 53490af31201: [...],
-    "execPath": 53490af31201: "/home/dap/node-testing/node-v0.10.30-sunos-x64/bi
-n/node",
+    "execPath": 53490af31201: "/home/dap/node-testing/node-v0.10.30-sunos-x64/bin/node",
     "_tickInfoBox": 53490af31201: [...],
     "_events": 53490af31201: [...],
     "domain": 53490af31201: null,
@@ -1716,13 +1704,11 @@ some properties skipped due to undefined property name
 property kind: "properties" array 
 some properties skipped due to undefined property name
 53490af3e269: {
-    "console": 53490af3e269: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "console": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "zlib": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "zlib": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1730,23 +1716,19 @@ ors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_duplex": 53490af3e269: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "_stream_duplex": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "querystring": 53490af3e269: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "querystring": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_writable": 53490af3e269: "// Copyright Joyent, Inc. and other Node 
-contributors.
+    "_stream_writable": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_debugger": 53490af3e269: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_debugger": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1754,13 +1736,11 @@ utors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "child_process": 53490af3e269: "// Copyright Joyent, Inc. and other Node con
-tributors.
+    "child_process": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "string_decoder": 53490af3e269: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "string_decoder": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1768,53 +1748,43 @@ ntributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "constants": 53490af3e269: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "constants": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "util": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "util": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "http": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "http": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "cluster": 53490af3e269: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "cluster": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "timers": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "timers": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "dgram": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "dgram": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "path": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "path": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "events": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "events": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_linklist": 53490af3e269: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_linklist": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "readline": 53490af3e269: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "readline": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1826,8 +1796,7 @@ tors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "buffer": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "buffer": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1840,13 +1809,11 @@ rs.
          * @type Object
          */
         var punycode,",
-    "https": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "https": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "domain": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "domain": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1863,8 +1830,7 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "module": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "module": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1872,8 +1838,7 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "freelist": 53490af3e269: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "freelist": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1881,33 +1846,27 @@ tors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_passthrough": 53490af3e269: "// Copyright Joyent, Inc. and other No
-de contributors.
+    "_stream_passthrough": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "repl": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "repl": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "stream": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "stream": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_readable": 53490af3e269: "// Copyright Joyent, Inc. and other Node 
-contributors.
+    "_stream_readable": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_transform": 53490af3e269: "// Copyright Joyent, Inc. and other Node
- contributors.
+    "_stream_transform": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "crypto": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "crypto": 53490af3e269: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -2904,14 +2863,12 @@ property kind: in-object
     53490af582a9: 22,
 ]
 53490af40a79: [
-    53490af40a79: "(function (exports, require, module, __filename, __dirname) {
- ",
+    53490af40a79: "(function (exports, require, module, __filename, __dirname) { ",
     53490af40a79: "
 });",
 ]
 53490af40a59: [
-    53490af40a59: "(function (exports, require, module, __filename, __dirname) {
- ",
+    53490af40a59: "(function (exports, require, module, __filename, __dirname) { ",
     53490af40a59: "
 });",
 ]

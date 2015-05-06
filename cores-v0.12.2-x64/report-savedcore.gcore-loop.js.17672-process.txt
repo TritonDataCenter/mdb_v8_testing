@@ -1,4 +1,1 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 "sunos" "x64" "v0.12.2" "3.28.73"

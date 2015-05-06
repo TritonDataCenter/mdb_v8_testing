@@ -1,6 +1,3 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 fed0b361: {
     "name": fed0b361: <unknown JavaScript object type "FixedArray">,
 }
@@ -143,8 +140,7 @@ property kind: in-object
 object has invalid-looking property values
 fed14a79: {
     "cflags": fed14a79: 5,
-    "default_configuration": fed14a79: <unknown JavaScript object type "FixedArr
-ay">,
+    "default_configuration": fed14a79: <unknown JavaScript object type "FixedArray">,
     "defines": fed14a79: "cflags",
     "include_dirs": fed14a79: 2561,
     "libraries": fed14a79: 2147483647,
@@ -180,18 +176,12 @@ fed17319: {
 property kind: "properties" array 
 object has invalid-looking property values
 aab75f5d: {
-    "Symbol.isConcatSpreadable": aab75f5d: <unknown JavaScript object type "SeqT
-woByteString">,
-    "Symbol.isRegExp": aab75f5d: <unknown JavaScript object type "SeqTwoByteStri
-ng">,
-    "Symbol.unscopables": aab75f5d: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "Symbol.iterator": aab75f5d: <unknown JavaScript object type "SeqTwoByteStri
-ng">,
-    "Symbol.hasInstance": aab75f5d: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "Symbol.toStringTag": aab75f5d: <unknown JavaScript object type "SeqTwoByteS
-tring">,
+    "Symbol.isConcatSpreadable": aab75f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.isRegExp": aab75f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.unscopables": aab75f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.iterator": aab75f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.hasInstance": aab75f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.toStringTag": aab75f5d: <unknown JavaScript object type "SeqTwoByteString">,
 }
 property kind: dictionary 
 object has invalid-looking property values
@@ -258,28 +248,17 @@ object has invalid-looking property values
 property kind: in-object 
 object has invalid-looking property values
 aab75f81: {
-    "Promise#value": aab75f81: <unknown JavaScript object type "SeqTwoByteString
-">,
-    "ArrayIterator#next": aab75f81: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "Promise#status": aab75f81: <unknown JavaScript object type "SeqTwoByteStrin
-g">,
-    "Promise#onResolve": aab75f81: <unknown JavaScript object type "SeqTwoByteSt
-ring">,
-    "Promise#debug": aab75f81: <unknown JavaScript object type "SeqTwoByteString
-">,
-    "Promise#onReject": aab75f81: <unknown JavaScript object type "SeqTwoByteStr
-ing">,
-    "StringIterator#iteratedString": aab75f81: <unknown JavaScript object type "
-SeqTwoByteString">,
-    "ArrayIterator#kind": aab75f81: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "StringIterator#next": aab75f81: <unknown JavaScript object type "SeqTwoByte
-String">,
-    "Promise#raw": aab75f81: <unknown JavaScript object type "SeqTwoByteString">
-,
-    "ArrayIterator#object": aab75f81: <unknown JavaScript object type "SeqTwoByt
-eString">,
+    "Promise#value": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#next": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#status": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#onResolve": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#debug": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#onReject": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "StringIterator#iteratedString": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#kind": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "StringIterator#next": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#raw": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#object": aab75f81: <unknown JavaScript object type "SeqTwoByteString">,
 }
 property kind: dictionary 
 object has invalid-looking property values

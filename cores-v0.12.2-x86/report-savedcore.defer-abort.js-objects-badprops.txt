@@ -1,6 +1,3 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 9fb0b361: {
     "name": 9fb0b361: <unknown JavaScript object type "FixedArray">,
 }
@@ -173,8 +170,7 @@ property kind: in-object
 object has invalid-looking property values
 9fb14a79: {
     "cflags": 9fb14a79: 5,
-    "default_configuration": 9fb14a79: <unknown JavaScript object type "FixedArr
-ay">,
+    "default_configuration": 9fb14a79: <unknown JavaScript object type "FixedArray">,
     "defines": 9fb14a79: "cflags",
     "include_dirs": 9fb14a79: 513,
     "libraries": 9fb14a79: 2147483647,
@@ -182,18 +178,12 @@ ay">,
 property kind: "properties" array 
 object has invalid-looking property values
 89875f5d: {
-    "Symbol.isConcatSpreadable": 89875f5d: <unknown JavaScript object type "SeqT
-woByteString">,
-    "Symbol.hasInstance": 89875f5d: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "Symbol.isRegExp": 89875f5d: <unknown JavaScript object type "SeqTwoByteStri
-ng">,
-    "Symbol.iterator": 89875f5d: <unknown JavaScript object type "SeqTwoByteStri
-ng">,
-    "Symbol.unscopables": 89875f5d: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "Symbol.toStringTag": 89875f5d: <unknown JavaScript object type "SeqTwoByteS
-tring">,
+    "Symbol.isConcatSpreadable": 89875f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.hasInstance": 89875f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.isRegExp": 89875f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.iterator": 89875f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.unscopables": 89875f5d: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.toStringTag": 89875f5d: <unknown JavaScript object type "SeqTwoByteString">,
 }
 property kind: dictionary 
 object has invalid-looking property values
@@ -260,28 +250,17 @@ object has invalid-looking property values
 property kind: in-object 
 object has invalid-looking property values
 89875f81: {
-    "StringIterator#iteratedString": 89875f81: <unknown JavaScript object type "
-SeqTwoByteString">,
-    "Promise#raw": 89875f81: <unknown JavaScript object type "SeqTwoByteString">
-,
-    "ArrayIterator#object": 89875f81: <unknown JavaScript object type "SeqTwoByt
-eString">,
-    "Promise#status": 89875f81: <unknown JavaScript object type "SeqTwoByteStrin
-g">,
-    "Promise#onReject": 89875f81: <unknown JavaScript object type "SeqTwoByteStr
-ing">,
-    "Promise#debug": 89875f81: <unknown JavaScript object type "SeqTwoByteString
-">,
-    "ArrayIterator#kind": 89875f81: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "Promise#value": 89875f81: <unknown JavaScript object type "SeqTwoByteString
-">,
-    "Promise#onResolve": 89875f81: <unknown JavaScript object type "SeqTwoByteSt
-ring">,
-    "ArrayIterator#next": 89875f81: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "StringIterator#next": 89875f81: <unknown JavaScript object type "SeqTwoByte
-String">,
+    "StringIterator#iteratedString": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#raw": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#object": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#status": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#onReject": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#debug": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#kind": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#value": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#onResolve": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#next": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
+    "StringIterator#next": 89875f81: <unknown JavaScript object type "SeqTwoByteString">,
 }
 property kind: dictionary 
 object has invalid-looking property values

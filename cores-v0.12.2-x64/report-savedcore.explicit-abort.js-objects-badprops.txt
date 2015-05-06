@@ -1,6 +1,3 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 6c17c0addf1: {
     "": 6c17c0addf1: <couldn't read type>,
 }
@@ -141,8 +138,7 @@ property kind: in-object
 object has invalid-looking property values
 121d6c11ad19: {
     "cflags": 121d6c11ad19: 5,
-    "default_configuration": 121d6c11ad19: <unknown JavaScript object type "Fixe
-dArray">,
+    "default_configuration": 121d6c11ad19: <unknown JavaScript object type "FixedArray">,
     "defines": 121d6c11ad19: "cflags",
     "include_dirs": 121d6c11ad19: 2561,
     "libraries": 121d6c11ad19: -1,
@@ -168,18 +164,12 @@ object has invalid-looking property values
 property kind: "properties" array 
 object has invalid-looking property values
 116a34fcda51: {
-    "Symbol.isRegExp": 116a34fcda51: <unknown JavaScript object type "SeqTwoByte
-String">,
-    "Symbol.isConcatSpreadable": 116a34fcda51: <unknown JavaScript object type "
-SeqTwoByteString">,
-    "Symbol.hasInstance": 116a34fcda51: <unknown JavaScript object type "SeqTwoB
-yteString">,
-    "Symbol.unscopables": 116a34fcda51: <unknown JavaScript object type "SeqTwoB
-yteString">,
-    "Symbol.iterator": 116a34fcda51: <unknown JavaScript object type "SeqTwoByte
-String">,
-    "Symbol.toStringTag": 116a34fcda51: <unknown JavaScript object type "SeqTwoB
-yteString">,
+    "Symbol.isRegExp": 116a34fcda51: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.isConcatSpreadable": 116a34fcda51: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.hasInstance": 116a34fcda51: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.unscopables": 116a34fcda51: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.iterator": 116a34fcda51: <unknown JavaScript object type "SeqTwoByteString">,
+    "Symbol.toStringTag": 116a34fcda51: <unknown JavaScript object type "SeqTwoByteString">,
 }
 property kind: dictionary 
 object has invalid-looking property values
@@ -252,28 +242,17 @@ object has invalid-looking property values
 property kind: in-object 
 object has invalid-looking property values
 116a34fcda99: {
-    "StringIterator#next": 116a34fcda99: <unknown JavaScript object type "SeqTwo
-ByteString">,
-    "Promise#onReject": 116a34fcda99: <unknown JavaScript object type "SeqTwoByt
-eString">,
-    "StringIterator#iteratedString": 116a34fcda99: <unknown JavaScript object ty
-pe "SeqTwoByteString">,
-    "Promise#onResolve": 116a34fcda99: <unknown JavaScript object type "SeqTwoBy
-teString">,
-    "ArrayIterator#kind": 116a34fcda99: <unknown JavaScript object type "SeqTwoB
-yteString">,
-    "Promise#status": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteS
-tring">,
-    "Promise#raw": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteStri
-ng">,
-    "ArrayIterator#next": 116a34fcda99: <unknown JavaScript object type "SeqTwoB
-yteString">,
-    "Promise#value": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteSt
-ring">,
-    "ArrayIterator#object": 116a34fcda99: <unknown JavaScript object type "SeqTw
-oByteString">,
-    "Promise#debug": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteSt
-ring">,
+    "StringIterator#next": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#onReject": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "StringIterator#iteratedString": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#onResolve": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#kind": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#status": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#raw": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#next": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#value": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "ArrayIterator#object": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
+    "Promise#debug": 116a34fcda99: <unknown JavaScript object type "SeqTwoByteString">,
 }
 property kind: dictionary 
 object has invalid-looking property values
@@ -468,10 +447,8 @@ object has invalid-looking property values
     "hasWritable_": 121d6c121259: <not a heap object>,
     "enumerable_": 121d6c121259: {},
     "hasEnumerable_": 121d6c121259: function Object,
-    "configurable_": 121d6c121259: <unknown JavaScript object type "FixedArray">
-,
-    "hasConfigurable_": 121d6c121259: <unknown JavaScript object type "FixedArra
-y">,
+    "configurable_": 121d6c121259: <unknown JavaScript object type "FixedArray">,
+    "hasConfigurable_": 121d6c121259: <unknown JavaScript object type "FixedArray">,
     "get_": 121d6c121259: <unknown JavaScript object type "FixedArray">,
     "hasGetter_": 121d6c121259: <unknown JavaScript object type "FixedArray">,
     "set_": 121d6c121259: <unknown JavaScript object type "Map">,
@@ -490,8 +467,7 @@ object has invalid-looking property values
     },
     "hasEnumerable_": 121d6c10a3e1: function Error,
     "configurable_": 121d6c10a3e1: undefined,
-    "hasConfigurable_": 121d6c10a3e1: <unknown JavaScript object type "FixedArra
-y">,
+    "hasConfigurable_": 121d6c10a3e1: <unknown JavaScript object type "FixedArray">,
     "get_": 121d6c10a3e1: <unknown JavaScript object type "FixedArray">,
     "hasGetter_": 121d6c10a3e1: <unknown JavaScript object type "FixedArray">,
     "set_": 121d6c10a3e1: <unknown JavaScript object type "Map">,

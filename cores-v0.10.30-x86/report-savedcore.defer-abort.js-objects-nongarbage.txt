@@ -1,6 +1,3 @@
-V8 version: 3.14.5.9
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 8842d20d: {}
 88409b31: {}
 8841a321: {}
@@ -438,8 +435,7 @@ ae710fad: {}
 8750d7e9: {}
 8750c0b5: {}
 ae7496cd: {
-    "{"request":"/home/dap/node-testing/test-programs/defer-abort.js","paths":["
-"]}": ae7496cd: "/home/dap/node-testing/test-programs/defer-abort.js",
+    "{"request":"/home/dap/node-testing/test-programs/defer-abort.js","paths":[""]}": ae7496cd: "/home/dap/node-testing/test-programs/defer-abort.js",
 }
 property kind: dictionary 
 ae749629: {
@@ -741,10 +737,8 @@ ae715c01: [
 ae749899: {
     "/home": ae749899: "/home",
     "/home/dap": ae749899: "/home/dap",
-    "/home/dap/node-testing/test-programs/defer-abort.js": ae749899: "/home/dap/
-node-testing/test-programs/defer-abort.js",
-    "/home/dap/node-testing/test-programs": ae749899: "/home/dap/node-testing/te
-st-programs",
+    "/home/dap/node-testing/test-programs/defer-abort.js": ae749899: "/home/dap/node-testing/test-programs/defer-abort.js",
+    "/home/dap/node-testing/test-programs": ae749899: "/home/dap/node-testing/test-programs",
     "/home/dap/node-testing": ae749899: "/home/dap/node-testing",
 }
 property kind: dictionary 
@@ -1638,8 +1632,7 @@ ae71e9a9: {
     "env": ae71e9a9: [...],
     "pid": ae71e9a9: 17586,
     "features": ae71e9a9: [...],
-    "execPath": ae71e9a9: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/no
-de",
+    "execPath": ae71e9a9: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/node",
     "_tickInfoBox": ae71e9a9: [...],
     "_events": ae71e9a9: [...],
     "domain": ae71e9a9: null,
@@ -1671,8 +1664,7 @@ ae7254b5: {
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "readline": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "readline": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1688,18 +1680,15 @@ ae7254b5: {
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "constants": ae7254b5: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "constants": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_duplex": ae7254b5: "// Copyright Joyent, Inc. and other Node contri
-butors.
+    "_stream_duplex": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_writable": ae7254b5: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_stream_writable": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1728,8 +1717,7 @@ ributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "querystring": ae7254b5: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "querystring": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1737,13 +1725,11 @@ ors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_readable": ae7254b5: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_stream_readable": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_transform": ae7254b5: "// Copyright Joyent, Inc. and other Node con
-tributors.
+    "_stream_transform": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1763,8 +1749,7 @@ tributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_linklist": ae7254b5: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "_linklist": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1772,18 +1757,15 @@ s.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "child_process": ae7254b5: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "child_process": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "string_decoder": ae7254b5: "// Copyright Joyent, Inc. and other Node contri
-butors.
+    "string_decoder": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_debugger": ae7254b5: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "_debugger": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1795,8 +1777,7 @@ s.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "freelist": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "freelist": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
@@ -1817,8 +1798,7 @@ s.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",
-    "_stream_passthrough": ae7254b5: "// Copyright Joyent, Inc. and other Node c
-ontributors.
+    "_stream_passthrough": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software",

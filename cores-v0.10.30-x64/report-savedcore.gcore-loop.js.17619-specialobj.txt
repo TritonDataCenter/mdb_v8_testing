@@ -1,6 +1,3 @@
-V8 version: 3.14.5.9
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 521e9ba1ac61: {
     "obj1smalldate": 521e9ba1ac61: 33570815,
     "obj2bigdate": 521e9ba1ac61: 0,

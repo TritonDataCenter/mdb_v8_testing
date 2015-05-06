@@ -1,6 +1,3 @@
-V8 version: 3.14.5.9
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 7fa7ecb13921: {
     "target_defaults": 7fa7ecb13921: 2,
     "variables": 7fa7ecb13921: <unknown JavaScript object type "FixedArray">,
@@ -93,8 +90,7 @@ property kind: numeric-named
 object has invalid-looking property values
 7fa7ecb13521: {
     "cflags": 7fa7ecb13521: 5,
-    "default_configuration": 7fa7ecb13521: <unknown JavaScript object type "Fixe
-dArray">,
+    "default_configuration": 7fa7ecb13521: <unknown JavaScript object type "FixedArray">,
     "defines": 7fa7ecb13521: "cflags",
     "include_dirs": 7fa7ecb13521: 786561,
     "libraries": 7fa7ecb13521: 0,
@@ -146,10 +142,8 @@ object has invalid-looking property values
     "hasWritable_": 7fa7ecb0ee21: {},
     "enumerable_": 7fa7ecb0ee21: function Object,
     "hasEnumerable_": 7fa7ecb0ee21: undefined,
-    "configurable_": 7fa7ecb0ee21: <unknown JavaScript object type "FixedArray">
-,
-    "hasConfigurable_": 7fa7ecb0ee21: <unknown JavaScript object type "FixedArra
-y">,
+    "configurable_": 7fa7ecb0ee21: <unknown JavaScript object type "FixedArray">,
+    "hasConfigurable_": 7fa7ecb0ee21: <unknown JavaScript object type "FixedArray">,
     "get_": 7fa7ecb0ee21: 33558527,
     "hasGetter_": 7fa7ecb0ee21: <unknown JavaScript object type "Map">,
     "set_": 7fa7ecb0ee21: <not a heap object>,

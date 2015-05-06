@@ -1,6 +1,3 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 a2377f35: {}
 8090b429: {}
 8090be29: {}
@@ -385,8 +382,7 @@ a2371945: {
 }
 property kind: "properties" array 
 8e080351: {
-    "{"request":"/home/dap/node-testing/test-programs/explicit-abort.js","paths"
-:[""]}": 8e080351: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    "{"request":"/home/dap/node-testing/test-programs/explicit-abort.js","paths":[""]}": 8e080351: "/home/dap/node-testing/test-programs/explicit-abort.js",
 }
 property kind: "properties" array 
 8e080291: {
@@ -554,8 +550,7 @@ a2373c81: {
 }
 property kind: numeric-named 
 8e082311: {
-    "request": 8e082311: "/home/dap/node-testing/test-programs/explicit-abort.js
-",
+    "request": 8e082311: "/home/dap/node-testing/test-programs/explicit-abort.js",
     "paths": 8e082311: [...],
 }
 property kind: in-object 
@@ -675,8 +670,7 @@ property kind: in-object
     "id": 8e08735d: ".",
     "exports": 8e08735d: [...],
     "parent": 8e08735d: null,
-    "filename": 8e08735d: "/home/dap/node-testing/test-programs/explicit-abort.j
-s",
+    "filename": 8e08735d: "/home/dap/node-testing/test-programs/explicit-abort.js",
     "loaded": 8e08735d: false,
     "children": 8e08735d: [...],
     "paths": 8e08735d: [...],
@@ -747,14 +741,12 @@ property kind: in-object
 }
 property kind: "properties" array 
 a2376389: {
-    "constructor": a2376389: function <anonymous> (as $Object.defineProperty.val
-ue.bN),
+    "constructor": a2376389: function <anonymous> (as $Object.defineProperty.value.bN),
     "resolvedOptions": a2376389: function resolvedOptions,
 }
 property kind: "properties" array 
 a2376349: {
-    "constructor": a2376349: function <anonymous> (as $Object.defineProperty.val
-ue.bs),
+    "constructor": a2376349: function <anonymous> (as $Object.defineProperty.value.bs),
     "resolvedOptions": a2376349: function resolvedOptions,
 }
 property kind: "properties" array 
@@ -822,8 +814,7 @@ property kind: "properties" array
     "moduleLoadList": 8090f169: 0,
     "versions": 8090f169: "title",
     "arch": 8090f169: 4675,
-    "platform": 8090f169: <unknown JavaScript object type "ExecutableAccessorInf
-o">,
+    "platform": 8090f169: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "argv": 8090f169: "version",
     "execArgv": 8090f169: 1545,
     "env": 8090f169: 2147483647,
@@ -854,8 +845,7 @@ property kind: "properties" array
     "arch": 8090f1b9: 13,
     "platform": 8090f1b9: 4675,
     "argv": 8090f1b9: 8394313,
-    "execArgv": 8090f1b9: <unknown JavaScript object type "ExecutableAccessorInf
-o">,
+    "execArgv": 8090f1b9: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "env": 8090f1b9: 0,
     "pid": 8090f1b9: "title",
     "features": 8090f1b9: 2147483647,
@@ -1092,10 +1082,8 @@ property kind: "properties" array
     "/home": 8e080735: "/home",
     "/home/dap": 8e080735: "/home/dap",
     "/home/dap/node-testing": 8e080735: "/home/dap/node-testing",
-    "/home/dap/node-testing/test-programs": 8e080735: "/home/dap/node-testing/te
-st-programs",
-    "/home/dap/node-testing/test-programs/explicit-abort.js": 8e080735: "/home/d
-ap/node-testing/test-programs/explicit-abort.js",
+    "/home/dap/node-testing/test-programs": 8e080735: "/home/dap/node-testing/test-programs",
+    "/home/dap/node-testing/test-programs/explicit-abort.js": 8e080735: "/home/dap/node-testing/test-programs/explicit-abort.js",
 }
 property kind: "properties" array 
 90b09f89: {
@@ -1103,8 +1091,7 @@ property kind: "properties" array
     "/home/dap": 90b09f89: 0,
     "/home/dap/node-testing": 90b09f89: "/home",
     "/home/dap/node-testing/test-programs": 90b09f89: 513,
-    "/home/dap/node-testing/test-programs/explicit-abort.js": 90b09f89: 21474836
-47,
+    "/home/dap/node-testing/test-programs/explicit-abort.js": 90b09f89: 2147483647,
 }
 property kind: "properties" array 
 8e083931: {
@@ -1122,8 +1109,7 @@ property kind: "properties" array
     "arch": 80914dc1: 54,
     "platform": 80914dc1: 4675,
     "argv": 80914dc1: 2147483647,
-    "execArgv": 80914dc1: <unknown JavaScript object type "ExecutableAccessorInf
-o">,
+    "execArgv": 80914dc1: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "env": 80914dc1: 0,
     "pid": 80914dc1: "title",
     "features": 80914dc1: 2147483647,
@@ -1226,8 +1212,7 @@ a2340869: {
 }
 property kind: in-object 
 8e08a5dd: {
-    "filename": 8e08a5dd: "/home/dap/node-testing/test-programs/explicit-abort.j
-s",
+    "filename": 8e08a5dd: "/home/dap/node-testing/test-programs/explicit-abort.js",
 }
 property kind: in-object 
 8e07a4ad: {
@@ -1319,16 +1304,11 @@ a2376a85: {
 }
 property kind: in-object 
 a2376a65: {
-    "collator": a2376a65: function <anonymous> (as $Object.defineProperty.value.
-bf),
-    "numberformat": a2376a65: function <anonymous> (as $Object.defineProperty.va
-lue.bs),
-    "dateformatall": a2376a65: function <anonymous> (as $Object.defineProperty.v
-alue.bs),
-    "dateformatdate": a2376a65: function <anonymous> (as $Object.defineProperty.
-value.bs),
-    "dateformattime": a2376a65: function <anonymous> (as $Object.defineProperty.
-value.bs),
+    "collator": a2376a65: function <anonymous> (as $Object.defineProperty.value.bf),
+    "numberformat": a2376a65: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformatall": a2376a65: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformatdate": a2376a65: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformattime": a2376a65: function <anonymous> (as $Object.defineProperty.value.bs),
 }
 property kind: in-object 
 a236d0fd: {
@@ -1590,8 +1570,7 @@ adc10fb5: {
 }
 property kind: in-object 
 a2376329: {
-    "constructor": a2376329: function <anonymous> (as $Object.defineProperty.val
-ue.bf),
+    "constructor": a2376329: function <anonymous> (as $Object.defineProperty.value.bf),
 }
 property kind: "properties" array 
 a2375ef9: {
@@ -1955,8 +1934,7 @@ a236b3e5: [
     8e03e875: "                 'gcc_version': 47,",
     8e03e875: "                 'host_arch': 'ia32',",
     8e03e875: "                 'icu_data_file': 'icudt54l.dat',",
-    8e03e875: "                 'icu_data_in': '../../deps/icu/source/data/in/ic
-udt54l.dat',",
+    8e03e875: "                 'icu_data_in': '../../deps/icu/source/data/in/icudt54l.dat',",
     8e03e875: "                 'icu_endianness': 'l',",
     8e03e875: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',",
     8e03e875: "                 'icu_locales': 'en,root',",
@@ -2013,18 +1991,15 @@ a2377f29: {
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_incoming": a2377f29: "// Copyright Joyent, Inc. and other Node contri
-butors.
+    "_http_incoming": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "readline": a2377f29: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "readline": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_duplex": a2377f29: "// Copyright Joyent, Inc. and other Node contri
-butors.
+    "_stream_duplex": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2048,8 +2023,7 @@ butors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_debugger": a2377f29: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "_debugger": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2057,18 +2031,15 @@ s.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_common": a2377f29: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "_tls_common": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_linklist": a2377f29: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "_linklist": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "querystring": a2377f29: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "querystring": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2080,13 +2051,11 @@ ors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "string_decoder": a2377f29: "// Copyright Joyent, Inc. and other Node contri
-butors.
+    "string_decoder": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_passthrough": a2377f29: "// Copyright Joyent, Inc. and other Node c
-ontributors.
+    "_stream_passthrough": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2098,18 +2067,15 @@ ontributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_readable": a2377f29: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_stream_readable": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "constants": a2377f29: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "constants": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_client": a2377f29: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "_http_client": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2134,8 +2100,7 @@ tors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_common": a2377f29: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "_http_common": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2153,13 +2118,11 @@ var util = require('util');
 var Buffer = require('buffer').Buffer;
 
 var Transform = require('s[...]",
-    "_http_server": a2377f29: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "_http_server": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "freelist": a2377f29: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "freelist": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2167,8 +2130,7 @@ tors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_transform": a2377f29: "// Copyright Joyent, Inc. and other Node con
-tributors.
+    "_stream_transform": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2180,8 +2142,7 @@ tributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_legacy": a2377f29: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "_tls_legacy": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2193,23 +2154,19 @@ ors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_agent": a2377f29: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "_http_agent": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_wrap": a2377f29: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "_tls_wrap": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // // Emit `beforeExit` if the loop became alive either after emitting
 // event, or after runn[...]",
-    "_http_outgoing": a2377f29: "// Copyright Joyent, Inc. and other Node contri
-butors.
+    "_http_outgoing": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "child_process": a2377f29: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "child_process": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2218,8 +2175,7 @@ utors.
 // THIS IS NOT TESTED NOR LIKELY TO WORK OUTSIDE V8!
 //
 // Originally from narwhal.js (http://narwh[...]",
-    "_stream_writable": a2377f29: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_stream_writable": a2377f29: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2504,17 +2460,13 @@ a23470f9: {
     "getuid": a23470f9: function getuid,
     "uptime": a23470f9: function uptime,
     "stdout": a23470f9: <unknown JavaScript object type "AccessorPair">,
-    "addListener": a23470f9: function <anonymous> (as process.on.process.addList
-ener),
+    "addListener": a23470f9: function <anonymous> (as process.on.process.addListener),
     "chdir": a23470f9: function chdir,
     "openStdin": a23470f9: function <anonymous> (as process.openStdin),
-    "removeListener": a23470f9: function <anonymous> (as process.removeListener)
-,
-    "title": a23470f9: <unknown JavaScript object type "ExecutableAccessorInfo">
-,
+    "removeListener": a23470f9: function <anonymous> (as process.removeListener),
+    "title": a23470f9: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "features": a23470f9: [...],
-    "debugPort": a23470f9: <unknown JavaScript object type "ExecutableAccessorIn
-fo">,
+    "debugPort": a23470f9: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "env": a23470f9: [...],
     "setgroups": a23470f9: function setgroups,
     "binding": a23470f9: function binding,
@@ -2533,8 +2485,7 @@ fo">,
     "umask": a23470f9: function umask,
     "_tickDomainCallback": a23470f9: function _tickDomainCallback,
     "getgid": a23470f9: function getgid,
-    "execPath": a23470f9: "/home/dap/node-testing/node-v0.12.2-sunos-x86/bin/nod
-e",
+    "execPath": a23470f9: "/home/dap/node-testing/node-v0.12.2-sunos-x86/bin/node",
     "moduleLoadList": a23470f9: [...],
     "reallyExit": a23470f9: function reallyExit,
     "execArgv": a23470f9: [...],
@@ -2553,15 +2504,13 @@ e",
     "_debugEnd": a23470f9: function _debugEnd,
     "_stopProfilerIdleNotifier": a23470f9: function _stopProfilerIdleNotifier,
     "version": a23470f9: "v0.12.2",
-    "_needImmediateCallback": a23470f9: <unknown JavaScript object type "Executa
-bleAccessorInfo">,
+    "_needImmediateCallback": a23470f9: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "cwd": a23470f9: function cwd,
     "_kill": a23470f9: function _kill,
     "_startProfilerIdleNotifier": a23470f9: function _startProfilerIdleNotifier,
     "_maxListeners": a23470f9: undefined,
     "_tickCallback": a23470f9: function _tickCallback,
-    "_fatalException": a23470f9: function <anonymous> (as process._fatalExceptio
-n),
+    "_fatalException": a23470f9: function <anonymous> (as process._fatalException),
     "initgroups": a23470f9: function initgroups,
     "argv": a23470f9: [...],
 }
@@ -2738,8 +2687,7 @@ property kind: in-object
     8e03ecb1: "                 'gcc_version': 47,",
     8e03ecb1: "                 'host_arch': 'ia32',",
     8e03ecb1: "                 'icu_data_file': 'icudt54l.dat',",
-    8e03ecb1: "                 'icu_data_in': '../../deps/icu/source/data/in/ic
-udt54l.dat',",
+    8e03ecb1: "                 'icu_data_in': '../../deps/icu/source/data/in/icudt54l.dat',",
     8e03ecb1: "                 'icu_endianness': 'l',",
     8e03ecb1: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',",
     8e03ecb1: "                 'icu_locales': 'en,root',",
@@ -2785,8 +2733,7 @@ udt54l.dat',",
     8e03eda5: "                 'gcc_version': 47,",
     8e03eda5: "                 'host_arch': 'ia32',",
     8e03eda5: "                 'icu_data_file': 'icudt54l.dat',",
-    8e03eda5: "                 'icu_data_in': '../../deps/icu/source/data/in/ic
-udt54l.dat',",
+    8e03eda5: "                 'icu_data_in': '../../deps/icu/source/data/in/icudt54l.dat',",
     8e03eda5: "                 'icu_endianness': 'l',",
     8e03eda5: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',",
     8e03eda5: "                 'icu_locales': 'en,root',",
@@ -3823,8 +3770,7 @@ a2375561: [
     a2375561: "%0",
 ]
 a2375521: [
-    a2375521: "Invalid property.  A property cannot both have accessors and be w
-ritable or have a value, ",
+    a2375521: "Invalid property.  A property cannot both have accessors and be writable or have a value, ",
     a2375521: "%0",
 ]
 a2375511: [
@@ -3909,8 +3855,7 @@ a2325809: [
     a2325809: "%0",
 ]
 a23257f9: [
-    a23257f9: "Invalid property.  A property cannot both have accessors and be w
-ritable or have a value, ",
+    a23257f9: "Invalid property.  A property cannot both have accessors and be writable or have a value, ",
     a23257f9: "%0",
 ]
 a23257e9: [
@@ -4362,16 +4307,14 @@ property kind: dictionary
 adc1bb25: [ adc1bb25: "" ]
 adc1b62d: [ adc1b62d: 0 ]
 a2375c61: [ a2375c61: "%0" ]
-a2375c41: [ a2375c41: "Object.observe cannot deliver to a frozen function object
-" ]
+a2375c41: [ a2375c41: "Object.observe cannot deliver to a frozen function object" ]
 a2375c31: [ a2375c31: "Cannot convert object to primitive value" ]
 a2375c11: [ a2375c11: "Unexpected end of input" ]
 a2375c01: [ a2375c01: "Unexpected eval or arguments in strict mode" ]
 a2375bf1: [ a2375bf1: "Error loading debugger" ]
 a2375bd1: [ a2375bd1: "Illegal access" ]
 a2375bc1: [ a2375bc1: "Invalid changeRecord with non-string 'type' property" ]
-a2375bb1: [ a2375bb1: "Duplicate data property in object literal not allowed in 
-strict mode" ]
+a2375bb1: [ a2375bb1: "Duplicate data property in object literal not allowed in strict mode" ]
 a2375ba1: [ a2375ba1: "Invalid array length" ]
 a2375b91: [ a2375b91: "Octal literals are not allowed in strict mode." ]
 a2375b81: [ a2375b81: "Invalid data view length" ]
@@ -4381,8 +4324,7 @@ a2375b31: [ a2375b31: "Cannot convert a Symbol value to a string" ]
 a2375b21: [ a2375b21: "Cannot convert a Symbol value to a number" ]
 a2375b01: [ a2375b01: "Illegal invocation" ]
 a2375af1: [ a2375af1: "Unexpected identifier" ]
-a2375ab1: [ a2375ab1: "Too many arguments in function call (only 65535 allowed)"
- ]
+a2375ab1: [ a2375ab1: "Too many arguments in function call (only 65535 allowed)" ]
 a2375a91: [ a2375a91: "More than one default clause in switch statement" ]
 a2375a81: [ a2375a81: "Unexpected strict mode reserved word" ]
 a2375a71: [ a2375a71: "Generator is already running" ]
@@ -4395,46 +4337,35 @@ a23759d1: [ a23759d1: "Cannot add/remove sealed array elements" ]
 a23759c1: [ a23759c1: "Invalid string length" ]
 a23759a1: [ a23759a1: "Malformed arrow function parameter list" ]
 a2375981: [ a2375981: "Invalid time value" ]
-a2375971: [ a2375971: "Strict mode function may not have duplicate parameter nam
-es" ]
+a2375971: [ a2375971: "Strict mode function may not have duplicate parameter names" ]
 a2375951: [ a2375951: "Unexpected number" ]
-a2375941: [ a2375941: "Function.prototype.apply: Arguments list has wrong type" 
-]
+a2375941: [ a2375941: "Function.prototype.apply: Arguments list has wrong type" ]
 a2375931: [ a2375931: "this is not a Date object." ]
-a2375921: [ a2375921: "First argument to DataView constructor must be an ArrayBu
-ffer" ]
+a2375921: [ a2375921: "First argument to DataView constructor must be an ArrayBuffer" ]
 a2375911: [ a2375911: "Source is too large" ]
 a2375901: [ a2375901: "Illegal access to a strict mode caller function." ]
 a23758f1: [ a23758f1: "Converting circular structure to JSON" ]
 a23758b1: [ a23758b1: "Cyclic __proto__ value" ]
 a2375891: [ a2375891: "Reduce of empty array with no initial value" ]
-a2375871: [ a2375871: "Cannot supply flags when constructing one RegExp from ano
-ther" ]
+a2375871: [ a2375871: "Cannot supply flags when constructing one RegExp from another" ]
 a2375861: [ a2375861: "Function arg string contains parenthesis" ]
 a2375851: [ a2375851: "Single function literal required" ]
 a2375841: [ a2375841: "Invalid left-hand side expression in prefix operation" ]
 a2375831: [ a2375831: "Illegal continue statement" ]
 a2375811: [ a2375811: "Generator has already finished" ]
 a23757f1: [ a23757f1: "Start offset is outside the bounds of the buffer" ]
-a23757e1: [ a23757e1: "Object literal may not have multiple get/set accessors wi
-th the same name" ]
-a23757d1: [ a23757d1: "Cannot convert a Symbol wrapper object to a primitive val
-ue" ]
-a23757c1: [ a23757c1: "'caller' and 'arguments' properties may not be accessed o
-n generator functions." ]
+a23757e1: [ a23757e1: "Object literal may not have multiple get/set accessors with the same name" ]
+a23757d1: [ a23757d1: "Cannot convert a Symbol wrapper object to a primitive value" ]
+a23757c1: [ a23757c1: "'caller' and 'arguments' properties may not be accessed on generator functions." ]
 a23757b1: [ a23757b1: "Unexpected string" ]
 a23757a1: [ a23757a1: "Invalid left-hand side in for-loop" ]
 a2375781: [ a2375781: "Cannot convert undefined or null to object" ]
-a2375771: [ a2375771: "Cannot prevent extension of an object with external array
- elements" ]
+a2375771: [ a2375771: "Cannot prevent extension of an object with external array elements" ]
 a2375761: [ a2375761: "Invalid non-string changeType" ]
-a2375741: [ a2375741: "Object literal may not have data and accessor property wi
-th the same name" ]
+a2375741: [ a2375741: "Object literal may not have data and accessor property with the same name" ]
 a2375731: [ a2375731: "Array.getIndexOf: Argument undefined" ]
-a2375711: [ a2375711: "Cannot redefine a property of an object with external arr
-ay elements" ]
-a2375701: [ a2375701: "Illegal let declaration in unprotected statement context.
-" ]
+a2375711: [ a2375711: "Cannot redefine a property of an object with external array elements" ]
+a2375701: [ a2375701: "Illegal let declaration in unprotected statement context." ]
 a23756e1: [ a23756e1: "builtin %IS_VAR: not a variable" ]
 a23756c1: [ a23756c1: "Illegal break statement" ]
 a2375691: [ a2375691: "Unexpected reserved word" ]
@@ -4445,63 +4376,45 @@ a23755d1: [ a23755d1: "Cannot perform non-function" ]
 a23755b1: [ a23755b1: "Maximum call stack size exceeded" ]
 a2375591: [ a2375591: "Use of const in strict mode." ]
 a2375581: [ a2375581: "notify called on non-notifier object" ]
-a2375571: [ a2375571: "In strict mode code, functions can only be declared at to
-p level or immediately within another function." ]
+a2375571: [ a2375571: "In strict mode code, functions can only be declared at top level or immediately within another function." ]
 a2375551: [ a2375551: "Invalid typed array length" ]
 a2375501: [ a2375501: "Object.observe accept must be an array of strings." ]
 a23754c1: [ a23754c1: "Start offset is too large:" ]
 a23754b1: [ a23754b1: "Illegal return statement" ]
 a23754a1: [ a23754a1: "Delete of an unqualified identifier in strict mode." ]
 a2375451: [ a2375451: "Strict mode code may not include a with statement" ]
-a2375431: [ a2375431: "Illegal const declaration in unprotected statement contex
-t." ]
-a2375411: [ a2375411: "'caller', 'callee', and 'arguments' properties may not be
- accessed on strict mode functions or the arguments objects for calls to them" ]
+a2375431: [ a2375431: "Illegal const declaration in unprotected statement context." ]
+a2375411: [ a2375411: "'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them" ]
 a23753d1: [ a23753d1: "Missing catch or finally after try" ]
 a23753c1: [ a23753c1: "Invalid left-hand side in assignment" ]
 a2375361: [ a2375361: "Offset is outside the bounds of the DataView" ]
 a2375351: [ a2375351: "Invalid regular expression: missing /" ]
 a2375311: [ a2375311: "Illegal newline after throw" ]
-a2375301: [ a2375301: "Too many parameters in function definition (only 65535 al
-lowed)" ]
+a2375301: [ a2375301: "Too many parameters in function definition (only 65535 allowed)" ]
 a23752e1: [ a23752e1: "Invalid value used in weak set" ]
 a2325e99: [ a2325e99: "Cannot convert a Symbol value to a number" ]
-a2325e89: [ a2325e89: "Cannot convert a Symbol wrapper object to a primitive val
-ue" ]
+a2325e89: [ a2325e89: "Cannot convert a Symbol wrapper object to a primitive value" ]
 a2325e79: [ a2325e79: "Cannot convert a Symbol value to a string" ]
 a2325e69: [ a2325e69: "Assignment to constant variable." ]
-a2325e59: [ a2325e59: "Cannot redefine a property of an object with external arr
-ay elements" ]
-a2325e49: [ a2325e49: "Cannot prevent extension of an object with external array
- elements" ]
-a2325e39: [ a2325e39: "Illegal const declaration in unprotected statement contex
-t." ]
-a2325e29: [ a2325e29: "Illegal let declaration in unprotected statement context.
-" ]
-a2325e19: [ a2325e19: "'caller' and 'arguments' properties may not be accessed o
-n generator functions." ]
+a2325e59: [ a2325e59: "Cannot redefine a property of an object with external array elements" ]
+a2325e49: [ a2325e49: "Cannot prevent extension of an object with external array elements" ]
+a2325e39: [ a2325e39: "Illegal const declaration in unprotected statement context." ]
+a2325e29: [ a2325e29: "Illegal let declaration in unprotected statement context." ]
+a2325e19: [ a2325e19: "'caller' and 'arguments' properties may not be accessed on generator functions." ]
 a2325e09: [ a2325e09: "Malformed arrow function parameter list" ]
 a2325df9: [ a2325df9: "Illegal access to a strict mode caller function." ]
-a2325de9: [ a2325de9: "'caller', 'callee', and 'arguments' properties may not be
- accessed on strict mode functions or the arguments objects for calls to them" ]
-a2325db9: [ a2325db9: "In strict mode code, functions can only be declared at to
-p level or immediately within another function." ]
+a2325de9: [ a2325de9: "'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them" ]
+a2325db9: [ a2325db9: "In strict mode code, functions can only be declared at top level or immediately within another function." ]
 a2325da9: [ a2325da9: "Use of const in strict mode." ]
 a2325d89: [ a2325d89: "Delete of an unqualified identifier in strict mode." ]
-a2325d79: [ a2325d79: "Object literal may not have multiple get/set accessors wi
-th the same name" ]
-a2325d69: [ a2325d69: "Object literal may not have data and accessor property wi
-th the same name" ]
-a2325d59: [ a2325d59: "Duplicate data property in object literal not allowed in 
-strict mode" ]
+a2325d79: [ a2325d79: "Object literal may not have multiple get/set accessors with the same name" ]
+a2325d69: [ a2325d69: "Object literal may not have data and accessor property with the same name" ]
+a2325d59: [ a2325d59: "Duplicate data property in object literal not allowed in strict mode" ]
 a2325d49: [ a2325d49: "Octal literals are not allowed in strict mode." ]
-a2325d39: [ a2325d39: "Strict mode function may not have duplicate parameter nam
-es" ]
+a2325d39: [ a2325d39: "Strict mode function may not have duplicate parameter names" ]
 a2325d29: [ a2325d29: "Too many variables declared (only 4194303 allowed)" ]
-a2325d19: [ a2325d19: "Too many parameters in function definition (only 65535 al
-lowed)" ]
-a2325d09: [ a2325d09: "Too many arguments in function call (only 65535 allowed)"
- ]
+a2325d19: [ a2325d19: "Too many parameters in function definition (only 65535 allowed)" ]
+a2325d09: [ a2325d09: "Too many arguments in function call (only 65535 allowed)" ]
 a2325cf9: [ a2325cf9: "Unexpected eval or arguments in strict mode" ]
 a2325ce9: [ a2325ce9: "Strict mode code may not include a with statement" ]
 a2325cd9: [ a2325cd9: "Illegal access" ]
@@ -4533,8 +4446,7 @@ a2325ab9: [ a2325ab9: "Invalid array buffer length" ]
 a2325aa9: [ a2325aa9: "Invalid array length" ]
 a2325a49: [ a2325a49: "Cannot add/remove sealed array elements" ]
 a2325a39: [ a2325a39: "Cannot modify frozen array elements" ]
-a23259d9: [ a23259d9: "First argument to DataView constructor must be an ArrayBu
-ffer" ]
+a23259d9: [ a23259d9: "First argument to DataView constructor must be an ArrayBuffer" ]
 a23259c9: [ a23259c9: "invalid_argument" ]
 a23259b9: [ a23259b9: "this is not a typed array." ]
 a2325999: [ a2325999: "notify called on non-notifier object" ]
@@ -4542,22 +4454,19 @@ a2325989: [ a2325989: "Cannot perform non-function" ]
 a2325979: [ a2325979: "Invalid non-string changeType" ]
 a2325969: [ a2325969: "Invalid changeRecord with non-string 'type' property" ]
 a2325959: [ a2325959: "Object.observe accept must be an array of strings." ]
-a2325949: [ a2325949: "Object.observe cannot deliver to a frozen function object
-" ]
+a2325949: [ a2325949: "Object.observe cannot deliver to a frozen function object" ]
 a2325919: [ a2325919: "this is not a Date object." ]
 a2325909: [ a2325909: "Invalid value used in weak set" ]
 a23258f9: [ a23258f9: "Invalid value used as weak map key" ]
 a23257c9: [ a23257c9: "Reduce of empty array with no initial value" ]
 a23257b9: [ a23257b9: "Cannot convert undefined or null to object" ]
-a2325779: [ a2325779: "Function.prototype.apply: Arguments list has wrong type" 
-]
+a2325779: [ a2325779: "Function.prototype.apply: Arguments list has wrong type" ]
 a2325749: [ a2325749: "Illegal invocation" ]
 a23256e9: [ a23256e9: "Cannot convert object to primitive value" ]
 a2325679: [ a2325679: "Missing catch or finally after try" ]
 a2325639: [ a2325639: "Illegal newline after throw" ]
 a2325629: [ a2325629: "More than one default clause in switch statement" ]
-a2325609: [ a2325609: "Cannot supply flags when constructing one RegExp from ano
-ther" ]
+a2325609: [ a2325609: "Cannot supply flags when constructing one RegExp from another" ]
 a23255f9: [ a23255f9: "Invalid regular expression: missing /" ]
 a23255d9: [ a23255d9: "Unexpected end of input" ]
 a23255c9: [ a23255c9: "Unexpected strict mode reserved word" ]

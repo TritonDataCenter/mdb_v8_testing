@@ -1,6 +1,3 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 10f8ad6cdd21: {}
 1d4ac4109e41: {}
 10f8ad617141: {}
@@ -390,8 +387,7 @@ e7be5084b39: {
 }
 property kind: "properties" array 
 e7be5084cb9: {
-    "{"request":"/home/dap/node-testing/test-programs/gcore-loop.js","paths":[""
-]}": e7be5084cb9: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    "{"request":"/home/dap/node-testing/test-programs/gcore-loop.js","paths":[""]}": e7be5084cb9: "/home/dap/node-testing/test-programs/gcore-loop.js",
 }
 property kind: "properties" array 
 10f8ad6df9b9: {
@@ -536,8 +532,7 @@ property kind: in-object
 }
 property kind: in-object 
 e7be5098429: {
-    "filename": e7be5098429: "/home/dap/node-testing/test-programs/gcore-loop.js
-",
+    "filename": e7be5098429: "/home/dap/node-testing/test-programs/gcore-loop.js",
 }
 property kind: in-object 
 1d4ac4116879: {
@@ -553,8 +548,7 @@ property kind: "properties" array
 }
 property kind: in-object 
 e7be50887e1: {
-    "request": e7be50887e1: "/home/dap/node-testing/test-programs/gcore-loop.js"
-,
+    "request": e7be50887e1: "/home/dap/node-testing/test-programs/gcore-loop.js",
     "paths": e7be50887e1: [...],
 }
 property kind: in-object 
@@ -708,8 +702,7 @@ e7be5092159: {
     "id": e7be5092159: ".",
     "exports": e7be5092159: [...],
     "parent": e7be5092159: null,
-    "filename": e7be5092159: "/home/dap/node-testing/test-programs/gcore-loop.js
-",
+    "filename": e7be5092159: "/home/dap/node-testing/test-programs/gcore-loop.js",
     "loaded": e7be5092159: false,
     "children": e7be5092159: [...],
     "paths": e7be5092159: [...],
@@ -755,8 +748,7 @@ property kind: "properties" array
 }
 property kind: "properties" array 
 10f8ad6ce339: {
-    "constructor": 10f8ad6ce339: function <anonymous> (as $Object.defineProperty
-.value.bs),
+    "constructor": 10f8ad6ce339: function <anonymous> (as $Object.defineProperty.value.bs),
     "resolvedOptions": 10f8ad6ce339: function resolvedOptions,
 }
 property kind: "properties" array 
@@ -771,8 +763,7 @@ property kind: "properties" array
 }
 property kind: "properties" array 
 10f8ad6ce3b9: {
-    "constructor": 10f8ad6ce3b9: function <anonymous> (as $Object.defineProperty
-.value.bN),
+    "constructor": 10f8ad6ce3b9: function <anonymous> (as $Object.defineProperty.value.bN),
     "resolvedOptions": 10f8ad6ce3b9: function resolvedOptions,
 }
 property kind: "properties" array 
@@ -835,8 +826,7 @@ property kind: "properties" array
     "moduleLoadList": 1d4ac4110cc9: 0,
     "versions": 1d4ac4110cc9: "title",
     "arch": 1d4ac4110cc9: 2627,
-    "platform": 1d4ac4110cc9: <unknown JavaScript object type "ExecutableAccesso
-rInfo">,
+    "platform": 1d4ac4110cc9: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "argv": 1d4ac4110cc9: "version",
     "execArgv": 1d4ac4110cc9: 3593,
     "env": 1d4ac4110cc9: -1,
@@ -869,8 +859,7 @@ property kind: "properties" array
     "argv": 1d4ac4110d59: 13,
     "execArgv": 1d4ac4110d59: "title",
     "env": 1d4ac4110d59: "version",
-    "pid": 1d4ac4110d59: <unknown JavaScript object type "ExecutableAccessorInfo
-">,
+    "pid": 1d4ac4110d59: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "features": 1d4ac4110d59: 1052233,
     "execPath": 1d4ac4110d59: -1,
 }
@@ -1141,10 +1130,8 @@ e7be5085469: {
     "/home": e7be5085469: "/home",
     "/home/dap": e7be5085469: "/home/dap",
     "/home/dap/node-testing": e7be5085469: "/home/dap/node-testing",
-    "/home/dap/node-testing/test-programs": e7be5085469: "/home/dap/node-testing
-/test-programs",
-    "/home/dap/node-testing/test-programs/gcore-loop.js": e7be5085469: "/home/da
-p/node-testing/test-programs/gcore-loop.js",
+    "/home/dap/node-testing/test-programs": e7be5085469: "/home/dap/node-testing/test-programs",
+    "/home/dap/node-testing/test-programs/gcore-loop.js": e7be5085469: "/home/dap/node-testing/test-programs/gcore-loop.js",
 }
 property kind: "properties" array 
 1d4ac411b301: {
@@ -1156,8 +1143,7 @@ property kind: "properties" array
     "argv": 1d4ac411b301: 54,
     "execArgv": 1d4ac411b301: "title",
     "env": 1d4ac411b301: 1063497,
-    "pid": 1d4ac411b301: <unknown JavaScript object type "ExecutableAccessorInfo
-">,
+    "pid": 1d4ac411b301: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "features": 1d4ac411b301: -1,
     "execPath": 1d4ac411b301: "version",
     "_events": 1d4ac411b301: "versions",
@@ -1286,16 +1272,11 @@ property kind: in-object
 }
 property kind: in-object 
 10f8ad6cf171: {
-    "collator": 10f8ad6cf171: function <anonymous> (as $Object.defineProperty.va
-lue.bf),
-    "numberformat": 10f8ad6cf171: function <anonymous> (as $Object.definePropert
-y.value.bs),
-    "dateformatall": 10f8ad6cf171: function <anonymous> (as $Object.defineProper
-ty.value.bs),
-    "dateformatdate": 10f8ad6cf171: function <anonymous> (as $Object.definePrope
-rty.value.bs),
-    "dateformattime": 10f8ad6cf171: function <anonymous> (as $Object.definePrope
-rty.value.bs),
+    "collator": 10f8ad6cf171: function <anonymous> (as $Object.defineProperty.value.bf),
+    "numberformat": 10f8ad6cf171: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformatall": 10f8ad6cf171: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformatdate": 10f8ad6cf171: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformattime": 10f8ad6cf171: function <anonymous> (as $Object.defineProperty.value.bs),
 }
 property kind: in-object 
 10f8ad6bbc51: {
@@ -1377,8 +1358,7 @@ property kind: in-object
     "fill": 10f8ad6aecc1: 0,
     "find": 10f8ad6aecc1: "length",
     "findIndex": 10f8ad6aecc1: 627,
-    "keys": 10f8ad6aecc1: <unknown JavaScript object type "ExecutableAccessorInf
-o">,
+    "keys": 10f8ad6aecc1: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "values": 10f8ad6aecc1: "constructor",
 }
 property kind: in-object 
@@ -1639,8 +1619,7 @@ property kind: "properties" array
 }
 property kind: in-object 
 10f8ad6ce2f9: {
-    "constructor": 10f8ad6ce2f9: function <anonymous> (as $Object.defineProperty
-.value.bf),
+    "constructor": 10f8ad6ce2f9: function <anonymous> (as $Object.defineProperty.value.bf),
 }
 property kind: "properties" array 
 10f8ad6cd989: {
@@ -2009,13 +1988,11 @@ e7be40a7901: [
     e7be40a7901: "",
 ]
 10f8ad672461: {
-    "path": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "path": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_writable": 10f8ad672461: "// Copyright Joyent, Inc. and other Node 
-contributors.
+    "_stream_writable": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2024,8 +2001,7 @@ contributors.
 
         /** Detect free variables */
         var freeExports = typeof exports == 'object' && exp[...]",
-    "_tls_legacy": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "_tls_legacy": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2033,18 +2009,15 @@ ibutors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "events": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "events": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "freelist": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "freelist": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "querystring": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "querystring": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2054,8 +2027,7 @@ var util = require('util');
 var Buffer = require('buffer').Buffer;
 
 var Transform = require('s[...]",
-    "dgram": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "dgram": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2064,58 +2036,47 @@ s.
 // THIS IS NOT TESTED NOR LIKELY TO WORK OUTSIDE V8!
 //
 // Originally from narwhal.js (http://narwh[...]",
-    "_http_client": 10f8ad672461: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_http_client": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "repl": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "repl": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_server": 10f8ad672461: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_http_server": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "readline": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "readline": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "console": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "console": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "http": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "http": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "zlib": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "zlib": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "child_process": 10f8ad672461: "// Copyright Joyent, Inc. and other Node con
-tributors.
+    "child_process": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "domain": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "domain": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "buffer": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "buffer": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "stream": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "stream": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2123,48 +2084,39 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "smalloc": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "smalloc": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_debugger": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_debugger": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_passthrough": 10f8ad672461: "// Copyright Joyent, Inc. and other No
-de contributors.
+    "_stream_passthrough": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_duplex": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "_stream_duplex": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "timers": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "timers": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_readable": 10f8ad672461: "// Copyright Joyent, Inc. and other Node 
-contributors.
+    "_stream_readable": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "cluster": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "cluster": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_linklist": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_linklist": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "crypto": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "crypto": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2172,18 +2124,15 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "module": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "module": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_incoming": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "_http_incoming": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_common": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "_tls_common": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2191,8 +2140,7 @@ ibutors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "util": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "util": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2204,13 +2152,11 @@ ibutors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "https": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "https": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_transform": 10f8ad672461: "// Copyright Joyent, Inc. and other Node
- contributors.
+    "_stream_transform": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2218,18 +2164,15 @@ s.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_agent": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "_http_agent": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "string_decoder": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "string_decoder": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "constants": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "constants": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2237,13 +2180,11 @@ utors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_outgoing": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "_http_outgoing": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_common": 10f8ad672461: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_http_common": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2251,8 +2192,7 @@ ributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_wrap": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_tls_wrap": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // // Emit `beforeExit` if the loop became alive either after emitting
 // event, or after runn[...]",
@@ -2436,17 +2376,13 @@ e7be50100e1: {
 }
 property kind: in-object 
 10f8ad66fa81: {
-    "on": 10f8ad66fa81: function <anonymous> (as process.on.process.addListener)
-,
+    "on": 10f8ad66fa81: function <anonymous> (as process.on.process.addListener),
     "_linkedBinding": 10f8ad66fa81: function _linkedBinding,
     "version": 10f8ad66fa81: "v0.12.2",
     "pid": 10f8ad66fa81: 17672,
-    "_fatalException": 10f8ad66fa81: function <anonymous> (as process._fatalExce
-ption),
-    "title": 10f8ad66fa81: <unknown JavaScript object type "ExecutableAccessorIn
-fo">,
-    "removeListener": 10f8ad66fa81: function <anonymous> (as process.removeListe
-ner),
+    "_fatalException": 10f8ad66fa81: function <anonymous> (as process._fatalException),
+    "title": 10f8ad66fa81: <unknown JavaScript object type "ExecutableAccessorInfo">,
+    "removeListener": 10f8ad66fa81: function <anonymous> (as process.removeListener),
     "uptime": 10f8ad66fa81: function uptime,
     "versions": 10f8ad66fa81: [...],
     "dlopen": 10f8ad66fa81: function dlopen,
@@ -2455,16 +2391,13 @@ ner),
     "_getActiveHandles": 10f8ad66fa81: function _getActiveHandles,
     "memoryUsage": 10f8ad66fa81: function memoryUsage,
     "argv": 10f8ad66fa81: [...],
-    "_stopProfilerIdleNotifier": 10f8ad66fa81: function _stopProfilerIdleNotifie
-r,
+    "_stopProfilerIdleNotifier": 10f8ad66fa81: function _stopProfilerIdleNotifier,
     "getgid": 10f8ad66fa81: function getgid,
-    "_needImmediateCallback": 10f8ad66fa81: <unknown JavaScript object type "Exe
-cutableAccessorInfo">,
+    "_needImmediateCallback": 10f8ad66fa81: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "getgroups": 10f8ad66fa81: function getgroups,
     "_kill": 10f8ad66fa81: function _kill,
     "hrtime": 10f8ad66fa81: function hrtime,
-    "execPath": 10f8ad66fa81: "/home/dap/node-testing/node-v0.12.2-sunos-x64/bin
-/node",
+    "execPath": 10f8ad66fa81: "/home/dap/node-testing/node-v0.12.2-sunos-x64/bin/node",
     "umask": 10f8ad66fa81: function umask,
     "setgid": 10f8ad66fa81: function setgid,
     "_debugPause": 10f8ad66fa81: function _debugPause,
@@ -2474,8 +2407,7 @@ cutableAccessorInfo">,
     "env": 10f8ad66fa81: [...],
     "openStdin": 10f8ad66fa81: function <anonymous> (as process.openStdin),
     "platform": 10f8ad66fa81: "sunos",
-    "debugPort": 10f8ad66fa81: <unknown JavaScript object type "ExecutableAccess
-orInfo">,
+    "debugPort": 10f8ad66fa81: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "assert": 10f8ad66fa81: function <anonymous> (as process.assert),
     "stdout": 10f8ad66fa81: <unknown JavaScript object type "AccessorPair">,
     "stdin": 10f8ad66fa81: <unknown JavaScript object type "AccessorPair">,
@@ -2502,11 +2434,9 @@ orInfo">,
     "features": 10f8ad66fa81: [...],
     "_rawDebug": 10f8ad66fa81: function <anonymous> (as process._rawDebug),
     "config": 10f8ad66fa81: [...],
-    "_startProfilerIdleNotifier": 10f8ad66fa81: function _startProfilerIdleNotif
-ier,
+    "_startProfilerIdleNotifier": 10f8ad66fa81: function _startProfilerIdleNotifier,
     "_getActiveRequests": 10f8ad66fa81: function _getActiveRequests,
-    "addListener": 10f8ad66fa81: function <anonymous> (as process.on.process.add
-Listener),
+    "addListener": 10f8ad66fa81: function <anonymous> (as process.on.process.addListener),
     "cwd": 10f8ad66fa81: function cwd,
     "_events": 10f8ad66fa81: [...],
 }
@@ -2723,11 +2653,9 @@ e7be502d529: [
     e7be502d529: "                 'gcc_version': 47,",
     e7be502d529: "                 'host_arch': 'ia32',",
     e7be502d529: "                 'icu_data_file': 'icudt54l.dat',",
-    e7be502d529: "                 'icu_data_in': '../../deps/icu/source/data/in
-/icudt54l.dat',",
+    e7be502d529: "                 'icu_data_in': '../../deps/icu/source/data/in/icudt54l.dat',",
     e7be502d529: "                 'icu_endianness': 'l',",
-    e7be502d529: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',"
-,
+    e7be502d529: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',",
     e7be502d529: "                 'icu_locales': 'en,root',",
     e7be502d529: "                 'icu_path': './deps/icu',",
     e7be502d529: "                 'icu_small': 'true',",
@@ -3683,8 +3611,7 @@ e7be5086c19: [
     35af1819c39: 0,
 ]
 10f8ad6d1dc1: [
-    10f8ad6d1dc1: "(function (exports, require, module, __filename, __dirname) {
- ",
+    10f8ad6d1dc1: "(function (exports, require, module, __filename, __dirname) { ",
     10f8ad6d1dc1: "
 });",
 ]
@@ -3721,8 +3648,7 @@ e7be5086c19: [
     10f8ad6ccfd9: " is not defined",
 ]
 10f8ad6ccf99: [
-    10f8ad6ccf99: "Invalid property.  A property cannot both have accessors and 
-be writable or have a value, ",
+    10f8ad6ccf99: "Invalid property.  A property cannot both have accessors and be writable or have a value, ",
     10f8ad6ccf99: "%0",
 ]
 10f8ad6ccb79: [
@@ -3855,8 +3781,7 @@ be writable or have a value, ",
     10f8ad639af1: "%0",
 ]
 10f8ad639ad1: [
-    10f8ad639ad1: "Invalid property.  A property cannot both have accessors and 
-be writable or have a value, ",
+    10f8ad639ad1: "Invalid property.  A property cannot both have accessors and be writable or have a value, ",
     10f8ad639ad1: "%0",
 ]
 10f8ad639ab1: [
@@ -4033,8 +3958,7 @@ e7be505be69: [
     e7be505be69: 39,
 ]
 e7be5051569: [
-    e7be5051569: "(function (exports, require, module, __filename, __dirname) { 
-",
+    e7be5051569: "(function (exports, require, module, __filename, __dirname) { ",
     e7be5051569: "
 });",
 ]
@@ -4302,55 +4226,42 @@ e7be5050911: {
 }
 property kind: dictionary 
 35af1819609: [ 35af1819609: 0 ]
-10f8ad6cd459: [ 10f8ad6cd459: "Function.prototype.apply: Arguments list has wron
-g type" ]
+10f8ad6cd459: [ 10f8ad6cd459: "Function.prototype.apply: Arguments list has wrong type" ]
 10f8ad6cd439: [ 10f8ad6cd439: "Error loading debugger" ]
 10f8ad6cd419: [ 10f8ad6cd419: "Illegal continue statement" ]
-10f8ad6cd3d9: [ 10f8ad6cd3d9: "Cannot supply flags when constructing one RegExp 
-from another" ]
+10f8ad6cd3d9: [ 10f8ad6cd3d9: "Cannot supply flags when constructing one RegExp from another" ]
 10f8ad6cd399: [ 10f8ad6cd399: "Unexpected strict mode reserved word" ]
-10f8ad6cd359: [ 10f8ad6cd359: "Strict mode function may not have duplicate param
-eter names" ]
+10f8ad6cd359: [ 10f8ad6cd359: "Strict mode function may not have duplicate parameter names" ]
 10f8ad6cd339: [ 10f8ad6cd339: "Cyclic __proto__ value" ]
 10f8ad6cd319: [ 10f8ad6cd319: "Illegal access" ]
 10f8ad6cd2b9: [ 10f8ad6cd2b9: "Single function literal required" ]
 10f8ad6cd299: [ 10f8ad6cd299: "Unexpected identifier" ]
 10f8ad6cd279: [ 10f8ad6cd279: "Generator has already finished" ]
-10f8ad6cd239: [ 10f8ad6cd239: "Cannot convert a Symbol wrapper object to a primi
-tive value" ]
+10f8ad6cd239: [ 10f8ad6cd239: "Cannot convert a Symbol wrapper object to a primitive value" ]
 10f8ad6cd1b9: [ 10f8ad6cd1b9: "Invalid data view length" ]
 10f8ad6cd159: [ 10f8ad6cd159: "Unexpected number" ]
 10f8ad6cd0f9: [ 10f8ad6cd0f9: "Invalid count value" ]
-10f8ad6cd099: [ 10f8ad6cd099: "Cannot prevent extension of an object with extern
-al array elements" ]
+10f8ad6cd099: [ 10f8ad6cd099: "Cannot prevent extension of an object with external array elements" ]
 10f8ad6cd079: [ 10f8ad6cd079: "Illegal invocation" ]
 10f8ad6cd059: [ 10f8ad6cd059: "this is not a typed array." ]
-10f8ad6cd039: [ 10f8ad6cd039: "First argument to DataView constructor must be an
- ArrayBuffer" ]
+10f8ad6cd039: [ 10f8ad6cd039: "First argument to DataView constructor must be an ArrayBuffer" ]
 10f8ad6cd019: [ 10f8ad6cd019: "Use of const in strict mode." ]
 10f8ad6ccfb9: [ 10f8ad6ccfb9: "builtin %IS_VAR: not a variable" ]
 10f8ad6ccf59: [ 10f8ad6ccf59: "Invalid string length" ]
-10f8ad6ccf39: [ 10f8ad6ccf39: "Object literal may not have data and accessor pro
-perty with the same name" ]
-10f8ad6cceb9: [ 10f8ad6cceb9: "Duplicate data property in object literal not all
-owed in strict mode" ]
-10f8ad6cce99: [ 10f8ad6cce99: "Invalid left-hand side expression in postfix oper
-ation" ]
-10f8ad6cce79: [ 10f8ad6cce79: "Illegal access to a strict mode caller function."
- ]
+10f8ad6ccf39: [ 10f8ad6ccf39: "Object literal may not have data and accessor property with the same name" ]
+10f8ad6cceb9: [ 10f8ad6cceb9: "Duplicate data property in object literal not allowed in strict mode" ]
+10f8ad6cce99: [ 10f8ad6cce99: "Invalid left-hand side expression in postfix operation" ]
+10f8ad6cce79: [ 10f8ad6cce79: "Illegal access to a strict mode caller function." ]
 10f8ad6cce59: [ 10f8ad6cce59: "Offset is outside the bounds of the DataView" ]
 10f8ad6cce39: [ 10f8ad6cce39: "Cannot convert object to primitive value" ]
-10f8ad6cce19: [ 10f8ad6cce19: "Object literal may not have multiple get/set acce
-ssors with the same name" ]
+10f8ad6cce19: [ 10f8ad6cce19: "Object literal may not have multiple get/set accessors with the same name" ]
 10f8ad6ccd79: [ 10f8ad6ccd79: "Invalid left-hand side in for-loop" ]
-10f8ad6ccd59: [ 10f8ad6ccd59: "Object.observe accept must be an array of strings
-." ]
+10f8ad6ccd59: [ 10f8ad6ccd59: "Object.observe accept must be an array of strings." ]
 10f8ad6ccd39: [ 10f8ad6ccd39: "Reduce of empty array with no initial value" ]
 10f8ad6cccd9: [ 10f8ad6cccd9: "Invalid time value" ]
 10f8ad6cccb9: [ 10f8ad6cccb9: "Start offset is negative" ]
 10f8ad6ccc99: [ 10f8ad6ccc99: "Cannot perform non-function" ]
-10f8ad6ccc79: [ 10f8ad6ccc79: "Cannot redefine a property of an object with exte
-rnal array elements" ]
+10f8ad6ccc79: [ 10f8ad6ccc79: "Cannot redefine a property of an object with external array elements" ]
 10f8ad6ccc39: [ 10f8ad6ccc39: "Generator is already running" ]
 10f8ad6ccbf9: [ 10f8ad6ccbf9: "%0" ]
 10f8ad6ccbd9: [ 10f8ad6ccbd9: "Invalid value used as weak map key" ]
@@ -4358,44 +4269,32 @@ rnal array elements" ]
 10f8ad6ccb59: [ 10f8ad6ccb59: "invalid_argument" ]
 10f8ad6ccb19: [ 10f8ad6ccb19: "Maximum call stack size exceeded" ]
 10f8ad6ccaf9: [ 10f8ad6ccaf9: "Cannot modify frozen array elements" ]
-10f8ad6ccad9: [ 10f8ad6ccad9: "Invalid changeRecord with non-string 'type' prope
-rty" ]
+10f8ad6ccad9: [ 10f8ad6ccad9: "Invalid changeRecord with non-string 'type' property" ]
 10f8ad6cca79: [ 10f8ad6cca79: "Source is too large" ]
-10f8ad6cca59: [ 10f8ad6cca59: "Delete of an unqualified identifier in strict mod
-e." ]
+10f8ad6cca59: [ 10f8ad6cca59: "Delete of an unqualified identifier in strict mode." ]
 10f8ad6cca39: [ 10f8ad6cca39: "Cannot convert a Symbol value to a number" ]
-10f8ad6cca19: [ 10f8ad6cca19: "Too many variables declared (only 4194303 allowed
-)" ]
+10f8ad6cca19: [ 10f8ad6cca19: "Too many variables declared (only 4194303 allowed)" ]
 10f8ad6cc9d9: [ 10f8ad6cc9d9: "Invalid non-string changeType" ]
 10f8ad6cc9b9: [ 10f8ad6cc9b9: "this is not a Date object." ]
-10f8ad6cc959: [ 10f8ad6cc959: "Illegal const declaration in unprotected statemen
-t context." ]
+10f8ad6cc959: [ 10f8ad6cc959: "Illegal const declaration in unprotected statement context." ]
 10f8ad6cc939: [ 10f8ad6cc939: "Function arg string contains parenthesis" ]
 10f8ad6cc8f9: [ 10f8ad6cc8f9: "Illegal break statement" ]
-10f8ad6cc8d9: [ 10f8ad6cc8d9: "Strict mode code may not include a with statement
-" ]
-10f8ad6cc8b9: [ 10f8ad6cc8b9: "Object.observe cannot deliver to a frozen functio
-n object" ]
+10f8ad6cc8d9: [ 10f8ad6cc8d9: "Strict mode code may not include a with statement" ]
+10f8ad6cc8b9: [ 10f8ad6cc8b9: "Object.observe cannot deliver to a frozen function object" ]
 10f8ad6cc859: [ 10f8ad6cc859: "Unexpected string" ]
 10f8ad6cc819: [ 10f8ad6cc819: "Invalid left-hand side in assignment" ]
 10f8ad6cc7d9: [ 10f8ad6cc7d9: "Cannot add/remove sealed array elements" ]
-10f8ad6cc7b9: [ 10f8ad6cc7b9: "Too many arguments in function call (only 65535 a
-llowed)" ]
+10f8ad6cc7b9: [ 10f8ad6cc7b9: "Too many arguments in function call (only 65535 allowed)" ]
 10f8ad6cc799: [ 10f8ad6cc799: "Assignment to constant variable." ]
 10f8ad6cc759: [ 10f8ad6cc759: "notify called on non-notifier object" ]
 10f8ad6cc739: [ 10f8ad6cc739: "Missing catch or finally after try" ]
 10f8ad6cc719: [ 10f8ad6cc719: "Octal literals are not allowed in strict mode." ]
-10f8ad6cc6f9: [ 10f8ad6cc6f9: "Too many parameters in function definition (only 
-65535 allowed)" ]
-10f8ad6cc659: [ 10f8ad6cc659: "Start offset is outside the bounds of the buffer"
- ]
-10f8ad6cc639: [ 10f8ad6cc639: "'caller', 'callee', and 'arguments' properties ma
-y not be accessed on strict mode functions or the arguments objects for calls to
- them" ]
+10f8ad6cc6f9: [ 10f8ad6cc6f9: "Too many parameters in function definition (only 65535 allowed)" ]
+10f8ad6cc659: [ 10f8ad6cc659: "Start offset is outside the bounds of the buffer" ]
+10f8ad6cc639: [ 10f8ad6cc639: "'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them" ]
 10f8ad6cc619: [ 10f8ad6cc619: "Cannot convert a Symbol value to a string" ]
 10f8ad6cc599: [ 10f8ad6cc599: "Invalid regular expression: missing /" ]
-10f8ad6cc579: [ 10f8ad6cc579: "'caller' and 'arguments' properties may not be ac
-cessed on generator functions." ]
+10f8ad6cc579: [ 10f8ad6cc579: "'caller' and 'arguments' properties may not be accessed on generator functions." ]
 10f8ad6cc559: [ 10f8ad6cc559: "Invalid array length" ]
 10f8ad6cc539: [ 10f8ad6cc539: "Unexpected eval or arguments in strict mode" ]
 10f8ad6cc4d9: [ 10f8ad6cc4d9: "Array.getIndexOf: Argument undefined" ]
@@ -4403,64 +4302,41 @@ cessed on generator functions." ]
 10f8ad6cc459: [ 10f8ad6cc459: "Invalid value used in weak set" ]
 10f8ad6cc3d9: [ 10f8ad6cc3d9: "Invalid typed array length" ]
 10f8ad6cc3b9: [ 10f8ad6cc3b9: "Start offset is too large:" ]
-10f8ad6cc2b9: [ 10f8ad6cc2b9: "More than one default clause in switch statement"
- ]
+10f8ad6cc2b9: [ 10f8ad6cc2b9: "More than one default clause in switch statement" ]
 10f8ad6cc299: [ 10f8ad6cc299: "Malformed arrow function parameter list" ]
 10f8ad6cc279: [ 10f8ad6cc279: "Illegal return statement" ]
-10f8ad6cc259: [ 10f8ad6cc259: "Illegal let declaration in unprotected statement 
-context." ]
-10f8ad6cc219: [ 10f8ad6cc219: "Invalid left-hand side expression in prefix opera
-tion" ]
+10f8ad6cc259: [ 10f8ad6cc259: "Illegal let declaration in unprotected statement context." ]
+10f8ad6cc219: [ 10f8ad6cc219: "Invalid left-hand side expression in prefix operation" ]
 10f8ad6cc1d9: [ 10f8ad6cc1d9: "Invalid array buffer length" ]
-10f8ad6cc1b9: [ 10f8ad6cc1b9: "In strict mode code, functions can only be declar
-ed at top level or immediately within another function." ]
+10f8ad6cc1b9: [ 10f8ad6cc1b9: "In strict mode code, functions can only be declared at top level or immediately within another function." ]
 10f8ad6cc199: [ 10f8ad6cc199: "Converting circular structure to JSON" ]
 10f8ad6cc179: [ 10f8ad6cc179: "Cannot convert undefined or null to object" ]
 10f8ad6cc159: [ 10f8ad6cc159: "Unexpected end of input" ]
 10f8ad63a811: [ 10f8ad63a811: "Cannot convert a Symbol value to a number" ]
-10f8ad63a7f1: [ 10f8ad63a7f1: "Cannot convert a Symbol wrapper object to a primi
-tive value" ]
+10f8ad63a7f1: [ 10f8ad63a7f1: "Cannot convert a Symbol wrapper object to a primitive value" ]
 10f8ad63a7d1: [ 10f8ad63a7d1: "Cannot convert a Symbol value to a string" ]
 10f8ad63a7b1: [ 10f8ad63a7b1: "Assignment to constant variable." ]
-10f8ad63a791: [ 10f8ad63a791: "Cannot redefine a property of an object with exte
-rnal array elements" ]
-10f8ad63a771: [ 10f8ad63a771: "Cannot prevent extension of an object with extern
-al array elements" ]
-10f8ad63a751: [ 10f8ad63a751: "Illegal const declaration in unprotected statemen
-t context." ]
-10f8ad63a731: [ 10f8ad63a731: "Illegal let declaration in unprotected statement 
-context." ]
-10f8ad63a711: [ 10f8ad63a711: "'caller' and 'arguments' properties may not be ac
-cessed on generator functions." ]
+10f8ad63a791: [ 10f8ad63a791: "Cannot redefine a property of an object with external array elements" ]
+10f8ad63a771: [ 10f8ad63a771: "Cannot prevent extension of an object with external array elements" ]
+10f8ad63a751: [ 10f8ad63a751: "Illegal const declaration in unprotected statement context." ]
+10f8ad63a731: [ 10f8ad63a731: "Illegal let declaration in unprotected statement context." ]
+10f8ad63a711: [ 10f8ad63a711: "'caller' and 'arguments' properties may not be accessed on generator functions." ]
 10f8ad63a6f1: [ 10f8ad63a6f1: "Malformed arrow function parameter list" ]
-10f8ad63a6d1: [ 10f8ad63a6d1: "Illegal access to a strict mode caller function."
- ]
-10f8ad63a6b1: [ 10f8ad63a6b1: "'caller', 'callee', and 'arguments' properties ma
-y not be accessed on strict mode functions or the arguments objects for calls to
- them" ]
-10f8ad63a651: [ 10f8ad63a651: "In strict mode code, functions can only be declar
-ed at top level or immediately within another function." ]
+10f8ad63a6d1: [ 10f8ad63a6d1: "Illegal access to a strict mode caller function." ]
+10f8ad63a6b1: [ 10f8ad63a6b1: "'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them" ]
+10f8ad63a651: [ 10f8ad63a651: "In strict mode code, functions can only be declared at top level or immediately within another function." ]
 10f8ad63a631: [ 10f8ad63a631: "Use of const in strict mode." ]
-10f8ad63a5f1: [ 10f8ad63a5f1: "Delete of an unqualified identifier in strict mod
-e." ]
-10f8ad63a5d1: [ 10f8ad63a5d1: "Object literal may not have multiple get/set acce
-ssors with the same name" ]
-10f8ad63a5b1: [ 10f8ad63a5b1: "Object literal may not have data and accessor pro
-perty with the same name" ]
-10f8ad63a591: [ 10f8ad63a591: "Duplicate data property in object literal not all
-owed in strict mode" ]
+10f8ad63a5f1: [ 10f8ad63a5f1: "Delete of an unqualified identifier in strict mode." ]
+10f8ad63a5d1: [ 10f8ad63a5d1: "Object literal may not have multiple get/set accessors with the same name" ]
+10f8ad63a5b1: [ 10f8ad63a5b1: "Object literal may not have data and accessor property with the same name" ]
+10f8ad63a591: [ 10f8ad63a591: "Duplicate data property in object literal not allowed in strict mode" ]
 10f8ad63a571: [ 10f8ad63a571: "Octal literals are not allowed in strict mode." ]
-10f8ad63a551: [ 10f8ad63a551: "Strict mode function may not have duplicate param
-eter names" ]
-10f8ad63a531: [ 10f8ad63a531: "Too many variables declared (only 4194303 allowed
-)" ]
-10f8ad63a511: [ 10f8ad63a511: "Too many parameters in function definition (only 
-65535 allowed)" ]
-10f8ad63a4f1: [ 10f8ad63a4f1: "Too many arguments in function call (only 65535 a
-llowed)" ]
+10f8ad63a551: [ 10f8ad63a551: "Strict mode function may not have duplicate parameter names" ]
+10f8ad63a531: [ 10f8ad63a531: "Too many variables declared (only 4194303 allowed)" ]
+10f8ad63a511: [ 10f8ad63a511: "Too many parameters in function definition (only 65535 allowed)" ]
+10f8ad63a4f1: [ 10f8ad63a4f1: "Too many arguments in function call (only 65535 allowed)" ]
 10f8ad63a4d1: [ 10f8ad63a4d1: "Unexpected eval or arguments in strict mode" ]
-10f8ad63a4b1: [ 10f8ad63a4b1: "Strict mode code may not include a with statement
-" ]
+10f8ad63a4b1: [ 10f8ad63a4b1: "Strict mode code may not include a with statement" ]
 10f8ad63a491: [ 10f8ad63a491: "Illegal access" ]
 10f8ad63a451: [ 10f8ad63a451: "Array.getIndexOf: Argument undefined" ]
 10f8ad63a3f1: [ 10f8ad63a3f1: "Converting circular structure to JSON" ]
@@ -4471,10 +4347,8 @@ llowed)" ]
 10f8ad63a2d1: [ 10f8ad63a2d1: "Single function literal required" ]
 10f8ad63a2b1: [ 10f8ad63a2b1: "builtin %IS_VAR: not a variable" ]
 10f8ad63a291: [ 10f8ad63a291: "Function arg string contains parenthesis" ]
-10f8ad63a271: [ 10f8ad63a271: "Invalid left-hand side expression in prefix opera
-tion" ]
-10f8ad63a251: [ 10f8ad63a251: "Invalid left-hand side expression in postfix oper
-ation" ]
+10f8ad63a271: [ 10f8ad63a271: "Invalid left-hand side expression in prefix operation" ]
+10f8ad63a251: [ 10f8ad63a251: "Invalid left-hand side expression in postfix operation" ]
 10f8ad63a231: [ 10f8ad63a231: "Invalid left-hand side in for-loop" ]
 10f8ad63a211: [ 10f8ad63a211: "Invalid left-hand side in assignment" ]
 10f8ad63a1d1: [ 10f8ad63a1d1: "Invalid count value" ]
@@ -4482,8 +4356,7 @@ ation" ]
 10f8ad63a191: [ 10f8ad63a191: "Maximum call stack size exceeded" ]
 10f8ad63a171: [ 10f8ad63a171: "Offset is outside the bounds of the DataView" ]
 10f8ad63a151: [ 10f8ad63a151: "Invalid data view length" ]
-10f8ad63a131: [ 10f8ad63a131: "Start offset is outside the bounds of the buffer"
- ]
+10f8ad63a131: [ 10f8ad63a131: "Start offset is outside the bounds of the buffer" ]
 10f8ad63a111: [ 10f8ad63a111: "Start offset is negative" ]
 10f8ad63a0f1: [ 10f8ad63a0f1: "Source is too large" ]
 10f8ad63a0b1: [ 10f8ad63a0b1: "Invalid typed array length" ]
@@ -4493,34 +4366,27 @@ ation" ]
 10f8ad63a031: [ 10f8ad63a031: "Invalid array length" ]
 10f8ad639f71: [ 10f8ad639f71: "Cannot add/remove sealed array elements" ]
 10f8ad639f51: [ 10f8ad639f51: "Cannot modify frozen array elements" ]
-10f8ad639e91: [ 10f8ad639e91: "First argument to DataView constructor must be an
- ArrayBuffer" ]
+10f8ad639e91: [ 10f8ad639e91: "First argument to DataView constructor must be an ArrayBuffer" ]
 10f8ad639e71: [ 10f8ad639e71: "invalid_argument" ]
 10f8ad639e51: [ 10f8ad639e51: "this is not a typed array." ]
 10f8ad639e11: [ 10f8ad639e11: "notify called on non-notifier object" ]
 10f8ad639df1: [ 10f8ad639df1: "Cannot perform non-function" ]
 10f8ad639dd1: [ 10f8ad639dd1: "Invalid non-string changeType" ]
-10f8ad639db1: [ 10f8ad639db1: "Invalid changeRecord with non-string 'type' prope
-rty" ]
-10f8ad639d91: [ 10f8ad639d91: "Object.observe accept must be an array of strings
-." ]
-10f8ad639d71: [ 10f8ad639d71: "Object.observe cannot deliver to a frozen functio
-n object" ]
+10f8ad639db1: [ 10f8ad639db1: "Invalid changeRecord with non-string 'type' property" ]
+10f8ad639d91: [ 10f8ad639d91: "Object.observe accept must be an array of strings." ]
+10f8ad639d71: [ 10f8ad639d71: "Object.observe cannot deliver to a frozen function object" ]
 10f8ad639d11: [ 10f8ad639d11: "this is not a Date object." ]
 10f8ad639cf1: [ 10f8ad639cf1: "Invalid value used in weak set" ]
 10f8ad639cd1: [ 10f8ad639cd1: "Invalid value used as weak map key" ]
 10f8ad639a71: [ 10f8ad639a71: "Reduce of empty array with no initial value" ]
 10f8ad639a51: [ 10f8ad639a51: "Cannot convert undefined or null to object" ]
-10f8ad6399d1: [ 10f8ad6399d1: "Function.prototype.apply: Arguments list has wron
-g type" ]
+10f8ad6399d1: [ 10f8ad6399d1: "Function.prototype.apply: Arguments list has wrong type" ]
 10f8ad639971: [ 10f8ad639971: "Illegal invocation" ]
 10f8ad6398b1: [ 10f8ad6398b1: "Cannot convert object to primitive value" ]
 10f8ad6397d1: [ 10f8ad6397d1: "Missing catch or finally after try" ]
 10f8ad639751: [ 10f8ad639751: "Illegal newline after throw" ]
-10f8ad639731: [ 10f8ad639731: "More than one default clause in switch statement"
- ]
-10f8ad6396f1: [ 10f8ad6396f1: "Cannot supply flags when constructing one RegExp 
-from another" ]
+10f8ad639731: [ 10f8ad639731: "More than one default clause in switch statement" ]
+10f8ad6396f1: [ 10f8ad6396f1: "Cannot supply flags when constructing one RegExp from another" ]
 10f8ad6396d1: [ 10f8ad6396d1: "Invalid regular expression: missing /" ]
 10f8ad639691: [ 10f8ad639691: "Unexpected end of input" ]
 10f8ad639671: [ 10f8ad639671: "Unexpected strict mode reserved word" ]

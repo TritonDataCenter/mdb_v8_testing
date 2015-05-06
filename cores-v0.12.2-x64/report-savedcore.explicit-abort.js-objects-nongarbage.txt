@@ -1,6 +1,3 @@
-V8 version: 3.28.73.0
-Autoconfigured V8 support from target
-C++ symbol demangling enabled
 121d6c109e41: {}
 116a34fcdce1: {}
 116a34f17141: {}
@@ -394,13 +391,11 @@ property kind: "properties" array
 }
 property kind: "properties" array 
 6c17d084b41: {
-    "/home/dap/node-testing/test-programs/explicit-abort.js": 6c17d084b41: [...]
-,
+    "/home/dap/node-testing/test-programs/explicit-abort.js": 6c17d084b41: [...],
 }
 property kind: "properties" array 
 6c17d084cc1: {
-    "{"request":"/home/dap/node-testing/test-programs/explicit-abort.js","paths"
-:[""]}": 6c17d084cc1: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    "{"request":"/home/dap/node-testing/test-programs/explicit-abort.js","paths":[""]}": 6c17d084cc1: "/home/dap/node-testing/test-programs/explicit-abort.js",
 }
 property kind: "properties" array 
 116a34fdf9b9: {
@@ -497,8 +492,7 @@ property kind: "properties" array
 }
 property kind: in-object 
 6c17d098321: {
-    "filename": 6c17d098321: "/home/dap/node-testing/test-programs/explicit-abor
-t.js",
+    "filename": 6c17d098321: "/home/dap/node-testing/test-programs/explicit-abort.js",
 }
 property kind: in-object 
 31454a41d5b1: {
@@ -601,8 +595,7 @@ property kind: in-object
 }
 property kind: in-object 
 6c17d0887f9: {
-    "request": 6c17d0887f9: "/home/dap/node-testing/test-programs/explicit-abort
-.js",
+    "request": 6c17d0887f9: "/home/dap/node-testing/test-programs/explicit-abort.js",
     "paths": 6c17d0887f9: [...],
 }
 property kind: in-object 
@@ -691,8 +684,7 @@ property kind: "properties" array
     "id": 6c17d0921b9: ".",
     "exports": 6c17d0921b9: [...],
     "parent": 6c17d0921b9: null,
-    "filename": 6c17d0921b9: "/home/dap/node-testing/test-programs/explicit-abor
-t.js",
+    "filename": 6c17d0921b9: "/home/dap/node-testing/test-programs/explicit-abort.js",
     "loaded": 6c17d0921b9: false,
     "children": 6c17d0921b9: [...],
     "paths": 6c17d0921b9: [...],
@@ -748,8 +740,7 @@ property kind: in-object
 }
 property kind: in-object 
 116a34fce339: {
-    "constructor": 116a34fce339: function <anonymous> (as $Object.defineProperty
-.value.bs),
+    "constructor": 116a34fce339: function <anonymous> (as $Object.defineProperty.value.bs),
     "resolvedOptions": 116a34fce339: function resolvedOptions,
 }
 property kind: "properties" array 
@@ -764,8 +755,7 @@ property kind: "properties" array
 }
 property kind: "properties" array 
 116a34fce3b9: {
-    "constructor": 116a34fce3b9: function <anonymous> (as $Object.defineProperty
-.value.bN),
+    "constructor": 116a34fce3b9: function <anonymous> (as $Object.defineProperty.value.bN),
     "resolvedOptions": 116a34fce3b9: function resolvedOptions,
 }
 property kind: "properties" array 
@@ -828,8 +818,7 @@ property kind: "properties" array
     "moduleLoadList": 121d6c110cc9: 0,
     "versions": 121d6c110cc9: "title",
     "arch": 121d6c110cc9: 10819,
-    "platform": 121d6c110cc9: <unknown JavaScript object type "ExecutableAccesso
-rInfo">,
+    "platform": 121d6c110cc9: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "argv": 121d6c110cc9: "version",
     "execArgv": 121d6c110cc9: 3593,
     "env": 121d6c110cc9: -1,
@@ -855,8 +844,7 @@ property kind: "properties" array
 property kind: "properties" array 
 121d6c110d59: {
     "version": 121d6c110d59: "title",
-    "moduleLoadList": 121d6c110d59: <unknown JavaScript object type "ExecutableA
-ccessorInfo">,
+    "moduleLoadList": 121d6c110d59: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "versions": 121d6c110d59: 10819,
     "arch": 121d6c110d59: "version",
     "platform": 121d6c110d59: 4195913,
@@ -1098,10 +1086,8 @@ property kind: "properties" array
     "/home": 6c17d085471: "/home",
     "/home/dap": 6c17d085471: "/home/dap",
     "/home/dap/node-testing": 6c17d085471: "/home/dap/node-testing",
-    "/home/dap/node-testing/test-programs": 6c17d085471: "/home/dap/node-testing
-/test-programs",
-    "/home/dap/node-testing/test-programs/explicit-abort.js": 6c17d085471: "/hom
-e/dap/node-testing/test-programs/explicit-abort.js",
+    "/home/dap/node-testing/test-programs": 6c17d085471: "/home/dap/node-testing/test-programs",
+    "/home/dap/node-testing/test-programs/explicit-abort.js": 6c17d085471: "/home/dap/node-testing/test-programs/explicit-abort.js",
 }
 property kind: "properties" array 
 347594f04681: {
@@ -1122,8 +1108,7 @@ property kind: "properties" array
 property kind: "properties" array 
 121d6c11b301: {
     "version": 121d6c11b301: "title",
-    "moduleLoadList": 121d6c11b301: <unknown JavaScript object type "ExecutableA
-ccessorInfo">,
+    "moduleLoadList": 121d6c11b301: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "versions": 121d6c11b301: 35395,
     "arch": 121d6c11b301: "version",
     "platform": 121d6c11b301: -1,
@@ -1259,16 +1244,11 @@ property kind: in-object
 }
 property kind: in-object 
 116a34fcf171: {
-    "collator": 116a34fcf171: function <anonymous> (as $Object.defineProperty.va
-lue.bf),
-    "numberformat": 116a34fcf171: function <anonymous> (as $Object.definePropert
-y.value.bs),
-    "dateformatall": 116a34fcf171: function <anonymous> (as $Object.defineProper
-ty.value.bs),
-    "dateformatdate": 116a34fcf171: function <anonymous> (as $Object.definePrope
-rty.value.bs),
-    "dateformattime": 116a34fcf171: function <anonymous> (as $Object.definePrope
-rty.value.bs),
+    "collator": 116a34fcf171: function <anonymous> (as $Object.defineProperty.value.bf),
+    "numberformat": 116a34fcf171: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformatall": 116a34fcf171: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformatdate": 116a34fcf171: function <anonymous> (as $Object.defineProperty.value.bs),
+    "dateformattime": 116a34fcf171: function <anonymous> (as $Object.defineProperty.value.bs),
 }
 property kind: in-object 
 116a34fbbc51: {
@@ -1350,8 +1330,7 @@ property kind: in-object
     "fill": 116a34faecc1: 0,
     "find": 116a34faecc1: "length",
     "findIndex": 116a34faecc1: 627,
-    "keys": 116a34faecc1: <unknown JavaScript object type "ExecutableAccessorInf
-o">,
+    "keys": 116a34faecc1: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "values": 116a34faecc1: "constructor",
 }
 property kind: in-object 
@@ -1616,8 +1595,7 @@ property kind: "properties" array
 }
 property kind: in-object 
 116a34fce2f9: {
-    "constructor": 116a34fce2f9: function <anonymous> (as $Object.defineProperty
-.value.bf),
+    "constructor": 116a34fce2f9: function <anonymous> (as $Object.defineProperty.value.bf),
 }
 property kind: "properties" array 
 116a34fcd989: {
@@ -1982,48 +1960,39 @@ property kind: dictionary
     6c17c0a7901: "",
 ]
 116a34f72461: {
-    "constants": 116a34f72461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "constants": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_passthrough": 116a34f72461: "// Copyright Joyent, Inc. and other No
-de contributors.
+    "_stream_passthrough": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "smalloc": 116a34f72461: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "smalloc": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "cluster": 116a34f72461: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "cluster": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "domain": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "domain": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "https": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "https": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_duplex": 116a34f72461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "_stream_duplex": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "events": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "events": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_transform": 116a34f72461: "// Copyright Joyent, Inc. and other Node
- contributors.
+    "_stream_transform": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2031,8 +2000,7 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_wrap": 116a34f72461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_tls_wrap": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // // Emit `beforeExit` if the loop became alive either after emitting
 // event, or after runn[...]",
@@ -2042,23 +2010,19 @@ var util = require('util');
 var Buffer = require('buffer').Buffer;
 
 var Transform = require('s[...]",
-    "freelist": 116a34f72461: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "freelist": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_writable": 116a34f72461: "// Copyright Joyent, Inc. and other Node 
-contributors.
+    "_stream_writable": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_legacy": 116a34f72461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "_tls_legacy": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_client": 116a34f72461: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_http_client": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2067,8 +2031,7 @@ ributors.
 
         /** Detect free variables */
         var freeExports = typeof exports == 'object' && exp[...]",
-    "util": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "util": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2076,8 +2039,7 @@ ributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_debugger": 116a34f72461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_debugger": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2085,43 +2047,35 @@ utors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_server": 116a34f72461: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_http_server": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_common": 116a34f72461: "// Copyright Joyent, Inc. and other Node cont
-ributors.
+    "_http_common": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "readline": 116a34f72461: "// Copyright Joyent, Inc. and other Node contribu
-tors.
+    "readline": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_incoming": 116a34f72461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "_http_incoming": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "zlib": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "zlib": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "dgram": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributor
-s.
+    "dgram": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_stream_readable": 116a34f72461: "// Copyright Joyent, Inc. and other Node 
-contributors.
+    "_stream_readable": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "child_process": 116a34f72461: "// Copyright Joyent, Inc. and other Node con
-tributors.
+    "child_process": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2130,18 +2084,15 @@ tributors.
 // THIS IS NOT TESTED NOR LIKELY TO WORK OUTSIDE V8!
 //
 // Originally from narwhal.js (http://narwh[...]",
-    "module": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "module": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_tls_common": 116a34f72461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "_tls_common": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "buffer": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "buffer": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2149,13 +2100,11 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_agent": 116a34f72461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "_http_agent": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "stream": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "stream": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2167,18 +2116,15 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_linklist": 116a34f72461: "// Copyright Joyent, Inc. and other Node contrib
-utors.
+    "_linklist": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "string_decoder": 116a34f72461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "string_decoder": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "timers": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "timers": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2186,28 +2132,23 @@ rs.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "querystring": 116a34f72461: "// Copyright Joyent, Inc. and other Node contr
-ibutors.
+    "querystring": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "repl": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "repl": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "crypto": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributo
-rs.
+    "crypto": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "console": 116a34f72461: "// Copyright Joyent, Inc. and other Node contribut
-ors.
+    "console": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "http": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "http": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2215,13 +2156,11 @@ ors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "path": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors
-.
+    "path": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
-    "_http_outgoing": 116a34f72461: "// Copyright Joyent, Inc. and other Node co
-ntributors.
+    "_http_outgoing": 116a34f72461: "// Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this sof[...]",
@@ -2413,8 +2352,7 @@ property kind: in-object
     "_exiting": 116a34f6fa81: false,
     "setuid": 116a34f6fa81: function setuid,
     "cwd": 116a34f6fa81: function cwd,
-    "_fatalException": 116a34f6fa81: function <anonymous> (as process._fatalExce
-ption),
+    "_fatalException": 116a34f6fa81: function <anonymous> (as process._fatalException),
     "domain": 116a34f6fa81: null,
     "_maxListeners": 116a34f6fa81: undefined,
     "_rawDebug": 116a34f6fa81: function <anonymous> (as process._rawDebug),
@@ -2427,15 +2365,13 @@ ption),
     "uptime": 116a34f6fa81: function uptime,
     "moduleLoadList": 116a34f6fa81: [...],
     "_getActiveHandles": 116a34f6fa81: function _getActiveHandles,
-    "_needImmediateCallback": 116a34f6fa81: <unknown JavaScript object type "Exe
-cutableAccessorInfo">,
+    "_needImmediateCallback": 116a34f6fa81: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "kill": 116a34f6fa81: function <anonymous> (as process.kill),
     "reallyExit": 116a34f6fa81: function reallyExit,
     "argv": 116a34f6fa81: [...],
     "_getActiveRequests": 116a34f6fa81: function _getActiveRequests,
     "setgroups": 116a34f6fa81: function setgroups,
-    "removeListener": 116a34f6fa81: function <anonymous> (as process.removeListe
-ner),
+    "removeListener": 116a34f6fa81: function <anonymous> (as process.removeListener),
     "chdir": 116a34f6fa81: function chdir,
     "_tickDomainCallback": 116a34f6fa81: function _tickDomainCallback,
     "platform": 116a34f6fa81: "sunos",
@@ -2445,8 +2381,7 @@ ner),
     "pid": 116a34f6fa81: 17669,
     "env": 116a34f6fa81: [...],
     "getgid": 116a34f6fa81: function getgid,
-    "title": 116a34f6fa81: <unknown JavaScript object type "ExecutableAccessorIn
-fo">,
+    "title": 116a34f6fa81: <unknown JavaScript object type "ExecutableAccessorInfo">,
     "versions": 116a34f6fa81: [...],
     "_setupDomainUse": 116a34f6fa81: function _setupDomainUse,
     "abort": 116a34f6fa81: function abort,
@@ -2455,10 +2390,8 @@ fo">,
     "assert": 116a34f6fa81: function <anonymous> (as process.assert),
     "getuid": 116a34f6fa81: function getuid,
     "execArgv": 116a34f6fa81: [...],
-    "on": 116a34f6fa81: function <anonymous> (as process.on.process.addListener)
-,
-    "_stopProfilerIdleNotifier": 116a34f6fa81: function _stopProfilerIdleNotifie
-r,
+    "on": 116a34f6fa81: function <anonymous> (as process.on.process.addListener),
+    "_stopProfilerIdleNotifier": 116a34f6fa81: function _stopProfilerIdleNotifier,
     "EventEmitter": 116a34f6fa81: function EventEmitter,
     "mainModule": 116a34f6fa81: [...],
     "hrtime": 116a34f6fa81: function hrtime,
@@ -2466,22 +2399,18 @@ r,
     "binding": 116a34f6fa81: function binding,
     "setgid": 116a34f6fa81: function setgid,
     "_debugPause": 116a34f6fa81: function _debugPause,
-    "_startProfilerIdleNotifier": 116a34f6fa81: function _startProfilerIdleNotif
-ier,
+    "_startProfilerIdleNotifier": 116a34f6fa81: function _startProfilerIdleNotifier,
     "arch": 116a34f6fa81: "x64",
-    "execPath": 116a34f6fa81: "/home/dap/node-testing/node-v0.12.2-sunos-x64/bin
-/node",
+    "execPath": 116a34f6fa81: "/home/dap/node-testing/node-v0.12.2-sunos-x64/bin/node",
     "features": 116a34f6fa81: [...],
     "umask": 116a34f6fa81: function umask,
     "config": 116a34f6fa81: [...],
     "memoryUsage": 116a34f6fa81: function memoryUsage,
-    "addListener": 116a34f6fa81: function <anonymous> (as process.on.process.add
-Listener),
+    "addListener": 116a34f6fa81: function <anonymous> (as process.on.process.addListener),
     "stderr": 116a34f6fa81: <unknown JavaScript object type "AccessorPair">,
     "exit": 116a34f6fa81: function <anonymous> (as process.exit),
     "_debugProcess": 116a34f6fa81: function _debugProcess,
-    "debugPort": 116a34f6fa81: <unknown JavaScript object type "ExecutableAccess
-orInfo">,
+    "debugPort": 116a34f6fa81: <unknown JavaScript object type "ExecutableAccessorInfo">,
 }
 property kind: dictionary 
 6c17c0f8d71: {
@@ -2696,11 +2625,9 @@ property kind: in-object
     6c17d02d529: "                 'gcc_version': 47,",
     6c17d02d529: "                 'host_arch': 'ia32',",
     6c17d02d529: "                 'icu_data_file': 'icudt54l.dat',",
-    6c17d02d529: "                 'icu_data_in': '../../deps/icu/source/data/in
-/icudt54l.dat',",
+    6c17d02d529: "                 'icu_data_in': '../../deps/icu/source/data/in/icudt54l.dat',",
     6c17d02d529: "                 'icu_endianness': 'l',",
-    6c17d02d529: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',"
-,
+    6c17d02d529: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',",
     6c17d02d529: "                 'icu_locales': 'en,root',",
     6c17d02d529: "                 'icu_path': './deps/icu',",
     6c17d02d529: "                 'icu_small': 'true',",
@@ -3642,8 +3569,7 @@ property kind: in-object
     31454a419c39: 0,
 ]
 116a34fd1dc1: [
-    116a34fd1dc1: "(function (exports, require, module, __filename, __dirname) {
- ",
+    116a34fd1dc1: "(function (exports, require, module, __filename, __dirname) { ",
     116a34fd1dc1: "
 });",
 ]
@@ -3685,8 +3611,7 @@ property kind: in-object
     116a34fcd0b9: " cannot be called on the global proxy object",
 ]
 116a34fccd99: [
-    116a34fccd99: "Invalid property.  A property cannot both have accessors and 
-be writable or have a value, ",
+    116a34fccd99: "Invalid property.  A property cannot both have accessors and be writable or have a value, ",
     116a34fccd99: "%0",
 ]
 116a34fccd59: [
@@ -3814,8 +3739,7 @@ be writable or have a value, ",
     116a34f39af1: "%0",
 ]
 116a34f39ad1: [
-    116a34f39ad1: "Invalid property.  A property cannot both have accessors and 
-be writable or have a value, ",
+    116a34f39ad1: "Invalid property.  A property cannot both have accessors and be writable or have a value, ",
     116a34f39ad1: "%0",
 ]
 116a34f39ab1: [
@@ -3992,8 +3916,7 @@ be writable or have a value, ",
     6c17d05be71: 39,
 ]
 6c17d051569: [
-    6c17d051569: "(function (exports, require, module, __filename, __dirname) { 
-",
+    6c17d051569: "(function (exports, require, module, __filename, __dirname) { ",
     6c17d051569: "
 });",
 ]
@@ -4270,38 +4193,28 @@ property kind: dictionary
 116a34fcd339: [ 116a34fcd339: "Invalid array buffer length" ]
 116a34fcd319: [ 116a34fcd319: "Malformed arrow function parameter list" ]
 116a34fcd2d9: [ 116a34fcd2d9: "Invalid value used in weak set" ]
-116a34fcd2b9: [ 116a34fcd2b9: "Object.observe accept must be an array of strings
-." ]
+116a34fcd2b9: [ 116a34fcd2b9: "Object.observe accept must be an array of strings." ]
 116a34fcd299: [ 116a34fcd299: "this is not a typed array." ]
-116a34fcd279: [ 116a34fcd279: "Too many arguments in function call (only 65535 a
-llowed)" ]
-116a34fcd259: [ 116a34fcd259: "Cannot convert a Symbol wrapper object to a primi
-tive value" ]
+116a34fcd279: [ 116a34fcd279: "Too many arguments in function call (only 65535 allowed)" ]
+116a34fcd259: [ 116a34fcd259: "Cannot convert a Symbol wrapper object to a primitive value" ]
 116a34fcd239: [ 116a34fcd239: "Unexpected eval or arguments in strict mode" ]
-116a34fcd219: [ 116a34fcd219: "First argument to DataView constructor must be an
- ArrayBuffer" ]
+116a34fcd219: [ 116a34fcd219: "First argument to DataView constructor must be an ArrayBuffer" ]
 116a34fcd1d9: [ 116a34fcd1d9: "Cyclic __proto__ value" ]
-116a34fcd1b9: [ 116a34fcd1b9: "Illegal let declaration in unprotected statement 
-context." ]
+116a34fcd1b9: [ 116a34fcd1b9: "Illegal let declaration in unprotected statement context." ]
 116a34fcd0f9: [ 116a34fcd0f9: "Reduce of empty array with no initial value" ]
 116a34fcd0d9: [ 116a34fcd0d9: "Invalid left-hand side in for-loop" ]
 116a34fcd059: [ 116a34fcd059: "Cannot convert a Symbol value to a string" ]
-116a34fcd039: [ 116a34fcd039: "Strict mode function may not have duplicate param
-eter names" ]
+116a34fcd039: [ 116a34fcd039: "Strict mode function may not have duplicate parameter names" ]
 116a34fccff9: [ 116a34fccff9: "builtin %IS_VAR: not a variable" ]
 116a34fccfb9: [ 116a34fccfb9: "Invalid non-string changeType" ]
 116a34fccf19: [ 116a34fccf19: "Unexpected reserved word" ]
 116a34fccef9: [ 116a34fccef9: "Generator is already running" ]
-116a34fcce79: [ 116a34fcce79: "Cannot supply flags when constructing one RegExp 
-from another" ]
-116a34fcce59: [ 116a34fcce59: "Cannot redefine a property of an object with exte
-rnal array elements" ]
+116a34fcce79: [ 116a34fcce79: "Cannot supply flags when constructing one RegExp from another" ]
+116a34fcce59: [ 116a34fcce59: "Cannot redefine a property of an object with external array elements" ]
 116a34fccdd9: [ 116a34fccdd9: "Array.getIndexOf: Argument undefined" ]
-116a34fccd79: [ 116a34fccd79: "Invalid changeRecord with non-string 'type' prope
-rty" ]
+116a34fccd79: [ 116a34fccd79: "Invalid changeRecord with non-string 'type' property" ]
 116a34fccd39: [ 116a34fccd39: "notify called on non-notifier object" ]
-116a34fcccf9: [ 116a34fcccf9: "Cannot prevent extension of an object with extern
-al array elements" ]
+116a34fcccf9: [ 116a34fcccf9: "Cannot prevent extension of an object with external array elements" ]
 116a34fcccd9: [ 116a34fcccd9: "Illegal invocation" ]
 116a34fcccb9: [ 116a34fcccb9: "Missing catch or finally after try" ]
 116a34fccc99: [ 116a34fccc99: "Invalid value used as weak map key" ]
@@ -4311,118 +4224,80 @@ al array elements" ]
 116a34fccb99: [ 116a34fccb99: "Start offset is too large:" ]
 116a34fccb79: [ 116a34fccb79: "%0" ]
 116a34fccb59: [ 116a34fccb59: "Converting circular structure to JSON" ]
-116a34fccb39: [ 116a34fccb39: "Strict mode code may not include a with statement
-" ]
+116a34fccb39: [ 116a34fccb39: "Strict mode code may not include a with statement" ]
 116a34fccaf9: [ 116a34fccaf9: "Invalid data view length" ]
 116a34fccad9: [ 116a34fccad9: "Use of const in strict mode." ]
-116a34fcca79: [ 116a34fcca79: "'caller', 'callee', and 'arguments' properties ma
-y not be accessed on strict mode functions or the arguments objects for calls to
- them" ]
+116a34fcca79: [ 116a34fcca79: "'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them" ]
 116a34fcca39: [ 116a34fcca39: "Start offset is negative" ]
 116a34fcc9f9: [ 116a34fcc9f9: "Unexpected end of input" ]
 116a34fcc9d9: [ 116a34fcc9d9: "Invalid left-hand side in assignment" ]
 116a34fcc999: [ 116a34fcc999: "Illegal return statement" ]
-116a34fcc939: [ 116a34fcc939: "'caller' and 'arguments' properties may not be ac
-cessed on generator functions." ]
-116a34fcc8f9: [ 116a34fcc8f9: "Object literal may not have data and accessor pro
-perty with the same name" ]
-116a34fcc8d9: [ 116a34fcc8d9: "Illegal access to a strict mode caller function."
- ]
+116a34fcc939: [ 116a34fcc939: "'caller' and 'arguments' properties may not be accessed on generator functions." ]
+116a34fcc8f9: [ 116a34fcc8f9: "Object literal may not have data and accessor property with the same name" ]
+116a34fcc8d9: [ 116a34fcc8d9: "Illegal access to a strict mode caller function." ]
 116a34fcc899: [ 116a34fcc899: "Invalid typed array length" ]
-116a34fcc879: [ 116a34fcc879: "More than one default clause in switch statement"
- ]
+116a34fcc879: [ 116a34fcc879: "More than one default clause in switch statement" ]
 116a34fcc859: [ 116a34fcc859: "Error loading debugger" ]
 116a34fcc839: [ 116a34fcc839: "Cannot perform non-function" ]
-116a34fcc819: [ 116a34fcc819: "Start offset is outside the bounds of the buffer"
- ]
-116a34fcc7f9: [ 116a34fcc7f9: "Delete of an unqualified identifier in strict mod
-e." ]
+116a34fcc819: [ 116a34fcc819: "Start offset is outside the bounds of the buffer" ]
+116a34fcc7f9: [ 116a34fcc7f9: "Delete of an unqualified identifier in strict mode." ]
 116a34fcc7d9: [ 116a34fcc7d9: "Invalid time value" ]
-116a34fcc719: [ 116a34fcc719: "Object.observe cannot deliver to a frozen functio
-n object" ]
+116a34fcc719: [ 116a34fcc719: "Object.observe cannot deliver to a frozen function object" ]
 116a34fcc6f9: [ 116a34fcc6f9: "Single function literal required" ]
-116a34fcc6d9: [ 116a34fcc6d9: "Duplicate data property in object literal not all
-owed in strict mode" ]
-116a34fcc699: [ 116a34fcc699: "Invalid left-hand side expression in prefix opera
-tion" ]
+116a34fcc6d9: [ 116a34fcc6d9: "Duplicate data property in object literal not allowed in strict mode" ]
+116a34fcc699: [ 116a34fcc699: "Invalid left-hand side expression in prefix operation" ]
 116a34fcc679: [ 116a34fcc679: "Cannot convert object to primitive value" ]
 116a34fcc639: [ 116a34fcc639: "Maximum call stack size exceeded" ]
 116a34fcc619: [ 116a34fcc619: "Invalid string length" ]
 116a34fcc5d9: [ 116a34fcc5d9: "Illegal break statement" ]
-116a34fcc599: [ 116a34fcc599: "In strict mode code, functions can only be declar
-ed at top level or immediately within another function." ]
+116a34fcc599: [ 116a34fcc599: "In strict mode code, functions can only be declared at top level or immediately within another function." ]
 116a34fcc579: [ 116a34fcc579: "Cannot add/remove sealed array elements" ]
 116a34fcc539: [ 116a34fcc539: "Cannot convert undefined or null to object" ]
 116a34fcc519: [ 116a34fcc519: "Invalid count value" ]
 116a34fcc4f9: [ 116a34fcc4f9: "invalid_argument" ]
 116a34fcc4d9: [ 116a34fcc4d9: "Invalid array length" ]
-116a34fcc4b9: [ 116a34fcc4b9: "Too many parameters in function definition (only 
-65535 allowed)" ]
-116a34fcc499: [ 116a34fcc499: "Invalid left-hand side expression in postfix oper
-ation" ]
-116a34fcc479: [ 116a34fcc479: "Too many variables declared (only 4194303 allowed
-)" ]
+116a34fcc4b9: [ 116a34fcc4b9: "Too many parameters in function definition (only 65535 allowed)" ]
+116a34fcc499: [ 116a34fcc499: "Invalid left-hand side expression in postfix operation" ]
+116a34fcc479: [ 116a34fcc479: "Too many variables declared (only 4194303 allowed)" ]
 116a34fcc459: [ 116a34fcc459: "Source is too large" ]
 116a34fcc439: [ 116a34fcc439: "Unexpected identifier" ]
 116a34fcc3d9: [ 116a34fcc3d9: "Illegal continue statement" ]
-116a34fcc3b9: [ 116a34fcc3b9: "Object literal may not have multiple get/set acce
-ssors with the same name" ]
+116a34fcc3b9: [ 116a34fcc3b9: "Object literal may not have multiple get/set accessors with the same name" ]
 116a34fcc399: [ 116a34fcc399: "Cannot modify frozen array elements" ]
 116a34fcc379: [ 116a34fcc379: "Unexpected string" ]
 116a34fcc2d9: [ 116a34fcc2d9: "Invalid regular expression: missing /" ]
 116a34fcc299: [ 116a34fcc299: "Illegal newline after throw" ]
-116a34fcc279: [ 116a34fcc279: "Function.prototype.apply: Arguments list has wron
-g type" ]
+116a34fcc279: [ 116a34fcc279: "Function.prototype.apply: Arguments list has wrong type" ]
 116a34fcc259: [ 116a34fcc259: "this is not a Date object." ]
 116a34fcc1f9: [ 116a34fcc1f9: "Octal literals are not allowed in strict mode." ]
 116a34fcc1d9: [ 116a34fcc1d9: "Unexpected number" ]
 116a34fcc1b9: [ 116a34fcc1b9: "Assignment to constant variable." ]
-116a34fcc199: [ 116a34fcc199: "Illegal const declaration in unprotected statemen
-t context." ]
+116a34fcc199: [ 116a34fcc199: "Illegal const declaration in unprotected statement context." ]
 116a34f3a811: [ 116a34f3a811: "Cannot convert a Symbol value to a number" ]
-116a34f3a7f1: [ 116a34f3a7f1: "Cannot convert a Symbol wrapper object to a primi
-tive value" ]
+116a34f3a7f1: [ 116a34f3a7f1: "Cannot convert a Symbol wrapper object to a primitive value" ]
 116a34f3a7d1: [ 116a34f3a7d1: "Cannot convert a Symbol value to a string" ]
 116a34f3a7b1: [ 116a34f3a7b1: "Assignment to constant variable." ]
-116a34f3a791: [ 116a34f3a791: "Cannot redefine a property of an object with exte
-rnal array elements" ]
-116a34f3a771: [ 116a34f3a771: "Cannot prevent extension of an object with extern
-al array elements" ]
-116a34f3a751: [ 116a34f3a751: "Illegal const declaration in unprotected statemen
-t context." ]
-116a34f3a731: [ 116a34f3a731: "Illegal let declaration in unprotected statement 
-context." ]
-116a34f3a711: [ 116a34f3a711: "'caller' and 'arguments' properties may not be ac
-cessed on generator functions." ]
+116a34f3a791: [ 116a34f3a791: "Cannot redefine a property of an object with external array elements" ]
+116a34f3a771: [ 116a34f3a771: "Cannot prevent extension of an object with external array elements" ]
+116a34f3a751: [ 116a34f3a751: "Illegal const declaration in unprotected statement context." ]
+116a34f3a731: [ 116a34f3a731: "Illegal let declaration in unprotected statement context." ]
+116a34f3a711: [ 116a34f3a711: "'caller' and 'arguments' properties may not be accessed on generator functions." ]
 116a34f3a6f1: [ 116a34f3a6f1: "Malformed arrow function parameter list" ]
-116a34f3a6d1: [ 116a34f3a6d1: "Illegal access to a strict mode caller function."
- ]
-116a34f3a6b1: [ 116a34f3a6b1: "'caller', 'callee', and 'arguments' properties ma
-y not be accessed on strict mode functions or the arguments objects for calls to
- them" ]
-116a34f3a651: [ 116a34f3a651: "In strict mode code, functions can only be declar
-ed at top level or immediately within another function." ]
+116a34f3a6d1: [ 116a34f3a6d1: "Illegal access to a strict mode caller function." ]
+116a34f3a6b1: [ 116a34f3a6b1: "'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them" ]
+116a34f3a651: [ 116a34f3a651: "In strict mode code, functions can only be declared at top level or immediately within another function." ]
 116a34f3a631: [ 116a34f3a631: "Use of const in strict mode." ]
-116a34f3a5f1: [ 116a34f3a5f1: "Delete of an unqualified identifier in strict mod
-e." ]
-116a34f3a5d1: [ 116a34f3a5d1: "Object literal may not have multiple get/set acce
-ssors with the same name" ]
-116a34f3a5b1: [ 116a34f3a5b1: "Object literal may not have data and accessor pro
-perty with the same name" ]
-116a34f3a591: [ 116a34f3a591: "Duplicate data property in object literal not all
-owed in strict mode" ]
+116a34f3a5f1: [ 116a34f3a5f1: "Delete of an unqualified identifier in strict mode." ]
+116a34f3a5d1: [ 116a34f3a5d1: "Object literal may not have multiple get/set accessors with the same name" ]
+116a34f3a5b1: [ 116a34f3a5b1: "Object literal may not have data and accessor property with the same name" ]
+116a34f3a591: [ 116a34f3a591: "Duplicate data property in object literal not allowed in strict mode" ]
 116a34f3a571: [ 116a34f3a571: "Octal literals are not allowed in strict mode." ]
-116a34f3a551: [ 116a34f3a551: "Strict mode function may not have duplicate param
-eter names" ]
-116a34f3a531: [ 116a34f3a531: "Too many variables declared (only 4194303 allowed
-)" ]
-116a34f3a511: [ 116a34f3a511: "Too many parameters in function definition (only 
-65535 allowed)" ]
-116a34f3a4f1: [ 116a34f3a4f1: "Too many arguments in function call (only 65535 a
-llowed)" ]
+116a34f3a551: [ 116a34f3a551: "Strict mode function may not have duplicate parameter names" ]
+116a34f3a531: [ 116a34f3a531: "Too many variables declared (only 4194303 allowed)" ]
+116a34f3a511: [ 116a34f3a511: "Too many parameters in function definition (only 65535 allowed)" ]
+116a34f3a4f1: [ 116a34f3a4f1: "Too many arguments in function call (only 65535 allowed)" ]
 116a34f3a4d1: [ 116a34f3a4d1: "Unexpected eval or arguments in strict mode" ]
-116a34f3a4b1: [ 116a34f3a4b1: "Strict mode code may not include a with statement
-" ]
+116a34f3a4b1: [ 116a34f3a4b1: "Strict mode code may not include a with statement" ]
 116a34f3a491: [ 116a34f3a491: "Illegal access" ]
 116a34f3a451: [ 116a34f3a451: "Array.getIndexOf: Argument undefined" ]
 116a34f3a3f1: [ 116a34f3a3f1: "Converting circular structure to JSON" ]
@@ -4433,10 +4308,8 @@ llowed)" ]
 116a34f3a2d1: [ 116a34f3a2d1: "Single function literal required" ]
 116a34f3a2b1: [ 116a34f3a2b1: "builtin %IS_VAR: not a variable" ]
 116a34f3a291: [ 116a34f3a291: "Function arg string contains parenthesis" ]
-116a34f3a271: [ 116a34f3a271: "Invalid left-hand side expression in prefix opera
-tion" ]
-116a34f3a251: [ 116a34f3a251: "Invalid left-hand side expression in postfix oper
-ation" ]
+116a34f3a271: [ 116a34f3a271: "Invalid left-hand side expression in prefix operation" ]
+116a34f3a251: [ 116a34f3a251: "Invalid left-hand side expression in postfix operation" ]
 116a34f3a231: [ 116a34f3a231: "Invalid left-hand side in for-loop" ]
 116a34f3a211: [ 116a34f3a211: "Invalid left-hand side in assignment" ]
 116a34f3a1d1: [ 116a34f3a1d1: "Invalid count value" ]
@@ -4444,8 +4317,7 @@ ation" ]
 116a34f3a191: [ 116a34f3a191: "Maximum call stack size exceeded" ]
 116a34f3a171: [ 116a34f3a171: "Offset is outside the bounds of the DataView" ]
 116a34f3a151: [ 116a34f3a151: "Invalid data view length" ]
-116a34f3a131: [ 116a34f3a131: "Start offset is outside the bounds of the buffer"
- ]
+116a34f3a131: [ 116a34f3a131: "Start offset is outside the bounds of the buffer" ]
 116a34f3a111: [ 116a34f3a111: "Start offset is negative" ]
 116a34f3a0f1: [ 116a34f3a0f1: "Source is too large" ]
 116a34f3a0b1: [ 116a34f3a0b1: "Invalid typed array length" ]
@@ -4455,34 +4327,27 @@ ation" ]
 116a34f3a031: [ 116a34f3a031: "Invalid array length" ]
 116a34f39f71: [ 116a34f39f71: "Cannot add/remove sealed array elements" ]
 116a34f39f51: [ 116a34f39f51: "Cannot modify frozen array elements" ]
-116a34f39e91: [ 116a34f39e91: "First argument to DataView constructor must be an
- ArrayBuffer" ]
+116a34f39e91: [ 116a34f39e91: "First argument to DataView constructor must be an ArrayBuffer" ]
 116a34f39e71: [ 116a34f39e71: "invalid_argument" ]
 116a34f39e51: [ 116a34f39e51: "this is not a typed array." ]
 116a34f39e11: [ 116a34f39e11: "notify called on non-notifier object" ]
 116a34f39df1: [ 116a34f39df1: "Cannot perform non-function" ]
 116a34f39dd1: [ 116a34f39dd1: "Invalid non-string changeType" ]
-116a34f39db1: [ 116a34f39db1: "Invalid changeRecord with non-string 'type' prope
-rty" ]
-116a34f39d91: [ 116a34f39d91: "Object.observe accept must be an array of strings
-." ]
-116a34f39d71: [ 116a34f39d71: "Object.observe cannot deliver to a frozen functio
-n object" ]
+116a34f39db1: [ 116a34f39db1: "Invalid changeRecord with non-string 'type' property" ]
+116a34f39d91: [ 116a34f39d91: "Object.observe accept must be an array of strings." ]
+116a34f39d71: [ 116a34f39d71: "Object.observe cannot deliver to a frozen function object" ]
 116a34f39d11: [ 116a34f39d11: "this is not a Date object." ]
 116a34f39cf1: [ 116a34f39cf1: "Invalid value used in weak set" ]
 116a34f39cd1: [ 116a34f39cd1: "Invalid value used as weak map key" ]
 116a34f39a71: [ 116a34f39a71: "Reduce of empty array with no initial value" ]
 116a34f39a51: [ 116a34f39a51: "Cannot convert undefined or null to object" ]
-116a34f399d1: [ 116a34f399d1: "Function.prototype.apply: Arguments list has wron
-g type" ]
+116a34f399d1: [ 116a34f399d1: "Function.prototype.apply: Arguments list has wrong type" ]
 116a34f39971: [ 116a34f39971: "Illegal invocation" ]
 116a34f398b1: [ 116a34f398b1: "Cannot convert object to primitive value" ]
 116a34f397d1: [ 116a34f397d1: "Missing catch or finally after try" ]
 116a34f39751: [ 116a34f39751: "Illegal newline after throw" ]
-116a34f39731: [ 116a34f39731: "More than one default clause in switch statement"
- ]
-116a34f396f1: [ 116a34f396f1: "Cannot supply flags when constructing one RegExp 
-from another" ]
+116a34f39731: [ 116a34f39731: "More than one default clause in switch statement" ]
+116a34f396f1: [ 116a34f396f1: "Cannot supply flags when constructing one RegExp from another" ]
 116a34f396d1: [ 116a34f396d1: "Invalid regular expression: missing /" ]
 116a34f39691: [ 116a34f39691: "Unexpected end of input" ]
 116a34f39671: [ 116a34f39671: "Unexpected strict mode reserved word" ]

@@ -4,7 +4,7 @@ node_versions="v0.10.30 v0.12.2"
 node_builds="x86 x64"
 reports_dir="$(dirname ${BASH_SOURCE[0]})/core-reports"
 dmod_dir="$(dirname ${BASH_SOURCE[0]})"
-do_extra=true
+do_extra=false
 
 function fail
 {
@@ -29,16 +29,17 @@ function check_cores
 
         shift
         for core in $@; do 
+		echo "    core $core"
+		script="::load $dmod_dir/mdb_v8_$dmod.so; ::findjsobjects -v; "
+
                 for report in $reports_dir/*.txt; do
                         reportname="$(basename "$report" .txt)"
-                        script="::load $dmod_dir/mdb_v8_$dmod.so; "
                         script="$script $(sed -e s'/^#.*//' "$report" | 
-                            tr '\n' ' ')"
-                        echo "    core $core, report $reportname"
-                        mdb -e "$script" $core \
-                            > report-$core-$reportname.txt || \
-                            fail "failed to run mdb"
+                            tr '\n' ' ') ! cat > report-$core-$reportname.txt; "
                 done
+
+                mdb -e "$script" $core > report-$core-common.txt || \
+                    fail "failed to run mdb"
         done
 }
 
