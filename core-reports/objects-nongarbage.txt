@@ -1,0 +1,6 @@
+#
+# Prints the full contents of all objects that mdb_v8 did not tag as garbage.
+# We'll check this by hand to look for garbage.  The undocumented -N object is
+# used to avoid printing the full contents of very long strings.
+#
+::findjsobjects -l | ::findjsobjects | ::jsprint -b -v -d1 -N 0t160

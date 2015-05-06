@@ -1,0 +1,5735 @@
+V8 version: 3.28.73.0
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+10f8ad6cdd21: {}
+1d4ac4109e41: {}
+10f8ad617141: {}
+1d4ac410b041: {}
+10f8ad66f621: {}
+10f8ad6cda81: {}
+property kind: dictionary 
+10f8ad6cda69: {}
+property kind: dictionary 
+10f8ad6cda39: {}
+property kind: dictionary 
+10f8ad6cda21: {}
+property kind: dictionary 
+e7be50820b9: {}
+e7be5098459: {}
+e7be5082279: {}
+e7be5082259: {}
+e7be5082239: {}
+e7be5082219: {}
+e7be50821f9: {}
+e7be50821d9: {}
+e7be50821b9: {}
+e7be5082199: {}
+e7be5082179: {}
+e7be5082159: {}
+e7be5082139: {}
+e7be5082119: {}
+e7be50820f9: {}
+e7be50820d9: {}
+35af181bfd9: []
+10f8ad6e0151: []
+10f8ad6cdd01: []
+10f8ad6c4c11: [
+    10f8ad6c4c11: hole,
+    10f8ad6c4c11: hole,
+    10f8ad6c4c11: hole,
+    10f8ad6c4c11: hole,
+]
+10f8ad6c2361: []
+10f8ad6ac7b9: []
+10f8ad63fa21: []
+e7be50950a1: []
+e7be5093df9: []
+e7be5093dd9: []
+e7be5093d81: []
+e7be50937c9: []
+e7be5092cb9: [
+    e7be5092cb9: hole,
+    e7be5092cb9: hole,
+    e7be5092cb9: hole,
+    e7be5092cb9: hole,
+    e7be5092cb9: hole,
+    e7be5092cb9: hole,
+    e7be5092cb9: hole,
+    e7be5092cb9: hole,
+]
+e7be5092ab9: [
+    e7be5092ab9: hole,
+    e7be5092ab9: hole,
+    e7be5092ab9: hole,
+    e7be5092ab9: hole,
+    e7be5092ab9: hole,
+    e7be5092ab9: hole,
+    e7be5092ab9: hole,
+    e7be5092ab9: hole,
+]
+e7be5092781: []
+e7be5092761: []
+e7be5091ca1: []
+e7be5088871: [
+    e7be5088871: [...],
+    e7be5088871: [...],
+    e7be5088871: hole,
+    e7be5088871: hole,
+    e7be5088871: hole,
+    e7be5088871: hole,
+    e7be5088871: hole,
+    e7be5088871: hole,
+]
+e7be5088191: [
+    e7be5088191: [...],
+    e7be5088191: hole,
+    e7be5088191: hole,
+    e7be5088191: hole,
+    e7be5088191: hole,
+    e7be5088191: hole,
+    e7be5088191: hole,
+    e7be5088191: hole,
+]
+e7be5087f91: [
+    e7be5087f91: hole,
+    e7be5087f91: hole,
+    e7be5087f91: hole,
+    e7be5087f91: hole,
+    e7be5087f91: hole,
+    e7be5087f91: hole,
+    e7be5087f91: hole,
+    e7be5087f91: hole,
+]
+e7be5087431: []
+e7be5087411: []
+e7be5084e39: []
+e7be5084e19: []
+e7be5084de9: []
+e7be5084dc9: []
+e7be5084959: []
+e7be5084579: []
+e7be5084059: []
+e7be5083651: []
+e7be5083071: []
+e7be5082d21: []
+e7be505cdb1: []
+e7be505cd91: []
+e7be505cd71: []
+e7be505cd31: []
+e7be50598e9: []
+e7be5033e91: []
+e7be40fae71: []
+e7be40f7369: []
+e7be40f5ab1: []
+e7be40f10d1: []
+e7be40eef99: []
+e7be40e9f49: []
+e7be40e1f99: []
+e7be40c0f69: []
+e7be40bba01: []
+e7be40bb9e1: []
+e7be40b6dc9: []
+e7be40ae391: []
+e7be40a7099: []
+e7be40a7041: []
+e7be40925e9: []
+e7be408bd99: []
+35af181c289: []
+35af181a8f9: {}
+1d4ac4123e39: {}
+1d4ac4123a91: {}
+1d4ac41236e9: {}
+1d4ac4122fe1: {}
+1d4ac4122ec1: {}
+1d4ac4120b99: {}
+1d4ac4120959: {}
+1d4ac411ffc9: {}
+1d4ac411fd41: {}
+1d4ac411f201: {}
+1d4ac411ef31: {}
+1d4ac411c309: {}
+1d4ac411c039: {}
+1d4ac411b4b1: {}
+1d4ac411b1e1: {}
+1d4ac4119c81: {}
+1d4ac4117a79: {}
+1d4ac4116e61: {}
+1d4ac4116b49: {}
+1d4ac41169e1: {}
+1d4ac4116951: {}
+1d4ac4116441: {}
+1d4ac4115751: {}
+1d4ac4114d79: {}
+1d4ac4114c11: {}
+1d4ac410fb11: {}
+1d4ac410fac9: {}
+1d4ac410f529: {}
+1d4ac410e299: {}
+1d4ac410d999: {}
+1d4ac4109199: {}
+1d4ac4106181: {}
+10f8ad6e0d81: {}
+10f8ad6e01f9: {}
+10f8ad6e01a9: {}
+10f8ad6d7631: {}
+10f8ad6d2741: {}
+10f8ad6d1c09: {}
+10f8ad6ce379: {}
+10f8ad6cdeb1: {}
+10f8ad6cde01: {}
+10f8ad6cdd69: {}
+10f8ad6c9819: {}
+10f8ad6c9809: {}
+10f8ad6c9799: {}
+10f8ad6c96e9: {}
+10f8ad6c9669: {}
+10f8ad6c9659: {}
+10f8ad6c95d9: {}
+10f8ad6c95c9: {}
+10f8ad6c9529: {}
+10f8ad6c9519: {}
+10f8ad6c9509: {}
+10f8ad6c94f9: {}
+10f8ad6c94e9: {}
+10f8ad6c94d9: {}
+10f8ad6c9171: {}
+10f8ad6c86e1: {}
+10f8ad6c4c59: {}
+10f8ad6c0099: {}
+10f8ad6bf761: {}
+10f8ad6bf6f9: {}
+10f8ad6bf689: {}
+10f8ad6bf619: {}
+10f8ad6bf549: {}
+10f8ad6bf4f9: {}
+10f8ad6bf2a9: {}
+10f8ad6bf259: {}
+10f8ad6bf209: {}
+10f8ad6bf1b9: {}
+10f8ad6bf169: {}
+10f8ad6bf119: {}
+10f8ad6bf0c9: {}
+10f8ad6bf079: {}
+10f8ad6bf029: {}
+10f8ad6bec31: {}
+10f8ad6bebc1: {}
+10f8ad6beb51: {}
+10f8ad6beae1: {}
+10f8ad6bea71: {}
+10f8ad6bea01: {}
+10f8ad6be991: {}
+10f8ad6be921: {}
+10f8ad6be8b1: {}
+10f8ad6be841: {}
+10f8ad6be7d1: {}
+10f8ad6be761: {}
+10f8ad6be6f1: {}
+10f8ad6be681: {}
+10f8ad6be611: {}
+10f8ad6be5a1: {}
+10f8ad6be531: {}
+10f8ad6be4c1: {}
+10f8ad6be451: {}
+10f8ad6be3e1: {}
+10f8ad6be371: {}
+10f8ad6be301: {}
+10f8ad6be291: {}
+10f8ad6be221: {}
+10f8ad6be1b1: {}
+10f8ad6be141: {}
+10f8ad6be0d1: {}
+10f8ad6be061: {}
+10f8ad6bd799: {}
+10f8ad6bd781: {}
+10f8ad6bcb19: {}
+10f8ad6ba179: {}
+10f8ad6b8d61: {}
+10f8ad6b8bb9: {}
+10f8ad6b89c9: {}
+10f8ad6b8961: {}
+10f8ad6b8891: {}
+10f8ad6b7e69: {}
+10f8ad6b7d19: {}
+10f8ad6b7a19: {}
+10f8ad6b7509: {}
+10f8ad6b04e9: {}
+10f8ad6ae801: {}
+10f8ad694461: {}
+10f8ad6943d9: {}
+10f8ad694351: {}
+10f8ad693d81: {}
+10f8ad693041: {}
+10f8ad6685f1: {}
+10f8ad662429: {}
+10f8ad658571: {}
+10f8ad6584b9: {}
+10f8ad618ff1: {}
+10f8ad618e99: {}
+10f8ad618e51: {}
+10f8ad616071: {}
+e7be50922d1: {}
+e7be50922b9: {}
+e7be508b079: {}
+e7be50857c1: {}
+e7be5085451: {}
+e7be5085429: {}
+e7be5085411: {}
+e7be5084d41: {}
+e7be5084d29: {}
+e7be5084ca1: {}
+e7be5084b21: {}
+e7be50839f1: {}
+e7be50832a1: {}
+e7be5083289: {}
+e7be5082ff9: {}
+e7be5082ca9: {}
+e7be505aab1: {}
+e7be5059909: {}
+e7be5054919: {}
+e7be5053f99: {}
+e7be5052b69: {}
+e7be5052b51: {}
+e7be5051899: {}
+e7be5051521: {}
+e7be50508f9: {}
+e7be50508e1: {}
+e7be504f489: {}
+e7be504ead9: {}
+e7be504d111: {}
+e7be5048c01: {}
+e7be5043941: {}
+e7be503ab69: {}
+e7be503aa91: {}
+e7be503a961: {}
+e7be503a8c9: {}
+e7be503a7f1: {}
+e7be503a751: {}
+e7be503a6b1: {}
+e7be503a611: {}
+e7be503a571: {}
+e7be503a4d1: {}
+e7be503a429: {}
+e7be503a381: {}
+e7be503a2e1: {}
+e7be503a241: {}
+e7be503a1a1: {}
+e7be503a101: {}
+e7be503a061: {}
+e7be5039fc1: {}
+e7be5039f21: {}
+e7be5039e81: {}
+e7be5039de1: {}
+e7be5039d41: {}
+e7be5039c99: {}
+e7be5039bf9: {}
+e7be5039b59: {}
+e7be5039ab1: {}
+e7be5039a11: {}
+e7be5039971: {}
+e7be50398d1: {}
+e7be5039831: {}
+e7be50393c1: {}
+e7be50383a9: {}
+e7be50331c9: {}
+e7be5032e49: {}
+e7be502e659: {}
+e7be502bae9: {}
+e7be502ba41: {}
+e7be502b999: {}
+e7be502b8f1: {}
+e7be502b849: {}
+e7be502b7a1: {}
+e7be502b6f9: {}
+e7be502b651: {}
+e7be502b5b1: {}
+e7be502b511: {}
+e7be502b331: {}
+e7be502b271: {}
+e7be502b1c9: {}
+e7be502b121: {}
+e7be502b081: {}
+e7be502afd9: {}
+e7be502af31: {}
+e7be502ae89: {}
+e7be502ade1: {}
+e7be502ad39: {}
+e7be502ac99: {}
+e7be502abf1: {}
+e7be502ab49: {}
+e7be502a4b9: {}
+e7be502a491: {}
+e7be502a231: {}
+e7be502a159: {}
+e7be502a0b1: {}
+e7be502a011: {}
+e7be5029f71: {}
+e7be5029ed1: {}
+e7be5029971: {}
+e7be50297f9: {}
+e7be5029609: {}
+e7be50223f9: {}
+e7be501f801: {}
+e7be5015a51: {}
+e7be5010119: {}
+e7be40f6079: {}
+e7be40f3219: {}
+e7be40efb29: {}
+e7be40eaa49: {}
+e7be40e21b1: {}
+e7be40df9c1: {}
+e7be40bd541: {}
+e7be40b0421: {}
+e7be40ae669: {}
+e7be40813f9: {}
+794dc205059: {}
+794dc204999: {}
+794dc2046c9: {}
+35af181a949: {}
+e7be5084b39: {
+    "/home/dap/node-testing/test-programs/gcore-loop.js": e7be5084b39: [...],
+}
+property kind: "properties" array 
+e7be5084cb9: {
+    "{"request":"/home/dap/node-testing/test-programs/gcore-loop.js","paths":[""
+]}": e7be5084cb9: "/home/dap/node-testing/test-programs/gcore-loop.js",
+}
+property kind: "properties" array 
+10f8ad6df9b9: {
+    "": 10f8ad6df9b9: uninitialized,
+}
+property kind: in-object 
+10f8ad6c4d39: {
+    "message": 10f8ad6c4d39: "Maximum call stack size exceeded",
+}
+property kind: "properties" array 
+e7be5051491: {
+    "offset": e7be5051491: 0,
+}
+property kind: "properties" array 
+1d4ac411aad9: {
+    "constructor": 1d4ac411aad9: 61,
+    "offset": 1d4ac411aad9: 0,
+}
+property kind: "properties" array 
+e7be5097521: {
+    "length": e7be5097521: 4,
+    "callee": e7be5097521: function <anonymous> (as fs.readSync),
+}
+property kind: numeric-named in-object 
+e7be50524a1: {
+    "target_defaults": e7be50524a1: [...],
+    "variables": e7be50524a1: [...],
+}
+property kind: "properties" array 
+10f8ad6b3391: {
+    "name": 10f8ad6b3391: "Error",
+    "message": 10f8ad6b3391: "",
+}
+property kind: in-object 
+e7be5097171: {
+    "length": e7be5097171: 392,
+    "parent": e7be5097171: [...],
+}
+property kind: in-object 
+e7be5051539: {
+    "kMaxLength": e7be5051539: 1073741823,
+}
+property kind: "properties" array 
+1d4ac41178c9: {
+    "kMaxLength": 1d4ac41178c9: 8,
+}
+property kind: "properties" array 
+10f8ad6b9d81: {
+    "next": 10f8ad6b9d81: function next,
+}
+property kind: "properties" array 
+1d4ac410ee69: {
+    "next": 1d4ac410ee69: 2,
+}
+property kind: "properties" array 
+10f8ad6ba7c1: {
+    "nu": 10f8ad6ba7c1: uninitialized,
+}
+property kind: in-object 
+10f8ad6ce731: {
+    "nu": 10f8ad6ce731: [...],
+}
+property kind: in-object 
+e7be5098ed1: {
+    "obj7arr": e7be5098ed1: [...],
+}
+property kind: in-object 
+e7be50991a9: {
+    "obj7arr": e7be50991a9: [...],
+}
+property kind: in-object 
+e7be4091d89: {
+    "value": e7be4091d89: function process,
+}
+property kind: in-object 
+10f8ad6d7531: {
+    "value": 10f8ad6d7531: uninitialized,
+}
+property kind: in-object 
+e7be5052b39: {
+    "INSPECT_MAX_BYTES": e7be5052b39: 50,
+}
+property kind: "properties" array 
+1d4ac41179e9: {
+    "INSPECT_MAX_BYTES": 1d4ac41179e9: 3,
+}
+property kind: "properties" array 
+10f8ad6bac21: {
+    "get": 10f8ad6bac21: uninitialized,
+    "enumerable": 10f8ad6bac21: false,
+    "configurable": 10f8ad6bac21: true,
+}
+property kind: in-object 
+e7be5021401: {
+    "domain": e7be5021401: undefined,
+    "_events": e7be5021401: undefined,
+    "_maxListeners": e7be5021401: undefined,
+}
+property kind: "properties" array 
+10f8ad6b3561: {
+    "get": 10f8ad6b3561: uninitialized,
+    "set": 10f8ad6b3561: uninitialized,
+    "configurable": 10f8ad6b3561: true,
+}
+property kind: in-object 
+10f8ad6b2f91: {
+    "receiver": 10f8ad6b2f91: undefined,
+    "fun": 10f8ad6b2f91: undefined,
+    "pos": 10f8ad6b2f91: undefined,
+}
+property kind: "properties" array 
+35af181d4f9: {
+    "get": 35af181d4f9: uninitialized,
+}
+property kind: in-object 
+e7be5097d01: {
+    "get": e7be5097d01: function <anonymous> (as Object.defineProperty.get),
+}
+property kind: in-object 
+e7be5047b49: {
+    "get": e7be5047b49: uninitialized,
+}
+property kind: in-object 
+e7be504c691: {
+    "_writev": e7be504c691: null,
+}
+property kind: "properties" array 
+1d4ac4120641: {
+    "_writev": 1d4ac4120641: 8,
+}
+property kind: "properties" array 
+e7be50597e9: {
+    "_writev": e7be50597e9: null,
+}
+property kind: "properties" array 
+35af181d5b1: {
+    "filename": 35af181d5b1: uninitialized,
+}
+property kind: in-object 
+10f8ad6d29b1: {
+    "filename": 10f8ad6d29b1: uninitialized,
+}
+property kind: in-object 
+e7be5098429: {
+    "filename": e7be5098429: "/home/dap/node-testing/test-programs/gcore-loop.js
+",
+}
+property kind: in-object 
+1d4ac4116879: {
+    "constructor": 1d4ac4116879: 12,
+    "domain": 1d4ac4116879: 0,
+    "_events": 1d4ac4116879: "constructor",
+    "_maxListeners": 1d4ac4116879: 9745,
+}
+property kind: "properties" array 
+35af181a121: {
+    "request": 35af181a121: uninitialized,
+    "paths": 35af181a121: uninitialized,
+}
+property kind: in-object 
+e7be50887e1: {
+    "request": e7be50887e1: "/home/dap/node-testing/test-programs/gcore-loop.js"
+,
+    "paths": e7be50887e1: [...],
+}
+property kind: in-object 
+35af181c6a1: {
+    "encoding": 35af181c6a1: uninitialized,
+    "flag": 35af181c6a1: "r",
+}
+property kind: in-object 
+e7be50951e9: {
+    "encoding": e7be50951e9: "utf8",
+    "flag": e7be50951e9: "r",
+}
+property kind: in-object 
+e7be5054391: {
+    "sep": e7be5054391: "\",
+    "delimiter": e7be5054391: ";",
+}
+property kind: "properties" array 
+1d4ac411b8e9: {
+    "sep": 1d4ac411b8e9: 13,
+    "delimiter": 1d4ac411b8e9: 0,
+}
+property kind: "properties" array 
+10f8ad644d21: {
+    "time": 10f8ad644d21: 0,
+    "string": 10f8ad644d21: null,
+}
+property kind: in-object 
+10f8ad6c53d9: {
+    "time": 10f8ad6c53d9: 0,
+    "string": 10f8ad6c53d9: null,
+}
+property kind: in-object 
+10f8ad6688d9: {
+    "0": 10f8ad6688d9: 1,
+    "1": 10f8ad6688d9: [...],
+}
+property kind: numeric-named 
+10f8ad6c9379: {
+    "0": 10f8ad6c9379: 0,
+    "1": 10f8ad6c9379: undefined,
+}
+property kind: numeric-named 
+e7be505be51: {
+    "kMaxLength": e7be505be51: 1073741823,
+    "Types": e7be505be51: [...],
+}
+property kind: "properties" array 
+1d4ac41218d1: {
+    "kMaxLength": 1d4ac41218d1: 6,
+    "Types": 1d4ac41218d1: 0,
+}
+property kind: "properties" array 
+10f8ad6ba899: {
+    "ca": 10f8ad6ba899: uninitialized,
+    "nu": 10f8ad6ba899: uninitialized,
+}
+property kind: in-object 
+10f8ad6ce751: {
+    "ca": 10f8ad6ce751: [...],
+    "nu": 10f8ad6ce751: [...],
+}
+property kind: in-object 
+10f8ad6ba741: {
+    "kn": 10f8ad6ba741: [...],
+    "kf": 10f8ad6ba741: [...],
+}
+property kind: in-object 
+10f8ad6ce709: {
+    "kn": 10f8ad6ce709: [...],
+    "kf": 10f8ad6ce709: [...],
+}
+property kind: in-object 
+e7be5050061: {
+    "enumerable": e7be5050061: false,
+    "value": e7be5050061: uninitialized,
+}
+property kind: in-object 
+10f8ad6614e1: {
+    "enumerable": 10f8ad6614e1: false,
+    "value": 10f8ad6614e1: uninitialized,
+}
+property kind: in-object 
+10f8ad6b2eb1: {
+    "script": 10f8ad6b2eb1: undefined,
+    "from_line": 10f8ad6b2eb1: undefined,
+    "to_line": 10f8ad6b2eb1: undefined,
+    "from_position": 10f8ad6b2eb1: undefined,
+    "to_position": 10f8ad6b2eb1: undefined,
+}
+property kind: "properties" array 
+e7be505b3e9: {
+    "cflags": e7be505b3e9: [...],
+    "default_configuration": e7be505b3e9: "Release",
+    "defines": e7be505b3e9: [...],
+    "include_dirs": e7be505b3e9: [...],
+    "libraries": e7be505b3e9: [...],
+}
+property kind: "properties" array 
+10f8ad672479: {
+    "contextify": 10f8ad672479: [...],
+    "natives": 10f8ad672479: [...],
+    "buffer": 10f8ad672479: [...],
+    "smalloc": 10f8ad672479: [...],
+    "fs": 10f8ad672479: [...],
+    "constants": 10f8ad672479: [...],
+}
+property kind: "properties" array 
+10f8ad6b2da1: {
+    "script": 10f8ad6b2da1: undefined,
+    "position": 10f8ad6b2da1: undefined,
+    "line": 10f8ad6b2da1: undefined,
+    "column": 10f8ad6b2da1: undefined,
+    "start": 10f8ad6b2da1: undefined,
+    "end": 10f8ad6b2da1: undefined,
+}
+property kind: "properties" array 
+10f8ad6ba711: {
+    "property": 10f8ad6ba711: "caseFirst",
+    "type": 10f8ad6ba711: "string",
+    "values": 10f8ad6ba711: [...],
+}
+property kind: in-object 
+10f8ad6d12d9: {
+    "property": 10f8ad6d12d9: "caseFirst",
+    "type": 10f8ad6d12d9: "string",
+    "values": 10f8ad6d12d9: [...],
+}
+property kind: in-object 
+10f8ad6189a9: {
+    "source": 10f8ad6189a9: undefined,
+    "name": 10f8ad6189a9: undefined,
+    "source_url": 10f8ad6189a9: undefined,
+    "source_mapping_url": 10f8ad6189a9: undefined,
+    "line_ends": 10f8ad6189a9: undefined,
+    "line_offset": 10f8ad6189a9: undefined,
+    "column_offset": 10f8ad6189a9: undefined,
+}
+property kind: "properties" array 
+e7be5086101: {
+    "0": e7be5086101: "/home/dap/node-testing/node-v0.12.2-sunos-x64/bin/node",
+    "1": e7be5086101: "..",
+    "2": e7be5086101: "..",
+    "3": e7be5086101: "lib",
+    "4": e7be5086101: "node",
+    "length": e7be5086101: 5,
+    "callee": e7be5086101: function <anonymous> (as posix.resolve),
+}
+property kind: numeric-named in-object 
+e7be5092159: {
+    "id": e7be5092159: ".",
+    "exports": e7be5092159: [...],
+    "parent": e7be5092159: null,
+    "filename": e7be5092159: "/home/dap/node-testing/test-programs/gcore-loop.js
+",
+    "loaded": e7be5092159: false,
+    "children": e7be5092159: [...],
+    "paths": e7be5092159: [...],
+}
+property kind: in-object 
+10f8ad6c36c9: {
+    "E": 10f8ad6c36c9: 2.718282e+00,
+    "LN10": 10f8ad6c36c9: 2.302585e+00,
+    "LN2": 10f8ad6c36c9: 6.931472e-01,
+    "LOG2E": 10f8ad6c36c9: 1.442695e+00,
+    "LOG10E": 10f8ad6c36c9: 4.342945e-01,
+    "PI": 10f8ad6c36c9: 3.141593e+00,
+    "SQRT1_2": 10f8ad6c36c9: 7.071068e-01,
+    "SQRT2": 10f8ad6c36c9: 1.414214e+00,
+}
+property kind: in-object 
+10f8ad6ba2d1: {
+    "collator": 10f8ad6ba2d1: uninitialized,
+    "numberformat": 10f8ad6ba2d1: uninitialized,
+    "dateformat": 10f8ad6ba2d1: uninitialized,
+    "breakiterator": 10f8ad6ba2d1: uninitialized,
+}
+property kind: in-object 
+10f8ad6ce411: {
+    "collator": 10f8ad6ce411: undefined,
+    "numberformat": 10f8ad6ce411: undefined,
+    "dateformat": 10f8ad6ce411: undefined,
+    "breakiterator": 10f8ad6ce411: undefined,
+}
+property kind: in-object 
+e7be5004291: {
+    "F_OK": e7be5004291: 0,
+    "R_OK": e7be5004291: 4,
+    "W_OK": e7be5004291: 2,
+    "X_OK": e7be5004291: 1,
+}
+property kind: "properties" array 
+1d4ac4123731: {
+    "F_OK": 1d4ac4123731: 79,
+    "R_OK": 1d4ac4123731: 0,
+    "W_OK": 1d4ac4123731: "Stats",
+    "X_OK": 1d4ac4123731: 64002,
+}
+property kind: "properties" array 
+10f8ad6ce339: {
+    "constructor": 10f8ad6ce339: function <anonymous> (as $Object.defineProperty
+.value.bs),
+    "resolvedOptions": 10f8ad6ce339: function resolvedOptions,
+}
+property kind: "properties" array 
+1d4ac410fc79: {
+    "constructor": 1d4ac410fc79: 7,
+    "resolvedOptions": 1d4ac410fc79: 0,
+}
+property kind: "properties" array 
+1d4ac410f9a9: {
+    "constructor": 1d4ac410f9a9: 4,
+    "resolvedOptions": 1d4ac410f9a9: 0,
+}
+property kind: "properties" array 
+10f8ad6ce3b9: {
+    "constructor": 10f8ad6ce3b9: function <anonymous> (as $Object.defineProperty
+.value.bN),
+    "resolvedOptions": 10f8ad6ce3b9: function resolvedOptions,
+}
+property kind: "properties" array 
+e7be40b6239: {
+    "0": e7be40b6239: "../test-programs/gcore-loop.js",
+    "length": e7be40b6239: 1,
+    "callee": e7be40b6239: function <anonymous> (as posix.resolve),
+}
+property kind: numeric-named in-object 
+e7be50937e9: {
+    "0": e7be50937e9: "/home/dap/node-testing/test-programs",
+    "length": e7be50937e9: 1,
+    "callee": e7be50937e9: function <anonymous> (as posix.resolve),
+}
+property kind: numeric-named in-object 
+e7be508abc1: {
+    "0": e7be508abc1: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    "length": e7be508abc1: 1,
+    "callee": e7be508abc1: function <anonymous> (as posix.resolve),
+}
+property kind: numeric-named in-object 
+10f8ad6b7651: {
+    "BYTES_PER_ELEMENT": 10f8ad6b7651: 1,
+}
+property kind: "properties" array 
+10f8ad6b79c1: {
+    "BYTES_PER_ELEMENT": 10f8ad6b79c1: 1,
+}
+property kind: "properties" array 
+10f8ad6b7969: {
+    "BYTES_PER_ELEMENT": 10f8ad6b7969: 8,
+}
+property kind: "properties" array 
+10f8ad6b7911: {
+    "BYTES_PER_ELEMENT": 10f8ad6b7911: 4,
+}
+property kind: "properties" array 
+10f8ad6b78b9: {
+    "BYTES_PER_ELEMENT": 10f8ad6b78b9: 4,
+}
+property kind: "properties" array 
+10f8ad6b7861: {
+    "BYTES_PER_ELEMENT": 10f8ad6b7861: 4,
+}
+property kind: "properties" array 
+10f8ad6b7809: {
+    "BYTES_PER_ELEMENT": 10f8ad6b7809: 2,
+}
+property kind: "properties" array 
+10f8ad6b77b1: {
+    "BYTES_PER_ELEMENT": 10f8ad6b77b1: 2,
+}
+property kind: "properties" array 
+10f8ad6b7759: {
+    "BYTES_PER_ELEMENT": 10f8ad6b7759: 1,
+}
+property kind: "properties" array 
+1d4ac4110cc9: {
+    "version": 1d4ac4110cc9: 11,
+    "moduleLoadList": 1d4ac4110cc9: 0,
+    "versions": 1d4ac4110cc9: "title",
+    "arch": 1d4ac4110cc9: 2627,
+    "platform": 1d4ac4110cc9: <unknown JavaScript object type "ExecutableAccesso
+rInfo">,
+    "argv": 1d4ac4110cc9: "version",
+    "execArgv": 1d4ac4110cc9: 3593,
+    "env": 1d4ac4110cc9: -1,
+    "pid": 1d4ac4110cc9: "moduleLoadList",
+    "features": 1d4ac4110cc9: 1057289,
+}
+property kind: "properties" array 
+e7be5013c99: {
+    "resolve": e7be5013c99: function <anonymous> (as posix.resolve),
+    "sep": e7be5013c99: "/",
+    "delimiter": e7be5013c99: ":",
+    "posix": e7be5013c99: [...],
+    "win32": e7be5013c99: [...],
+}
+property kind: "properties" array 
+1d4ac411bd21: {
+    "resolve": 1d4ac411bd21: 15,
+    "sep": 1d4ac411bd21: 0,
+    "delimiter": 1d4ac411bd21: "resolve",
+    "posix": 1d4ac411bd21: 8705,
+    "win32": 1d4ac411bd21: -1,
+}
+property kind: "properties" array 
+1d4ac4110d59: {
+    "version": 1d4ac4110d59: 0,
+    "moduleLoadList": 1d4ac4110d59: 2627,
+    "versions": 1d4ac4110d59: 3154505,
+    "arch": 1d4ac4110d59: "moduleLoadList",
+    "platform": 1d4ac4110d59: -1,
+    "argv": 1d4ac4110d59: 13,
+    "execArgv": 1d4ac4110d59: "title",
+    "env": 1d4ac4110d59: "version",
+    "pid": 1d4ac4110d59: <unknown JavaScript object type "ExecutableAccessorInfo
+">,
+    "features": 1d4ac4110d59: 1052233,
+    "execPath": 1d4ac4110d59: -1,
+}
+property kind: "properties" array 
+10f8ad6b3c49: {
+    "value_": 10f8ad6b3c49: undefined,
+    "hasValue_": 10f8ad6b3c49: undefined,
+    "writable_": 10f8ad6b3c49: undefined,
+    "hasWritable_": 10f8ad6b3c49: undefined,
+    "enumerable_": 10f8ad6b3c49: undefined,
+    "hasEnumerable_": 10f8ad6b3c49: undefined,
+    "configurable_": 10f8ad6b3c49: undefined,
+    "hasConfigurable_": 10f8ad6b3c49: undefined,
+    "get_": 10f8ad6b3c49: undefined,
+    "hasGetter_": 10f8ad6b3c49: undefined,
+    "set_": 10f8ad6b3c49: undefined,
+    "hasSetter_": 10f8ad6b3c49: undefined,
+}
+property kind: "properties" array 
+10f8ad6c8151: {
+    "add": 10f8ad6c8151: 1,
+    "update": 10f8ad6c8151: 1,
+    "delete": 10f8ad6c8151: 1,
+    "setPrototype": 10f8ad6c8151: 1,
+    "reconfigure": 10f8ad6c8151: 1,
+    "preventExtensions": 10f8ad6c8151: 1,
+}
+property kind: "properties" array 
+1d4ac410d831: {
+    "add": 1d4ac410d831: 6,
+    "update": 1d4ac410d831: 0,
+    "delete": 1d4ac410d831: "add",
+    "setPrototype": 1d4ac410d831: 321,
+    "reconfigure": 1d4ac410d831: -1,
+    "preventExtensions": 1d4ac410d831: "update",
+}
+property kind: "properties" array 
+10f8ad66f639: {
+    "for": 10f8ad66f639: [...],
+    "for_api": 10f8ad66f639: [...],
+    "for_intern": 10f8ad66f639: [...],
+    "keyFor": 10f8ad66f639: [...],
+    "private_api": 10f8ad66f639: [...],
+    "private_intern": 10f8ad66f639: [...],
+}
+property kind: "properties" array 
+1d4ac4108929: {
+    "for": 1d4ac4108929: 6,
+    "for_api": 1d4ac4108929: 0,
+    "for_intern": 1d4ac4108929: "for",
+    "keyFor": 1d4ac4108929: 513,
+    "private_api": 1d4ac4108929: -1,
+    "private_intern": 1d4ac4108929: "for_api",
+}
+property kind: "properties" array 
+e7be5086a31: {
+    "0": e7be5086a31: "/home/dap",
+    "1": e7be5086a31: ".node_libraries",
+    "length": e7be5086a31: 2,
+    "callee": e7be5086a31: function <anonymous> (as posix.resolve),
+}
+property kind: numeric-named in-object 
+e7be50889e9: {
+    "0": e7be50889e9: "",
+    "1": e7be50889e9: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    "length": e7be50889e9: 2,
+    "callee": e7be50889e9: function <anonymous> (as posix.resolve),
+}
+property kind: numeric-named in-object 
+e7be5086ee9: {
+    "0": e7be5086ee9: "/home/dap",
+    "1": e7be5086ee9: ".node_modules",
+    "length": e7be5086ee9: 2,
+    "callee": e7be5086ee9: function <anonymous> (as posix.resolve),
+}
+property kind: numeric-named in-object 
+10f8ad6b6661: {
+    "name": 10f8ad6b6661: "RangeError",
+}
+property kind: "properties" array 
+1d4ac410a939: {
+    "name": 1d4ac410a939: 3,
+}
+property kind: "properties" array 
+1d4ac410a861: {
+    "name": 1d4ac410a861: 3,
+}
+property kind: "properties" array 
+1d4ac410a789: {
+    "name": 1d4ac410a789: 3,
+}
+property kind: "properties" array 
+1d4ac410a6b1: {
+    "name": 1d4ac410a6b1: 3,
+}
+property kind: "properties" array 
+1d4ac410a5d9: {
+    "name": 1d4ac410a5d9: 3,
+}
+property kind: "properties" array 
+1d4ac410a501: {
+    "name": 1d4ac410a501: 3,
+}
+property kind: "properties" array 
+10f8ad6cd651: {
+    "name": 10f8ad6cd651: "URIError",
+}
+property kind: "properties" array 
+10f8ad6cd601: {
+    "name": 10f8ad6cd601: "EvalError",
+}
+property kind: "properties" array 
+10f8ad6cd5b1: {
+    "name": 10f8ad6cd5b1: "ReferenceError",
+}
+property kind: "properties" array 
+10f8ad6cd561: {
+    "name": 10f8ad6cd561: "SyntaxError",
+}
+property kind: "properties" array 
+10f8ad6cd511: {
+    "name": 10f8ad6cd511: "TypeError",
+}
+property kind: "properties" array 
+1d4ac411f5f1: {
+    "E2BIG": 1d4ac411f5f1: 13,
+    "EACCES": 1d4ac411f5f1: 0,
+    "EADDRINUSE": 1d4ac411f5f1: "E2BIG",
+    "EADDRNOTAVAIL": 1d4ac411f5f1: 7529,
+    "EAFNOSUPPORT": 1d4ac411f5f1: -1,
+    "EAGAIN": 1d4ac411f5f1: "EACCES",
+    "EALREADY": 1d4ac411f5f1: 1049961,
+    "EBADF": 1d4ac411f5f1: -1,
+    "EBADMSG": 1d4ac411f5f1: "EADDRINUSE",
+    "EBUSY": 1d4ac411f5f1: 2106729,
+    "ECANCELED": 1d4ac411f5f1: -1,
+    "ECHILD": 1d4ac411f5f1: "EADDRNOTAVAIL",
+    "ECONNABORTED": 1d4ac411f5f1: 3149161,
+}
+property kind: "properties" array 
+1d4ac411b109: {
+    "clang": 1d4ac411b109: 13,
+    "gcc_version": 1d4ac411b109: 0,
+    "host_arch": 1d4ac411b109: "clang",
+    "icu_data_file": 1d4ac411b109: 8513,
+    "icu_data_in": 1d4ac411b109: -1,
+    "icu_endianness": 1d4ac411b109: "gcc_version",
+    "icu_gyp_path": 1d4ac411b109: 1055041,
+    "icu_locales": 1d4ac411b109: -1,
+    "icu_path": 1d4ac411b109: "host_arch",
+    "icu_small": 1d4ac411b109: 2107905,
+    "icu_ver_major": 1d4ac411b109: -1,
+    "node_install_npm": 1d4ac411b109: "icu_data_file",
+    "node_prefix": 1d4ac411b109: 3148289,
+}
+property kind: "properties" array 
+1d4ac4115169: {
+    "_debugger": 1d4ac4115169: 13,
+    "_linklist": 1d4ac4115169: 0,
+    "assert": 1d4ac4115169: "_debugger",
+    "buffer": 1d4ac4115169: 1537,
+    "child_process": 1d4ac4115169: -1,
+    "console": 1d4ac4115169: "_linklist",
+    "constants": 1d4ac4115169: 1059329,
+    "crypto": 1d4ac4115169: -1,
+    "cluster": 1d4ac4115169: "assert",
+    "dgram": 1d4ac4115169: 2101761,
+    "dns": 1d4ac4115169: -1,
+    "domain": 1d4ac4115169: "buffer",
+    "events": 1d4ac4115169: 3146241,
+}
+property kind: "properties" array 
+10f8ad6cdd51: {
+    "http_parser": 10f8ad6cdd51: "2.3",
+    "node": 10f8ad6cdd51: "0.12.2",
+    "v8": 10f8ad6cdd51: "3.28.73",
+    "uv": 10f8ad6cdd51: "1.4.2-node1",
+    "zlib": 10f8ad6cdd51: "1.2.8",
+    "modules": 10f8ad6cdd51: "14",
+    "openssl": 10f8ad6cdd51: "1.0.1m",
+}
+property kind: "properties" array 
+1d4ac41107b9: {
+    "http_parser": 1d4ac41107b9: 7,
+    "node": 1d4ac41107b9: 0,
+    "v8": 1d4ac41107b9: "http_parser",
+    "uv": 1d4ac41107b9: 5641,
+    "zlib": 1d4ac41107b9: -1,
+    "modules": 1d4ac41107b9: "node",
+    "openssl": 1d4ac41107b9: 1050121,
+}
+property kind: "properties" array 
+e7be5098a41: {
+    "obj1smalldate": e7be5098a41: uninitialized,
+    "obj2bigdate": e7be5098a41: uninitialized,
+    "obj3null": e7be5098a41: null,
+    "obj4undef": e7be5098a41: uninitialized,
+    "obj5num": e7be5098a41: 5,
+    "obj6obj": e7be5098a41: [...],
+    "obj8str": e7be5098a41: "it was the blurst of times!",
+}
+property kind: in-object 
+e7be5099149: {
+    "obj1smalldate": e7be5099149: 1430174633106 (2015 Apr 27 15:43:53),
+    "obj2bigdate": e7be5099149: 0 (1969 Dec 31 16:00:00),
+    "obj3null": e7be5099149: null,
+    "obj4undef": e7be5099149: undefined,
+    "obj5num": e7be5099149: 5,
+    "obj6obj": e7be5099149: [...],
+    "obj8str": e7be5099149: "it was the blurst of times!",
+}
+property kind: in-object 
+10f8ad6cdd39: {
+    "debug": 10f8ad6cdd39: false,
+    "uv": 10f8ad6cdd39: true,
+    "ipv6": 10f8ad6cdd39: true,
+    "tls_npn": 10f8ad6cdd39: true,
+    "tls_sni": 10f8ad6cdd39: true,
+    "tls_ocsp": 10f8ad6cdd39: true,
+    "tls": 10f8ad6cdd39: true,
+}
+property kind: "properties" array 
+1d4ac4110c81: {
+    "debug": 1d4ac4110c81: 7,
+    "uv": 1d4ac4110c81: 0,
+    "ipv6": 1d4ac4110c81: "debug",
+    "tls_npn": 1d4ac4110c81: 5633,
+    "tls_sni": 1d4ac4110c81: -1,
+    "tls_ocsp": 1d4ac4110c81: "uv",
+    "tls": 1d4ac4110c81: 1055233,
+}
+property kind: "properties" array 
+e7be5051551: {
+    "events": e7be5051551: [...],
+    "util": e7be5051551: [...],
+    "buffer": e7be5051551: [...],
+    "path": e7be5051551: [...],
+    "module": e7be5051551: [...],
+    "vm": e7be5051551: [...],
+    "assert": e7be5051551: [...],
+    "fs": e7be5051551: [...],
+    "stream": e7be5051551: [...],
+    "_stream_readable": e7be5051551: [...],
+    "_stream_writable": e7be5051551: [...],
+    "_stream_duplex": e7be5051551: [...],
+    "_stream_transform": e7be5051551: [...],
+    "_stream_passthrough": e7be5051551: [...],
+    "smalloc": e7be5051551: [...],
+}
+property kind: "properties" array 
+794dc204681: {
+    "/home": 794dc204681: 5,
+    "/home/dap": 794dc204681: 0,
+    "/home/dap/node-testing": 794dc204681: "/home",
+    "/home/dap/node-testing/test-programs": 794dc204681: 3585,
+    "/home/dap/node-testing/test-programs/gcore-loop.js": 794dc204681: -1,
+}
+property kind: "properties" array 
+e7be508b0a1: {
+    "/home": e7be508b0a1: true,
+    "/home/dap": e7be508b0a1: true,
+    "/home/dap/node-testing": e7be508b0a1: true,
+    "/home/dap/node-testing/test-programs": e7be508b0a1: true,
+    "/home/dap/node-testing/test-programs/gcore-loop.js": e7be508b0a1: true,
+}
+property kind: "properties" array 
+e7be5085469: {
+    "/home": e7be5085469: "/home",
+    "/home/dap": e7be5085469: "/home/dap",
+    "/home/dap/node-testing": e7be5085469: "/home/dap/node-testing",
+    "/home/dap/node-testing/test-programs": e7be5085469: "/home/dap/node-testing
+/test-programs",
+    "/home/dap/node-testing/test-programs/gcore-loop.js": e7be5085469: "/home/da
+p/node-testing/test-programs/gcore-loop.js",
+}
+property kind: "properties" array 
+1d4ac411b301: {
+    "version": 1d4ac411b301: 0,
+    "moduleLoadList": 1d4ac411b301: 40515,
+    "versions": 1d4ac411b301: -1,
+    "arch": 1d4ac411b301: 3165769,
+    "platform": 1d4ac411b301: "moduleLoadList",
+    "argv": 1d4ac411b301: 54,
+    "execArgv": 1d4ac411b301: "title",
+    "env": 1d4ac411b301: 1063497,
+    "pid": 1d4ac411b301: <unknown JavaScript object type "ExecutableAccessorInfo
+">,
+    "features": 1d4ac411b301: -1,
+    "execPath": 1d4ac411b301: "version",
+    "_events": 1d4ac411b301: "versions",
+    "domain": 1d4ac411b301: 10488393,
+    "_maxListeners": 1d4ac411b301: -1,
+    "_exiting": 1d4ac411b301: "arch",
+    "config": 1d4ac411b301: 9480777,
+}
+property kind: "properties" array 
+10f8ad6c2cf9: [
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+    10f8ad6c2cf9: hole,
+]
+e7be40f13d1: [
+    e7be40f13d1: "pipe",
+    e7be40f13d1: "write",
+    e7be40f13d1: "cork",
+    e7be40f13d1: "uncork",
+    e7be40f13d1: "setDefaultEncoding",
+    e7be40f13d1: "_write",
+    e7be40f13d1: "_writev",
+    e7be40f13d1: "end",
+]
+10f8ad6c5689: [
+    10f8ad6c5689: hole,
+    10f8ad6c5689: hole,
+    10f8ad6c5689: hole,
+    10f8ad6c5689: hole,
+    10f8ad6c5689: hole,
+    10f8ad6c5689: hole,
+    10f8ad6c5689: hole,
+    10f8ad6c5689: hole,
+]
+10f8ad6ba6c9: {
+    "property": 10f8ad6ba6c9: "numeric",
+    "type": 10f8ad6ba6c9: "boolean",
+}
+property kind: in-object 
+10f8ad6d1359: {
+    "property": 10f8ad6d1359: undefined,
+    "type": 10f8ad6d1359: "string",
+}
+property kind: in-object 
+10f8ad6d1331: {
+    "property": 10f8ad6d1331: undefined,
+    "type": 10f8ad6d1331: "string",
+}
+property kind: in-object 
+10f8ad6d1309: {
+    "property": 10f8ad6d1309: undefined,
+    "type": 10f8ad6d1309: "string",
+}
+property kind: in-object 
+10f8ad6d12b1: {
+    "property": 10f8ad6d12b1: "numeric",
+    "type": 10f8ad6d12b1: "boolean",
+}
+property kind: in-object 
+10f8ad6ba8e9: {
+    "property": 10f8ad6ba8e9: uninitialized,
+    "type": 10f8ad6ba8e9: "string",
+}
+property kind: in-object 
+10f8ad6ba8c1: {
+    "property": 10f8ad6ba8c1: uninitialized,
+    "type": 10f8ad6ba8c1: "string",
+}
+property kind: in-object 
+10f8ad6ba7e1: {
+    "property": 10f8ad6ba7e1: uninitialized,
+    "type": 10f8ad6ba7e1: "string",
+}
+property kind: in-object 
+e7be501ff39: {
+    "special": e7be501ff39: "cyan",
+    "number": e7be501ff39: "yellow",
+    "boolean": e7be501ff39: "yellow",
+    "undefined": e7be501ff39: "grey",
+    "null": e7be501ff39: "bold",
+    "string": e7be501ff39: "green",
+    "symbol": e7be501ff39: "green",
+    "date": e7be501ff39: "magenta",
+    "regexp": e7be501ff39: "red",
+}
+property kind: in-object 
+e7be505b191: {
+    "special": e7be505b191: "cyan",
+    "number": e7be505b191: "yellow",
+    "boolean": e7be505b191: "yellow",
+    "undefined": e7be505b191: "grey",
+    "null": e7be505b191: "bold",
+    "string": e7be505b191: "green",
+    "symbol": e7be505b191: "green",
+    "date": e7be505b191: "magenta",
+    "regexp": e7be505b191: "red",
+}
+property kind: in-object 
+10f8ad6bbc11: {
+    "collator": 10f8ad6bbc11: uninitialized,
+    "numberformat": 10f8ad6bbc11: uninitialized,
+    "dateformatall": 10f8ad6bbc11: uninitialized,
+    "dateformatdate": 10f8ad6bbc11: uninitialized,
+    "dateformattime": 10f8ad6bbc11: uninitialized,
+}
+property kind: in-object 
+10f8ad6cf1b1: {
+    "collator": 10f8ad6cf1b1: undefined,
+    "numberformat": 10f8ad6cf1b1: undefined,
+    "dateformatall": 10f8ad6cf1b1: undefined,
+    "dateformatdate": 10f8ad6cf1b1: undefined,
+    "dateformattime": 10f8ad6cf1b1: undefined,
+}
+property kind: in-object 
+10f8ad6cf171: {
+    "collator": 10f8ad6cf171: function <anonymous> (as $Object.defineProperty.va
+lue.bf),
+    "numberformat": 10f8ad6cf171: function <anonymous> (as $Object.definePropert
+y.value.bs),
+    "dateformatall": 10f8ad6cf171: function <anonymous> (as $Object.defineProper
+ty.value.bs),
+    "dateformatdate": 10f8ad6cf171: function <anonymous> (as $Object.definePrope
+rty.value.bs),
+    "dateformattime": 10f8ad6cf171: function <anonymous> (as $Object.definePrope
+rty.value.bs),
+}
+property kind: in-object 
+10f8ad6bbc51: {
+    "collator": 10f8ad6bbc51: uninitialized,
+    "numberformat": 10f8ad6bbc51: uninitialized,
+    "dateformatall": 10f8ad6bbc51: uninitialized,
+    "dateformatdate": 10f8ad6bbc51: uninitialized,
+    "dateformattime": 10f8ad6bbc51: uninitialized,
+}
+property kind: in-object 
+10f8ad672491: [
+    10f8ad672491: "Binding contextify",
+    10f8ad672491: "Binding natives",
+    10f8ad672491: "NativeModule events",
+    10f8ad672491: "NativeModule util",
+    10f8ad672491: "NativeModule buffer",
+    10f8ad672491: "Binding buffer",
+    10f8ad672491: "Binding smalloc",
+    10f8ad672491: "NativeModule path",
+    10f8ad672491: "NativeModule module",
+    10f8ad672491: "NativeModule vm",
+    10f8ad672491: "NativeModule assert",
+    10f8ad672491: "NativeModule fs",
+    10f8ad672491: "Binding fs",
+    10f8ad672491: "Binding constants",
+    10f8ad672491: "NativeModule stream",
+    10f8ad672491: "NativeModule _stream_readable",
+    10f8ad672491: "NativeModule _stream_writable",
+    10f8ad672491: "NativeModule _stream_duplex",
+    10f8ad672491: "NativeModule _stream_transform",
+    10f8ad672491: "NativeModule _stream_passthrough",
+    10f8ad672491: "NativeModule smalloc",
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+    10f8ad672491: hole,
+]
+10f8ad629999: {
+    "copyWithin": 10f8ad629999: true,
+    "entries": 10f8ad629999: true,
+    "fill": 10f8ad629999: true,
+    "find": 10f8ad629999: true,
+    "findIndex": 10f8ad629999: true,
+    "keys": 10f8ad629999: true,
+    "values": 10f8ad629999: true,
+}
+property kind: in-object 
+10f8ad6cde19: {
+    "copyWithin": 10f8ad6cde19: true,
+    "entries": 10f8ad6cde19: true,
+    "fill": 10f8ad6cde19: true,
+    "find": 10f8ad6cde19: true,
+    "findIndex": 10f8ad6cde19: true,
+    "keys": 10f8ad6cde19: true,
+    "values": 10f8ad6cde19: true,
+}
+property kind: in-object 
+10f8ad6aecc1: {
+    "copyWithin": 10f8ad6aecc1: 11,
+    "entries": 10f8ad6aecc1: 3,
+    "fill": 10f8ad6aecc1: 0,
+    "find": 10f8ad6aecc1: "length",
+    "findIndex": 10f8ad6aecc1: 627,
+    "keys": 10f8ad6aecc1: <unknown JavaScript object type "ExecutableAccessorInf
+o">,
+    "values": 10f8ad6aecc1: "constructor",
+}
+property kind: in-object 
+10f8ad6bbd91: {
+    "value": 10f8ad6bbd91: uninitialized,
+    "writable": 10f8ad6bbd91: true,
+    "configurable": 10f8ad6bbd91: true,
+    "enumerable": 10f8ad6bbd91: false,
+}
+property kind: in-object 
+10f8ad6bc449: {
+    "value": 10f8ad6bc449: uninitialized,
+    "writable": 10f8ad6bc449: true,
+    "configurable": 10f8ad6bc449: true,
+    "enumerable": 10f8ad6bc449: false,
+}
+property kind: in-object 
+10f8ad6bc411: {
+    "value": 10f8ad6bc411: uninitialized,
+    "writable": 10f8ad6bc411: true,
+    "configurable": 10f8ad6bc411: true,
+    "enumerable": 10f8ad6bc411: false,
+}
+property kind: in-object 
+10f8ad6bc3d9: {
+    "value": 10f8ad6bc3d9: uninitialized,
+    "writable": 10f8ad6bc3d9: true,
+    "configurable": 10f8ad6bc3d9: true,
+    "enumerable": 10f8ad6bc3d9: false,
+}
+property kind: in-object 
+10f8ad6bc2d9: {
+    "value": 10f8ad6bc2d9: uninitialized,
+    "writable": 10f8ad6bc2d9: true,
+    "configurable": 10f8ad6bc2d9: true,
+    "enumerable": 10f8ad6bc2d9: false,
+}
+property kind: in-object 
+10f8ad6bbed9: {
+    "value": 10f8ad6bbed9: uninitialized,
+    "writable": 10f8ad6bbed9: true,
+    "configurable": 10f8ad6bbed9: true,
+    "enumerable": 10f8ad6bbed9: false,
+}
+property kind: in-object 
+10f8ad6ba461: {
+    "gregorian": 10f8ad6ba461: "gregory",
+    "japanese": 10f8ad6ba461: "japanese",
+    "buddhist": 10f8ad6ba461: "buddhist",
+    "roc": 10f8ad6ba461: "roc",
+    "persian": 10f8ad6ba461: "persian",
+    "islamic-civil": 10f8ad6ba461: "islamicc",
+    "islamic": 10f8ad6ba461: "islamic",
+    "hebrew": 10f8ad6ba461: "hebrew",
+    "chinese": 10f8ad6ba461: "chinese",
+    "indian": 10f8ad6ba461: "indian",
+    "coptic": 10f8ad6ba461: "coptic",
+    "ethiopic": 10f8ad6ba461: "ethiopic",
+    "ethiopic-amete-alem": 10f8ad6ba461: "ethioaa",
+}
+property kind: in-object 
+10f8ad6ce689: {
+    "gregorian": 10f8ad6ce689: "gregory",
+    "japanese": 10f8ad6ce689: "japanese",
+    "buddhist": 10f8ad6ce689: "buddhist",
+    "roc": 10f8ad6ce689: "roc",
+    "persian": 10f8ad6ce689: "persian",
+    "islamic-civil": 10f8ad6ce689: "islamicc",
+    "islamic": 10f8ad6ce689: "islamic",
+    "hebrew": 10f8ad6ce689: "hebrew",
+    "chinese": 10f8ad6ce689: "chinese",
+    "indian": 10f8ad6ce689: "indian",
+    "coptic": 10f8ad6ce689: "coptic",
+    "ethiopic": 10f8ad6ce689: "ethiopic",
+    "ethiopic-amete-alem": 10f8ad6ce689: "ethioaa",
+}
+property kind: in-object 
+e7be501fb51: {
+    "bold": e7be501fb51: [...],
+    "italic": e7be501fb51: [...],
+    "underline": e7be501fb51: [...],
+    "inverse": e7be501fb51: [...],
+    "white": e7be501fb51: [...],
+    "grey": e7be501fb51: [...],
+    "black": e7be501fb51: [...],
+    "blue": e7be501fb51: [...],
+    "cyan": e7be501fb51: [...],
+    "green": e7be501fb51: [...],
+    "magenta": e7be501fb51: [...],
+    "red": e7be501fb51: [...],
+    "yellow": e7be501fb51: [...],
+}
+property kind: in-object 
+e7be505b111: {
+    "bold": e7be505b111: [...],
+    "italic": e7be505b111: [...],
+    "underline": e7be505b111: [...],
+    "inverse": e7be505b111: [...],
+    "white": e7be505b111: [...],
+    "grey": e7be505b111: [...],
+    "black": e7be505b111: [...],
+    "blue": e7be505b111: [...],
+    "cyan": e7be505b111: [...],
+    "green": e7be505b111: [...],
+    "magenta": e7be505b111: [...],
+    "red": e7be505b111: [...],
+    "yellow": e7be505b111: [...],
+}
+property kind: in-object 
+e7be40b6c71: [
+    e7be40b6c71: "",
+    e7be40b6c71: "home",
+    e7be40b6c71: "dap",
+    e7be40b6c71: "node-testing",
+    e7be40b6c71: "cores-v0.12.2-x64",
+    e7be40b6c71: "..",
+    e7be40b6c71: "test-programs",
+    e7be40b6c71: "gcore-loop.js",
+    e7be40b6c71: "",
+]
+e7be40fae91: [
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: [...],
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+    e7be40fae91: hole,
+]
+e7be40fac31: [
+    e7be40fac31: "Int8",
+    e7be40fac31: "Uint8",
+    e7be40fac31: "Int16",
+    e7be40fac31: "Uint16",
+    e7be40fac31: "Int32",
+    e7be40fac31: "Uint32",
+    e7be40fac31: "Float",
+    e7be40fac31: "Double",
+    e7be40fac31: "Uint8Clamped",
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+    e7be40fac31: hole,
+]
+35af18068e9: {
+    "value": 35af18068e9: uninitialized,
+    "enumerable": 35af18068e9: false,
+    "writable": 35af18068e9: true,
+    "configurable": 35af18068e9: true,
+}
+property kind: in-object 
+e7be50844b9: {
+    "value": e7be50844b9: function SyncWriteStream,
+    "enumerable": e7be50844b9: false,
+    "writable": e7be50844b9: true,
+    "configurable": e7be50844b9: true,
+}
+property kind: in-object 
+e7be50839a9: {
+    "value": e7be50839a9: function WriteStream,
+    "enumerable": e7be50839a9: false,
+    "writable": e7be50839a9: true,
+    "configurable": e7be50839a9: true,
+}
+property kind: in-object 
+e7be5083591: {
+    "value": e7be5083591: function ReadStream,
+    "enumerable": e7be5083591: false,
+    "writable": e7be5083591: true,
+    "configurable": e7be5083591: true,
+}
+property kind: in-object 
+e7be5082fb1: {
+    "value": e7be5082fb1: function StatWatcher,
+    "enumerable": e7be5082fb1: false,
+    "writable": e7be5082fb1: true,
+    "configurable": e7be5082fb1: true,
+}
+property kind: in-object 
+e7be5082c61: {
+    "value": e7be5082c61: function FSWatcher,
+    "enumerable": e7be5082c61: false,
+    "writable": e7be5082c61: true,
+    "configurable": e7be5082c61: true,
+}
+property kind: in-object 
+e7be40c0ce9: {
+    "value": e7be40c0ce9: function AssertionError,
+    "enumerable": e7be40c0ce9: false,
+    "writable": e7be40c0ce9: true,
+    "configurable": e7be40c0ce9: true,
+}
+property kind: in-object 
+35af1806891: {
+    "constructor": 35af1806891: uninitialized,
+}
+property kind: in-object 
+1d4ac4123d61: {
+    "constructor": 1d4ac4123d61: 4,
+}
+property kind: "properties" array 
+1d4ac4123851: {
+    "constructor": 1d4ac4123851: 5,
+}
+property kind: "properties" array 
+1d4ac4123341: {
+    "constructor": 1d4ac4123341: 5,
+}
+property kind: "properties" array 
+1d4ac4121b59: {
+    "constructor": 1d4ac4121b59: 9,
+}
+property kind: "properties" array 
+1d4ac4120011: {
+    "constructor": 1d4ac4120011: 3,
+}
+property kind: "properties" array 
+1d4ac4115481: {
+    "constructor": 1d4ac4115481: 3,
+}
+property kind: "properties" array 
+1d4ac410f841: {
+    "constructor": 1d4ac410f841: 3,
+}
+property kind: "properties" array 
+1d4ac410d5f1: {
+    "constructor": 1d4ac410d5f1: 4,
+}
+property kind: "properties" array 
+10f8ad6d74d9: {
+    "constructor": 10f8ad6d74d9: uninitialized,
+}
+property kind: in-object 
+10f8ad6ce2f9: {
+    "constructor": 10f8ad6ce2f9: function <anonymous> (as $Object.defineProperty
+.value.bf),
+}
+property kind: "properties" array 
+10f8ad6cd989: {
+    "constructor": 10f8ad6cd989: function Promise,
+}
+property kind: "properties" array 
+e7be5084501: {
+    "constructor": e7be5084501: function SyncWriteStream,
+}
+property kind: "properties" array 
+e7be5084489: {
+    "constructor": e7be5084489: [...],
+}
+property kind: in-object 
+e7be5083979: {
+    "constructor": e7be5083979: [...],
+}
+property kind: in-object 
+e7be50835d9: {
+    "constructor": e7be50835d9: function ReadStream,
+}
+property kind: "properties" array 
+e7be5083561: {
+    "constructor": e7be5083561: [...],
+}
+property kind: in-object 
+e7be5082f81: {
+    "constructor": e7be5082f81: [...],
+}
+property kind: in-object 
+e7be5082c31: {
+    "constructor": e7be5082c31: [...],
+}
+property kind: in-object 
+e7be505aaf1: {
+    "constructor": e7be505aaf1: function WritableState,
+}
+property kind: "properties" array 
+e7be40f6ca9: {
+    "constructor": e7be40f6ca9: [...],
+}
+property kind: in-object 
+e7be40f5411: {
+    "constructor": e7be40f5411: [...],
+}
+property kind: in-object 
+e7be40f08c9: {
+    "constructor": e7be40f08c9: [...],
+}
+property kind: in-object 
+e7be40eeea9: {
+    "constructor": e7be40eeea9: [...],
+}
+property kind: in-object 
+e7be40e9a81: {
+    "constructor": e7be40e9a81: [...],
+}
+property kind: in-object 
+e7be40e1dd9: {
+    "constructor": e7be40e1dd9: [...],
+}
+property kind: in-object 
+e7be40c09d9: {
+    "constructor": e7be40c09d9: [...],
+}
+property kind: in-object 
+e7be4091cd1: {
+    "constructor": e7be4091cd1: [...],
+}
+property kind: in-object 
+e7be503a919: {
+    "0": e7be503a919: 8,
+    "1": e7be503a919: 3,
+    "2": e7be503a919: "start",
+    "3": e7be503a919: function start,
+    "4": e7be503a919: 0,
+    "5": e7be503a919: 3,
+    "6": e7be503a919: "stop",
+    "7": e7be503a919: function stop,
+    "8": e7be503a919: 0,
+    "9": e7be503a919: undefined,
+    "10": e7be503a919: undefined,
+    "11": e7be503a919: undefined,
+    "12": e7be503a919: undefined,
+    "13": e7be503a919: undefined,
+    "14": e7be503a919: undefined,
+    "15": e7be503a919: undefined,
+}
+property kind: numeric-named 
+10f8ad6bf749: {
+    "0": 10f8ad6bf749: 8,
+    "1": 10f8ad6bf749: 3,
+    "2": 10f8ad6bf749: "runInContext",
+    "3": 10f8ad6bf749: function runInContext,
+    "4": 10f8ad6bf749: 0,
+    "5": 10f8ad6bf749: 3,
+    "6": 10f8ad6bf749: "runInThisContext",
+    "7": 10f8ad6bf749: function runInThisContext,
+    "8": 10f8ad6bf749: 0,
+    "9": 10f8ad6bf749: undefined,
+    "10": 10f8ad6bf749: undefined,
+    "11": 10f8ad6bf749: undefined,
+    "12": 10f8ad6bf749: undefined,
+    "13": 10f8ad6bf749: undefined,
+    "14": 10f8ad6bf749: undefined,
+    "15": 10f8ad6bf749: undefined,
+}
+property kind: numeric-named 
+e7be40fa981: {
+    "Int8": e7be40fa981: [...],
+    "Uint8": e7be40fa981: [...],
+    "Int16": e7be40fa981: [...],
+    "Uint16": e7be40fa981: [...],
+    "Int32": e7be40fa981: [...],
+    "Uint32": e7be40fa981: [...],
+    "Float": e7be40fa981: [...],
+    "Double": e7be40fa981: [...],
+    "Uint8Clamped": e7be40fa981: [...],
+}
+property kind: in-object 
+1d4ac41217f9: {
+    "Int8": 1d4ac41217f9: 9,
+    "Uint8": 1d4ac41217f9: 0,
+    "Int16": 1d4ac41217f9: "Int8",
+    "Uint16": 1d4ac41217f9: 1385,
+    "Int32": 1d4ac41217f9: -1,
+    "Uint32": 1d4ac41217f9: "Uint8",
+    "Float": 1d4ac41217f9: 1053033,
+    "Double": 1d4ac41217f9: -1,
+    "Uint8Clamped": 1d4ac41217f9: "Int16",
+}
+property kind: "properties" array 
+e7be505cfe1: {
+    "Int8": e7be505cfe1: 1,
+    "Uint8": e7be505cfe1: 2,
+    "Int16": e7be505cfe1: 3,
+    "Uint16": e7be505cfe1: 4,
+    "Int32": e7be505cfe1: 5,
+    "Uint32": e7be505cfe1: 6,
+    "Float": e7be505cfe1: 7,
+    "Double": e7be505cfe1: 8,
+    "Uint8Clamped": e7be505cfe1: 9,
+}
+property kind: "properties" array 
+e7be504ef11: {
+    "Int8": e7be504ef11: [...],
+    "Uint8": e7be504ef11: [...],
+    "Int16": e7be504ef11: [...],
+    "Uint16": e7be504ef11: [...],
+    "Int32": e7be504ef11: [...],
+    "Uint32": e7be504ef11: [...],
+    "Float": e7be504ef11: [...],
+    "Double": e7be504ef11: [...],
+    "Uint8Clamped": e7be504ef11: [...],
+}
+property kind: in-object 
+e7be505b401: {
+    "node_use_mdb": e7be505b401: true,
+    "want_separate_host_toolset": e7be505b401: 0,
+    "node_shared_openssl": e7be505b401: false,
+    "node_shared_v8": e7be505b401: false,
+    "node_prefix": e7be505b401: "/",
+    "icu_endianness": e7be505b401: "l",
+    "gcc_version": e7be505b401: 47,
+    "icu_locales": e7be505b401: "en,root",
+    "icu_small": e7be505b401: true,
+    "uv_library": e7be505b401: "static_library",
+    "clang": e7be505b401: 0,
+    "node_use_etw": e7be505b401: false,
+    "node_shared_http_parser": e7be505b401: false,
+    "node_shared_cares": e7be505b401: false,
+    "v8_enable_i18n_support": e7be505b401: 1,
+    "python": e7be505b401: "/opt/local/bin/python2.7",
+    "node_use_openssl": e7be505b401: true,
+    "uv_parent_path": e7be505b401: "/deps/uv/",
+    "node_install_npm": e7be505b401: true,
+    "icu_ver_major": e7be505b401: "54",
+    "icu_path": e7be505b401: "./deps/icu",
+    "icu_data_in": e7be505b401: "../../deps/icu/source/data/in/icudt54l.dat",
+    "v8_no_strict_aliasing": e7be505b401: 1,
+    "target_arch": e7be505b401: "x64",
+    "host_arch": e7be505b401: "ia32",
+    "openssl_no_asm": e7be505b401: 0,
+    "uv_use_dtrace": e7be505b401: true,
+    "node_shared_zlib": e7be505b401: false,
+    "v8_use_snapshot": e7be505b401: false,
+    "node_tag": e7be505b401: "",
+    "v8_optimized_debug": e7be505b401: 0,
+    "v8_enable_gdbjit": e7be505b401: 0,
+    "icu_data_file": e7be505b401: "icudt54l.dat",
+    "v8_random_seed": e7be505b401: 0,
+    "node_use_dtrace": e7be505b401: true,
+    "node_use_perfctr": e7be505b401: false,
+    "node_shared_libuv": e7be505b401: false,
+    "icu_gyp_path": e7be505b401: "tools/icu/icu-generic.gyp",
+}
+property kind: dictionary 
+10f8ad6ba911: [
+    10f8ad6ba911: "big5han",
+    10f8ad6ba911: "dict",
+    10f8ad6ba911: "direct",
+    10f8ad6ba911: "ducet",
+    10f8ad6ba911: "gb2312",
+    10f8ad6ba911: "phonebk",
+    10f8ad6ba911: "phonetic",
+    10f8ad6ba911: "pinyin",
+    10f8ad6ba911: "reformed",
+    10f8ad6ba911: "searchjl",
+    10f8ad6ba911: "stroke",
+    10f8ad6ba911: "trad",
+    10f8ad6ba911: "unihan",
+    10f8ad6ba911: "zhuyin",
+]
+10f8ad6ce779: [
+    10f8ad6ce779: "big5han",
+    10f8ad6ce779: "dict",
+    10f8ad6ce779: "direct",
+    10f8ad6ce779: "ducet",
+    10f8ad6ce779: "gb2312",
+    10f8ad6ce779: "phonebk",
+    10f8ad6ce779: "phonetic",
+    10f8ad6ce779: "pinyin",
+    10f8ad6ce779: "reformed",
+    10f8ad6ce779: "searchjl",
+    10f8ad6ce779: "stroke",
+    10f8ad6ce779: "trad",
+    10f8ad6ce779: "unihan",
+    10f8ad6ce779: "zhuyin",
+]
+10f8ad6c6351: [
+    10f8ad6c6351: 10,
+    10f8ad6c6351: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    10f8ad6c6351: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    10f8ad6c6351: 0,
+    10f8ad6c6351: 50,
+    10f8ad6c6351: 0,
+    10f8ad6c6351: 1,
+    10f8ad6c6351: 1,
+    10f8ad6c6351: 37,
+    10f8ad6c6351: 37,
+    10f8ad6c6351: 50,
+    10f8ad6c6351: 47,
+    10f8ad6c6351: 50,
+    10f8ad6c6351: hole,
+]
+e7be50865d9: [
+    e7be50865d9: "home",
+    e7be50865d9: "dap",
+    e7be50865d9: "node-testing",
+    e7be50865d9: "node-v0.12.2-sunos-x64",
+    e7be50865d9: "lib",
+    e7be50865d9: "node",
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+    e7be50865d9: hole,
+]
+10f8ad6b8339: [
+    10f8ad6b8339: "add",
+    10f8ad6b8339: "update",
+    10f8ad6b8339: "delete",
+    10f8ad6b8339: "setPrototype",
+    10f8ad6b8339: "reconfigure",
+    10f8ad6b8339: "preventExtensions",
+]
+10f8ad6b8191: [
+    10f8ad6b8191: "chain",
+    10f8ad6b8191: 0,
+    10f8ad6b8191: "then",
+    10f8ad6b8191: 0,
+    10f8ad6b8191: "catch",
+    10f8ad6b8191: 0,
+]
+e7be5094309: [
+    e7be5094309: "",
+    e7be5094309: "home",
+    e7be5094309: "dap",
+    e7be5094309: "node-testing",
+    e7be5094309: "test-programs",
+    e7be5094309: "node_modules",
+]
+e7be5094251: [
+    e7be5094251: "",
+    e7be5094251: "home",
+    e7be5094251: "dap",
+    e7be5094251: "node-testing",
+    e7be5094251: "test-programs",
+    e7be5094251: "node_modules",
+]
+e7be5093929: [
+    e7be5093929: "",
+    e7be5093929: "home",
+    e7be5093929: "dap",
+    e7be5093929: "node-testing",
+    e7be5093929: "test-programs",
+    e7be5093929: "",
+]
+e7be5086911: [
+    e7be5086911: "home",
+    e7be5086911: "dap",
+    e7be5086911: "node-testing",
+    e7be5086911: "node-v0.12.2-sunos-x64",
+    e7be5086911: "lib",
+    e7be5086911: "node",
+]
+e7be40a7901: [
+    e7be40a7901: <sliced string (failed to read parent type)>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: <couldn't read type>,
+    e7be40a7901: "",
+]
+10f8ad672461: {
+    "path": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_stream_writable": 10f8ad672461: "// Copyright Joyent, Inc. and other Node 
+contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "punycode": 10f8ad672461: "/*! http://mths.be/punycode v1.2.3 by @mathias */
+;(function(root) {
+
+        /** Detect free variables */
+        var freeExports = typeof exports == 'object' && exp[...]",
+    "_tls_legacy": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
+ibutors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "sys": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "events": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "freelist": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribu
+tors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "querystring": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
+ibutors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_debugger_agent": 10f8ad672461: "var assert = require('assert');
+var net = require('net');
+var util = require('util');
+var Buffer = require('buffer').Buffer;
+
+var Transform = require('s[...]",
+    "dgram": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "assert": 10f8ad672461: "// http://wiki.commonjs.org/wiki/Unit_Testing/1.0
+//
+// THIS IS NOT TESTED NOR LIKELY TO WORK OUTSIDE V8!
+//
+// Originally from narwhal.js (http://narwh[...]",
+    "_http_client": 10f8ad672461: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "repl": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_http_server": 10f8ad672461: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "readline": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribu
+tors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "console": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "http": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "zlib": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "child_process": 10f8ad672461: "// Copyright Joyent, Inc. and other Node con
+tributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "domain": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "buffer": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "stream": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "dns": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "smalloc": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_debugger": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_stream_passthrough": 10f8ad672461: "// Copyright Joyent, Inc. and other No
+de contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_stream_duplex": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
+ntributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "timers": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_stream_readable": 10f8ad672461: "// Copyright Joyent, Inc. and other Node 
+contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "cluster": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_linklist": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "crypto": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "vm": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "module": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_http_incoming": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
+ntributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_tls_common": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
+ibutors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "os": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "util": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "fs": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "url": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "https": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_stream_transform": 10f8ad672461: "// Copyright Joyent, Inc. and other Node
+ contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "net": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_http_agent": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contr
+ibutors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "string_decoder": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
+ntributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "constants": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "tty": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_http_outgoing": 10f8ad672461: "// Copyright Joyent, Inc. and other Node co
+ntributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_http_common": 10f8ad672461: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "tls": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this sof[...]",
+    "_tls_wrap": 10f8ad672461: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// // Emit `beforeExit` if the loop became alive either after emitting
+// event, or after runn[...]",
+}
+property kind: dictionary 
+e7be5088ae9: [
+    e7be5088ae9: "",
+    e7be5088ae9: "home",
+    e7be5088ae9: "dap",
+    e7be5088ae9: "node-testing",
+    e7be5088ae9: "test-programs",
+    e7be5088ae9: "gcore-loop.js",
+    e7be5088ae9: "",
+]
+10f8ad6ccf19: [
+    10f8ad6ccf19: "Proxy handler ",
+    10f8ad6ccf19: "%0",
+    10f8ad6ccf19: " returned non-configurable descriptor for property '",
+    10f8ad6ccf19: "%2",
+    10f8ad6ccf19: "' from '",
+    10f8ad6ccf19: "%1",
+    10f8ad6ccf19: "' trap",
+]
+10f8ad6c5531: [
+    10f8ad6c5531: "Sunday",
+    10f8ad6c5531: "Monday",
+    10f8ad6c5531: "Tuesday",
+    10f8ad6c5531: "Wednesday",
+    10f8ad6c5531: "Thursday",
+    10f8ad6c5531: "Friday",
+    10f8ad6c5531: "Saturday",
+]
+10f8ad6c5451: [
+    10f8ad6c5451: "Sun",
+    10f8ad6c5451: "Mon",
+    10f8ad6c5451: "Tue",
+    10f8ad6c5451: "Wed",
+    10f8ad6c5451: "Thu",
+    10f8ad6c5451: "Fri",
+    10f8ad6c5451: "Sat",
+]
+10f8ad644e31: [
+    10f8ad644e31: "Sunday",
+    10f8ad644e31: "Monday",
+    10f8ad644e31: "Tuesday",
+    10f8ad644e31: "Wednesday",
+    10f8ad644e31: "Thursday",
+    10f8ad644e31: "Friday",
+    10f8ad644e31: "Saturday",
+]
+10f8ad644d81: [
+    10f8ad644d81: "Sun",
+    10f8ad644d81: "Mon",
+    10f8ad644d81: "Tue",
+    10f8ad644d81: "Wed",
+    10f8ad644d81: "Thu",
+    10f8ad644d81: "Fri",
+    10f8ad644d81: "Sat",
+]
+10f8ad639c71: [
+    10f8ad639c71: "Proxy handler ",
+    10f8ad639c71: "%0",
+    10f8ad639c71: " returned non-configurable descriptor for property '",
+    10f8ad639c71: "%2",
+    10f8ad639c71: "' from '",
+    10f8ad639c71: "%1",
+    10f8ad639c71: "' trap",
+]
+e7be508acb9: [
+    e7be508acb9: "",
+    e7be508acb9: "home",
+    e7be508acb9: "dap",
+    e7be508acb9: "node-testing",
+    e7be508acb9: "test-programs",
+    e7be508acb9: "gcore-loop.js",
+    e7be508acb9: "",
+]
+e7be5004359: {
+    "filename": e7be5004359: "fs.js",
+    "id": e7be5004359: "fs",
+    "exports": e7be5004359: [...],
+    "loaded": e7be5004359: true,
+}
+property kind: in-object 
+e7be505b091: {
+    "filename": e7be505b091: "smalloc.js",
+    "id": e7be505b091: "smalloc",
+    "exports": e7be505b091: [...],
+    "loaded": e7be505b091: true,
+}
+property kind: in-object 
+e7be505b059: {
+    "filename": e7be505b059: "_stream_passthrough.js",
+    "id": e7be505b059: "_stream_passthrough",
+    "exports": e7be505b059: function PassThrough,
+    "loaded": e7be505b059: true,
+}
+property kind: in-object 
+e7be505b021: {
+    "filename": e7be505b021: "_stream_transform.js",
+    "id": e7be505b021: "_stream_transform",
+    "exports": e7be505b021: function Transform,
+    "loaded": e7be505b021: true,
+}
+property kind: in-object 
+e7be505afe9: {
+    "filename": e7be505afe9: "_stream_duplex.js",
+    "id": e7be505afe9: "_stream_duplex",
+    "exports": e7be505afe9: function Duplex,
+    "loaded": e7be505afe9: true,
+}
+property kind: in-object 
+e7be505afb1: {
+    "filename": e7be505afb1: "_stream_writable.js",
+    "id": e7be505afb1: "_stream_writable",
+    "exports": e7be505afb1: function Writable,
+    "loaded": e7be505afb1: true,
+}
+property kind: in-object 
+e7be505af79: {
+    "filename": e7be505af79: "_stream_readable.js",
+    "id": e7be505af79: "_stream_readable",
+    "exports": e7be505af79: function Readable,
+    "loaded": e7be505af79: true,
+}
+property kind: in-object 
+e7be505af41: {
+    "filename": e7be505af41: "stream.js",
+    "id": e7be505af41: "stream",
+    "exports": e7be505af41: function Stream,
+    "loaded": e7be505af41: true,
+}
+property kind: in-object 
+e7be505af09: {
+    "filename": e7be505af09: "assert.js",
+    "id": e7be505af09: "assert",
+    "exports": e7be505af09: function ok,
+    "loaded": e7be505af09: true,
+}
+property kind: in-object 
+e7be505aed1: {
+    "filename": e7be505aed1: "vm.js",
+    "id": e7be505aed1: "vm",
+    "exports": e7be505aed1: [...],
+    "loaded": e7be505aed1: true,
+}
+property kind: in-object 
+e7be505ae99: {
+    "filename": e7be505ae99: "path.js",
+    "id": e7be505ae99: "path",
+    "exports": e7be505ae99: [...],
+    "loaded": e7be505ae99: true,
+}
+property kind: in-object 
+e7be505ae61: {
+    "filename": e7be505ae61: "buffer.js",
+    "id": e7be505ae61: "buffer",
+    "exports": e7be505ae61: [...],
+    "loaded": e7be505ae61: true,
+}
+property kind: in-object 
+e7be505ae29: {
+    "filename": e7be505ae29: "util.js",
+    "id": e7be505ae29: "util",
+    "exports": e7be505ae29: [...],
+    "loaded": e7be505ae29: true,
+}
+property kind: in-object 
+e7be505adf1: {
+    "filename": e7be505adf1: "events.js",
+    "id": e7be505adf1: "events",
+    "exports": e7be505adf1: function EventEmitter,
+    "loaded": e7be505adf1: true,
+}
+property kind: in-object 
+e7be50100e1: {
+    "filename": e7be50100e1: "module.js",
+    "id": e7be50100e1: "module",
+    "exports": e7be50100e1: function Module,
+    "loaded": e7be50100e1: true,
+}
+property kind: in-object 
+10f8ad66fa81: {
+    "on": 10f8ad66fa81: function <anonymous> (as process.on.process.addListener)
+,
+    "_linkedBinding": 10f8ad66fa81: function _linkedBinding,
+    "version": 10f8ad66fa81: "v0.12.2",
+    "pid": 10f8ad66fa81: 17672,
+    "_fatalException": 10f8ad66fa81: function <anonymous> (as process._fatalExce
+ption),
+    "title": 10f8ad66fa81: <unknown JavaScript object type "ExecutableAccessorIn
+fo">,
+    "removeListener": 10f8ad66fa81: function <anonymous> (as process.removeListe
+ner),
+    "uptime": 10f8ad66fa81: function uptime,
+    "versions": 10f8ad66fa81: [...],
+    "dlopen": 10f8ad66fa81: function dlopen,
+    "EventEmitter": 10f8ad66fa81: function EventEmitter,
+    "_debugProcess": 10f8ad66fa81: function _debugProcess,
+    "_getActiveHandles": 10f8ad66fa81: function _getActiveHandles,
+    "memoryUsage": 10f8ad66fa81: function memoryUsage,
+    "argv": 10f8ad66fa81: [...],
+    "_stopProfilerIdleNotifier": 10f8ad66fa81: function _stopProfilerIdleNotifie
+r,
+    "getgid": 10f8ad66fa81: function getgid,
+    "_needImmediateCallback": 10f8ad66fa81: <unknown JavaScript object type "Exe
+cutableAccessorInfo">,
+    "getgroups": 10f8ad66fa81: function getgroups,
+    "_kill": 10f8ad66fa81: function _kill,
+    "hrtime": 10f8ad66fa81: function hrtime,
+    "execPath": 10f8ad66fa81: "/home/dap/node-testing/node-v0.12.2-sunos-x64/bin
+/node",
+    "umask": 10f8ad66fa81: function umask,
+    "setgid": 10f8ad66fa81: function setgid,
+    "_debugPause": 10f8ad66fa81: function _debugPause,
+    "kill": 10f8ad66fa81: function <anonymous> (as process.kill),
+    "initgroups": 10f8ad66fa81: function initgroups,
+    "domain": 10f8ad66fa81: null,
+    "env": 10f8ad66fa81: [...],
+    "openStdin": 10f8ad66fa81: function <anonymous> (as process.openStdin),
+    "platform": 10f8ad66fa81: "sunos",
+    "debugPort": 10f8ad66fa81: <unknown JavaScript object type "ExecutableAccess
+orInfo">,
+    "assert": 10f8ad66fa81: function <anonymous> (as process.assert),
+    "stdout": 10f8ad66fa81: <unknown JavaScript object type "AccessorPair">,
+    "stdin": 10f8ad66fa81: <unknown JavaScript object type "AccessorPair">,
+    "_maxListeners": 10f8ad66fa81: undefined,
+    "execArgv": 10f8ad66fa81: [...],
+    "_exiting": 10f8ad66fa81: false,
+    "binding": 10f8ad66fa81: function binding,
+    "nextTick": 10f8ad66fa81: function nextTick,
+    "abort": 10f8ad66fa81: function abort,
+    "reallyExit": 10f8ad66fa81: function reallyExit,
+    "mainModule": 10f8ad66fa81: [...],
+    "getuid": 10f8ad66fa81: function getuid,
+    "arch": 10f8ad66fa81: "x64",
+    "_setupDomainUse": 10f8ad66fa81: function _setupDomainUse,
+    "_debugEnd": 10f8ad66fa81: function _debugEnd,
+    "exit": 10f8ad66fa81: function <anonymous> (as process.exit),
+    "_tickDomainCallback": 10f8ad66fa81: function _tickDomainCallback,
+    "setgroups": 10f8ad66fa81: function setgroups,
+    "moduleLoadList": 10f8ad66fa81: [...],
+    "chdir": 10f8ad66fa81: function chdir,
+    "stderr": 10f8ad66fa81: <unknown JavaScript object type "AccessorPair">,
+    "setuid": 10f8ad66fa81: function setuid,
+    "_tickCallback": 10f8ad66fa81: function _tickCallback,
+    "features": 10f8ad66fa81: [...],
+    "_rawDebug": 10f8ad66fa81: function <anonymous> (as process._rawDebug),
+    "config": 10f8ad66fa81: [...],
+    "_startProfilerIdleNotifier": 10f8ad66fa81: function _startProfilerIdleNotif
+ier,
+    "_getActiveRequests": 10f8ad66fa81: function _getActiveRequests,
+    "addListener": 10f8ad66fa81: function <anonymous> (as process.on.process.add
+Listener),
+    "cwd": 10f8ad66fa81: function cwd,
+    "_events": 10f8ad66fa81: [...],
+}
+property kind: dictionary 
+e7be40f8d61: {
+    "enumerable": e7be40f8d61: true,
+    "value": e7be40f8d61: 1073741823,
+    "writable": e7be40f8d61: false,
+}
+property kind: in-object 
+e7be504f6c9: {
+    "enumerable": e7be504f6c9: true,
+    "value": e7be504f6c9: uninitialized,
+    "writable": e7be504f6c9: false,
+}
+property kind: in-object 
+e7be504f399: {
+    "enumerable": e7be504f399: true,
+    "value": e7be504f399: uninitialized,
+    "writable": e7be504f399: false,
+}
+property kind: in-object 
+e7be504eee1: {
+    "enumerable": e7be504eee1: true,
+    "value": e7be504eee1: 9,
+    "writable": e7be504eee1: false,
+}
+property kind: in-object 
+e7be504eeb1: {
+    "enumerable": e7be504eeb1: true,
+    "value": e7be504eeb1: 8,
+    "writable": e7be504eeb1: false,
+}
+property kind: in-object 
+e7be504ee81: {
+    "enumerable": e7be504ee81: true,
+    "value": e7be504ee81: 7,
+    "writable": e7be504ee81: false,
+}
+property kind: in-object 
+e7be504ee51: {
+    "enumerable": e7be504ee51: true,
+    "value": e7be504ee51: 6,
+    "writable": e7be504ee51: false,
+}
+property kind: in-object 
+e7be504ee21: {
+    "enumerable": e7be504ee21: true,
+    "value": e7be504ee21: 5,
+    "writable": e7be504ee21: false,
+}
+property kind: in-object 
+e7be504edf1: {
+    "enumerable": e7be504edf1: true,
+    "value": e7be504edf1: 4,
+    "writable": e7be504edf1: false,
+}
+property kind: in-object 
+e7be504edc1: {
+    "enumerable": e7be504edc1: true,
+    "value": e7be504edc1: 3,
+    "writable": e7be504edc1: false,
+}
+property kind: in-object 
+e7be504ed91: {
+    "enumerable": e7be504ed91: true,
+    "value": e7be504ed91: 2,
+    "writable": e7be504ed91: false,
+}
+property kind: in-object 
+e7be504ed61: {
+    "enumerable": e7be504ed61: true,
+    "value": e7be504ed61: 1,
+    "writable": e7be504ed61: false,
+}
+property kind: in-object 
+e7be504e389: {
+    "enumerable": e7be504e389: true,
+    "value": e7be504e389: uninitialized,
+    "writable": e7be504e389: false,
+}
+property kind: in-object 
+e7be40fe151: {
+    "enumerable": e7be40fe151: true,
+    "value": e7be40fe151: 1,
+    "writable": e7be40fe151: false,
+}
+property kind: in-object 
+e7be40fdfd1: {
+    "enumerable": e7be40fdfd1: true,
+    "value": e7be40fdfd1: 2,
+    "writable": e7be40fdfd1: false,
+}
+property kind: in-object 
+e7be40fd5a1: {
+    "enumerable": e7be40fd5a1: true,
+    "value": e7be40fd5a1: 4,
+    "writable": e7be40fd5a1: false,
+}
+property kind: in-object 
+e7be40fd3d9: {
+    "enumerable": e7be40fd3d9: true,
+    "value": e7be40fd3d9: 0,
+    "writable": e7be40fd3d9: false,
+}
+property kind: in-object 
+e7be40fabf1: {
+    "enumerable": e7be40fabf1: true,
+    "value": e7be40fabf1: 9,
+    "writable": e7be40fabf1: false,
+}
+property kind: in-object 
+e7be40fabb1: {
+    "enumerable": e7be40fabb1: true,
+    "value": e7be40fabb1: 8,
+    "writable": e7be40fabb1: false,
+}
+property kind: in-object 
+e7be40fab71: {
+    "enumerable": e7be40fab71: true,
+    "value": e7be40fab71: 7,
+    "writable": e7be40fab71: false,
+}
+property kind: in-object 
+e7be40fab31: {
+    "enumerable": e7be40fab31: true,
+    "value": e7be40fab31: 6,
+    "writable": e7be40fab31: false,
+}
+property kind: in-object 
+e7be40faaf1: {
+    "enumerable": e7be40faaf1: true,
+    "value": e7be40faaf1: 5,
+    "writable": e7be40faaf1: false,
+}
+property kind: in-object 
+e7be40faab1: {
+    "enumerable": e7be40faab1: true,
+    "value": e7be40faab1: 4,
+    "writable": e7be40faab1: false,
+}
+property kind: in-object 
+e7be40faa71: {
+    "enumerable": e7be40faa71: true,
+    "value": e7be40faa71: 3,
+    "writable": e7be40faa71: false,
+}
+property kind: in-object 
+e7be40faa31: {
+    "enumerable": e7be40faa31: true,
+    "value": e7be40faa31: 2,
+    "writable": e7be40faa31: false,
+}
+property kind: in-object 
+e7be40fa9f1: {
+    "enumerable": e7be40fa9f1: true,
+    "value": e7be40fa9f1: 1,
+    "writable": e7be40fa9f1: false,
+}
+property kind: in-object 
+e7be40a8361: [
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: <couldn't read type>,
+    e7be40a8361: "",
+]
+e7be502d529: [
+    e7be502d529: "{ 'target_defaults': { 'cflags': [],",
+    e7be502d529: "                       'default_configuration': 'Release',",
+    e7be502d529: "                       'defines': [],",
+    e7be502d529: "                       'include_dirs': [],",
+    e7be502d529: "                       'libraries': []},",
+    e7be502d529: "  'variables': { 'clang': 0,",
+    e7be502d529: "                 'gcc_version': 47,",
+    e7be502d529: "                 'host_arch': 'ia32',",
+    e7be502d529: "                 'icu_data_file': 'icudt54l.dat',",
+    e7be502d529: "                 'icu_data_in': '../../deps/icu/source/data/in
+/icudt54l.dat',",
+    e7be502d529: "                 'icu_endianness': 'l',",
+    e7be502d529: "                 'icu_gyp_path': 'tools/icu/icu-generic.gyp',"
+,
+    e7be502d529: "                 'icu_locales': 'en,root',",
+    e7be502d529: "                 'icu_path': './deps/icu',",
+    e7be502d529: "                 'icu_small': 'true',",
+    e7be502d529: "                 'icu_ver_major': '54',",
+    e7be502d529: "                 'node_install_npm': 'true',",
+    e7be502d529: "                 'node_prefix': '/',",
+    e7be502d529: "                 'node_shared_cares': 'false',",
+    e7be502d529: "                 'node_shared_http_parser': 'false',",
+    e7be502d529: "                 'node_shared_libuv': 'false',",
+    e7be502d529: "                 'node_shared_openssl': 'false',",
+    e7be502d529: "                 'node_shared_v8': 'false',",
+    e7be502d529: "                 'node_shared_zlib': 'false',",
+    e7be502d529: "                 'node_tag': '',",
+    e7be502d529: "                 'node_use_dtrace': 'true',",
+    e7be502d529: "                 'node_use_etw': 'false',",
+    e7be502d529: "                 'node_use_mdb': 'true',",
+    e7be502d529: "                 'node_use_openssl': 'true',",
+    e7be502d529: "                 'node_use_perfctr': 'false',",
+    e7be502d529: "                 'openssl_no_asm': 0,",
+    e7be502d529: "                 'python': '/opt/local/bin/python2.7',",
+    e7be502d529: "                 'target_arch': 'x64',",
+    e7be502d529: "                 'uv_library': 'static_library',",
+    e7be502d529: "                 'uv_parent_path': '/deps/uv/',",
+    e7be502d529: "                 'uv_use_dtrace': 'true',",
+    e7be502d529: "                 'v8_enable_gdbjit': 0,",
+    e7be502d529: "                 'v8_enable_i18n_support': 1,",
+    e7be502d529: "                 'v8_no_strict_aliasing': 1,",
+    e7be502d529: "                 'v8_optimized_debug': 0,",
+    e7be502d529: "                 'v8_random_seed': 0,",
+    e7be502d529: "                 'v8_use_snapshot': 'false',",
+    e7be502d529: "                 'want_separate_host_toolset': 0}}",
+    e7be502d529: "",
+]
+e7be5020199: [
+    e7be5020199: "Jan",
+    e7be5020199: "Feb",
+    e7be5020199: "Mar",
+    e7be5020199: "Apr",
+    e7be5020199: "May",
+    e7be5020199: "Jun",
+    e7be5020199: "Jul",
+    e7be5020199: "Aug",
+    e7be5020199: "Sep",
+    e7be5020199: "Oct",
+    e7be5020199: "Nov",
+    e7be5020199: "Dec",
+]
+10f8ad6c5579: [
+    10f8ad6c5579: "January",
+    10f8ad6c5579: "February",
+    10f8ad6c5579: "March",
+    10f8ad6c5579: "April",
+    10f8ad6c5579: "May",
+    10f8ad6c5579: "June",
+    10f8ad6c5579: "July",
+    10f8ad6c5579: "August",
+    10f8ad6c5579: "September",
+    10f8ad6c5579: "October",
+    10f8ad6c5579: "November",
+    10f8ad6c5579: "December",
+]
+10f8ad6c5499: [
+    10f8ad6c5499: "Jan",
+    10f8ad6c5499: "Feb",
+    10f8ad6c5499: "Mar",
+    10f8ad6c5499: "Apr",
+    10f8ad6c5499: "May",
+    10f8ad6c5499: "Jun",
+    10f8ad6c5499: "Jul",
+    10f8ad6c5499: "Aug",
+    10f8ad6c5499: "Sep",
+    10f8ad6c5499: "Oct",
+    10f8ad6c5499: "Nov",
+    10f8ad6c5499: "Dec",
+]
+10f8ad6b8049: [
+    10f8ad6b8049: "defer",
+    10f8ad6b8049: 0,
+    10f8ad6b8049: "accept",
+    10f8ad6b8049: 0,
+    10f8ad6b8049: "reject",
+    10f8ad6b8049: 0,
+    10f8ad6b8049: "all",
+    10f8ad6b8049: 0,
+    10f8ad6b8049: "race",
+    10f8ad6b8049: 0,
+    10f8ad6b8049: "resolve",
+    10f8ad6b8049: 0,
+]
+10f8ad644e89: [
+    10f8ad644e89: "January",
+    10f8ad644e89: "February",
+    10f8ad644e89: "March",
+    10f8ad644e89: "April",
+    10f8ad644e89: "May",
+    10f8ad644e89: "June",
+    10f8ad644e89: "July",
+    10f8ad644e89: "August",
+    10f8ad644e89: "September",
+    10f8ad644e89: "October",
+    10f8ad644e89: "November",
+    10f8ad644e89: "December",
+]
+10f8ad644dd9: [
+    10f8ad644dd9: "Jan",
+    10f8ad644dd9: "Feb",
+    10f8ad644dd9: "Mar",
+    10f8ad644dd9: "Apr",
+    10f8ad644dd9: "May",
+    10f8ad644dd9: "Jun",
+    10f8ad644dd9: "Jul",
+    10f8ad644dd9: "Aug",
+    10f8ad644dd9: "Sep",
+    10f8ad644dd9: "Oct",
+    10f8ad644dd9: "Nov",
+    10f8ad644dd9: "Dec",
+]
+e7be5086439: [
+    e7be5086439: "",
+    e7be5086439: "home",
+    e7be5086439: "dap",
+    e7be5086439: "node-testing",
+    e7be5086439: "node-v0.12.2-sunos-x64",
+    e7be5086439: "bin",
+    e7be5086439: "node",
+    e7be5086439: "..",
+    e7be5086439: "..",
+    e7be5086439: "lib",
+    e7be5086439: "node",
+    e7be5086439: "",
+]
+e7be5051ee1: [
+    e7be5051ee1: "Jan",
+    e7be5051ee1: "Feb",
+    e7be5051ee1: "Mar",
+    e7be5051ee1: "Apr",
+    e7be5051ee1: "May",
+    e7be5051ee1: "Jun",
+    e7be5051ee1: "Jul",
+    e7be5051ee1: "Aug",
+    e7be5051ee1: "Sep",
+    e7be5051ee1: "Oct",
+    e7be5051ee1: "Nov",
+    e7be5051ee1: "Dec",
+]
+e7be5089559: {
+    "dev": e7be5089559: 65661,
+    "mode": e7be5089559: 33188,
+    "nlink": e7be5089559: 1,
+    "uid": e7be5089559: 103,
+    "gid": e7be5089559: 1,
+    "rdev": e7be5089559: -1,
+    "blksize": e7be5089559: 512,
+    "ino": e7be5089559: 186025,
+    "size": e7be5089559: 392,
+    "blocks": e7be5089559: 2,
+    "atime": e7be5089559: 1430174616120 (2015 Apr 27 15:43:36),
+    "mtime": e7be5089559: 1430174616120 (2015 Apr 27 15:43:36),
+    "ctime": e7be5089559: 1430174616121 (2015 Apr 27 15:43:36),
+    "birthtime": e7be5089559: 1430174616121 (2015 Apr 27 15:43:36),
+}
+property kind: in-object 
+e7be50952f9: {
+    "dev": e7be50952f9: 65661,
+    "mode": e7be50952f9: 33188,
+    "nlink": e7be50952f9: 1,
+    "uid": e7be50952f9: 103,
+    "gid": e7be50952f9: 1,
+    "rdev": e7be50952f9: -1,
+    "blksize": e7be50952f9: 512,
+    "ino": e7be50952f9: 186025,
+    "size": e7be50952f9: 392,
+    "blocks": e7be50952f9: 2,
+    "atime": e7be50952f9: 1430174616120 (2015 Apr 27 15:43:36),
+    "mtime": e7be50952f9: 1430174616120 (2015 Apr 27 15:43:36),
+    "ctime": e7be50952f9: 1430174616121 (2015 Apr 27 15:43:36),
+    "birthtime": e7be50952f9: 1430174616121 (2015 Apr 27 15:43:36),
+}
+property kind: in-object 
+e7be5091661: {
+    "dev": e7be5091661: 65661,
+    "mode": e7be5091661: 33188,
+    "nlink": e7be5091661: 1,
+    "uid": e7be5091661: 103,
+    "gid": e7be5091661: 1,
+    "rdev": e7be5091661: -1,
+    "blksize": e7be5091661: 512,
+    "ino": e7be5091661: 186025,
+    "size": e7be5091661: 392,
+    "blocks": e7be5091661: 2,
+    "atime": e7be5091661: 1430174616120 (2015 Apr 27 15:43:36),
+    "mtime": e7be5091661: 1430174616120 (2015 Apr 27 15:43:36),
+    "ctime": e7be5091661: 1430174616121 (2015 Apr 27 15:43:36),
+    "birthtime": e7be5091661: 1430174616121 (2015 Apr 27 15:43:36),
+}
+property kind: in-object 
+e7be50910a9: {
+    "dev": e7be50910a9: 65661,
+    "mode": e7be50910a9: 16877,
+    "nlink": e7be50910a9: 2,
+    "uid": e7be50910a9: 103,
+    "gid": e7be50910a9: 1,
+    "rdev": e7be50910a9: -1,
+    "blksize": e7be50910a9: 131072,
+    "ino": e7be50910a9: 185763,
+    "size": e7be50910a9: 5,
+    "blocks": e7be50910a9: 1,
+    "atime": e7be50910a9: 1430173018036 (2015 Apr 27 15:16:58),
+    "mtime": e7be50910a9: 1430174616122 (2015 Apr 27 15:43:36),
+    "ctime": e7be50910a9: 1430174616122 (2015 Apr 27 15:43:36),
+    "birthtime": e7be50910a9: 1430174616122 (2015 Apr 27 15:43:36),
+}
+property kind: in-object 
+e7be5090b59: {
+    "dev": e7be5090b59: 65661,
+    "mode": e7be5090b59: 16877,
+    "nlink": e7be5090b59: 12,
+    "uid": e7be5090b59: 103,
+    "gid": e7be5090b59: 1,
+    "rdev": e7be5090b59: -1,
+    "blksize": e7be5090b59: 131072,
+    "ino": e7be5090b59: 178843,
+    "size": e7be5090b59: 18,
+    "blocks": e7be5090b59: 3,
+    "atime": e7be5090b59: 1430172858405 (2015 Apr 27 15:14:18),
+    "mtime": e7be5090b59: 1430174631567 (2015 Apr 27 15:43:51),
+    "ctime": e7be5090b59: 1430174631567 (2015 Apr 27 15:43:51),
+    "birthtime": e7be5090b59: 1430174631567 (2015 Apr 27 15:43:51),
+}
+property kind: in-object 
+e7be5090591: {
+    "dev": e7be5090591: 65661,
+    "mode": e7be5090591: 16877,
+    "nlink": e7be5090591: 29,
+    "uid": e7be5090591: 103,
+    "gid": e7be5090591: 10,
+    "rdev": e7be5090591: -1,
+    "blksize": e7be5090591: 3072,
+    "ino": e7be5090591: 8641,
+    "size": e7be5090591: 44,
+    "blocks": e7be5090591: 5,
+    "atime": e7be5090591: 1429051996976 (2015 Apr 14 15:53:16),
+    "mtime": e7be5090591: 1430174616122 (2015 Apr 27 15:43:36),
+    "ctime": e7be5090591: 1430174616122 (2015 Apr 27 15:43:36),
+    "birthtime": e7be5090591: 1430174616122 (2015 Apr 27 15:43:36),
+}
+property kind: in-object 
+e7be508e561: {
+    "dev": e7be508e561: 65661,
+    "mode": e7be508e561: 16877,
+    "nlink": e7be508e561: 4,
+    "uid": e7be508e561: 0,
+    "gid": e7be508e561: 0,
+    "rdev": e7be508e561: -1,
+    "blksize": e7be508e561: 512,
+    "ino": e7be508e561: 406,
+    "size": e7be508e561: 4,
+    "blocks": e7be508e561: 1,
+    "atime": e7be508e561: 1320337067752 (2011 Nov  3 09:17:47),
+    "mtime": e7be508e561: 1429051864650 (2015 Apr 14 15:51:04),
+    "ctime": e7be508e561: 1429051864650 (2015 Apr 14 15:51:04),
+    "birthtime": e7be508e561: 1429051864650 (2015 Apr 14 15:51:04),
+}
+property kind: in-object 
+10f8ad6c5139: [
+    10f8ad6c5139: hole,
+    10f8ad6c5139: function process,
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function _startProfilerIdleNotifier,
+    10f8ad6c5139: function _stopProfilerIdleNotifier,
+    10f8ad6c5139: function _getActiveRequests,
+    10f8ad6c5139: function _getActiveHandles,
+    10f8ad6c5139: function reallyExit,
+    10f8ad6c5139: function abort,
+    10f8ad6c5139: function chdir,
+    10f8ad6c5139: function cwd,
+    10f8ad6c5139: function umask,
+    10f8ad6c5139: function getuid,
+    10f8ad6c5139: function setuid,
+    10f8ad6c5139: function setgid,
+    10f8ad6c5139: function getgid,
+    10f8ad6c5139: function getgroups,
+    10f8ad6c5139: function setgroups,
+    10f8ad6c5139: function initgroups,
+    10f8ad6c5139: function _kill,
+    10f8ad6c5139: function _debugProcess,
+    10f8ad6c5139: function _debugPause,
+    10f8ad6c5139: function _debugEnd,
+    10f8ad6c5139: function hrtime,
+    10f8ad6c5139: function dlopen,
+    10f8ad6c5139: function uptime,
+    10f8ad6c5139: function memoryUsage,
+    10f8ad6c5139: function binding,
+    10f8ad6c5139: function _linkedBinding,
+    10f8ad6c5139: function _setupNextTick,
+    10f8ad6c5139: function _setupDomainUse,
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function _rawDebug,
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function runInDebugContext,
+    10f8ad6c5139: function makeContext,
+    10f8ad6c5139: function isContext,
+    10f8ad6c5139: function ContextifyScript,
+    10f8ad6c5139: function runInContext,
+    10f8ad6c5139: function runInThisContext,
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function copyOnto,
+    10f8ad6c5139: function sliceOnto,
+    10f8ad6c5139: function alloc,
+    10f8ad6c5139: function dispose,
+    10f8ad6c5139: function truncate,
+    10f8ad6c5139: function hasExternalData,
+    10f8ad6c5139: function isTypedArray,
+    10f8ad6c5139: function asciiSlice,
+    10f8ad6c5139: function base64Slice,
+    10f8ad6c5139: function binarySlice,
+    10f8ad6c5139: function hexSlice,
+    10f8ad6c5139: function ucs2Slice,
+    10f8ad6c5139: function utf8Slice,
+    10f8ad6c5139: function asciiWrite,
+    10f8ad6c5139: function base64Write,
+    10f8ad6c5139: function binaryWrite,
+    10f8ad6c5139: function hexWrite,
+    10f8ad6c5139: function ucs2Write,
+    10f8ad6c5139: function utf8Write,
+    10f8ad6c5139: function copy,
+    10f8ad6c5139: function byteLength,
+    10f8ad6c5139: function compare,
+    10f8ad6c5139: function fill,
+    10f8ad6c5139: function readDoubleBE,
+    10f8ad6c5139: function readDoubleLE,
+    10f8ad6c5139: function readFloatBE,
+    10f8ad6c5139: function readFloatLE,
+    10f8ad6c5139: function writeDoubleBE,
+    10f8ad6c5139: function writeDoubleLE,
+    10f8ad6c5139: function writeFloatBE,
+    10f8ad6c5139: function writeFloatLE,
+    10f8ad6c5139: function runMicrotasks,
+    10f8ad6c5139: function <anonymous> (as <anon>),
+    10f8ad6c5139: function access,
+    10f8ad6c5139: function close,
+    10f8ad6c5139: function open,
+    10f8ad6c5139: function read,
+    10f8ad6c5139: function fdatasync,
+    10f8ad6c5139: function fsync,
+    10f8ad6c5139: function rename,
+    10f8ad6c5139: function ftruncate,
+    10f8ad6c5139: function rmdir,
+    10f8ad6c5139: function mkdir,
+    10f8ad6c5139: function readdir,
+    10f8ad6c5139: function stat,
+    10f8ad6c5139: function lstat,
+    10f8ad6c5139: function fstat,
+    10f8ad6c5139: function link,
+    10f8ad6c5139: function symlink,
+    10f8ad6c5139: function readlink,
+    10f8ad6c5139: function unlink,
+    10f8ad6c5139: function writeBuffer,
+    10f8ad6c5139: function writeString,
+    10f8ad6c5139: function chmod,
+    10f8ad6c5139: function fchmod,
+    10f8ad6c5139: function chown,
+    10f8ad6c5139: function fchown,
+    10f8ad6c5139: function utimes,
+    10f8ad6c5139: function futimes,
+    10f8ad6c5139: function StatWatcher,
+    10f8ad6c5139: function start,
+    10f8ad6c5139: function stop,
+    10f8ad6c5139: function FSReqWrap,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+    10f8ad6c5139: hole,
+]
+e7be504f679: [
+    e7be504f679: "F_OK",
+    e7be504f679: "R_OK",
+    e7be504f679: "W_OK",
+    e7be504f679: "X_OK",
+]
+10f8ad6ce3f1: [
+    10f8ad6ce3f1: "NFC",
+    10f8ad6ce3f1: "NFD",
+    10f8ad6ce3f1: "NFKC",
+    10f8ad6ce3f1: "NFKD",
+]
+10f8ad6cd3b9: [
+    10f8ad6cd3b9: "Cannot read property '",
+    10f8ad6cd3b9: "%0",
+    10f8ad6cd3b9: "' of ",
+    10f8ad6cd3b9: "%1",
+]
+10f8ad6cd2d9: [
+    10f8ad6cd2d9: "Cannot assign to read only property '",
+    10f8ad6cd2d9: "%0",
+    10f8ad6cd2d9: "' of ",
+    10f8ad6cd2d9: "%1",
+]
+10f8ad6cd179: [
+    10f8ad6cd179: "Trap '",
+    10f8ad6cd179: "%1",
+    10f8ad6cd179: "' returned non-object ",
+    10f8ad6cd179: "%0",
+]
+10f8ad6cd0d9: [
+    10f8ad6cd0d9: "Invalid regular expression: /",
+    10f8ad6cd0d9: "%0",
+    10f8ad6cd0d9: "/: ",
+    10f8ad6cd0d9: "%1",
+]
+10f8ad6cd0b9: [
+    10f8ad6cd0b9: "Cannot set property '",
+    10f8ad6cd0b9: "%0",
+    10f8ad6cd0b9: "' of ",
+    10f8ad6cd0b9: "%1",
+]
+10f8ad6ccef9: [
+    10f8ad6ccef9: "Cannot use 'in' operator to search for '",
+    10f8ad6ccef9: "%0",
+    10f8ad6ccef9: "' in ",
+    10f8ad6ccef9: "%1",
+]
+10f8ad6cc999: [
+    10f8ad6cc999: "Cannot delete property '",
+    10f8ad6cc999: "%0",
+    10f8ad6cc999: "' of ",
+    10f8ad6cc999: "%1",
+]
+10f8ad6cc359: [
+    10f8ad6cc359: "Method ",
+    10f8ad6cc359: "%0",
+    10f8ad6cc359: " called on incompatible receiver ",
+    10f8ad6cc359: "%1",
+]
+10f8ad6c2bc9: [
+    10f8ad6c2bc9: "NFC",
+    10f8ad6c2bc9: "NFD",
+    10f8ad6c2bc9: "NFKC",
+    10f8ad6c2bc9: "NFKD",
+]
+10f8ad6ba1b1: [
+    10f8ad6ba1b1: "NFC",
+    10f8ad6ba1b1: "NFD",
+    10f8ad6ba1b1: "NFKC",
+    10f8ad6ba1b1: "NFKD",
+]
+10f8ad6ba191: [
+    10f8ad6ba191: "collator",
+    10f8ad6ba191: "numberformat",
+    10f8ad6ba191: "dateformat",
+    10f8ad6ba191: "breakiterator",
+]
+10f8ad63a671: [
+    10f8ad63a671: "Cannot assign to read only property '",
+    10f8ad63a671: "%0",
+    10f8ad63a671: "' of ",
+    10f8ad63a671: "%1",
+]
+10f8ad63a611: [
+    10f8ad63a611: "Cannot delete property '",
+    10f8ad63a611: "%0",
+    10f8ad63a611: "' of ",
+    10f8ad63a611: "%1",
+]
+10f8ad639c91: [
+    10f8ad639c91: "Trap '",
+    10f8ad639c91: "%1",
+    10f8ad639c91: "' returned non-object ",
+    10f8ad639c91: "%0",
+]
+10f8ad6399f1: [
+    10f8ad6399f1: "Cannot use 'in' operator to search for '",
+    10f8ad6399f1: "%0",
+    10f8ad6399f1: "' in ",
+    10f8ad6399f1: "%1",
+]
+10f8ad639931: [
+    10f8ad639931: "Cannot set property '",
+    10f8ad639931: "%0",
+    10f8ad639931: "' of ",
+    10f8ad639931: "%1",
+]
+10f8ad639911: [
+    10f8ad639911: "Cannot read property '",
+    10f8ad639911: "%0",
+    10f8ad639911: "' of ",
+    10f8ad639911: "%1",
+]
+10f8ad639711: [
+    10f8ad639711: "Method ",
+    10f8ad639711: "%0",
+    10f8ad639711: " called on incompatible receiver ",
+    10f8ad639711: "%1",
+]
+10f8ad6396b1: [
+    10f8ad6396b1: "Invalid regular expression: /",
+    10f8ad6396b1: "%0",
+    10f8ad6396b1: "/: ",
+    10f8ad6396b1: "%1",
+]
+10f8ad62dc51: [
+    10f8ad62dc51: "NFC",
+    10f8ad62dc51: "NFD",
+    10f8ad62dc51: "NFKC",
+    10f8ad62dc51: "NFKD",
+]
+e7be50991d9: [
+    e7be50991d9: 1,
+    e7be50991d9: 7,
+    e7be50991d9: 7,
+    e7be50991d9: 6,
+]
+e7be5098ef1: [
+    e7be5098ef1: 1,
+    e7be5098ef1: 7,
+    e7be5098ef1: 7,
+    e7be5098ef1: 6,
+]
+e7be50989a9: [
+    e7be50989a9: 1,
+    e7be50989a9: 7,
+    e7be50989a9: 7,
+    e7be50989a9: 6,
+]
+e7be5098259: [
+    e7be5098259: "/",
+    e7be5098259: "home/dap/node-testing/test-programs/",
+    e7be5098259: "gcore-loop.js",
+    e7be5098259: ".js",
+]
+e7be5095051: [
+    e7be5095051: "/",
+    e7be5095051: "home/dap/node-testing/test-programs/",
+    e7be5095051: "gcore-loop.js",
+    e7be5095051: ".js",
+]
+e7be5094979: [
+    e7be5094979: "",
+    e7be5094979: "home",
+    e7be5094979: "dap",
+    e7be5094979: "node_modules",
+]
+e7be50948c1: [
+    e7be50948c1: "",
+    e7be50948c1: "home",
+    e7be50948c1: "dap",
+    e7be50948c1: "node_modules",
+]
+e7be5094481: [
+    e7be5094481: "",
+    e7be5094481: "home",
+    e7be5094481: "dap",
+    e7be5094481: "node-testing",
+]
+e7be5093b81: [
+    e7be5093b81: "home",
+    e7be5093b81: "dap",
+    e7be5093b81: "node-testing",
+    e7be5093b81: "test-programs",
+]
+e7be5093a21: [
+    e7be5093a21: "home",
+    e7be5093a21: "dap",
+    e7be5093a21: "node-testing",
+    e7be5093a21: "test-programs",
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+    e7be5093a21: hole,
+]
+e7be5092ea9: [
+    e7be5092ea9: "/",
+    e7be5092ea9: "home/dap/node-testing/test-programs/",
+    e7be5092ea9: "gcore-loop.js",
+    e7be5092ea9: ".js",
+]
+e7be5086091: [
+    e7be5086091: "/home/dap/.node_modules",
+    e7be5086091: "/home/dap/.node_libraries",
+    e7be5086091: "/home/dap/node-testing/node-v0.12.2-sunos-x64/lib/node",
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+    e7be5086091: hole,
+]
+10f8ad6d1ba9: [
+    10f8ad6d1ba9: "false",
+    10f8ad6d1ba9: "lower",
+    10f8ad6d1ba9: "upper",
+]
+10f8ad6cd1f9: [
+    10f8ad6cd1f9: "Can't add property ",
+    10f8ad6cd1f9: "%0",
+    10f8ad6cd1f9: ", object is not extensible",
+]
+10f8ad6cd139: [
+    10f8ad6cd139: "Proxy.",
+    10f8ad6cd139: "%0",
+    10f8ad6cd139: " called with non-object as prototype",
+]
+10f8ad6ccf79: [
+    10f8ad6ccf79: "Promise resolver ",
+    10f8ad6ccf79: "%0",
+    10f8ad6ccf79: " is not a function",
+]
+10f8ad6cced9: [
+    10f8ad6cced9: "Iterator result ",
+    10f8ad6cced9: "%0",
+    10f8ad6cced9: " is not an object",
+]
+10f8ad6ccdf9: [
+    10f8ad6ccdf9: "String '",
+    10f8ad6ccdf9: "%0",
+    10f8ad6ccdf9: "' is not valid JSON",
+]
+10f8ad6ccdb9: [
+    10f8ad6ccdb9: "Proxy.",
+    10f8ad6ccdb9: "%0",
+    10f8ad6ccdb9: " called with non-object as handler",
+]
+10f8ad6cccf9: [
+    10f8ad6cccf9: "Iterator value ",
+    10f8ad6cccf9: "%0",
+    10f8ad6cccf9: " is not an entry object",
+]
+10f8ad6ccc19: [
+    10f8ad6ccc19: "Invalid flags supplied to RegExp constructor '",
+    10f8ad6ccc19: "%0",
+    10f8ad6ccc19: "'",
+]
+10f8ad6ccbb9: [
+    10f8ad6ccbb9: "Cannot assign to read only '",
+    10f8ad6ccbb9: "%0",
+    10f8ad6ccbb9: "' in strict mode",
+]
+10f8ad6cc9f9: [
+    10f8ad6cc9f9: "Object template has duplicate property '",
+    10f8ad6cc9f9: "%0",
+    10f8ad6cc9f9: "'",
+]
+10f8ad6cc919: [
+    10f8ad6cc919: "Label '",
+    10f8ad6cc919: "%0",
+    10f8ad6cc919: "' has already been declared",
+]
+10f8ad6cc839: [
+    10f8ad6cc839: "Identifier '",
+    10f8ad6cc839: "%0",
+    10f8ad6cc839: "' has already been declared",
+]
+10f8ad6cc6b9: [
+    10f8ad6cc6b9: "Invalid RegExp pattern /",
+    10f8ad6cc6b9: "%0",
+    10f8ad6cc6b9: "/",
+]
+10f8ad6cc699: [
+    10f8ad6cc699: "Constructor ",
+    10f8ad6cc699: "%0",
+    10f8ad6cc699: " requires 'new'",
+]
+10f8ad6cc679: [
+    10f8ad6cc679: "First argument to ",
+    10f8ad6cc679: "%0",
+    10f8ad6cc679: " must not be a regular expression",
+]
+10f8ad6cc5f9: [
+    10f8ad6cc5f9: "Cannot define property:",
+    10f8ad6cc5f9: "%0",
+    10f8ad6cc5f9: ", object is not extensible.",
+]
+10f8ad6cc5b9: [
+    10f8ad6cc5b9: "Object.",
+    10f8ad6cc5b9: "%0",
+    10f8ad6cc5b9: " cannot deliver to non-function",
+]
+10f8ad6cc4b9: [
+    10f8ad6cc4b9: "Undefined label '",
+    10f8ad6cc4b9: "%0",
+    10f8ad6cc4b9: "'",
+]
+10f8ad6cc479: [
+    10f8ad6cc479: "Module '",
+    10f8ad6cc479: "%0",
+    10f8ad6cc479: "' used improperly",
+]
+10f8ad6cc439: [
+    10f8ad6cc439: "Function has non-object prototype '",
+    10f8ad6cc439: "%0",
+    10f8ad6cc439: "' in instanceof check",
+]
+10f8ad6cc3f9: [
+    10f8ad6cc3f9: "Module does not export '",
+    10f8ad6cc3f9: "%0",
+    10f8ad6cc3f9: "', or export is not itself a module",
+]
+10f8ad6cc2f9: [
+    10f8ad6cc2f9: "Export '",
+    10f8ad6cc2f9: "%0",
+    10f8ad6cc2f9: "' is not defined in module",
+]
+10f8ad6ba6f1: [
+    10f8ad6ba6f1: "false",
+    10f8ad6ba6f1: "lower",
+    10f8ad6ba6f1: "upper",
+]
+10f8ad63a871: [
+    10f8ad63a871: "Export '",
+    10f8ad63a871: "%0",
+    10f8ad63a871: "' is not defined in module",
+]
+10f8ad63a851: [
+    10f8ad63a851: "Module '",
+    10f8ad63a851: "%0",
+    10f8ad63a851: "' used improperly",
+]
+10f8ad63a831: [
+    10f8ad63a831: "Module does not export '",
+    10f8ad63a831: "%0",
+    10f8ad63a831: "', or export is not itself a module",
+]
+10f8ad63a691: [
+    10f8ad63a691: "Cannot assign to read only '",
+    10f8ad63a691: "%0",
+    10f8ad63a691: "' in strict mode",
+]
+10f8ad63a471: [
+    10f8ad63a471: "Can't add property ",
+    10f8ad63a471: "%0",
+    10f8ad63a471: ", object is not extensible",
+]
+10f8ad63a3d1: [
+    10f8ad63a3d1: "String '",
+    10f8ad63a3d1: "%0",
+    10f8ad63a3d1: "' is not valid JSON",
+]
+10f8ad63a311: [
+    10f8ad63a311: "Invalid RegExp pattern /",
+    10f8ad63a311: "%0",
+    10f8ad63a311: "/",
+]
+10f8ad63a2f1: [
+    10f8ad63a2f1: "Invalid flags supplied to RegExp constructor '",
+    10f8ad63a2f1: "%0",
+    10f8ad63a2f1: "'",
+]
+10f8ad63a011: [
+    10f8ad63a011: "Iterator value ",
+    10f8ad63a011: "%0",
+    10f8ad63a011: " is not an entry object",
+]
+10f8ad639ff1: [
+    10f8ad639ff1: "Iterator result ",
+    10f8ad639ff1: "%0",
+    10f8ad639ff1: " is not an object",
+]
+10f8ad639f91: [
+    10f8ad639f91: "First argument to ",
+    10f8ad639f91: "%0",
+    10f8ad639f91: " must not be a regular expression",
+]
+10f8ad639f11: [
+    10f8ad639f11: "Promise resolver ",
+    10f8ad639f11: "%0",
+    10f8ad639f11: " is not a function",
+]
+10f8ad639eb1: [
+    10f8ad639eb1: "Constructor ",
+    10f8ad639eb1: "%0",
+    10f8ad639eb1: " requires 'new'",
+]
+10f8ad639d51: [
+    10f8ad639d51: "Object.",
+    10f8ad639d51: "%0",
+    10f8ad639d51: " cannot deliver to non-function",
+]
+10f8ad639bb1: [
+    10f8ad639bb1: "Proxy.",
+    10f8ad639bb1: "%0",
+    10f8ad639bb1: " called with non-object as prototype",
+]
+10f8ad639b91: [
+    10f8ad639b91: "Proxy.",
+    10f8ad639b91: "%0",
+    10f8ad639b91: " called with non-object as handler",
+]
+10f8ad639b51: [
+    10f8ad639b51: "Cannot define property:",
+    10f8ad639b51: "%0",
+    10f8ad639b51: ", object is not extensible.",
+]
+10f8ad639a31: [
+    10f8ad639a31: "Function has non-object prototype '",
+    10f8ad639a31: "%0",
+    10f8ad639a31: "' in instanceof check",
+]
+10f8ad6397f1: [
+    10f8ad6397f1: "Undefined label '",
+    10f8ad6397f1: "%0",
+    10f8ad6397f1: "'",
+]
+10f8ad6397b1: [
+    10f8ad6397b1: "Object template has duplicate property '",
+    10f8ad6397b1: "%0",
+    10f8ad6397b1: "'",
+]
+10f8ad639791: [
+    10f8ad639791: "Identifier '",
+    10f8ad639791: "%0",
+    10f8ad639791: "' has already been declared",
+]
+10f8ad639771: [
+    10f8ad639771: "Label '",
+    10f8ad639771: "%0",
+    10f8ad639771: "' has already been declared",
+]
+e7be5094b71: [
+    e7be5094b71: "",
+    e7be5094b71: "home",
+    e7be5094b71: "node_modules",
+]
+e7be5094ab9: [
+    e7be5094ab9: "",
+    e7be5094ab9: "home",
+    e7be5094ab9: "node_modules",
+]
+e7be5094809: [
+    e7be5094809: "",
+    e7be5094809: "home",
+    e7be5094809: "dap",
+]
+e7be5088609: [
+    e7be5088609: ".js",
+    e7be5088609: ".json",
+    e7be5088609: ".node",
+]
+e7be5087319: [
+    e7be5087319: "/home/dap/.node_modules",
+    e7be5087319: "/home/dap/.node_libraries",
+    e7be5087319: "/home/dap/node-testing/node-v0.12.2-sunos-x64/lib/node",
+]
+e7be5087229: [
+    e7be5087229: "home",
+    e7be5087229: "dap",
+    e7be5087229: ".node_modules",
+]
+e7be50870c9: [
+    e7be50870c9: "home",
+    e7be50870c9: "dap",
+    e7be50870c9: ".node_modules",
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+    e7be50870c9: hole,
+]
+e7be5086d79: [
+    e7be5086d79: "home",
+    e7be5086d79: "dap",
+    e7be5086d79: ".node_libraries",
+]
+e7be5086c19: [
+    e7be5086c19: "home",
+    e7be5086c19: "dap",
+    e7be5086c19: ".node_libraries",
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+    e7be5086c19: hole,
+]
+35af1819c39: [
+    35af1819c39: 0,
+    35af1819c39: 0,
+]
+10f8ad6d1dc1: [
+    10f8ad6d1dc1: "(function (exports, require, module, __filename, __dirname) {
+ ",
+    10f8ad6d1dc1: "
+});",
+]
+10f8ad6cdce1: [
+    10f8ad6cdce1: "/home/dap/node-testing/node-v0.12.2-sunos-x64/bin/node",
+    10f8ad6cdce1: "/home/dap/node-testing/test-programs/gcore-loop.js",
+]
+10f8ad6cd379: [
+    10f8ad6cd379: "%0",
+    10f8ad6cd379: " is not an iterator",
+]
+10f8ad6cd2f9: [
+    10f8ad6cd2f9: "%0",
+    10f8ad6cd2f9: " is not a promise",
+]
+10f8ad6cd259: [
+    10f8ad6cd259: "Setter must be a function: ",
+    10f8ad6cd259: "%0",
+]
+10f8ad6cd219: [
+    10f8ad6cd219: "%0",
+    10f8ad6cd219: " is not a function",
+]
+10f8ad6cd1d9: [
+    10f8ad6cd1d9: "Property description must be an object: ",
+    10f8ad6cd1d9: "%0",
+]
+10f8ad6cd119: [
+    10f8ad6cd119: "Getter must be a function: ",
+    10f8ad6cd119: "%0",
+]
+10f8ad6ccfd9: [
+    10f8ad6ccfd9: "%0",
+    10f8ad6ccfd9: " is not defined",
+]
+10f8ad6ccf99: [
+    10f8ad6ccf99: "Invalid property.  A property cannot both have accessors and 
+be writable or have a value, ",
+    10f8ad6ccf99: "%0",
+]
+10f8ad6ccb79: [
+    10f8ad6ccb79: "Uncaught ",
+    10f8ad6ccb79: "%0",
+]
+10f8ad6ccab9: [
+    10f8ad6ccab9: "%0",
+    10f8ad6ccab9: " has no properties",
+]
+10f8ad6cca99: [
+    10f8ad6cca99: "%0",
+    10f8ad6cca99: " is not extensible",
+]
+10f8ad6cc979: [
+    10f8ad6cc979: "%0",
+    10f8ad6cc979: " is not a constructor",
+]
+10f8ad6cc879: [
+    10f8ad6cc879: "%0",
+    10f8ad6cc879: " called on null or undefined",
+]
+10f8ad6cc7f9: [
+    10f8ad6cc7f9: "Unexpected token ",
+    10f8ad6cc7f9: "%0",
+]
+10f8ad6cc779: [
+    10f8ad6cc779: "%0",
+    10f8ad6cc779: " is not iterable",
+]
+10f8ad6cc5d9: [
+    10f8ad6cc5d9: "%0",
+    10f8ad6cc5d9: " cannot be called on the global proxy object",
+]
+10f8ad6cc519: [
+    10f8ad6cc519: "Invalid code point ",
+    10f8ad6cc519: "%0",
+]
+10f8ad6cc4f9: [
+    10f8ad6cc4f9: "%0",
+    10f8ad6cc4f9: " called on non-object",
+]
+10f8ad6cc419: [
+    10f8ad6cc419: "%0",
+    10f8ad6cc419: " is not a symbol",
+]
+10f8ad6cc399: [
+    10f8ad6cc399: "Cannot redefine property: ",
+    10f8ad6cc399: "%0",
+]
+10f8ad6cc379: [
+    10f8ad6cc379: "Expecting a function in instanceof check, but got ",
+    10f8ad6cc379: "%0",
+]
+10f8ad6cc339: [
+    10f8ad6cc339: "No input to ",
+    10f8ad6cc339: "%0",
+]
+10f8ad6cc319: [
+    10f8ad6cc319: "Chaining cycle detected for promise ",
+    10f8ad6cc319: "%0",
+]
+10f8ad6cc2d9: [
+    10f8ad6cc2d9: "Stack Trace:
+",
+    10f8ad6cc2d9: "%0",
+]
+10f8ad6cc239: [
+    10f8ad6cc239: "Object prototype may only be an Object or null: ",
+    10f8ad6cc239: "%0",
+]
+10f8ad63f939: [
+    10f8ad63f939: "toString",
+    10f8ad63f939: 0,
+]
+10f8ad63a431: [
+    10f8ad63a431: "%0",
+    10f8ad63a431: " called on null or undefined",
+]
+10f8ad63a411: [
+    10f8ad63a411: "%0",
+    10f8ad63a411: " called on non-object",
+]
+10f8ad63a3b1: [
+    10f8ad63a3b1: "No input to ",
+    10f8ad63a3b1: "%0",
+]
+10f8ad63a1f1: [
+    10f8ad63a1f1: "Invalid code point ",
+    10f8ad63a1f1: "%0",
+]
+10f8ad639fd1: [
+    10f8ad639fd1: "%0",
+    10f8ad639fd1: " is not an iterator",
+]
+10f8ad639fb1: [
+    10f8ad639fb1: "%0",
+    10f8ad639fb1: " is not iterable",
+]
+10f8ad639f31: [
+    10f8ad639f31: "Chaining cycle detected for promise ",
+    10f8ad639f31: "%0",
+]
+10f8ad639ef1: [
+    10f8ad639ef1: "%0",
+    10f8ad639ef1: " is not a promise",
+]
+10f8ad639ed1: [
+    10f8ad639ed1: "%0",
+    10f8ad639ed1: " is not a symbol",
+]
+10f8ad639e31: [
+    10f8ad639e31: "%0",
+    10f8ad639e31: " cannot be called on the global proxy object",
+]
+10f8ad639b71: [
+    10f8ad639b71: "%0",
+    10f8ad639b71: " is not extensible",
+]
+10f8ad639b31: [
+    10f8ad639b31: "Cannot redefine property: ",
+    10f8ad639b31: "%0",
+]
+10f8ad639b11: [
+    10f8ad639b11: "Property description must be an object: ",
+    10f8ad639b11: "%0",
+]
+10f8ad639af1: [
+    10f8ad639af1: "Object prototype may only be an Object or null: ",
+    10f8ad639af1: "%0",
+]
+10f8ad639ad1: [
+    10f8ad639ad1: "Invalid property.  A property cannot both have accessors and 
+be writable or have a value, ",
+    10f8ad639ad1: "%0",
+]
+10f8ad639ab1: [
+    10f8ad639ab1: "Setter must be a function: ",
+    10f8ad639ab1: "%0",
+]
+10f8ad639a91: [
+    10f8ad639a91: "Getter must be a function: ",
+    10f8ad639a91: "%0",
+]
+10f8ad639a11: [
+    10f8ad639a11: "Expecting a function in instanceof check, but got ",
+    10f8ad639a11: "%0",
+]
+10f8ad639951: [
+    10f8ad639951: "%0",
+    10f8ad639951: " has no properties",
+]
+10f8ad6398f1: [
+    10f8ad6398f1: "%0",
+    10f8ad6398f1: " is not defined",
+]
+10f8ad6398d1: [
+    10f8ad6398d1: "%0",
+    10f8ad6398d1: " is not a constructor",
+]
+10f8ad639851: [
+    10f8ad639851: "%0",
+    10f8ad639851: " is not a function",
+]
+10f8ad639831: [
+    10f8ad639831: "Stack Trace:
+",
+    10f8ad639831: "%0",
+]
+10f8ad639811: [
+    10f8ad639811: "Uncaught ",
+    10f8ad639811: "%0",
+]
+10f8ad6395d1: [
+    10f8ad6395d1: "Unexpected token ",
+    10f8ad6395d1: "%0",
+]
+e7be5097489: [
+    e7be5097489: 0,
+    e7be5097489: 0,
+]
+e7be5094d49: [
+    e7be5094d49: "",
+    e7be5094d49: "node_modules",
+]
+e7be5094c91: [
+    e7be5094c91: "",
+    e7be5094c91: "node_modules",
+]
+e7be5094c31: [
+    e7be5094c31: [...],
+    e7be5094c31: "node_modules",
+]
+e7be5094a51: [
+    e7be5094a51: [...],
+    e7be5094a51: "node_modules",
+]
+e7be5094a11: [
+    e7be5094a11: "",
+    e7be5094a11: "home",
+]
+e7be5094851: [
+    e7be5094851: [...],
+    e7be5094851: "node_modules",
+]
+e7be5094551: [
+    e7be5094551: [...],
+    e7be5094551: "node_modules",
+]
+e7be50941d1: [
+    e7be50941d1: [...],
+    e7be50941d1: "node_modules",
+]
+e7be5091479: [
+    e7be5091479: "gcore-loop.js",
+    e7be5091479: "gcore-loop.js",
+]
+e7be5090ee1: [
+    e7be5090ee1: "test-programs/",
+    e7be5090ee1: "test-programs",
+]
+e7be50909a1: [
+    e7be50909a1: "node-testing/",
+    e7be50909a1: "node-testing",
+]
+e7be508fa31: [
+    e7be508fa31: "dap/",
+    e7be508fa31: "dap",
+]
+e7be508e3f9: [
+    e7be508e3f9: "home/",
+    e7be508e3f9: "home",
+]
+e7be508b0c9: [
+    e7be508b0c9: "RegExp.prototype.exec",
+    e7be508b0c9: 0,
+]
+e7be5087ec1: [
+    e7be5087ec1: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    e7be5087ec1: [...],
+]
+e7be5087509: [
+    e7be5087509: 0,
+    e7be5087509: 0,
+]
+e7be50874c9: [
+    e7be50874c9: 0,
+    e7be50874c9: 0,
+]
+e7be5087451: [
+    e7be5087451: 0,
+    e7be5087451: 0,
+]
+e7be50873d1: [
+    e7be50873d1: 0,
+    e7be50873d1: <unknown JavaScript object type "FixedArray">,
+]
+e7be505bfe9: [
+    e7be505bfe9: 36,
+    e7be505bfe9: 39,
+]
+e7be505bfc9: [
+    e7be505bfc9: 4,
+    e7be505bfc9: 24,
+]
+e7be505bfa9: [
+    e7be505bfa9: 34,
+    e7be505bfa9: 39,
+]
+e7be505bf89: [
+    e7be505bf89: 35,
+    e7be505bf89: 39,
+]
+e7be505bf69: [
+    e7be505bf69: 32,
+    e7be505bf69: 39,
+]
+e7be505bf49: [
+    e7be505bf49: 37,
+    e7be505bf49: 39,
+]
+e7be505bf29: [
+    e7be505bf29: 3,
+    e7be505bf29: 23,
+]
+e7be505bf09: [
+    e7be505bf09: 30,
+    e7be505bf09: 39,
+]
+e7be505bee9: [
+    e7be505bee9: 90,
+    e7be505bee9: 39,
+]
+e7be505bec9: [
+    e7be505bec9: 7,
+    e7be505bec9: 27,
+]
+e7be505bea9: [
+    e7be505bea9: 31,
+    e7be505bea9: 39,
+]
+e7be505be89: [
+    e7be505be89: 1,
+    e7be505be89: 22,
+]
+e7be505be69: [
+    e7be505be69: 33,
+    e7be505be69: 39,
+]
+e7be5051569: [
+    e7be5051569: "(function (exports, require, module, __filename, __dirname) { 
+",
+    e7be5051569: "
+});",
+]
+e7be501fb31: [
+    e7be501fb31: 33,
+    e7be501fb31: 39,
+]
+e7be501fb11: [
+    e7be501fb11: 31,
+    e7be501fb11: 39,
+]
+e7be501faf1: [
+    e7be501faf1: 35,
+    e7be501faf1: 39,
+]
+e7be501fad1: [
+    e7be501fad1: 32,
+    e7be501fad1: 39,
+]
+e7be501fab1: [
+    e7be501fab1: 36,
+    e7be501fab1: 39,
+]
+e7be501fa91: [
+    e7be501fa91: 34,
+    e7be501fa91: 39,
+]
+e7be501fa71: [
+    e7be501fa71: 30,
+    e7be501fa71: 39,
+]
+e7be501fa51: [
+    e7be501fa51: 90,
+    e7be501fa51: 39,
+]
+e7be501fa31: [
+    e7be501fa31: 37,
+    e7be501fa31: 39,
+]
+e7be501fa11: [
+    e7be501fa11: 7,
+    e7be501fa11: 27,
+]
+e7be501f9f1: [
+    e7be501f9f1: 4,
+    e7be501f9f1: 24,
+]
+e7be501f9d1: [
+    e7be501f9d1: 3,
+    e7be501f9d1: 23,
+]
+e7be501f9b1: [
+    e7be501f9b1: 1,
+    e7be501f9b1: 22,
+]
+e7be5050911: {
+    "EXDEV": e7be5050911: 18,
+    "RSA_PKCS1_PADDING": e7be5050911: 1,
+    "SSL_OP_MSIE_SSLV2_RSA_PADDING": e7be5050911: 0,
+    "EILSEQ": e7be5050911: 88,
+    "ENXIO": e7be5050911: 6,
+    "SIGIOT": e7be5050911: 6,
+    "SIGUSR2": e7be5050911: 17,
+    "ENFILE": e7be5050911: 23,
+    "RSA_SSLV23_PADDING": e7be5050911: 2,
+    "S_IRGRP": e7be5050911: 32,
+    "EISDIR": e7be5050911: 21,
+    "EADDRINUSE": e7be5050911: 125,
+    "SSL_OP_COOKIE_EXCHANGE": e7be5050911: 8192,
+    "SSL_OP_NO_TLSv1_1": e7be5050911: 268435456,
+    "EOPNOTSUPP": e7be5050911: 122,
+    "RSA_NO_PADDING": e7be5050911: 3,
+    "EMFILE": e7be5050911: 24,
+    "SSL_OP_PKCS1_CHECK_2": e7be5050911: 0,
+    "ENOPROTOOPT": e7be5050911: 99,
+    "SIGXFSZ": e7be5050911: 31,
+    "RSA_PKCS1_PSS_PADDING": e7be5050911: 6,
+    "DH_CHECK_P_NOT_SAFE_PRIME": e7be5050911: 2,
+    "SSL_OP_CIPHER_SERVER_PREFERENCE": e7be5050911: 4194304,
+    "S_IRUSR": e7be5050911: 256,
+    "EBUSY": e7be5050911: 16,
+    "O_SYNC": e7be5050911: 16,
+    "SSL_OP_MICROSOFT_SESS_ID_BUG": e7be5050911: 1,
+    "ETIMEDOUT": e7be5050911: 145,
+    "SSL_OP_NO_SSLv3": e7be5050911: 33554432,
+    "ENGINE_METHOD_ECDSA": e7be5050911: 32,
+    "EDOM": e7be5050911: 33,
+    "DH_NOT_SUITABLE_GENERATOR": e7be5050911: 8,
+    "SSL_OP_PKCS1_CHECK_1": e7be5050911: 0,
+    "ENAMETOOLONG": e7be5050911: 78,
+    "ENGINE_METHOD_DH": e7be5050911: 4,
+    "ENOSPC": e7be5050911: 28,
+    "SSL_OP_LEGACY_SERVER_CONNECT": e7be5050911: 4,
+    "SSL_OP_SSLREF2_REUSE_CERT_TYPE_BUG": e7be5050911: 0,
+    "EINTR": e7be5050911: 4,
+    "O_WRONLY": e7be5050911: 1,
+    "EDESTADDRREQ": e7be5050911: 96,
+    "SIGCHLD": e7be5050911: 18,
+    "ENOTEMPTY": e7be5050911: 93,
+    "ECONNABORTED": e7be5050911: 130,
+    "SIGPWR": e7be5050911: 19,
+    "SIGSYS": e7be5050911: 12,
+    "ENOLCK": e7be5050911: 46,
+    "EROFS": e7be5050911: 30,
+    "EPROTO": e7be5050911: 71,
+    "NPN_ENABLED": e7be5050911: 1,
+    "ENGINE_METHOD_PKEY_METHS": e7be5050911: 512,
+    "O_NOCTTY": e7be5050911: 2048,
+    "SIGABRT": e7be5050911: 6,
+    "ERANGE": e7be5050911: 34,
+    "SIGTTOU": e7be5050911: 27,
+    "S_IFREG": e7be5050911: 32768,
+    "EIDRM": e7be5050911: 36,
+    "EAGAIN": e7be5050911: 11,
+    "SSL_OP_NETSCAPE_DEMO_CIPHER_CHANGE_BUG": e7be5050911: 1073741824,
+    "SSL_OP_NO_QUERY_MTU": e7be5050911: 4096,
+    "RSA_PKCS1_OAEP_PADDING": e7be5050911: 4,
+    "ELOOP": e7be5050911: 90,
+    "SIGBUS": e7be5050911: 10,
+    "DH_UNABLE_TO_CHECK_GENERATOR": e7be5050911: 4,
+    "O_CREAT": e7be5050911: 256,
+    "SIGIO": e7be5050911: 22,
+    "SSL_OP_NETSCAPE_CHALLENGE_BUG": e7be5050911: 2,
+    "ETIME": e7be5050911: 62,
+    "EOVERFLOW": e7be5050911: 79,
+    "SIGCONT": e7be5050911: 25,
+    "EINPROGRESS": e7be5050911: 150,
+    "ESTALE": e7be5050911: 151,
+    "S_IFCHR": e7be5050911: 8192,
+    "R_OK": e7be5050911: 4,
+    "EACCES": e7be5050911: 13,
+    "ECONNREFUSED": e7be5050911: 146,
+    "ENGINE_METHOD_ALL": e7be5050911: 65535,
+    "EMLINK": e7be5050911: 31,
+    "ENETRESET": e7be5050911: 129,
+    "ENOENT": e7be5050911: 2,
+    "ENGINE_METHOD_PKEY_ASN1_METHS": e7be5050911: 1024,
+    "SIGHUP": e7be5050911: 1,
+    "O_APPEND": e7be5050911: 8,
+    "O_NONBLOCK": e7be5050911: 128,
+    "S_IWOTH": e7be5050911: 2,
+    "ENGINE_METHOD_DIGESTS": e7be5050911: 128,
+    "EMSGSIZE": e7be5050911: 97,
+    "ENETDOWN": e7be5050911: 127,
+    "ENOTTY": e7be5050911: 25,
+    "ENOSYS": e7be5050911: 89,
+    "SIGUSR1": e7be5050911: 16,
+    "S_IFBLK": e7be5050911: 24576,
+    "S_IRWXU": e7be5050911: 448,
+    "EDEADLK": e7be5050911: 45,
+    "ENOTSUP": e7be5050911: 48,
+    "ENGINE_METHOD_ECDH": e7be5050911: 16,
+    "ENETUNREACH": e7be5050911: 128,
+    "SSL_OP_ALL": e7be5050911: 2147486719,
+    "ENGINE_METHOD_RAND": e7be5050911: 8,
+    "DH_CHECK_P_NOT_PRIME": e7be5050911: 1,
+    "O_EXCL": e7be5050911: 1024,
+    "SIGILL": e7be5050911: 4,
+    "EPIPE": e7be5050911: 32,
+    "ENOSTR": e7be5050911: 60,
+    "EMULTIHOP": e7be5050911: 74,
+    "ENOSR": e7be5050911: 63,
+    "SSL_OP_TLS_ROLLBACK_BUG": e7be5050911: 8388608,
+    "EAFNOSUPPORT": e7be5050911: 124,
+    "ENGINE_METHOD_DSA": e7be5050911: 2,
+    "S_IWUSR": e7be5050911: 128,
+    "SIGSEGV": e7be5050911: 11,
+    "ECHILD": e7be5050911: 10,
+    "UV_UDP_REUSEADDR": e7be5050911: 4,
+    "SSL_OP_NO_TLSv1_2": e7be5050911: 134217728,
+    "ENOTSOCK": e7be5050911: 95,
+    "EPERM": e7be5050911: 1,
+    "SIGVTALRM": e7be5050911: 28,
+    "SSL_OP_NETSCAPE_CA_DN_BUG": e7be5050911: 536870912,
+    "O_TRUNC": e7be5050911: 512,
+    "SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG": e7be5050911: 8,
+    "ECONNRESET": e7be5050911: 131,
+    "EEXIST": e7be5050911: 17,
+    "ENODEV": e7be5050911: 19,
+    "X_OK": e7be5050911: 1,
+    "EBADF": e7be5050911: 9,
+    "SIGKILL": e7be5050911: 9,
+    "ENOTCONN": e7be5050911: 134,
+    "POINT_CONVERSION_COMPRESSED": e7be5050911: 2,
+    "EINVAL": e7be5050911: 22,
+    "O_NOFOLLOW": e7be5050911: 131072,
+    "F_OK": e7be5050911: 0,
+    "SIGTRAP": e7be5050911: 5,
+    "O_RDWR": e7be5050911: 2,
+    "EDQUOT": e7be5050911: 49,
+    "SIGWINCH": e7be5050911: 20,
+    "S_IXGRP": e7be5050911: 8,
+    "ENGINE_METHOD_NONE": e7be5050911: 0,
+    "W_OK": e7be5050911: 2,
+    "ENODATA": e7be5050911: 61,
+    "SIGINT": e7be5050911: 2,
+    "SIGTERM": e7be5050911: 15,
+    "RSA_X931_PADDING": e7be5050911: 5,
+    "POINT_CONVERSION_UNCOMPRESSED": e7be5050911: 4,
+    "SIGLOST": e7be5050911: 37,
+    "ENOMEM": e7be5050911: 12,
+    "SIGPOLL": e7be5050911: 22,
+    "SSL_OP_CRYPTOPRO_TLSEXT_BUG": e7be5050911: 2147483648,
+    "SSL_OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION": e7be5050911: 262144,
+    "SSL_OP_TLS_BLOCK_PADDING_BUG": e7be5050911: 512,
+    "POINT_CONVERSION_HYBRID": e7be5050911: 6,
+    "S_IFIFO": e7be5050911: 4096,
+    "EWOULDBLOCK": e7be5050911: 11,
+    "ENOEXEC": e7be5050911: 8,
+    "SSL_OP_TLS_D5_BUG": e7be5050911: 256,
+    "SSL_OP_NO_TLSv1": e7be5050911: 67108864,
+    "S_IXOTH": e7be5050911: 1,
+    "EPROTONOSUPPORT": e7be5050911: 120,
+    "SIGTTIN": e7be5050911: 26,
+    "SSL_OP_EPHEMERAL_RSA": e7be5050911: 0,
+    "SSL_OP_NO_COMPRESSION": e7be5050911: 131072,
+    "ESPIPE": e7be5050911: 29,
+    "SIGQUIT": e7be5050911: 3,
+    "ENOLINK": e7be5050911: 67,
+    "ENOBUFS": e7be5050911: 132,
+    "ETXTBSY": e7be5050911: 26,
+    "SSL_OP_CISCO_ANYCONNECT": e7be5050911: 32768,
+    "SIGTSTP": e7be5050911: 24,
+    "SIGALRM": e7be5050911: 14,
+    "S_IFSOCK": e7be5050911: 49152,
+    "SSL_OP_SINGLE_ECDH_USE": e7be5050911: 524288,
+    "ESRCH": e7be5050911: 3,
+    "EFBIG": e7be5050911: 27,
+    "EPROTOTYPE": e7be5050911: 98,
+    "ENGINE_METHOD_CIPHERS": e7be5050911: 64,
+    "EBADMSG": e7be5050911: 77,
+    "S_IFLNK": e7be5050911: 40960,
+    "SSL_OP_NO_SSLv2": e7be5050911: 16777216,
+    "SIGSTOP": e7be5050911: 23,
+    "EFAULT": e7be5050911: 14,
+    "E2BIG": e7be5050911: 7,
+    "SSL_OP_SINGLE_DH_USE": e7be5050911: 1048576,
+    "SIGXCPU": e7be5050911: 30,
+    "SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS": e7be5050911: 2048,
+    "SSL_OP_SSLEAY_080_CLIENT_DH_BUG": e7be5050911: 128,
+    "SIGFPE": e7be5050911: 8,
+    "SIGPROF": e7be5050911: 29,
+    "EISCONN": e7be5050911: 133,
+    "S_IFDIR": e7be5050911: 16384,
+    "S_IROTH": e7be5050911: 4,
+    "S_IRWXO": e7be5050911: 7,
+    "ENOMSG": e7be5050911: 35,
+    "ECANCELED": e7be5050911: 47,
+    "EADDRNOTAVAIL": e7be5050911: 126,
+    "EHOSTUNREACH": e7be5050911: 148,
+    "SSL_OP_NO_TICKET": e7be5050911: 16384,
+    "S_IFMT": e7be5050911: 61440,
+    "S_IRWXG": e7be5050911: 56,
+    "SIGURG": e7be5050911: 21,
+    "S_IXUSR": e7be5050911: 64,
+    "SSL_OP_MICROSOFT_BIG_SSLV3_BUFFER": e7be5050911: 32,
+    "EIO": e7be5050911: 5,
+    "O_RDONLY": e7be5050911: 0,
+    "ENGINE_METHOD_STORE": e7be5050911: 256,
+    "S_IWGRP": e7be5050911: 16,
+    "EALREADY": e7be5050911: 149,
+    "ENOTDIR": e7be5050911: 20,
+    "SIGPIPE": e7be5050911: 13,
+    "SSL_OP_NO_SESSION_RESUMPTION_ON_RENEGOTIATION": e7be5050911: 65536,
+}
+property kind: dictionary 
+35af1819609: [ 35af1819609: 0 ]
+10f8ad6cd459: [ 10f8ad6cd459: "Function.prototype.apply: Arguments list has wron
+g type" ]
+10f8ad6cd439: [ 10f8ad6cd439: "Error loading debugger" ]
+10f8ad6cd419: [ 10f8ad6cd419: "Illegal continue statement" ]
+10f8ad6cd3d9: [ 10f8ad6cd3d9: "Cannot supply flags when constructing one RegExp 
+from another" ]
+10f8ad6cd399: [ 10f8ad6cd399: "Unexpected strict mode reserved word" ]
+10f8ad6cd359: [ 10f8ad6cd359: "Strict mode function may not have duplicate param
+eter names" ]
+10f8ad6cd339: [ 10f8ad6cd339: "Cyclic __proto__ value" ]
+10f8ad6cd319: [ 10f8ad6cd319: "Illegal access" ]
+10f8ad6cd2b9: [ 10f8ad6cd2b9: "Single function literal required" ]
+10f8ad6cd299: [ 10f8ad6cd299: "Unexpected identifier" ]
+10f8ad6cd279: [ 10f8ad6cd279: "Generator has already finished" ]
+10f8ad6cd239: [ 10f8ad6cd239: "Cannot convert a Symbol wrapper object to a primi
+tive value" ]
+10f8ad6cd1b9: [ 10f8ad6cd1b9: "Invalid data view length" ]
+10f8ad6cd159: [ 10f8ad6cd159: "Unexpected number" ]
+10f8ad6cd0f9: [ 10f8ad6cd0f9: "Invalid count value" ]
+10f8ad6cd099: [ 10f8ad6cd099: "Cannot prevent extension of an object with extern
+al array elements" ]
+10f8ad6cd079: [ 10f8ad6cd079: "Illegal invocation" ]
+10f8ad6cd059: [ 10f8ad6cd059: "this is not a typed array." ]
+10f8ad6cd039: [ 10f8ad6cd039: "First argument to DataView constructor must be an
+ ArrayBuffer" ]
+10f8ad6cd019: [ 10f8ad6cd019: "Use of const in strict mode." ]
+10f8ad6ccfb9: [ 10f8ad6ccfb9: "builtin %IS_VAR: not a variable" ]
+10f8ad6ccf59: [ 10f8ad6ccf59: "Invalid string length" ]
+10f8ad6ccf39: [ 10f8ad6ccf39: "Object literal may not have data and accessor pro
+perty with the same name" ]
+10f8ad6cceb9: [ 10f8ad6cceb9: "Duplicate data property in object literal not all
+owed in strict mode" ]
+10f8ad6cce99: [ 10f8ad6cce99: "Invalid left-hand side expression in postfix oper
+ation" ]
+10f8ad6cce79: [ 10f8ad6cce79: "Illegal access to a strict mode caller function."
+ ]
+10f8ad6cce59: [ 10f8ad6cce59: "Offset is outside the bounds of the DataView" ]
+10f8ad6cce39: [ 10f8ad6cce39: "Cannot convert object to primitive value" ]
+10f8ad6cce19: [ 10f8ad6cce19: "Object literal may not have multiple get/set acce
+ssors with the same name" ]
+10f8ad6ccd79: [ 10f8ad6ccd79: "Invalid left-hand side in for-loop" ]
+10f8ad6ccd59: [ 10f8ad6ccd59: "Object.observe accept must be an array of strings
+." ]
+10f8ad6ccd39: [ 10f8ad6ccd39: "Reduce of empty array with no initial value" ]
+10f8ad6cccd9: [ 10f8ad6cccd9: "Invalid time value" ]
+10f8ad6cccb9: [ 10f8ad6cccb9: "Start offset is negative" ]
+10f8ad6ccc99: [ 10f8ad6ccc99: "Cannot perform non-function" ]
+10f8ad6ccc79: [ 10f8ad6ccc79: "Cannot redefine a property of an object with exte
+rnal array elements" ]
+10f8ad6ccc39: [ 10f8ad6ccc39: "Generator is already running" ]
+10f8ad6ccbf9: [ 10f8ad6ccbf9: "%0" ]
+10f8ad6ccbd9: [ 10f8ad6ccbd9: "Invalid value used as weak map key" ]
+10f8ad6ccb99: [ 10f8ad6ccb99: "Illegal newline after throw" ]
+10f8ad6ccb59: [ 10f8ad6ccb59: "invalid_argument" ]
+10f8ad6ccb19: [ 10f8ad6ccb19: "Maximum call stack size exceeded" ]
+10f8ad6ccaf9: [ 10f8ad6ccaf9: "Cannot modify frozen array elements" ]
+10f8ad6ccad9: [ 10f8ad6ccad9: "Invalid changeRecord with non-string 'type' prope
+rty" ]
+10f8ad6cca79: [ 10f8ad6cca79: "Source is too large" ]
+10f8ad6cca59: [ 10f8ad6cca59: "Delete of an unqualified identifier in strict mod
+e." ]
+10f8ad6cca39: [ 10f8ad6cca39: "Cannot convert a Symbol value to a number" ]
+10f8ad6cca19: [ 10f8ad6cca19: "Too many variables declared (only 4194303 allowed
+)" ]
+10f8ad6cc9d9: [ 10f8ad6cc9d9: "Invalid non-string changeType" ]
+10f8ad6cc9b9: [ 10f8ad6cc9b9: "this is not a Date object." ]
+10f8ad6cc959: [ 10f8ad6cc959: "Illegal const declaration in unprotected statemen
+t context." ]
+10f8ad6cc939: [ 10f8ad6cc939: "Function arg string contains parenthesis" ]
+10f8ad6cc8f9: [ 10f8ad6cc8f9: "Illegal break statement" ]
+10f8ad6cc8d9: [ 10f8ad6cc8d9: "Strict mode code may not include a with statement
+" ]
+10f8ad6cc8b9: [ 10f8ad6cc8b9: "Object.observe cannot deliver to a frozen functio
+n object" ]
+10f8ad6cc859: [ 10f8ad6cc859: "Unexpected string" ]
+10f8ad6cc819: [ 10f8ad6cc819: "Invalid left-hand side in assignment" ]
+10f8ad6cc7d9: [ 10f8ad6cc7d9: "Cannot add/remove sealed array elements" ]
+10f8ad6cc7b9: [ 10f8ad6cc7b9: "Too many arguments in function call (only 65535 a
+llowed)" ]
+10f8ad6cc799: [ 10f8ad6cc799: "Assignment to constant variable." ]
+10f8ad6cc759: [ 10f8ad6cc759: "notify called on non-notifier object" ]
+10f8ad6cc739: [ 10f8ad6cc739: "Missing catch or finally after try" ]
+10f8ad6cc719: [ 10f8ad6cc719: "Octal literals are not allowed in strict mode." ]
+10f8ad6cc6f9: [ 10f8ad6cc6f9: "Too many parameters in function definition (only 
+65535 allowed)" ]
+10f8ad6cc659: [ 10f8ad6cc659: "Start offset is outside the bounds of the buffer"
+ ]
+10f8ad6cc639: [ 10f8ad6cc639: "'caller', 'callee', and 'arguments' properties ma
+y not be accessed on strict mode functions or the arguments objects for calls to
+ them" ]
+10f8ad6cc619: [ 10f8ad6cc619: "Cannot convert a Symbol value to a string" ]
+10f8ad6cc599: [ 10f8ad6cc599: "Invalid regular expression: missing /" ]
+10f8ad6cc579: [ 10f8ad6cc579: "'caller' and 'arguments' properties may not be ac
+cessed on generator functions." ]
+10f8ad6cc559: [ 10f8ad6cc559: "Invalid array length" ]
+10f8ad6cc539: [ 10f8ad6cc539: "Unexpected eval or arguments in strict mode" ]
+10f8ad6cc4d9: [ 10f8ad6cc4d9: "Array.getIndexOf: Argument undefined" ]
+10f8ad6cc499: [ 10f8ad6cc499: "Unexpected reserved word" ]
+10f8ad6cc459: [ 10f8ad6cc459: "Invalid value used in weak set" ]
+10f8ad6cc3d9: [ 10f8ad6cc3d9: "Invalid typed array length" ]
+10f8ad6cc3b9: [ 10f8ad6cc3b9: "Start offset is too large:" ]
+10f8ad6cc2b9: [ 10f8ad6cc2b9: "More than one default clause in switch statement"
+ ]
+10f8ad6cc299: [ 10f8ad6cc299: "Malformed arrow function parameter list" ]
+10f8ad6cc279: [ 10f8ad6cc279: "Illegal return statement" ]
+10f8ad6cc259: [ 10f8ad6cc259: "Illegal let declaration in unprotected statement 
+context." ]
+10f8ad6cc219: [ 10f8ad6cc219: "Invalid left-hand side expression in prefix opera
+tion" ]
+10f8ad6cc1d9: [ 10f8ad6cc1d9: "Invalid array buffer length" ]
+10f8ad6cc1b9: [ 10f8ad6cc1b9: "In strict mode code, functions can only be declar
+ed at top level or immediately within another function." ]
+10f8ad6cc199: [ 10f8ad6cc199: "Converting circular structure to JSON" ]
+10f8ad6cc179: [ 10f8ad6cc179: "Cannot convert undefined or null to object" ]
+10f8ad6cc159: [ 10f8ad6cc159: "Unexpected end of input" ]
+10f8ad63a811: [ 10f8ad63a811: "Cannot convert a Symbol value to a number" ]
+10f8ad63a7f1: [ 10f8ad63a7f1: "Cannot convert a Symbol wrapper object to a primi
+tive value" ]
+10f8ad63a7d1: [ 10f8ad63a7d1: "Cannot convert a Symbol value to a string" ]
+10f8ad63a7b1: [ 10f8ad63a7b1: "Assignment to constant variable." ]
+10f8ad63a791: [ 10f8ad63a791: "Cannot redefine a property of an object with exte
+rnal array elements" ]
+10f8ad63a771: [ 10f8ad63a771: "Cannot prevent extension of an object with extern
+al array elements" ]
+10f8ad63a751: [ 10f8ad63a751: "Illegal const declaration in unprotected statemen
+t context." ]
+10f8ad63a731: [ 10f8ad63a731: "Illegal let declaration in unprotected statement 
+context." ]
+10f8ad63a711: [ 10f8ad63a711: "'caller' and 'arguments' properties may not be ac
+cessed on generator functions." ]
+10f8ad63a6f1: [ 10f8ad63a6f1: "Malformed arrow function parameter list" ]
+10f8ad63a6d1: [ 10f8ad63a6d1: "Illegal access to a strict mode caller function."
+ ]
+10f8ad63a6b1: [ 10f8ad63a6b1: "'caller', 'callee', and 'arguments' properties ma
+y not be accessed on strict mode functions or the arguments objects for calls to
+ them" ]
+10f8ad63a651: [ 10f8ad63a651: "In strict mode code, functions can only be declar
+ed at top level or immediately within another function." ]
+10f8ad63a631: [ 10f8ad63a631: "Use of const in strict mode." ]
+10f8ad63a5f1: [ 10f8ad63a5f1: "Delete of an unqualified identifier in strict mod
+e." ]
+10f8ad63a5d1: [ 10f8ad63a5d1: "Object literal may not have multiple get/set acce
+ssors with the same name" ]
+10f8ad63a5b1: [ 10f8ad63a5b1: "Object literal may not have data and accessor pro
+perty with the same name" ]
+10f8ad63a591: [ 10f8ad63a591: "Duplicate data property in object literal not all
+owed in strict mode" ]
+10f8ad63a571: [ 10f8ad63a571: "Octal literals are not allowed in strict mode." ]
+10f8ad63a551: [ 10f8ad63a551: "Strict mode function may not have duplicate param
+eter names" ]
+10f8ad63a531: [ 10f8ad63a531: "Too many variables declared (only 4194303 allowed
+)" ]
+10f8ad63a511: [ 10f8ad63a511: "Too many parameters in function definition (only 
+65535 allowed)" ]
+10f8ad63a4f1: [ 10f8ad63a4f1: "Too many arguments in function call (only 65535 a
+llowed)" ]
+10f8ad63a4d1: [ 10f8ad63a4d1: "Unexpected eval or arguments in strict mode" ]
+10f8ad63a4b1: [ 10f8ad63a4b1: "Strict mode code may not include a with statement
+" ]
+10f8ad63a491: [ 10f8ad63a491: "Illegal access" ]
+10f8ad63a451: [ 10f8ad63a451: "Array.getIndexOf: Argument undefined" ]
+10f8ad63a3f1: [ 10f8ad63a3f1: "Converting circular structure to JSON" ]
+10f8ad63a391: [ 10f8ad63a391: "Error loading debugger" ]
+10f8ad63a371: [ 10f8ad63a371: "Illegal return statement" ]
+10f8ad63a351: [ 10f8ad63a351: "Illegal continue statement" ]
+10f8ad63a331: [ 10f8ad63a331: "Illegal break statement" ]
+10f8ad63a2d1: [ 10f8ad63a2d1: "Single function literal required" ]
+10f8ad63a2b1: [ 10f8ad63a2b1: "builtin %IS_VAR: not a variable" ]
+10f8ad63a291: [ 10f8ad63a291: "Function arg string contains parenthesis" ]
+10f8ad63a271: [ 10f8ad63a271: "Invalid left-hand side expression in prefix opera
+tion" ]
+10f8ad63a251: [ 10f8ad63a251: "Invalid left-hand side expression in postfix oper
+ation" ]
+10f8ad63a231: [ 10f8ad63a231: "Invalid left-hand side in for-loop" ]
+10f8ad63a211: [ 10f8ad63a211: "Invalid left-hand side in assignment" ]
+10f8ad63a1d1: [ 10f8ad63a1d1: "Invalid count value" ]
+10f8ad63a1b1: [ 10f8ad63a1b1: "Invalid time value" ]
+10f8ad63a191: [ 10f8ad63a191: "Maximum call stack size exceeded" ]
+10f8ad63a171: [ 10f8ad63a171: "Offset is outside the bounds of the DataView" ]
+10f8ad63a151: [ 10f8ad63a151: "Invalid data view length" ]
+10f8ad63a131: [ 10f8ad63a131: "Start offset is outside the bounds of the buffer"
+ ]
+10f8ad63a111: [ 10f8ad63a111: "Start offset is negative" ]
+10f8ad63a0f1: [ 10f8ad63a0f1: "Source is too large" ]
+10f8ad63a0b1: [ 10f8ad63a0b1: "Invalid typed array length" ]
+10f8ad63a091: [ 10f8ad63a091: "Start offset is too large:" ]
+10f8ad63a071: [ 10f8ad63a071: "Invalid string length" ]
+10f8ad63a051: [ 10f8ad63a051: "Invalid array buffer length" ]
+10f8ad63a031: [ 10f8ad63a031: "Invalid array length" ]
+10f8ad639f71: [ 10f8ad639f71: "Cannot add/remove sealed array elements" ]
+10f8ad639f51: [ 10f8ad639f51: "Cannot modify frozen array elements" ]
+10f8ad639e91: [ 10f8ad639e91: "First argument to DataView constructor must be an
+ ArrayBuffer" ]
+10f8ad639e71: [ 10f8ad639e71: "invalid_argument" ]
+10f8ad639e51: [ 10f8ad639e51: "this is not a typed array." ]
+10f8ad639e11: [ 10f8ad639e11: "notify called on non-notifier object" ]
+10f8ad639df1: [ 10f8ad639df1: "Cannot perform non-function" ]
+10f8ad639dd1: [ 10f8ad639dd1: "Invalid non-string changeType" ]
+10f8ad639db1: [ 10f8ad639db1: "Invalid changeRecord with non-string 'type' prope
+rty" ]
+10f8ad639d91: [ 10f8ad639d91: "Object.observe accept must be an array of strings
+." ]
+10f8ad639d71: [ 10f8ad639d71: "Object.observe cannot deliver to a frozen functio
+n object" ]
+10f8ad639d11: [ 10f8ad639d11: "this is not a Date object." ]
+10f8ad639cf1: [ 10f8ad639cf1: "Invalid value used in weak set" ]
+10f8ad639cd1: [ 10f8ad639cd1: "Invalid value used as weak map key" ]
+10f8ad639a71: [ 10f8ad639a71: "Reduce of empty array with no initial value" ]
+10f8ad639a51: [ 10f8ad639a51: "Cannot convert undefined or null to object" ]
+10f8ad6399d1: [ 10f8ad6399d1: "Function.prototype.apply: Arguments list has wron
+g type" ]
+10f8ad639971: [ 10f8ad639971: "Illegal invocation" ]
+10f8ad6398b1: [ 10f8ad6398b1: "Cannot convert object to primitive value" ]
+10f8ad6397d1: [ 10f8ad6397d1: "Missing catch or finally after try" ]
+10f8ad639751: [ 10f8ad639751: "Illegal newline after throw" ]
+10f8ad639731: [ 10f8ad639731: "More than one default clause in switch statement"
+ ]
+10f8ad6396f1: [ 10f8ad6396f1: "Cannot supply flags when constructing one RegExp 
+from another" ]
+10f8ad6396d1: [ 10f8ad6396d1: "Invalid regular expression: missing /" ]
+10f8ad639691: [ 10f8ad639691: "Unexpected end of input" ]
+10f8ad639671: [ 10f8ad639671: "Unexpected strict mode reserved word" ]
+10f8ad639651: [ 10f8ad639651: "Unexpected reserved word" ]
+10f8ad639631: [ 10f8ad639631: "Unexpected identifier" ]
+10f8ad639611: [ 10f8ad639611: "Unexpected string" ]
+10f8ad6395f1: [ 10f8ad6395f1: "Unexpected number" ]
+10f8ad6395b1: [ 10f8ad6395b1: "Generator has already finished" ]
+10f8ad639591: [ 10f8ad639591: "Generator is already running" ]
+10f8ad639571: [ 10f8ad639571: "%0" ]
+10f8ad639551: [ 10f8ad639551: "Cyclic __proto__ value" ]
+e7be5097801: [ e7be5097801: "String.prototype.charCodeAt" ]
+e7be5095221: [ e7be5095221: "String.prototype.toLowerCase" ]
+e7be5094bf9: [ e7be5094bf9: "" ]
+e7be5094199: [ e7be5094199: "Array.prototype.concat" ]
+e7be5093da1: [ e7be5093da1: 0 ]
+e7be5092ef9: [ e7be5092ef9: "String.prototype.substr" ]
+e7be508b9f9: [ e7be508b9f9: "/" ]
+e7be5088659: [ e7be5088659: "String.prototype.slice" ]
+e7be5088629: [ e7be5088629: "" ]
+e7be50884e9: [ e7be50884e9: "" ]
+e7be5087581: [ e7be5087581: "String.prototype.subString" ]
+e7be5087549: [ e7be5087549: 0 ]
+e7be5087491: [ e7be5087491: "." ]
+e7be5085fc9: [ e7be5085fc9: 0 ]
+e7be5084599: [
+    e7be5084599: [...],
+    e7be5084599: hole,
+    e7be5084599: hole,
+    e7be5084599: hole,
+]
+e7be5084529: [
+    e7be5084529: "constructor",
+    e7be5084529: hole,
+    e7be5084529: hole,
+    e7be5084529: hole,
+]
+e7be5084079: [
+    e7be5084079: [...],
+    e7be5084079: hole,
+    e7be5084079: hole,
+    e7be5084079: hole,
+]
+e7be5084009: [
+    e7be5084009: "constructor",
+    e7be5084009: hole,
+    e7be5084009: hole,
+    e7be5084009: hole,
+]
+e7be5083671: [
+    e7be5083671: [...],
+    e7be5083671: hole,
+    e7be5083671: hole,
+    e7be5083671: hole,
+]
+e7be5083601: [
+    e7be5083601: "constructor",
+    e7be5083601: hole,
+    e7be5083601: hole,
+    e7be5083601: hole,
+]
+e7be5083091: [
+    e7be5083091: [...],
+    e7be5083091: hole,
+    e7be5083091: hole,
+    e7be5083091: hole,
+]
+e7be5083021: [
+    e7be5083021: "constructor",
+    e7be5083021: hole,
+    e7be5083021: hole,
+    e7be5083021: hole,
+]
+e7be5082d41: [
+    e7be5082d41: [...],
+    e7be5082d41: hole,
+    e7be5082d41: hole,
+    e7be5082d41: hole,
+]
+e7be5082cd1: [
+    e7be5082cd1: "constructor",
+    e7be5082cd1: hole,
+    e7be5082cd1: hole,
+    e7be5082cd1: hole,
+]
+e7be40f7389: [
+    e7be40f7389: [...],
+    e7be40f7389: hole,
+    e7be40f7389: hole,
+    e7be40f7389: hole,
+]
+e7be40f7319: [
+    e7be40f7319: "constructor",
+    e7be40f7319: hole,
+    e7be40f7319: hole,
+    e7be40f7319: hole,
+]
+e7be40f5ad1: [
+    e7be40f5ad1: [...],
+    e7be40f5ad1: hole,
+    e7be40f5ad1: hole,
+    e7be40f5ad1: hole,
+]
+e7be40f5a61: [
+    e7be40f5a61: "constructor",
+    e7be40f5a61: hole,
+    e7be40f5a61: hole,
+    e7be40f5a61: hole,
+]
+e7be40f10f1: [
+    e7be40f10f1: [...],
+    e7be40f10f1: hole,
+    e7be40f10f1: hole,
+    e7be40f10f1: hole,
+]
+e7be40f1081: [
+    e7be40f1081: "constructor",
+    e7be40f1081: hole,
+    e7be40f1081: hole,
+    e7be40f1081: hole,
+]
+e7be40eefb9: [
+    e7be40eefb9: [...],
+    e7be40eefb9: hole,
+    e7be40eefb9: hole,
+    e7be40eefb9: hole,
+]
+e7be40eef49: [
+    e7be40eef49: "constructor",
+    e7be40eef49: hole,
+    e7be40eef49: hole,
+    e7be40eef49: hole,
+]
+e7be40e9f69: [
+    e7be40e9f69: [...],
+    e7be40e9f69: hole,
+    e7be40e9f69: hole,
+    e7be40e9f69: hole,
+]
+e7be40e9ef9: [
+    e7be40e9ef9: "constructor",
+    e7be40e9ef9: hole,
+    e7be40e9ef9: hole,
+    e7be40e9ef9: hole,
+]
+e7be40e1fb9: [
+    e7be40e1fb9: [...],
+    e7be40e1fb9: hole,
+    e7be40e1fb9: hole,
+    e7be40e1fb9: hole,
+]
+e7be40e1f49: [
+    e7be40e1f49: "constructor",
+    e7be40e1f49: hole,
+    e7be40e1f49: hole,
+    e7be40e1f49: hole,
+]
+e7be40c0f89: [
+    e7be40c0f89: [...],
+    e7be40c0f89: hole,
+    e7be40c0f89: hole,
+    e7be40c0f89: hole,
+]
+e7be40c0e79: [
+    e7be40c0e79: "constructor",
+    e7be40c0e79: hole,
+    e7be40c0e79: hole,
+    e7be40c0e79: hole,
+]
+e7be4092609: [
+    e7be4092609: [...],
+    e7be4092609: hole,
+    e7be4092609: hole,
+    e7be4092609: hole,
+]
+e7be4092511: [
+    e7be4092511: "constructor",
+    e7be4092511: hole,
+    e7be4092511: hole,
+    e7be4092511: hole,
+]
+35af1819ff9: [ 35af1819ff9: "" ]
+35af181db89: [
+    35af181db89: 0,
+    35af181db89: 0,
+    35af181db89: 0,
+    35af181db89: 0,
+    35af181db89: 0,
+]
+10f8ad6cd479: [
+    10f8ad6cd479: "Object.",
+    10f8ad6cd479: "%0",
+    10f8ad6cd479: " cannot ",
+    10f8ad6cd479: "%0",
+    10f8ad6cd479: " non-object",
+]
+10f8ad6cd3f9: [
+    10f8ad6cd3f9: "Proxy handler ",
+    10f8ad6cd3f9: "%0",
+    10f8ad6cd3f9: " has non-callable '",
+    10f8ad6cd3f9: "%1",
+    10f8ad6cd3f9: "' trap",
+]
+10f8ad6cd199: [
+    10f8ad6cd199: "Proxy handler ",
+    10f8ad6cd199: "%0",
+    10f8ad6cd199: " has no '",
+    10f8ad6cd199: "%1",
+    10f8ad6cd199: "' trap",
+]
+10f8ad6ccff9: [
+    10f8ad6ccff9: "Trap '",
+    10f8ad6ccff9: "%1",
+    10f8ad6ccff9: "' returned repeated property name '",
+    10f8ad6ccff9: "%2",
+    10f8ad6ccff9: "'",
+]
+10f8ad6ccdd9: [
+    10f8ad6ccdd9: "Proxy handler ",
+    10f8ad6ccdd9: "%0",
+    10f8ad6ccdd9: " returned undefined from '",
+    10f8ad6ccdd9: "%1",
+    10f8ad6ccdd9: "' trap",
+]
+10f8ad6ccd99: [
+    10f8ad6ccd99: "Property '",
+    10f8ad6ccd99: "%0",
+    10f8ad6ccd99: "' of object ",
+    10f8ad6ccd99: "%1",
+    10f8ad6ccd99: " is not a function",
+]
+10f8ad6ccd19: [
+    10f8ad6ccd19: "Cannot set property ",
+    10f8ad6ccd19: "%0",
+    10f8ad6ccd19: " of ",
+    10f8ad6ccd19: "%1",
+    10f8ad6ccd19: " which has only a getter",
+]
+10f8ad6ccc59: [
+    10f8ad6ccc59: "Object ",
+    10f8ad6ccc59: "%1",
+    10f8ad6ccc59: " has no method '",
+    10f8ad6ccc59: "%0",
+    10f8ad6ccc59: "'",
+]
+10f8ad6ccb39: [
+    10f8ad6ccb39: "Proxy.",
+    10f8ad6ccb39: "%0",
+    10f8ad6ccb39: " called with non-function for '",
+    10f8ad6ccb39: "%1",
+    10f8ad6ccb39: "' trap",
+]
+10f8ad6cc899: [
+    10f8ad6cc899: "%0",
+    10f8ad6cc899: " of ",
+    10f8ad6cc899: "%1",
+    10f8ad6cc899: " should be a multiple of ",
+    10f8ad6cc899: "%2",
+]
+10f8ad6cc6d9: [
+    10f8ad6cc6d9: "Function.prototype.apply was called on ",
+    10f8ad6cc6d9: "%0",
+    10f8ad6cc6d9: ", which is a ",
+    10f8ad6cc6d9: "%1",
+    10f8ad6cc6d9: " and not a function",
+]
+10f8ad6cc1f9: [
+    10f8ad6cc1f9: "Proxy handler ",
+    10f8ad6cc1f9: "%0",
+    10f8ad6cc1f9: " returned false from '",
+    10f8ad6cc1f9: "%1",
+    10f8ad6cc1f9: "' trap",
+]
+10f8ad6c2c39: [
+    10f8ad6c2c39: 2,
+    10f8ad6c2c39: "",
+    10f8ad6c2c39: "",
+    10f8ad6c2c39: -1,
+    10f8ad6c2c39: -1,
+]
+10f8ad63a0d1: [
+    10f8ad63a0d1: "%0",
+    10f8ad63a0d1: " of ",
+    10f8ad63a0d1: "%1",
+    10f8ad63a0d1: " should be a multiple of ",
+    10f8ad63a0d1: "%2",
+]
+10f8ad639d31: [
+    10f8ad639d31: "Object.",
+    10f8ad639d31: "%0",
+    10f8ad639d31: " cannot ",
+    10f8ad639d31: "%0",
+    10f8ad639d31: " non-object",
+]
+10f8ad639cb1: [
+    10f8ad639cb1: "Trap '",
+    10f8ad639cb1: "%1",
+    10f8ad639cb1: "' returned repeated property name '",
+    10f8ad639cb1: "%2",
+    10f8ad639cb1: "'",
+]
+10f8ad639c51: [
+    10f8ad639c51: "Proxy handler ",
+    10f8ad639c51: "%0",
+    10f8ad639c51: " returned undefined from '",
+    10f8ad639c51: "%1",
+    10f8ad639c51: "' trap",
+]
+10f8ad639c31: [
+    10f8ad639c31: "Proxy handler ",
+    10f8ad639c31: "%0",
+    10f8ad639c31: " returned false from '",
+    10f8ad639c31: "%1",
+    10f8ad639c31: "' trap",
+]
+10f8ad639c11: [
+    10f8ad639c11: "Proxy handler ",
+    10f8ad639c11: "%0",
+    10f8ad639c11: " has non-callable '",
+    10f8ad639c11: "%1",
+    10f8ad639c11: "' trap",
+]
+10f8ad639bf1: [
+    10f8ad639bf1: "Proxy handler ",
+    10f8ad639bf1: "%0",
+    10f8ad639bf1: " has no '",
+    10f8ad639bf1: "%1",
+    10f8ad639bf1: "' trap",
+]
+10f8ad639bd1: [
+    10f8ad639bd1: "Proxy.",
+    10f8ad639bd1: "%0",
+    10f8ad639bd1: " called with non-function for '",
+    10f8ad639bd1: "%1",
+    10f8ad639bd1: "' trap",
+]
+10f8ad6399b1: [
+    10f8ad6399b1: "Function.prototype.apply was called on ",
+    10f8ad6399b1: "%0",
+    10f8ad6399b1: ", which is a ",
+    10f8ad6399b1: "%1",
+    10f8ad6399b1: " and not a function",
+]
+10f8ad639991: [
+    10f8ad639991: "Cannot set property ",
+    10f8ad639991: "%0",
+    10f8ad639991: " of ",
+    10f8ad639991: "%1",
+    10f8ad639991: " which has only a getter",
+]
+10f8ad639891: [
+    10f8ad639891: "Property '",
+    10f8ad639891: "%0",
+    10f8ad639891: "' of object ",
+    10f8ad639891: "%1",
+    10f8ad639891: " is not a function",
+]
+10f8ad639871: [
+    10f8ad639871: "Object ",
+    10f8ad639871: "%1",
+    10f8ad639871: " has no method '",
+    10f8ad639871: "%0",
+    10f8ad639871: "'",
+]
+10f8ad62dca9: [
+    10f8ad62dca9: 2,
+    10f8ad62dca9: "",
+    10f8ad62dca9: "",
+    10f8ad62dca9: -1,
+    10f8ad62dca9: -1,
+]
+e7be50987f9: [
+    e7be50987f9: [...],
+    e7be50987f9: function require,
+    e7be50987f9: [...],
+    e7be50987f9: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    e7be50987f9: "/home/dap/node-testing/test-programs",
+]
+e7be5098181: [
+    e7be5098181: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    e7be5098181: "/",
+    e7be5098181: "home/dap/node-testing/test-programs/",
+    e7be5098181: "gcore-loop.js",
+    e7be5098181: ".js",
+]
+e7be5097969: [
+    e7be5097969: 0,
+    e7be5097969: 0,
+    e7be5097969: 0,
+    e7be5097969: 0,
+    e7be5097969: 0,
+]
+e7be5094f59: [
+    e7be5094f59: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    e7be5094f59: "/",
+    e7be5094f59: "home/dap/node-testing/test-programs/",
+    e7be5094f59: "gcore-loop.js",
+    e7be5094f59: ".js",
+]
+e7be5094751: [
+    e7be5094751: "",
+    e7be5094751: "home",
+    e7be5094751: "dap",
+    e7be5094751: "node-testing",
+    e7be5094751: "node_modules",
+]
+e7be50945c9: [
+    e7be50945c9: "",
+    e7be50945c9: "home",
+    e7be50945c9: "dap",
+    e7be50945c9: "node-testing",
+    e7be50945c9: "node_modules",
+]
+e7be5094141: [
+    e7be5094141: "",
+    e7be5094141: "home",
+    e7be5094141: "dap",
+    e7be5094141: "node-testing",
+    e7be5094141: "test-programs",
+]
+e7be5094111: [
+    e7be5094111: "",
+    e7be5094111: "home",
+    e7be5094111: "dap",
+    e7be5094111: "node-testing",
+    e7be5094111: "test-programs",
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+    e7be5094111: hole,
+]
+e7be5093d51: [
+    e7be5093d51: "/home/dap/node-testing/test-programs/node_modules",
+    e7be5093d51: "/home/dap/node-testing/node_modules",
+    e7be5093d51: "/home/dap/node_modules",
+    e7be5093d51: "/home/node_modules",
+    e7be5093d51: "/node_modules",
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+    e7be5093d51: hole,
+]
+e7be5092dd1: [
+    e7be5092dd1: "/home/dap/node-testing/test-programs/gcore-loop.js",
+    e7be5092dd1: "/",
+    e7be5092dd1: "home/dap/node-testing/test-programs/",
+    e7be5092dd1: "gcore-loop.js",
+    e7be5092dd1: ".js",
+]
+e7be508af41: [
+    e7be508af41: "home",
+    e7be508af41: "dap",
+    e7be508af41: "node-testing",
+    e7be508af41: "test-programs",
+    e7be508af41: "gcore-loop.js",
+]
+e7be508ade1: [
+    e7be508ade1: "home",
+    e7be508ade1: "dap",
+    e7be508ade1: "node-testing",
+    e7be508ade1: "test-programs",
+    e7be508ade1: "gcore-loop.js",
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+    e7be508ade1: hole,
+]
+e7be5088d71: [
+    e7be5088d71: "home",
+    e7be5088d71: "dap",
+    e7be5088d71: "node-testing",
+    e7be5088d71: "test-programs",
+    e7be5088d71: "gcore-loop.js",
+]
+e7be5088c11: [
+    e7be5088c11: "home",
+    e7be5088c11: "dap",
+    e7be5088c11: "node-testing",
+    e7be5088c11: "test-programs",
+    e7be5088c11: "gcore-loop.js",
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+    e7be5088c11: hole,
+]
+e7be5087009: [
+    e7be5087009: "",
+    e7be5087009: "home",
+    e7be5087009: "dap",
+    e7be5087009: ".node_modules",
+    e7be5087009: "",
+]
+e7be5086b59: [
+    e7be5086b59: "",
+    e7be5086b59: "home",
+    e7be5086b59: "dap",
+    e7be5086b59: ".node_libraries",
+    e7be5086b59: "",
+]
+e7be40b7239: [
+    e7be40b7239: "home",
+    e7be40b7239: "dap",
+    e7be40b7239: "node-testing",
+    e7be40b7239: "test-programs",
+    e7be40b7239: "gcore-loop.js",
+]
+e7be40b6e09: [
+    e7be40b6e09: "home",
+    e7be40b6e09: "dap",
+    e7be40b6e09: "node-testing",
+    e7be40b6e09: "test-programs",
+    e7be40b6e09: "gcore-loop.js",
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+    e7be40b6e09: hole,
+]
+e7be4092659: {
+    "value_": e7be4092659: function process,
+    "hasValue_": e7be4092659: true,
+    "writable_": e7be4092659: false,
+    "hasWritable_": e7be4092659: false,
+    "enumerable_": e7be4092659: false,
+    "hasEnumerable_": e7be4092659: false,
+    "configurable_": e7be4092659: false,
+    "hasConfigurable_": e7be4092659: false,
+    "get_": e7be4092659: undefined,
+    "hasGetter_": e7be4092659: false,
+    "set_": e7be4092659: undefined,
+    "hasSetter_": e7be4092659: false,
+}
+property kind: in-object 
+e7be5097d79: {
+    "value_": e7be5097d79: undefined,
+    "hasValue_": e7be5097d79: false,
+    "writable_": e7be5097d79: false,
+    "hasWritable_": e7be5097d79: false,
+    "enumerable_": e7be5097d79: false,
+    "hasEnumerable_": e7be5097d79: false,
+    "configurable_": e7be5097d79: false,
+    "hasConfigurable_": e7be5097d79: false,
+    "get_": e7be5097d79: function <anonymous> (as Object.defineProperty.get),
+    "hasGetter_": e7be5097d79: true,
+    "set_": e7be5097d79: undefined,
+    "hasSetter_": e7be5097d79: false,
+}
+property kind: in-object 
+e7be50845e9: {
+    "value_": e7be50845e9: function SyncWriteStream,
+    "hasValue_": e7be50845e9: true,
+    "writable_": e7be50845e9: true,
+    "hasWritable_": e7be50845e9: true,
+    "enumerable_": e7be50845e9: false,
+    "hasEnumerable_": e7be50845e9: true,
+    "configurable_": e7be50845e9: true,
+    "hasConfigurable_": e7be50845e9: true,
+    "get_": e7be50845e9: undefined,
+    "hasGetter_": e7be50845e9: false,
+    "set_": e7be50845e9: undefined,
+    "hasSetter_": e7be50845e9: false,
+}
+property kind: in-object 
+e7be50840c9: {
+    "value_": e7be50840c9: function WriteStream,
+    "hasValue_": e7be50840c9: true,
+    "writable_": e7be50840c9: true,
+    "hasWritable_": e7be50840c9: true,
+    "enumerable_": e7be50840c9: false,
+    "hasEnumerable_": e7be50840c9: true,
+    "configurable_": e7be50840c9: true,
+    "hasConfigurable_": e7be50840c9: true,
+    "get_": e7be50840c9: undefined,
+    "hasGetter_": e7be50840c9: false,
+    "set_": e7be50840c9: undefined,
+    "hasSetter_": e7be50840c9: false,
+}
+property kind: in-object 
+e7be50836c1: {
+    "value_": e7be50836c1: function ReadStream,
+    "hasValue_": e7be50836c1: true,
+    "writable_": e7be50836c1: true,
+    "hasWritable_": e7be50836c1: true,
+    "enumerable_": e7be50836c1: false,
+    "hasEnumerable_": e7be50836c1: true,
+    "configurable_": e7be50836c1: true,
+    "hasConfigurable_": e7be50836c1: true,
+    "get_": e7be50836c1: undefined,
+    "hasGetter_": e7be50836c1: false,
+    "set_": e7be50836c1: undefined,
+    "hasSetter_": e7be50836c1: false,
+}
+property kind: in-object 
+e7be50830e1: {
+    "value_": e7be50830e1: function StatWatcher,
+    "hasValue_": e7be50830e1: true,
+    "writable_": e7be50830e1: true,
+    "hasWritable_": e7be50830e1: true,
+    "enumerable_": e7be50830e1: false,
+    "hasEnumerable_": e7be50830e1: true,
+    "configurable_": e7be50830e1: true,
+    "hasConfigurable_": e7be50830e1: true,
+    "get_": e7be50830e1: undefined,
+    "hasGetter_": e7be50830e1: false,
+    "set_": e7be50830e1: undefined,
+    "hasSetter_": e7be50830e1: false,
+}
+property kind: in-object 
+e7be5082d91: {
+    "value_": e7be5082d91: function FSWatcher,
+    "hasValue_": e7be5082d91: true,
+    "writable_": e7be5082d91: true,
+    "hasWritable_": e7be5082d91: true,
+    "enumerable_": e7be5082d91: false,
+    "hasEnumerable_": e7be5082d91: true,
+    "configurable_": e7be5082d91: true,
+    "hasConfigurable_": e7be5082d91: true,
+    "get_": e7be5082d91: undefined,
+    "hasGetter_": e7be5082d91: false,
+    "set_": e7be5082d91: undefined,
+    "hasSetter_": e7be5082d91: false,
+}
+property kind: in-object 
+e7be40fe191: {
+    "value_": e7be40fe191: 1,
+    "hasValue_": e7be40fe191: true,
+    "writable_": e7be40fe191: false,
+    "hasWritable_": e7be40fe191: true,
+    "enumerable_": e7be40fe191: true,
+    "hasEnumerable_": e7be40fe191: true,
+    "configurable_": e7be40fe191: false,
+    "hasConfigurable_": e7be40fe191: false,
+    "get_": e7be40fe191: undefined,
+    "hasGetter_": e7be40fe191: false,
+    "set_": e7be40fe191: undefined,
+    "hasSetter_": e7be40fe191: false,
+}
+property kind: in-object 
+e7be40fe011: {
+    "value_": e7be40fe011: 2,
+    "hasValue_": e7be40fe011: true,
+    "writable_": e7be40fe011: false,
+    "hasWritable_": e7be40fe011: true,
+    "enumerable_": e7be40fe011: true,
+    "hasEnumerable_": e7be40fe011: true,
+    "configurable_": e7be40fe011: false,
+    "hasConfigurable_": e7be40fe011: false,
+    "get_": e7be40fe011: undefined,
+    "hasGetter_": e7be40fe011: false,
+    "set_": e7be40fe011: undefined,
+    "hasSetter_": e7be40fe011: false,
+}
+property kind: in-object 
+e7be40fdea9: {
+    "value_": e7be40fdea9: 4,
+    "hasValue_": e7be40fdea9: true,
+    "writable_": e7be40fdea9: false,
+    "hasWritable_": e7be40fdea9: true,
+    "enumerable_": e7be40fdea9: true,
+    "hasEnumerable_": e7be40fdea9: true,
+    "configurable_": e7be40fdea9: false,
+    "hasConfigurable_": e7be40fdea9: false,
+    "get_": e7be40fdea9: undefined,
+    "hasGetter_": e7be40fdea9: false,
+    "set_": e7be40fdea9: undefined,
+    "hasSetter_": e7be40fdea9: false,
+}
+property kind: in-object 
+e7be40fd419: {
+    "value_": e7be40fd419: 0,
+    "hasValue_": e7be40fd419: true,
+    "writable_": e7be40fd419: false,
+    "hasWritable_": e7be40fd419: true,
+    "enumerable_": e7be40fd419: true,
+    "hasEnumerable_": e7be40fd419: true,
+    "configurable_": e7be40fd419: false,
+    "hasConfigurable_": e7be40fd419: false,
+    "get_": e7be40fd419: undefined,
+    "hasGetter_": e7be40fd419: false,
+    "set_": e7be40fd419: undefined,
+    "hasSetter_": e7be40fd419: false,
+}
+property kind: in-object 
+e7be40fc019: {
+    "value_": e7be40fc019: 9,
+    "hasValue_": e7be40fc019: true,
+    "writable_": e7be40fc019: false,
+    "hasWritable_": e7be40fc019: true,
+    "enumerable_": e7be40fc019: true,
+    "hasEnumerable_": e7be40fc019: true,
+    "configurable_": e7be40fc019: false,
+    "hasConfigurable_": e7be40fc019: false,
+    "get_": e7be40fc019: undefined,
+    "hasGetter_": e7be40fc019: false,
+    "set_": e7be40fc019: undefined,
+    "hasSetter_": e7be40fc019: false,
+}
+property kind: in-object 
+e7be40fbfa1: {
+    "value_": e7be40fbfa1: 8,
+    "hasValue_": e7be40fbfa1: true,
+    "writable_": e7be40fbfa1: false,
+    "hasWritable_": e7be40fbfa1: true,
+    "enumerable_": e7be40fbfa1: true,
+    "hasEnumerable_": e7be40fbfa1: true,
+    "configurable_": e7be40fbfa1: false,
+    "hasConfigurable_": e7be40fbfa1: false,
+    "get_": e7be40fbfa1: undefined,
+    "hasGetter_": e7be40fbfa1: false,
+    "set_": e7be40fbfa1: undefined,
+    "hasSetter_": e7be40fbfa1: false,
+}
+property kind: in-object 
+e7be40fbf29: {
+    "value_": e7be40fbf29: 7,
+    "hasValue_": e7be40fbf29: true,
+    "writable_": e7be40fbf29: false,
+    "hasWritable_": e7be40fbf29: true,
+    "enumerable_": e7be40fbf29: true,
+    "hasEnumerable_": e7be40fbf29: true,
+    "configurable_": e7be40fbf29: false,
+    "hasConfigurable_": e7be40fbf29: false,
+    "get_": e7be40fbf29: undefined,
+    "hasGetter_": e7be40fbf29: false,
+    "set_": e7be40fbf29: undefined,
+    "hasSetter_": e7be40fbf29: false,
+}
+property kind: in-object 
+e7be40fbeb1: {
+    "value_": e7be40fbeb1: 6,
+    "hasValue_": e7be40fbeb1: true,
+    "writable_": e7be40fbeb1: false,
+    "hasWritable_": e7be40fbeb1: true,
+    "enumerable_": e7be40fbeb1: true,
+    "hasEnumerable_": e7be40fbeb1: true,
+    "configurable_": e7be40fbeb1: false,
+    "hasConfigurable_": e7be40fbeb1: false,
+    "get_": e7be40fbeb1: undefined,
+    "hasGetter_": e7be40fbeb1: false,
+    "set_": e7be40fbeb1: undefined,
+    "hasSetter_": e7be40fbeb1: false,
+}
+property kind: in-object 
+e7be40fbd71: {
+    "value_": e7be40fbd71: 5,
+    "hasValue_": e7be40fbd71: true,
+    "writable_": e7be40fbd71: false,
+    "hasWritable_": e7be40fbd71: true,
+    "enumerable_": e7be40fbd71: true,
+    "hasEnumerable_": e7be40fbd71: true,
+    "configurable_": e7be40fbd71: false,
+    "hasConfigurable_": e7be40fbd71: false,
+    "get_": e7be40fbd71: undefined,
+    "hasGetter_": e7be40fbd71: false,
+    "set_": e7be40fbd71: undefined,
+    "hasSetter_": e7be40fbd71: false,
+}
+property kind: in-object 
+e7be40fbcf9: {
+    "value_": e7be40fbcf9: 4,
+    "hasValue_": e7be40fbcf9: true,
+    "writable_": e7be40fbcf9: false,
+    "hasWritable_": e7be40fbcf9: true,
+    "enumerable_": e7be40fbcf9: true,
+    "hasEnumerable_": e7be40fbcf9: true,
+    "configurable_": e7be40fbcf9: false,
+    "hasConfigurable_": e7be40fbcf9: false,
+    "get_": e7be40fbcf9: undefined,
+    "hasGetter_": e7be40fbcf9: false,
+    "set_": e7be40fbcf9: undefined,
+    "hasSetter_": e7be40fbcf9: false,
+}
+property kind: in-object 
+e7be40fbc81: {
+    "value_": e7be40fbc81: 3,
+    "hasValue_": e7be40fbc81: true,
+    "writable_": e7be40fbc81: false,
+    "hasWritable_": e7be40fbc81: true,
+    "enumerable_": e7be40fbc81: true,
+    "hasEnumerable_": e7be40fbc81: true,
+    "configurable_": e7be40fbc81: false,
+    "hasConfigurable_": e7be40fbc81: false,
+    "get_": e7be40fbc81: undefined,
+    "hasGetter_": e7be40fbc81: false,
+    "set_": e7be40fbc81: undefined,
+    "hasSetter_": e7be40fbc81: false,
+}
+property kind: in-object 
+e7be40fbc09: {
+    "value_": e7be40fbc09: 2,
+    "hasValue_": e7be40fbc09: true,
+    "writable_": e7be40fbc09: false,
+    "hasWritable_": e7be40fbc09: true,
+    "enumerable_": e7be40fbc09: true,
+    "hasEnumerable_": e7be40fbc09: true,
+    "configurable_": e7be40fbc09: false,
+    "hasConfigurable_": e7be40fbc09: false,
+    "get_": e7be40fbc09: undefined,
+    "hasGetter_": e7be40fbc09: false,
+    "set_": e7be40fbc09: undefined,
+    "hasSetter_": e7be40fbc09: false,
+}
+property kind: in-object 
+e7be40faf01: {
+    "value_": e7be40faf01: 1,
+    "hasValue_": e7be40faf01: true,
+    "writable_": e7be40faf01: false,
+    "hasWritable_": e7be40faf01: true,
+    "enumerable_": e7be40faf01: true,
+    "hasEnumerable_": e7be40faf01: true,
+    "configurable_": e7be40faf01: false,
+    "hasConfigurable_": e7be40faf01: false,
+    "get_": e7be40faf01: undefined,
+    "hasGetter_": e7be40faf01: false,
+    "set_": e7be40faf01: undefined,
+    "hasSetter_": e7be40faf01: false,
+}
+property kind: in-object 
+e7be40f8da1: {
+    "value_": e7be40f8da1: 1073741823,
+    "hasValue_": e7be40f8da1: true,
+    "writable_": e7be40f8da1: false,
+    "hasWritable_": e7be40f8da1: true,
+    "enumerable_": e7be40f8da1: true,
+    "hasEnumerable_": e7be40f8da1: true,
+    "configurable_": e7be40f8da1: false,
+    "hasConfigurable_": e7be40f8da1: false,
+    "get_": e7be40f8da1: undefined,
+    "hasGetter_": e7be40f8da1: false,
+    "set_": e7be40f8da1: undefined,
+    "hasSetter_": e7be40f8da1: false,
+}
+property kind: in-object 
+e7be40c1029: {
+    "value_": e7be40c1029: function AssertionError,
+    "hasValue_": e7be40c1029: true,
+    "writable_": e7be40c1029: true,
+    "hasWritable_": e7be40c1029: true,
+    "enumerable_": e7be40c1029: false,
+    "hasEnumerable_": e7be40c1029: true,
+    "configurable_": e7be40c1029: true,
+    "hasConfigurable_": e7be40c1029: true,
+    "get_": e7be40c1029: undefined,
+    "hasGetter_": e7be40c1029: false,
+    "set_": e7be40c1029: undefined,
+    "hasSetter_": e7be40c1029: false,
+}
+property kind: in-object 
+10f8ad639069: {
+    "cyclic_proto": 10f8ad639069: [...],
+    "code_gen_from_strings": 10f8ad639069: [...],
+    "generator_running": 10f8ad639069: [...],
+    "generator_finished": 10f8ad639069: [...],
+    "unexpected_token": 10f8ad639069: [...],
+    "unexpected_token_number": 10f8ad639069: [...],
+    "unexpected_token_string": 10f8ad639069: [...],
+    "unexpected_token_identifier": 10f8ad639069: [...],
+    "unexpected_reserved": 10f8ad639069: [...],
+    "unexpected_strict_reserved": 10f8ad639069: [...],
+    "unexpected_eos": 10f8ad639069: [...],
+    "malformed_regexp": 10f8ad639069: [...],
+    "unterminated_regexp": 10f8ad639069: [...],
+    "regexp_flags": 10f8ad639069: [...],
+    "incompatible_method_receiver": 10f8ad639069: [...],
+    "multiple_defaults_in_switch": 10f8ad639069: [...],
+    "newline_after_throw": 10f8ad639069: [...],
+    "label_redeclaration": 10f8ad639069: [...],
+    "var_redeclaration": 10f8ad639069: [...],
+    "duplicate_template_property": 10f8ad639069: [...],
+    "no_catch_or_finally": 10f8ad639069: [...],
+    "unknown_label": 10f8ad639069: [...],
+    "uncaught_exception": 10f8ad639069: [...],
+    "stack_trace": 10f8ad639069: [...],
+    "called_non_callable": 10f8ad639069: [...],
+    "undefined_method": 10f8ad639069: [...],
+    "property_not_function": 10f8ad639069: [...],
+    "cannot_convert_to_primitive": 10f8ad639069: [...],
+    "not_constructor": 10f8ad639069: [...],
+    "not_defined": 10f8ad639069: [...],
+    "non_object_property_load": 10f8ad639069: [...],
+    "non_object_property_store": 10f8ad639069: [...],
+    "with_expression": 10f8ad639069: [...],
+    "illegal_invocation": 10f8ad639069: [...],
+    "no_setter_in_callback": 10f8ad639069: [...],
+    "apply_non_function": 10f8ad639069: [...],
+    "apply_wrong_args": 10f8ad639069: [...],
+    "invalid_in_operator_use": 10f8ad639069: [...],
+    "instanceof_function_expected": 10f8ad639069: [...],
+    "instanceof_nonobject_proto": 10f8ad639069: [...],
+    "undefined_or_null_to_object": 10f8ad639069: [...],
+    "reduce_no_initial": 10f8ad639069: [...],
+    "getter_must_be_callable": 10f8ad639069: [...],
+    "setter_must_be_callable": 10f8ad639069: [...],
+    "value_and_accessor": 10f8ad639069: [...],
+    "proto_object_or_null": 10f8ad639069: [...],
+    "property_desc_object": 10f8ad639069: [...],
+    "redefine_disallowed": 10f8ad639069: [...],
+    "define_disallowed": 10f8ad639069: [...],
+    "non_extensible_proto": 10f8ad639069: [...],
+    "handler_non_object": 10f8ad639069: [...],
+    "proto_non_object": 10f8ad639069: [...],
+    "trap_function_expected": 10f8ad639069: [...],
+    "handler_trap_missing": 10f8ad639069: [...],
+    "handler_trap_must_be_callable": 10f8ad639069: [...],
+    "handler_returned_false": 10f8ad639069: [...],
+    "handler_returned_undefined": 10f8ad639069: [...],
+    "proxy_prop_not_configurable": 10f8ad639069: [...],
+    "proxy_non_object_prop_names": 10f8ad639069: [...],
+    "proxy_repeated_prop_name": 10f8ad639069: [...],
+    "invalid_weakmap_key": 10f8ad639069: [...],
+    "invalid_weakset_value": 10f8ad639069: [...],
+    "not_date_object": 10f8ad639069: [...],
+    "observe_non_object": 10f8ad639069: [...],
+    "observe_non_function": 10f8ad639069: [...],
+    "observe_callback_frozen": 10f8ad639069: [...],
+    "observe_invalid_accept": 10f8ad639069: [...],
+    "observe_type_non_string": 10f8ad639069: [...],
+    "observe_perform_non_string": 10f8ad639069: [...],
+    "observe_perform_non_function": 10f8ad639069: [...],
+    "observe_notify_non_notifier": 10f8ad639069: [...],
+    "observe_global_proxy": 10f8ad639069: [...],
+    "not_typed_array": 10f8ad639069: [...],
+    "invalid_argument": 10f8ad639069: [...],
+    "data_view_not_array_buffer": 10f8ad639069: [...],
+    "constructor_not_function": 10f8ad639069: [...],
+    "not_a_symbol": 10f8ad639069: [...],
+    "not_a_promise": 10f8ad639069: [...],
+    "resolver_not_a_function": 10f8ad639069: [...],
+    "promise_cyclic": 10f8ad639069: [...],
+    "array_functions_on_frozen": 10f8ad639069: [...],
+    "array_functions_change_sealed": 10f8ad639069: [...],
+    "first_argument_not_regexp": 10f8ad639069: [...],
+    "not_iterable": 10f8ad639069: [...],
+    "not_an_iterator": 10f8ad639069: [...],
+    "iterator_result_not_an_object": 10f8ad639069: [...],
+    "iterator_value_not_an_object": 10f8ad639069: [...],
+    "invalid_array_length": 10f8ad639069: [...],
+    "invalid_array_buffer_length": 10f8ad639069: [...],
+    "invalid_string_length": 10f8ad639069: [...],
+    "invalid_typed_array_offset": 10f8ad639069: [...],
+    "invalid_typed_array_length": 10f8ad639069: [...],
+    "invalid_typed_array_alignment": 10f8ad639069: [...],
+    "typed_array_set_source_too_large": 10f8ad639069: [...],
+    "typed_array_set_negative_offset": 10f8ad639069: [...],
+    "invalid_data_view_offset": 10f8ad639069: [...],
+    "invalid_data_view_length": 10f8ad639069: [...],
+    "invalid_data_view_accessor_offset": 10f8ad639069: [...],
+    "stack_overflow": 10f8ad639069: [...],
+    "invalid_time_value": 10f8ad639069: [...],
+    "invalid_count_value": 10f8ad639069: [...],
+    "invalid_code_point": 10f8ad639069: [...],
+    "invalid_lhs_in_assignment": 10f8ad639069: [...],
+    "invalid_lhs_in_for": 10f8ad639069: [...],
+    "invalid_lhs_in_postfix_op": 10f8ad639069: [...],
+    "invalid_lhs_in_prefix_op": 10f8ad639069: [...],
+    "paren_in_arg_string": 10f8ad639069: [...],
+    "not_isvar": 10f8ad639069: [...],
+    "single_function_literal": 10f8ad639069: [...],
+    "invalid_regexp_flags": 10f8ad639069: [...],
+    "invalid_regexp": 10f8ad639069: [...],
+    "illegal_break": 10f8ad639069: [...],
+    "illegal_continue": 10f8ad639069: [...],
+    "illegal_return": 10f8ad639069: [...],
+    "error_loading_debugger": 10f8ad639069: [...],
+    "no_input_to_regexp": 10f8ad639069: [...],
+    "invalid_json": 10f8ad639069: [...],
+    "circular_structure": 10f8ad639069: [...],
+    "called_on_non_object": 10f8ad639069: [...],
+    "called_on_null_or_undefined": 10f8ad639069: [...],
+    "array_indexof_not_defined": 10f8ad639069: [...],
+    "object_not_extensible": 10f8ad639069: [...],
+    "illegal_access": 10f8ad639069: [...],
+    "strict_mode_with": 10f8ad639069: [...],
+    "strict_eval_arguments": 10f8ad639069: [...],
+    "too_many_arguments": 10f8ad639069: [...],
+    "too_many_parameters": 10f8ad639069: [...],
+    "too_many_variables": 10f8ad639069: [...],
+    "strict_param_dupe": 10f8ad639069: [...],
+    "strict_octal_literal": 10f8ad639069: [...],
+    "strict_duplicate_property": 10f8ad639069: [...],
+    "accessor_data_property": 10f8ad639069: [...],
+    "accessor_get_set": 10f8ad639069: [...],
+    "strict_delete": 10f8ad639069: [...],
+    "strict_delete_property": 10f8ad639069: [...],
+    "strict_const": 10f8ad639069: [...],
+    "strict_function": 10f8ad639069: [...],
+    "strict_read_only_property": 10f8ad639069: [...],
+    "strict_cannot_assign": 10f8ad639069: [...],
+    "strict_poison_pill": 10f8ad639069: [...],
+    "strict_caller": 10f8ad639069: [...],
+    "malformed_arrow_function_parameter_list": 10f8ad639069: [...],
+    "generator_poison_pill": 10f8ad639069: [...],
+    "unprotected_let": 10f8ad639069: [...],
+    "unprotected_const": 10f8ad639069: [...],
+    "cant_prevent_ext_external_array_elements": 10f8ad639069: [...],
+    "redef_external_array_element": 10f8ad639069: [...],
+    "harmony_const_assign": 10f8ad639069: [...],
+    "symbol_to_string": 10f8ad639069: [...],
+    "symbol_to_primitive": 10f8ad639069: [...],
+    "symbol_to_number": 10f8ad639069: [...],
+    "invalid_module_path": 10f8ad639069: [...],
+    "module_type_error": 10f8ad639069: [...],
+    "module_export_undefined": 10f8ad639069: [...],
+}
+property kind: in-object 
+10f8ad6c3d29: {
+    "cyclic_proto": 10f8ad6c3d29: [...],
+    "code_gen_from_strings": 10f8ad6c3d29: [...],
+    "generator_running": 10f8ad6c3d29: [...],
+    "generator_finished": 10f8ad6c3d29: [...],
+    "unexpected_token": 10f8ad6c3d29: [...],
+    "unexpected_token_number": 10f8ad6c3d29: [...],
+    "unexpected_token_string": 10f8ad6c3d29: [...],
+    "unexpected_token_identifier": 10f8ad6c3d29: [...],
+    "unexpected_reserved": 10f8ad6c3d29: [...],
+    "unexpected_strict_reserved": 10f8ad6c3d29: [...],
+    "unexpected_eos": 10f8ad6c3d29: [...],
+    "malformed_regexp": 10f8ad6c3d29: [...],
+    "unterminated_regexp": 10f8ad6c3d29: [...],
+    "regexp_flags": 10f8ad6c3d29: [...],
+    "incompatible_method_receiver": 10f8ad6c3d29: [...],
+    "multiple_defaults_in_switch": 10f8ad6c3d29: [...],
+    "newline_after_throw": 10f8ad6c3d29: [...],
+    "label_redeclaration": 10f8ad6c3d29: [...],
+    "var_redeclaration": 10f8ad6c3d29: [...],
+    "duplicate_template_property": 10f8ad6c3d29: [...],
+    "no_catch_or_finally": 10f8ad6c3d29: [...],
+    "unknown_label": 10f8ad6c3d29: [...],
+    "uncaught_exception": 10f8ad6c3d29: [...],
+    "stack_trace": 10f8ad6c3d29: [...],
+    "called_non_callable": 10f8ad6c3d29: [...],
+    "undefined_method": 10f8ad6c3d29: [...],
+    "property_not_function": 10f8ad6c3d29: [...],
+    "cannot_convert_to_primitive": 10f8ad6c3d29: [...],
+    "not_constructor": 10f8ad6c3d29: [...],
+    "not_defined": 10f8ad6c3d29: [...],
+    "non_object_property_load": 10f8ad6c3d29: [...],
+    "non_object_property_store": 10f8ad6c3d29: [...],
+    "with_expression": 10f8ad6c3d29: [...],
+    "illegal_invocation": 10f8ad6c3d29: [...],
+    "no_setter_in_callback": 10f8ad6c3d29: [...],
+    "apply_non_function": 10f8ad6c3d29: [...],
+    "apply_wrong_args": 10f8ad6c3d29: [...],
+    "invalid_in_operator_use": 10f8ad6c3d29: [...],
+    "instanceof_function_expected": 10f8ad6c3d29: [...],
+    "instanceof_nonobject_proto": 10f8ad6c3d29: [...],
+    "undefined_or_null_to_object": 10f8ad6c3d29: [...],
+    "reduce_no_initial": 10f8ad6c3d29: [...],
+    "getter_must_be_callable": 10f8ad6c3d29: [...],
+    "setter_must_be_callable": 10f8ad6c3d29: [...],
+    "value_and_accessor": 10f8ad6c3d29: [...],
+    "proto_object_or_null": 10f8ad6c3d29: [...],
+    "property_desc_object": 10f8ad6c3d29: [...],
+    "redefine_disallowed": 10f8ad6c3d29: [...],
+    "define_disallowed": 10f8ad6c3d29: [...],
+    "non_extensible_proto": 10f8ad6c3d29: [...],
+    "handler_non_object": 10f8ad6c3d29: [...],
+    "proto_non_object": 10f8ad6c3d29: [...],
+    "trap_function_expected": 10f8ad6c3d29: [...],
+    "handler_trap_missing": 10f8ad6c3d29: [...],
+    "handler_trap_must_be_callable": 10f8ad6c3d29: [...],
+    "handler_returned_false": 10f8ad6c3d29: [...],
+    "handler_returned_undefined": 10f8ad6c3d29: [...],
+    "proxy_prop_not_configurable": 10f8ad6c3d29: [...],
+    "proxy_non_object_prop_names": 10f8ad6c3d29: [...],
+    "proxy_repeated_prop_name": 10f8ad6c3d29: [...],
+    "invalid_weakmap_key": 10f8ad6c3d29: [...],
+    "invalid_weakset_value": 10f8ad6c3d29: [...],
+    "not_date_object": 10f8ad6c3d29: [...],
+    "observe_non_object": 10f8ad6c3d29: [...],
+    "observe_non_function": 10f8ad6c3d29: [...],
+    "observe_callback_frozen": 10f8ad6c3d29: [...],
+    "observe_invalid_accept": 10f8ad6c3d29: [...],
+    "observe_type_non_string": 10f8ad6c3d29: [...],
+    "observe_perform_non_string": 10f8ad6c3d29: [...],
+    "observe_perform_non_function": 10f8ad6c3d29: [...],
+    "observe_notify_non_notifier": 10f8ad6c3d29: [...],
+    "observe_global_proxy": 10f8ad6c3d29: [...],
+    "not_typed_array": 10f8ad6c3d29: [...],
+    "invalid_argument": 10f8ad6c3d29: [...],
+    "data_view_not_array_buffer": 10f8ad6c3d29: [...],
+    "constructor_not_function": 10f8ad6c3d29: [...],
+    "not_a_symbol": 10f8ad6c3d29: [...],
+    "not_a_promise": 10f8ad6c3d29: [...],
+    "resolver_not_a_function": 10f8ad6c3d29: [...],
+    "promise_cyclic": 10f8ad6c3d29: [...],
+    "array_functions_on_frozen": 10f8ad6c3d29: [...],
+    "array_functions_change_sealed": 10f8ad6c3d29: [...],
+    "first_argument_not_regexp": 10f8ad6c3d29: [...],
+    "not_iterable": 10f8ad6c3d29: [...],
+    "not_an_iterator": 10f8ad6c3d29: [...],
+    "iterator_result_not_an_object": 10f8ad6c3d29: [...],
+    "iterator_value_not_an_object": 10f8ad6c3d29: [...],
+    "invalid_array_length": 10f8ad6c3d29: [...],
+    "invalid_array_buffer_length": 10f8ad6c3d29: [...],
+    "invalid_string_length": 10f8ad6c3d29: [...],
+    "invalid_typed_array_offset": 10f8ad6c3d29: [...],
+    "invalid_typed_array_length": 10f8ad6c3d29: [...],
+    "invalid_typed_array_alignment": 10f8ad6c3d29: [...],
+    "typed_array_set_source_too_large": 10f8ad6c3d29: [...],
+    "typed_array_set_negative_offset": 10f8ad6c3d29: [...],
+    "invalid_data_view_offset": 10f8ad6c3d29: [...],
+    "invalid_data_view_length": 10f8ad6c3d29: [...],
+    "invalid_data_view_accessor_offset": 10f8ad6c3d29: [...],
+    "stack_overflow": 10f8ad6c3d29: [...],
+    "invalid_time_value": 10f8ad6c3d29: [...],
+    "invalid_count_value": 10f8ad6c3d29: [...],
+    "invalid_code_point": 10f8ad6c3d29: [...],
+    "invalid_lhs_in_assignment": 10f8ad6c3d29: [...],
+    "invalid_lhs_in_for": 10f8ad6c3d29: [...],
+    "invalid_lhs_in_postfix_op": 10f8ad6c3d29: [...],
+    "invalid_lhs_in_prefix_op": 10f8ad6c3d29: [...],
+    "paren_in_arg_string": 10f8ad6c3d29: [...],
+    "not_isvar": 10f8ad6c3d29: [...],
+    "single_function_literal": 10f8ad6c3d29: [...],
+    "invalid_regexp_flags": 10f8ad6c3d29: [...],
+    "invalid_regexp": 10f8ad6c3d29: [...],
+    "illegal_break": 10f8ad6c3d29: [...],
+    "illegal_continue": 10f8ad6c3d29: [...],
+    "illegal_return": 10f8ad6c3d29: [...],
+    "error_loading_debugger": 10f8ad6c3d29: [...],
+    "no_input_to_regexp": 10f8ad6c3d29: [...],
+    "invalid_json": 10f8ad6c3d29: [...],
+    "circular_structure": 10f8ad6c3d29: [...],
+    "called_on_non_object": 10f8ad6c3d29: [...],
+    "called_on_null_or_undefined": 10f8ad6c3d29: [...],
+    "array_indexof_not_defined": 10f8ad6c3d29: [...],
+    "object_not_extensible": 10f8ad6c3d29: [...],
+    "illegal_access": 10f8ad6c3d29: [...],
+    "strict_mode_with": 10f8ad6c3d29: [...],
+    "strict_eval_arguments": 10f8ad6c3d29: [...],
+    "too_many_arguments": 10f8ad6c3d29: [...],
+    "too_many_parameters": 10f8ad6c3d29: [...],
+    "too_many_variables": 10f8ad6c3d29: [...],
+    "strict_param_dupe": 10f8ad6c3d29: [...],
+    "strict_octal_literal": 10f8ad6c3d29: [...],
+    "strict_duplicate_property": 10f8ad6c3d29: [...],
+    "accessor_data_property": 10f8ad6c3d29: [...],
+    "accessor_get_set": 10f8ad6c3d29: [...],
+    "strict_delete": 10f8ad6c3d29: [...],
+    "strict_delete_property": 10f8ad6c3d29: [...],
+    "strict_const": 10f8ad6c3d29: [...],
+    "strict_function": 10f8ad6c3d29: [...],
+    "strict_read_only_property": 10f8ad6c3d29: [...],
+    "strict_cannot_assign": 10f8ad6c3d29: [...],
+    "strict_poison_pill": 10f8ad6c3d29: [...],
+    "strict_caller": 10f8ad6c3d29: [...],
+    "malformed_arrow_function_parameter_list": 10f8ad6c3d29: [...],
+    "generator_poison_pill": 10f8ad6c3d29: [...],
+    "unprotected_let": 10f8ad6c3d29: [...],
+    "unprotected_const": 10f8ad6c3d29: [...],
+    "cant_prevent_ext_external_array_elements": 10f8ad6c3d29: [...],
+    "redef_external_array_element": 10f8ad6c3d29: [...],
+    "harmony_const_assign": 10f8ad6c3d29: [...],
+    "symbol_to_string": 10f8ad6c3d29: [...],
+    "symbol_to_primitive": 10f8ad6c3d29: [...],
+    "symbol_to_number": 10f8ad6c3d29: [...],
+    "invalid_module_path": 10f8ad6c3d29: [...],
+    "module_type_error": 10f8ad6c3d29: [...],
+    "module_export_undefined": 10f8ad6c3d29: [...],
+}
+property kind: in-object 

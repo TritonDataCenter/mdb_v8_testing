@@ -1,0 +1,1009 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+53490af652e1: {
+    "sep": 53490af652e1: "/",
+    "delimiter": 53490af652e1: ":",
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+7fa7ecb140e1: {
+    "sep": 7fa7ecb140e1: 12,
+    "delimiter": 7fa7ecb140e1: 0,
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+53490af608b1: {
+    "cflags": 53490af608b1: [],
+    "default_configuration": 53490af608b1: "Release",
+    "defines": 53490af608b1: [],
+    "include_dirs": 53490af608b1: [],
+    "libraries": 53490af608b1: [],
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+53490afc2be1: {
+    "id": 53490afc2be1: ".",
+    "exports": 53490afc2be1: {},
+    "parent": 53490afc2be1: null,
+    "filename": 53490afc2be1: "/home/dap/node-testing/test-programs/explicit-abo
+rt.js",
+    "loaded": 53490afc2be1: false,
+    "children": 53490afc2be1: [],
+    "paths": 53490afc2be1: [
+        53490afc2be1: "/home/dap/node-testing/test-programs/node_modules",
+        53490afc2be1: "/home/dap/node-testing/node_modules",
+        53490afc2be1: "/home/dap/node_modules",
+        53490afc2be1: "/home/node_modules",
+        53490afc2be1: "/node_modules",
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+        53490afc2be1: hole,
+    ],
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+7fa7ecb08ca1: {
+    "version": 7fa7ecb08ca1: 11,
+    "moduleLoadList": 7fa7ecb08ca1: 0,
+    "versions": 7fa7ecb08ca1: "title",
+    "arch": 7fa7ecb08ca1: 2097283,
+    "platform": 7fa7ecb08ca1: <unknown JavaScript object type "AccessorInfo">,
+    "argv": 7fa7ecb08ca1: "version",
+    "execArgv": 7fa7ecb08ca1: 524545,
+    "env": 7fa7ecb08ca1: 0,
+    "pid": 7fa7ecb08ca1: "moduleLoadList",
+    "features": 7fa7ecb08ca1: 2621825,
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+53490af3cf11: {
+    "evals": 53490af3cf11: {},
+    "natives": 53490af3cf11: {
+        "console": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contr
+ibutors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "zlib": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribu
+tors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "os": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "_stream_duplex": 53490af3cf11: "// Copyright Joyent, Inc. and other Nod
+e contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "querystring": 53490af3cf11: "// Copyright Joyent, Inc. and other Node c
+ontributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "_stream_writable": 53490af3cf11: "// Copyright Joyent, Inc. and other N
+ode contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "_debugger": 53490af3cf11: "// Copyright Joyent, Inc. and other Node con
+tributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "tls": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "child_process": 53490af3cf11: "// Copyright Joyent, Inc. and other Node
+ contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "string_decoder": 53490af3cf11: "// Copyright Joyent, Inc. and other Nod
+e contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "url": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "constants": 53490af3cf11: "// Copyright Joyent, Inc. and other Node con
+tributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "util": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribu
+tors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "http": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribu
+tors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "cluster": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contr
+ibutors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "timers": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "dgram": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "path": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribu
+tors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "events": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "_linklist": 53490af3cf11: "// Copyright Joyent, Inc. and other Node con
+tributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "readline": 53490af3cf11: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "dns": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "fs": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "buffer": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "punycode": 53490af3cf11: "/*! http://mths.be/punycode v1.2.0 by @mathia
+s */
+;(function(root) {
+
+        /**
+         * The `punycode` object.
+         * @name punycode
+         * @type Object
+         */
+        var punycode,",
+        "https": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "domain": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "assert": 53490af3cf11: "// http://wiki.commonjs.org/wiki/Unit_Testing/1
+.0
+//
+// THIS IS NOT TESTED NOR LIKELY TO WORK OUTSIDE V8!
+//
+// Originally from narwhal.js (http://narwhaljs.",
+        "sys": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "net": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "module": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "tty": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "freelist": 53490af3cf11: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "vm": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contributo
+rs.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "_stream_passthrough": 53490af3cf11: "// Copyright Joyent, Inc. and othe
+r Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "repl": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contribu
+tors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "stream": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "_stream_readable": 53490af3cf11: "// Copyright Joyent, Inc. and other N
+ode contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "_stream_transform": 53490af3cf11: "// Copyright Joyent, Inc. and other 
+Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+        "crypto": 53490af3cf11: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    },
+    "buffer": 53490af3cf11: {},
+    "fs": 53490af3cf11: {},
+    "constants": 53490af3cf11: {
+        "SIGSTOP": 53490af3cf11: 23,
+        "EISDIR": 53490af3cf11: 21,
+        "O_EXCL": 53490af3cf11: 1024,
+        "ENOSTR": 53490af3cf11: 60,
+        "SSL_OP_NO_TLSv1": 53490af3cf11: 67108864,
+        "EIDRM": 53490af3cf11: 36,
+        "SSL_OP_EPHEMERAL_RSA": 53490af3cf11: 2097152,
+        "S_IWUSR": 53490af3cf11: 128,
+        "ENOTSUP": 53490af3cf11: 48,
+        "EPROTOTYPE": 53490af3cf11: 98,
+        "SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG": 53490af3cf11: 8,
+        "ENOMSG": 53490af3cf11: 35,
+        "SIGLOST": 53490af3cf11: 37,
+        "O_CREAT": 53490af3cf11: 256,
+        "ENODEV": 53490af3cf11: 19,
+        "SIGSEGV": 53490af3cf11: 11,
+        "ENFILE": 53490af3cf11: 23,
+        "S_IFMT": 53490af3cf11: 61440,
+        "S_IFLNK": 53490af3cf11: 40960,
+        "SSL_OP_COOKIE_EXCHANGE": 53490af3cf11: 8192,
+        "ENOSPC": 53490af3cf11: 28,
+        "SIGPWR": 53490af3cf11: 19,
+        "EXDEV": 53490af3cf11: 18,
+        "SSL_OP_MSIE_SSLV2_RSA_PADDING": 53490af3cf11: 0,
+        "SIGSYS": 53490af3cf11: 12,
+        "EDQUOT": 53490af3cf11: 49,
+        "SSL_OP_SSLREF2_REUSE_CERT_TYPE_BUG": 53490af3cf11: 0,
+        "EOPNOTSUPP": 53490af3cf11: 122,
+        "O_TRUNC": 53490af3cf11: 512,
+        "ELOOP": 53490af3cf11: 90,
+        "EPROTONOSUPPORT": 53490af3cf11: 120,
+        "EMLINK": 53490af3cf11: 31,
+        "S_IFCHR": 53490af3cf11: 8192,
+        "ENOSR": 53490af3cf11: 63,
+        "ENOMEM": 53490af3cf11: 12,
+        "O_NONBLOCK": 53490af3cf11: 128,
+        "S_IFSOCK": 53490af3cf11: 49152,
+        "SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS": 53490af3cf11: 2048,
+        "SSL_OP_NO_TLSv1_1": 53490af3cf11: 268435456,
+        "SIGABRT": 53490af3cf11: 6,
+        "SSL_OP_NETSCAPE_CHALLENGE_BUG": 53490af3cf11: 2,
+        "EFAULT": 53490af3cf11: 14,
+        "S_IWOTH": 53490af3cf11: 2,
+        "ERANGE": 53490af3cf11: 34,
+        "SIGWINCH": 53490af3cf11: 20,
+        "SIGPROF": 53490af3cf11: 29,
+        "SSL_OP_TLS_D5_BUG": 53490af3cf11: 256,
+        "S_IRUSR": 53490af3cf11: 256,
+        "O_NOCTTY": 53490af3cf11: 2048,
+        "EALREADY": 53490af3cf11: 149,
+        "SIGINT": 53490af3cf11: 2,
+        "SIGPIPE": 53490af3cf11: 13,
+        "SSL_OP_CISCO_ANYCONNECT": 53490af3cf11: 32768,
+        "EIO": 53490af3cf11: 5,
+        "EACCES": 53490af3cf11: 13,
+        "SIGIO": 53490af3cf11: 22,
+        "ENOEXEC": 53490af3cf11: 8,
+        "EBUSY": 53490af3cf11: 16,
+        "SIGTSTP": 53490af3cf11: 24,
+        "SIGTRAP": 53490af3cf11: 5,
+        "EPIPE": 53490af3cf11: 32,
+        "O_RDWR": 53490af3cf11: 2,
+        "S_IXOTH": 53490af3cf11: 1,
+        "ECANCELED": 53490af3cf11: 47,
+        "ENOSYS": 53490af3cf11: 89,
+        "SIGCONT": 53490af3cf11: 25,
+        "SSL_OP_CIPHER_SERVER_PREFERENCE": 53490af3cf11: 4194304,
+        "SIGPOLL": 53490af3cf11: 22,
+        "S_IXGRP": 53490af3cf11: 8,
+        "S_IFBLK": 53490af3cf11: 24576,
+        "SSL_OP_SINGLE_DH_USE": 53490af3cf11: 1048576,
+        "SSL_OP_LEGACY_SERVER_CONNECT": 53490af3cf11: 4,
+        "SSL_OP_CRYPTOPRO_TLSEXT_BUG": 53490af3cf11: 2147483648,
+        "O_SYNC": 53490af3cf11: 16,
+        "S_IRWXO": 53490af3cf11: 7,
+        "S_IFDIR": 53490af3cf11: 16384,
+        "EHOSTUNREACH": 53490af3cf11: 148,
+        "EISCONN": 53490af3cf11: 133,
+        "EMSGSIZE": 53490af3cf11: 97,
+        "ENOLINK": 53490af3cf11: 67,
+        "EAGAIN": 53490af3cf11: 11,
+        "EBADMSG": 53490af3cf11: 77,
+        "EOVERFLOW": 53490af3cf11: 79,
+        "SIGQUIT": 53490af3cf11: 3,
+        "ENOTSOCK": 53490af3cf11: 95,
+        "SSL_OP_NO_SSLv2": 53490af3cf11: 16777216,
+        "ETXTBSY": 53490af3cf11: 26,
+        "SSL_OP_SSLEAY_080_CLIENT_DH_BUG": 53490af3cf11: 128,
+        "S_IRWXG": 53490af3cf11: 56,
+        "S_IFREG": 53490af3cf11: 32768,
+        "SSL_OP_MICROSOFT_BIG_SSLV3_BUFFER": 53490af3cf11: 32,
+        "ENOENT": 53490af3cf11: 2,
+        "EMFILE": 53490af3cf11: 24,
+        "S_IFIFO": 53490af3cf11: 4096,
+        "ENOTEMPTY": 53490af3cf11: 93,
+        "EADDRNOTAVAIL": 53490af3cf11: 126,
+        "S_IROTH": 53490af3cf11: 4,
+        "SIGXFSZ": 53490af3cf11: 31,
+        "S_IRGRP": 53490af3cf11: 32,
+        "SIGBUS": 53490af3cf11: 10,
+        "SIGXCPU": 53490af3cf11: 30,
+        "ENETRESET": 53490af3cf11: 129,
+        "SSL_OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION": 53490af3cf11: 262144,
+        "SIGKILL": 53490af3cf11: 9,
+        "E2BIG": 53490af3cf11: 7,
+        "SSL_OP_NETSCAPE_CA_DN_BUG": 53490af3cf11: 536870912,
+        "SSL_OP_ALL": 53490af3cf11: 2147486719,
+        "SIGTTIN": 53490af3cf11: 26,
+        "SSL_OP_NO_SESSION_RESUMPTION_ON_RENEGOTIATION": 53490af3cf11: 65536,
+        "SSL_OP_SINGLE_ECDH_USE": 53490af3cf11: 524288,
+        "SIGIOT": 53490af3cf11: 6,
+        "EROFS": 53490af3cf11: 30,
+        "ENOTDIR": 53490af3cf11: 20,
+        "O_NOFOLLOW": 53490af3cf11: 131072,
+        "O_RDONLY": 53490af3cf11: 0,
+        "EEXIST": 53490af3cf11: 17,
+        "EADDRINUSE": 53490af3cf11: 125,
+        "ENOTTY": 53490af3cf11: 25,
+        "EINVAL": 53490af3cf11: 22,
+        "ETIME": 53490af3cf11: 62,
+        "O_WRONLY": 53490af3cf11: 1,
+        "EBADF": 53490af3cf11: 9,
+        "ENETDOWN": 53490af3cf11: 127,
+        "SIGALRM": 53490af3cf11: 14,
+        "S_IRWXU": 53490af3cf11: 448,
+        "ENOBUFS": 53490af3cf11: 132,
+        "EAFNOSUPPORT": 53490af3cf11: 124,
+        "SSL_OP_NO_SSLv3": 53490af3cf11: 33554432,
+        "ENXIO": 53490af3cf11: 6,
+        "SIGUSR1": 53490af3cf11: 16,
+        "ESRCH": 53490af3cf11: 3,
+        "SSL_OP_TLS_ROLLBACK_BUG": 53490af3cf11: 8388608,
+        "EILSEQ": 53490af3cf11: 88,
+        "ENODATA": 53490af3cf11: 61,
+        "EPROTO": 53490af3cf11: 71,
+        "EPERM": 53490af3cf11: 1,
+        "SIGHUP": 53490af3cf11: 1,
+        "SSL_OP_NO_COMPRESSION": 53490af3cf11: 131072,
+        "SSL_OP_NO_TLSv1_2": 53490af3cf11: 134217728,
+        "SIGILL": 53490af3cf11: 4,
+        "ENOTCONN": 53490af3cf11: 134,
+        "EMULTIHOP": 53490af3cf11: 74,
+        "SIGVTALRM": 53490af3cf11: 28,
+        "EWOULDBLOCK": 53490af3cf11: 11,
+        "SIGTERM": 53490af3cf11: 15,
+        "ECONNABORTED": 53490af3cf11: 130,
+        "ETIMEDOUT": 53490af3cf11: 145,
+        "ESPIPE": 53490af3cf11: 29,
+        "ENAMETOOLONG": 53490af3cf11: 78,
+        "ENOPROTOOPT": 53490af3cf11: 99,
+        "SIGCHLD": 53490af3cf11: 18,
+        "EFBIG": 53490af3cf11: 27,
+        "ENETUNREACH": 53490af3cf11: 128,
+        "SSL_OP_PKCS1_CHECK_2": 53490af3cf11: 0,
+        "EDEADLK": 53490af3cf11: 45,
+        "EDOM": 53490af3cf11: 33,
+        "NPN_ENABLED": 53490af3cf11: 1,
+        "SSL_OP_PKCS1_CHECK_1": 53490af3cf11: 0,
+        "ECONNRESET": 53490af3cf11: 131,
+        "SSL_OP_TLS_BLOCK_PADDING_BUG": 53490af3cf11: 512,
+        "EINTR": 53490af3cf11: 4,
+        "SIGURG": 53490af3cf11: 21,
+        "SSL_OP_NO_QUERY_MTU": 53490af3cf11: 4096,
+        "SSL_OP_NETSCAPE_DEMO_CIPHER_CHANGE_BUG": 53490af3cf11: 1073741824,
+        "SIGFPE": 53490af3cf11: 8,
+        "O_APPEND": 53490af3cf11: 8,
+        "EDESTADDRREQ": 53490af3cf11: 96,
+        "SSL_OP_MICROSOFT_SESS_ID_BUG": 53490af3cf11: 1,
+        "ECHILD": 53490af3cf11: 10,
+        "SIGUSR2": 53490af3cf11: 17,
+        "S_IWGRP": 53490af3cf11: 16,
+        "S_IXUSR": 53490af3cf11: 64,
+        "ECONNREFUSED": 53490af3cf11: 146,
+        "EINPROGRESS": 53490af3cf11: 150,
+        "SIGTTOU": 53490af3cf11: 27,
+        "ENOLCK": 53490af3cf11: 46,
+        "SSL_OP_NO_TICKET": 53490af3cf11: 16384,
+        "ESTALE": 53490af3cf11: 151,
+    },
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+7fa7ecb177a1: {
+    "evals": 7fa7ecb177a1: 5,
+    "natives": 7fa7ecb177a1: 0,
+    "buffer": 7fa7ecb177a1: "evals",
+    "fs": 7fa7ecb177a1: 1048705,
+    "constants": 7fa7ecb177a1: 0,
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+7fa7ecb08d21: {
+    "version": 7fa7ecb08d21: 3146113,
+    "moduleLoadList": 7fa7ecb08d21: "version",
+    "versions": 7fa7ecb08d21: "title",
+    "arch": 7fa7ecb08d21: 524545,
+    "platform": 7fa7ecb08d21: "moduleLoadList",
+    "argv": 7fa7ecb08d21: <unknown JavaScript object type "AccessorInfo">,
+    "execArgv": 7fa7ecb08d21: 0,
+    "env": 7fa7ecb08d21: 13,
+    "pid": 7fa7ecb08d21: 9,
+    "features": 7fa7ecb08d21: 2097283,
+    "execPath": 7fa7ecb08d21: 5,
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+53490af31789: {
+    "http_parser": 53490af31789: "1.0",
+    "node": 53490af31789: "0.10.30",
+    "v8": 53490af31789: "3.14.5.9",
+    "ares": 53490af31789: "1.9.0-DEV",
+    "uv": 53490af31789: "0.10.28",
+    "zlib": 53490af31789: "1.2.3",
+    "modules": 53490af31789: "11",
+    "openssl": 53490af31789: "1.0.1h",
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+7fa7ecb08821: {
+    "http_parser": 7fa7ecb08821: 8,
+    "node": 7fa7ecb08821: 0,
+    "v8": 7fa7ecb08821: "http_parser",
+    "ares": 7fa7ecb08821: 524417,
+    "uv": 7fa7ecb08821: 0,
+    "zlib": 7fa7ecb08821: "node",
+    "modules": 7fa7ecb08821: 262401,
+    "openssl": 7fa7ecb08821: 1,
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+53490af58a71: {
+    "special": 53490af58a71: "cyan",
+    "number": 53490af58a71: "yellow",
+    "boolean": 53490af58a71: "yellow",
+    "undefined": 53490af58a71: "grey",
+    "null": 53490af58a71: "bold",
+    "string": 53490af58a71: "green",
+    "date": 53490af58a71: "magenta",
+    "regexp": 53490af58a71: "red",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af58ee1: {
+    "special": 53490af58ee1: "cyan",
+    "number": 53490af58ee1: "yellow",
+    "boolean": 53490af58ee1: "yellow",
+    "undefined": 53490af58ee1: "grey",
+    "null": 53490af58ee1: "bold",
+    "string": 53490af58ee1: "green",
+    "date": 53490af58ee1: "magenta",
+    "regexp": 53490af58ee1: "red",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af2b059: {
+    "stack": 53490af2b059: undefined,
+    "arguments": 53490af2b059: undefined,
+    "type": 53490af2b059: undefined,
+    "name": 53490af2b059: "TypeError",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af2c0b1: {
+    "stack": 53490af2c0b1: undefined,
+    "arguments": 53490af2c0b1: undefined,
+    "type": 53490af2c0b1: undefined,
+    "name": 53490af2c0b1: "URIError",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af2bdd1: {
+    "stack": 53490af2bdd1: undefined,
+    "arguments": 53490af2bdd1: undefined,
+    "type": 53490af2bdd1: undefined,
+    "name": 53490af2bdd1: "EvalError",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af2baf1: {
+    "stack": 53490af2baf1: undefined,
+    "arguments": 53490af2baf1: undefined,
+    "type": 53490af2baf1: undefined,
+    "name": 53490af2baf1: "ReferenceError",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af2b7e9: {
+    "stack": 53490af2b7e9: undefined,
+    "arguments": 53490af2b7e9: undefined,
+    "type": 53490af2b7e9: undefined,
+    "name": 53490af2b7e9: "SyntaxError",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af2b4a9: {
+    "stack": 53490af2b4a9: undefined,
+    "arguments": 53490af2b4a9: undefined,
+    "type": 53490af2b4a9: undefined,
+    "name": 53490af2b4a9: "RangeError",
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af31201: {
+    "version": 53490af31201: "v0.10.30",
+    "moduleLoadList": 53490af31201: [
+        53490af31201: "Binding evals",
+        53490af31201: "Binding natives",
+        53490af31201: "NativeModule events",
+        53490af31201: "NativeModule buffer",
+        53490af31201: "Binding buffer",
+        53490af31201: "NativeModule assert",
+        53490af31201: "NativeModule util",
+        53490af31201: "NativeModule path",
+        53490af31201: "NativeModule module",
+        53490af31201: "NativeModule fs",
+        53490af31201: "Binding fs",
+        53490af31201: "Binding constants",
+        53490af31201: "NativeModule stream",
+        53490af31201: "NativeModule _stream_readable",
+        53490af31201: "NativeModule _stream_writable",
+        53490af31201: "NativeModule _stream_duplex",
+        53490af31201: "NativeModule _stream_transform",
+        53490af31201: "NativeModule _stream_passthrough",
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+        53490af31201: hole,
+    ],
+    "versions": 53490af31201: {
+        "http_parser": 53490af31201: "1.0",
+        "node": 53490af31201: "0.10.30",
+        "v8": 53490af31201: "3.14.5.9",
+        "ares": 53490af31201: "1.9.0-DEV",
+        "uv": 53490af31201: "0.10.28",
+        "zlib": 53490af31201: "1.2.3",
+        "modules": 53490af31201: "11",
+        "openssl": 53490af31201: "1.0.1h",
+    },
+    "arch": 53490af31201: "x64",
+    "platform": 53490af31201: "sunos",
+    "argv": 53490af31201: [
+        53490af31201: "/home/dap/node-testing/node-v0.10.30-sunos-x64/bin/node",
+        53490af31201: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ],
+    "execArgv": 53490af31201: [],
+    "env": 53490af31201: {},
+    "pid": 53490af31201: 17612,
+    "features": 53490af31201: {
+        "debug": 53490af31201: false,
+        "uv": 53490af31201: true,
+        "ipv6": 53490af31201: true,
+        "tls_npn": 53490af31201: true,
+        "tls_sni": 53490af31201: true,
+        "tls": 53490af31201: true,
+    },
+    "execPath": 53490af31201: "/home/dap/node-testing/node-v0.10.30-sunos-x64/bi
+n/node",
+    "_tickInfoBox": 53490af31201: {},
+    "_events": 53490af31201: {},
+    "domain": 53490af31201: null,
+    "_maxListeners": 53490af31201: 10,
+    "_exiting": 53490af31201: false,
+    "config": 53490af31201: {
+        "target_defaults": 53490af31201: [...],
+        "variables": 53490af31201: [...],
+    },
+    "maxTickDepth": 53490af31201: 1000,
+    "mainModule": 53490af31201: {
+        "id": 53490af31201: ".",
+        "exports": 53490af31201: [...],
+        "parent": 53490af31201: null,
+        "filename": 53490af31201: "/home/dap/node-testing/test-programs/explicit
+-abort.js",
+        "loaded": 53490af31201: false,
+        "children": 53490af31201: [...],
+        "paths": 53490af31201: [...],
+    },
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+7fa7ecb1a521: {
+    "version": 7fa7ecb1a521: 6,
+    "moduleLoadList": 7fa7ecb1a521: 2097409,
+    "versions": 7fa7ecb1a521: "title",
+    "arch": 7fa7ecb1a521: 10,
+    "platform": 7fa7ecb1a521: 4456833,
+    "argv": 7fa7ecb1a521: <unknown JavaScript object type "AccessorInfo">,
+    "execArgv": 7fa7ecb1a521: 0,
+    "env": 7fa7ecb1a521: 65,
+    "pid": 7fa7ecb1a521: "moduleLoadList",
+    "features": 7fa7ecb1a521: 8913027,
+    "execPath": 7fa7ecb1a521: "version",
+    "_tickInfoBox": 7fa7ecb1a521: "versions",
+    "_events": 7fa7ecb1a521: 9961985,
+    "domain": 7fa7ecb1a521: 2,
+    "_maxListeners": 7fa7ecb1a521: "arch",
+    "_exiting": 7fa7ecb1a521: 524929,
+    "config": 7fa7ecb1a521: 7,
+    "maxTickDepth": 7fa7ecb1a521: "platform",
+    "mainModule": 7fa7ecb1a521: 4195073,
+}
+property kind: "properties" array 
+some properties skipped due to undefined property name
+53490af43de1: {
+    "value_": 53490af43de1: function process,
+    "hasValue_": 53490af43de1: true,
+    "writable_": 53490af43de1: false,
+    "hasWritable_": 53490af43de1: false,
+    "enumerable_": 53490af43de1: false,
+    "hasEnumerable_": 53490af43de1: false,
+    "configurable_": 53490af43de1: false,
+    "hasConfigurable_": 53490af43de1: false,
+    "get_": 53490af43de1: undefined,
+    "hasGetter_": 53490af43de1: false,
+    "set_": 53490af43de1: undefined,
+    "hasSetter_": 53490af43de1: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afc5ce1: {
+    "value_": 53490afc5ce1: undefined,
+    "hasValue_": 53490afc5ce1: false,
+    "writable_": 53490afc5ce1: false,
+    "hasWritable_": 53490afc5ce1: false,
+    "enumerable_": 53490afc5ce1: false,
+    "hasEnumerable_": 53490afc5ce1: false,
+    "configurable_": 53490afc5ce1: false,
+    "hasConfigurable_": 53490afc5ce1: false,
+    "get_": 53490afc5ce1: function <anonymous> (as Object.defineProperty.get),
+    "hasGetter_": 53490afc5ce1: true,
+    "set_": 53490afc5ce1: undefined,
+    "hasSetter_": 53490afc5ce1: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afbe759: {
+    "value_": 53490afbe759: function SyncWriteStream,
+    "hasValue_": 53490afbe759: true,
+    "writable_": 53490afbe759: true,
+    "hasWritable_": 53490afbe759: true,
+    "enumerable_": 53490afbe759: false,
+    "hasEnumerable_": 53490afbe759: true,
+    "configurable_": 53490afbe759: true,
+    "hasConfigurable_": 53490afbe759: true,
+    "get_": 53490afbe759: undefined,
+    "hasGetter_": 53490afbe759: false,
+    "set_": 53490afbe759: undefined,
+    "hasSetter_": 53490afbe759: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afbe211: {
+    "value_": 53490afbe211: function WriteStream,
+    "hasValue_": 53490afbe211: true,
+    "writable_": 53490afbe211: true,
+    "hasWritable_": 53490afbe211: true,
+    "enumerable_": 53490afbe211: false,
+    "hasEnumerable_": 53490afbe211: true,
+    "configurable_": 53490afbe211: true,
+    "hasConfigurable_": 53490afbe211: true,
+    "get_": 53490afbe211: undefined,
+    "hasGetter_": 53490afbe211: false,
+    "set_": 53490afbe211: undefined,
+    "hasSetter_": 53490afbe211: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afbdbd1: {
+    "value_": 53490afbdbd1: function ReadStream,
+    "hasValue_": 53490afbdbd1: true,
+    "writable_": 53490afbdbd1: true,
+    "hasWritable_": 53490afbdbd1: true,
+    "enumerable_": 53490afbdbd1: false,
+    "hasEnumerable_": 53490afbdbd1: true,
+    "configurable_": 53490afbdbd1: true,
+    "hasConfigurable_": 53490afbdbd1: true,
+    "get_": 53490afbdbd1: undefined,
+    "hasGetter_": 53490afbdbd1: false,
+    "set_": 53490afbdbd1: undefined,
+    "hasSetter_": 53490afbdbd1: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afbccc9: {
+    "value_": 53490afbccc9: function StatWatcher,
+    "hasValue_": 53490afbccc9: true,
+    "writable_": 53490afbccc9: true,
+    "hasWritable_": 53490afbccc9: true,
+    "enumerable_": 53490afbccc9: false,
+    "hasEnumerable_": 53490afbccc9: true,
+    "configurable_": 53490afbccc9: true,
+    "hasConfigurable_": 53490afbccc9: true,
+    "get_": 53490afbccc9: undefined,
+    "hasGetter_": 53490afbccc9: false,
+    "set_": 53490afbccc9: undefined,
+    "hasSetter_": 53490afbccc9: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afbc931: {
+    "value_": 53490afbc931: function FSWatcher,
+    "hasValue_": 53490afbc931: true,
+    "writable_": 53490afbc931: true,
+    "hasWritable_": 53490afbc931: true,
+    "enumerable_": 53490afbc931: false,
+    "hasEnumerable_": 53490afbc931: true,
+    "configurable_": 53490afbc931: true,
+    "hasConfigurable_": 53490afbc931: true,
+    "get_": 53490afbc931: undefined,
+    "hasGetter_": 53490afbc931: false,
+    "set_": 53490afbc931: undefined,
+    "hasSetter_": 53490afbc931: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afbadc9: {
+    "value_": 53490afbadc9: function stringToFlags,
+    "hasValue_": 53490afbadc9: true,
+    "writable_": 53490afbadc9: false,
+    "hasWritable_": 53490afbadc9: false,
+    "enumerable_": 53490afbadc9: false,
+    "hasEnumerable_": 53490afbadc9: true,
+    "configurable_": 53490afbadc9: false,
+    "hasConfigurable_": 53490afbadc9: false,
+    "get_": 53490afbadc9: undefined,
+    "hasGetter_": 53490afbadc9: false,
+    "set_": 53490afbadc9: undefined,
+    "hasSetter_": 53490afbadc9: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afba2e1: {
+    "value_": 53490afba2e1: function PassThrough,
+    "hasValue_": 53490afba2e1: true,
+    "writable_": 53490afba2e1: true,
+    "hasWritable_": 53490afba2e1: true,
+    "enumerable_": 53490afba2e1: false,
+    "hasEnumerable_": 53490afba2e1: true,
+    "configurable_": 53490afba2e1: true,
+    "hasConfigurable_": 53490afba2e1: true,
+    "get_": 53490afba2e1: undefined,
+    "hasGetter_": 53490afba2e1: false,
+    "set_": 53490afba2e1: undefined,
+    "hasSetter_": 53490afba2e1: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afb9169: {
+    "value_": 53490afb9169: function Transform,
+    "hasValue_": 53490afb9169: true,
+    "writable_": 53490afb9169: true,
+    "hasWritable_": 53490afb9169: true,
+    "enumerable_": 53490afb9169: false,
+    "hasEnumerable_": 53490afb9169: true,
+    "configurable_": 53490afb9169: true,
+    "hasConfigurable_": 53490afb9169: true,
+    "get_": 53490afb9169: undefined,
+    "hasGetter_": 53490afb9169: false,
+    "set_": 53490afb9169: undefined,
+    "hasSetter_": 53490afb9169: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afb69a1: {
+    "value_": 53490afb69a1: function Duplex,
+    "hasValue_": 53490afb69a1: true,
+    "writable_": 53490afb69a1: true,
+    "hasWritable_": 53490afb69a1: true,
+    "enumerable_": 53490afb69a1: false,
+    "hasEnumerable_": 53490afb69a1: true,
+    "configurable_": 53490afb69a1: true,
+    "hasConfigurable_": 53490afb69a1: true,
+    "get_": 53490afb69a1: undefined,
+    "hasGetter_": 53490afb69a1: false,
+    "set_": 53490afb69a1: undefined,
+    "hasSetter_": 53490afb69a1: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afb5811: {
+    "value_": 53490afb5811: function Writable,
+    "hasValue_": 53490afb5811: true,
+    "writable_": 53490afb5811: true,
+    "hasWritable_": 53490afb5811: true,
+    "enumerable_": 53490afb5811: false,
+    "hasEnumerable_": 53490afb5811: true,
+    "configurable_": 53490afb5811: true,
+    "hasConfigurable_": 53490afb5811: true,
+    "get_": 53490afb5811: undefined,
+    "hasGetter_": 53490afb5811: false,
+    "set_": 53490afb5811: undefined,
+    "hasSetter_": 53490afb5811: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afb15a9: {
+    "value_": 53490afb15a9: function Readable,
+    "hasValue_": 53490afb15a9: true,
+    "writable_": 53490afb15a9: true,
+    "hasWritable_": 53490afb15a9: true,
+    "enumerable_": 53490afb15a9: false,
+    "hasEnumerable_": 53490afb15a9: true,
+    "configurable_": 53490afb15a9: true,
+    "hasConfigurable_": 53490afb15a9: true,
+    "get_": 53490afb15a9: undefined,
+    "hasGetter_": 53490afb15a9: false,
+    "set_": 53490afb15a9: undefined,
+    "hasSetter_": 53490afb15a9: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490afa9919: {
+    "value_": 53490afa9919: function Stream,
+    "hasValue_": 53490afa9919: true,
+    "writable_": 53490afa9919: true,
+    "hasWritable_": 53490afa9919: true,
+    "enumerable_": 53490afa9919: false,
+    "hasEnumerable_": 53490afa9919: true,
+    "configurable_": 53490afa9919: true,
+    "hasConfigurable_": 53490afa9919: true,
+    "get_": 53490afa9919: undefined,
+    "hasGetter_": 53490afa9919: false,
+    "set_": 53490afa9919: undefined,
+    "hasSetter_": 53490afa9919: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af64311: {
+    "value_": 53490af64311: undefined,
+    "hasValue_": 53490af64311: false,
+    "writable_": 53490af64311: false,
+    "hasWritable_": 53490af64311: false,
+    "enumerable_": 53490af64311: true,
+    "hasEnumerable_": 53490af64311: true,
+    "configurable_": 53490af64311: true,
+    "hasConfigurable_": 53490af64311: true,
+    "get_": 53490af64311: function <anonymous> (as <anon>),
+    "hasGetter_": 53490af64311: true,
+    "set_": 53490af64311: undefined,
+    "hasSetter_": 53490af64311: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af64159: {
+    "value_": 53490af64159: undefined,
+    "hasValue_": 53490af64159: false,
+    "writable_": 53490af64159: false,
+    "hasWritable_": 53490af64159: false,
+    "enumerable_": 53490af64159: true,
+    "hasEnumerable_": 53490af64159: true,
+    "configurable_": 53490af64159: true,
+    "hasConfigurable_": 53490af64159: true,
+    "get_": 53490af64159: function <anonymous> (as <anon>),
+    "hasGetter_": 53490af64159: true,
+    "set_": 53490af64159: undefined,
+    "hasSetter_": 53490af64159: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af63fb1: {
+    "value_": 53490af63fb1: undefined,
+    "hasValue_": 53490af63fb1: false,
+    "writable_": 53490af63fb1: false,
+    "hasWritable_": 53490af63fb1: false,
+    "enumerable_": 53490af63fb1: true,
+    "hasEnumerable_": 53490af63fb1: true,
+    "configurable_": 53490af63fb1: true,
+    "hasConfigurable_": 53490af63fb1: true,
+    "get_": 53490af63fb1: function <anonymous> (as <anon>),
+    "hasGetter_": 53490af63fb1: true,
+    "set_": 53490af63fb1: undefined,
+    "hasSetter_": 53490af63fb1: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af5df01: {
+    "value_": 53490af5df01: undefined,
+    "hasValue_": 53490af5df01: false,
+    "writable_": 53490af5df01: false,
+    "hasWritable_": 53490af5df01: false,
+    "enumerable_": 53490af5df01: true,
+    "hasEnumerable_": 53490af5df01: true,
+    "configurable_": 53490af5df01: true,
+    "hasConfigurable_": 53490af5df01: true,
+    "get_": 53490af5df01: function <anonymous> (as <anon>),
+    "hasGetter_": 53490af5df01: true,
+    "set_": 53490af5df01: undefined,
+    "hasSetter_": 53490af5df01: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name
+53490af5a7a9: {
+    "value_": 53490af5a7a9: function AssertionError,
+    "hasValue_": 53490af5a7a9: true,
+    "writable_": 53490af5a7a9: true,
+    "hasWritable_": 53490af5a7a9: true,
+    "enumerable_": 53490af5a7a9: false,
+    "hasEnumerable_": 53490af5a7a9: true,
+    "configurable_": 53490af5a7a9: true,
+    "hasConfigurable_": 53490af5a7a9: true,
+    "get_": 53490af5a7a9: undefined,
+    "hasGetter_": 53490af5a7a9: false,
+    "set_": 53490af5a7a9: undefined,
+    "hasSetter_": 53490af5a7a9: false,
+}
+property kind: in-object 
+some properties skipped due to undefined property name

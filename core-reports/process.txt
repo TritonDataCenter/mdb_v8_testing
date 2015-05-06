@@ -1,0 +1,8 @@
+#
+# Sample command used to print the basic version information about Node from the
+# core file.  This may still find some garbage and print some bogus lines on
+# some core files.
+#
+::findjsobjects -p mainModule | ::findjsobjects -p pid |
+    ::findjsobjects -p versions | ::findjsobjects |
+    ::jsprint platform arch version versions.v8

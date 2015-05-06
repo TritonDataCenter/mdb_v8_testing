@@ -1,0 +1,47 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+521e9ba1ac61: {
+    "obj1smalldate": 521e9ba1ac61: 33570815,
+    "obj2bigdate": 521e9ba1ac61: 0,
+    "obj3null": 521e9ba1ac61: 0,
+    "obj4undef": 521e9ba1ac61: 0,
+    "obj5num": 521e9ba1ac61: 0,
+    "obj6obj": 521e9ba1ac61: 0,
+    "obj8str": 521e9ba1ac61: 0,
+}
+property kind: in-object 
+79f986fc6d39: {
+    "obj1smalldate": 79f986fc6d39: 1430174626268 (2015 Apr 27 15:43:46),
+    "obj2bigdate": 79f986fc6d39: 0 (1969 Dec 31 16:00:00),
+    "obj3null": 79f986fc6d39: null,
+    "obj4undef": 79f986fc6d39: undefined,
+    "obj5num": 79f986fc6d39: 5,
+    "obj6obj": 79f986fc6d39: {
+        "obj7arr": 79f986fc6d39: [
+            79f986fc6d39: 1,
+            79f986fc6d39: 7,
+            79f986fc6d39: 7,
+            79f986fc6d39: 6,
+        ],
+    },
+    "obj8str": 79f986fc6d39: "it was the blurst of times!",
+}
+property kind: in-object 
+79f986fc6841: {
+    "obj1smalldate": 79f986fc6841: undefined,
+    "obj2bigdate": 79f986fc6841: undefined,
+    "obj3null": 79f986fc6841: null,
+    "obj4undef": 79f986fc6841: undefined,
+    "obj5num": 79f986fc6841: 5,
+    "obj6obj": 79f986fc6841: {
+        "obj7arr": 79f986fc6841: [
+            79f986fc6841: 1,
+            79f986fc6841: 7,
+            79f986fc6841: 7,
+            79f986fc6841: 6,
+        ],
+    },
+    "obj8str": 79f986fc6841: "it was the blurst of times!",
+}
+property kind: in-object 

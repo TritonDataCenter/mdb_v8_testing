@@ -1,0 +1,37 @@
+V8 version: 3.28.73.0
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+e7be5098a41: {
+    "obj1smalldate": e7be5098a41: uninitialized,
+    "obj2bigdate": e7be5098a41: uninitialized,
+    "obj3null": e7be5098a41: null,
+    "obj4undef": e7be5098a41: uninitialized,
+    "obj5num": e7be5098a41: 5,
+    "obj6obj": e7be5098a41: {
+        "obj7arr": e7be5098a41: [
+            e7be5098a41: 1,
+            e7be5098a41: 7,
+            e7be5098a41: 7,
+            e7be5098a41: 6,
+        ],
+    },
+    "obj8str": e7be5098a41: "it was the blurst of times!",
+}
+property kind: in-object 
+e7be5099149: {
+    "obj1smalldate": e7be5099149: 1430174633106 (2015 Apr 27 15:43:53),
+    "obj2bigdate": e7be5099149: 0 (1969 Dec 31 16:00:00),
+    "obj3null": e7be5099149: null,
+    "obj4undef": e7be5099149: undefined,
+    "obj5num": e7be5099149: 5,
+    "obj6obj": e7be5099149: {
+        "obj7arr": e7be5099149: [
+            e7be5099149: 1,
+            e7be5099149: 7,
+            e7be5099149: 7,
+            e7be5099149: 6,
+        ],
+    },
+    "obj8str": e7be5099149: "it was the blurst of times!",
+}
+property kind: in-object 

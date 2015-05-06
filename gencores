@@ -1,0 +1,47 @@
+#!/bin/bash
+
+#
+# Generate some test core files with a variety of Node versions and builds.
+#
+
+function fail
+{
+	echo "gencores: $@" >&2
+	exit 1
+}
+
+node_versions="v0.10.30 v0.12.2"
+node_builds="x86 x64"
+
+for vers in $node_versions; do
+	for build in $node_builds; do
+		outdir="$PWD/cores-$vers-$build"
+		nodeexec="$PWD/node-$vers-sunos-$build/bin/node"
+
+		echo "node $vers, build $build"
+
+		if [[ -d "$outdir" ]]; then 
+			echo "warning: \"$outdir\" already exists (skipping)" >&2
+			continue
+		fi
+
+		mkdir "$outdir" || fail "failed to create \"$outdir\""
+		cd "$outdir" || fail "failed to cd \"$outdir\""
+		for abortprog in ../test-programs/*-abort.js; do
+			echo "    $abortprog"
+			$nodeexec $abortprog && fail "expected failure"
+			mv core* savedcore.$(basename $abortprog)
+		done
+
+		for gcoreprog in ../test-programs/gcore-*.js; do
+			echo "    $gcoreprog"
+			$nodeexec $gcoreprog &
+			pid=$!
+			sleep 1 # sucks
+			gcore -o savedcore.$(basename $gcoreprog) $pid
+			kill "$pid"
+			wait "$pid"
+		done
+		cd - > /dev/null || fail "failed to cd back"
+	done
+done

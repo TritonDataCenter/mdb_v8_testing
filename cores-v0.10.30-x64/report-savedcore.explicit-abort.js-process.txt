@@ -1,0 +1,5 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+"sunos" "x64" "v0.10.30" "3.14.5.9"
+4456833 10 6 undefined

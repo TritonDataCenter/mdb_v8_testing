@@ -1,0 +1,359 @@
+V8 version: 3.28.73.0
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+9fb0b361: {
+    "name": 9fb0b361: <unknown JavaScript object type "FixedArray">,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e609c19: {
+    "request": 8e609c19: <unknown JavaScript object type "FixedArray">,
+    "paths": 8e609c19: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+89875f39: {
+    "0": 89875f39: <unknown JavaScript object type "Foreign">,
+    "1": 89875f39: undefined,
+}
+property kind: numeric-named 
+object has invalid-looking property values
+9fb0bb81: {
+    "stack": 9fb0bb81: <unknown JavaScript object type "FixedArray">,
+    "message": 9fb0bb81: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0bc49: {
+    "time": 9fb0bc49: <unknown JavaScript object type "FixedArray">,
+    "string": 9fb0bc49: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0e129: {
+    "enumerable": 9fb0e129: <unknown JavaScript object type "FixedArray">,
+    "value": 9fb0e129: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e60b131: {
+    "callback": 8e60b131: <unknown JavaScript object type "FixedArray">,
+    "domain": 8e60b131: 0,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e60b0b9: {
+    "_idleNext": 8e60b0b9: <unknown JavaScript object type "FixedArray">,
+    "_idlePrev": 8e60b0b9: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0e309: {
+    "property": 9fb0e309: <unknown JavaScript object type "FixedArray">,
+    "type": 9fb0e309: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0e3f9: {
+    "kn": 9fb0e3f9: <unknown JavaScript object type "FixedArray">,
+    "kf": 9fb0e3f9: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e60a2d1: {
+    "length": 8e60a2d1: <unknown JavaScript object type "FixedArray">,
+    "parent": 8e60a2d1: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e60a1e1: {
+    "encoding": 8e60a1e1: <unknown JavaScript object type "FixedArray">,
+    "flag": 8e60a1e1: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0e4c1: {
+    "ca": 9fb0e4c1: <unknown JavaScript object type "FixedArray">,
+    "nu": 9fb0e4c1: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb14cd1: {
+    "target_defaults": 9fb14cd1: 2,
+    "variables": 9fb14cd1: <unknown JavaScript object type "FixedArray">,
+}
+property kind: "properties" array 
+object has invalid-looking property values
+9fb179d1: {
+    "constructor": 9fb179d1: 9,
+    "_writev": 9fb179d1: <unknown JavaScript object type "FixedArray">,
+}
+property kind: "properties" array 
+object has invalid-looking property values
+c08f1aa1: {
+    "filename": c08f1aa1: <couldn't read type>,
+}
+property kind: in-object 
+object has invalid-looking property values
+c08f4c59: {
+    "filename": c08f4c59: <couldn't read type>,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0e3d1: {
+    "property": 9fb0e3d1: <unknown JavaScript object type "FixedArray">,
+    "type": 9fb0e3d1: <unknown JavaScript object type "Map">,
+    "values": 9fb0e3d1: <couldn't read type>,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0e5d9: {
+    "get": 9fb0e5d9: <unknown JavaScript object type "FixedArray">,
+    "enumerable": 9fb0e5d9: <unknown JavaScript object type "Map">,
+    "configurable": 9fb0e5d9: <not a heap object>,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0b4c9: {
+    "get": 9fb0b4c9: <unknown JavaScript object type "FixedArray">,
+    "set": 9fb0b4c9: <unknown JavaScript object type "Map">,
+    "configurable": 9fb0b4c9: <not a heap object>,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0ea11: {
+    "value": 9fb0ea11: <unknown JavaScript object type "FixedArray">,
+    "writable": 9fb0ea11: <unknown JavaScript object type "Map">,
+    "configurable": 9fb0ea11: 192937986,
+    "enumerable": 9fb0ea11: <couldn't read type>,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0e1f1: {
+    "collator": 9fb0e1f1: <unknown JavaScript object type "FixedArray">,
+    "numberformat": 9fb0e1f1: <unknown JavaScript object type "Map">,
+    "dateformat": 9fb0e1f1: 243271304,
+    "breakiterator": 9fb0e1f1: 109871198,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb15659: {
+    "value": 9fb15659: <unknown JavaScript object type "FixedArray">,
+    "enumerable": 9fb15659: <unknown JavaScript object type "Map">,
+    "writable": 9fb15659: <not a heap object>,
+    "configurable": 9fb15659: 819294,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb11a59: {
+    "filename": 9fb11a59: <unknown JavaScript object type "FixedArray">,
+    "id": 9fb11a59: <unknown JavaScript object type "Map">,
+    "exports": 9fb11a59: <not a heap object>,
+    "loaded": 9fb11a59: 17596510,
+}
+property kind: in-object 
+object has invalid-looking property values
+c001283d: {
+    "version": c001283d: {},
+    "moduleLoadList": c001283d: undefined,
+    "execArgv": c001283d: <unknown JavaScript object type "Map">,
+    "features": c001283d: undefined,
+    "execPath": c001283d: 1,
+}
+property kind: "properties" array 
+object has invalid-looking property values
+9fb0e949: {
+    "collator": 9fb0e949: <unknown JavaScript object type "FixedArray">,
+    "numberformat": 9fb0e949: <unknown JavaScript object type "Map">,
+    "dateformatall": 9fb0e949: <not a heap object>,
+    "dateformatdate": 9fb0e949: 34373726,
+    "dateformattime": 9fb0e949: <not a heap object>,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb14a79: {
+    "cflags": 9fb14a79: 5,
+    "default_configuration": 9fb14a79: <unknown JavaScript object type "FixedArr
+ay">,
+    "defines": 9fb14a79: "cflags",
+    "include_dirs": 9fb14a79: 513,
+    "libraries": 9fb14a79: 2147483647,
+}
+property kind: "properties" array 
+object has invalid-looking property values
+89875f5d: {
+    "Symbol.isConcatSpreadable": 89875f5d: <unknown JavaScript object type "SeqT
+woByteString">,
+    "Symbol.hasInstance": 89875f5d: <unknown JavaScript object type "SeqTwoByteS
+tring">,
+    "Symbol.isRegExp": 89875f5d: <unknown JavaScript object type "SeqTwoByteStri
+ng">,
+    "Symbol.iterator": 89875f5d: <unknown JavaScript object type "SeqTwoByteStri
+ng">,
+    "Symbol.unscopables": 89875f5d: <unknown JavaScript object type "SeqTwoByteS
+tring">,
+    "Symbol.toStringTag": 89875f5d: <unknown JavaScript object type "SeqTwoByteS
+tring">,
+}
+property kind: dictionary 
+object has invalid-looking property values
+8e6080e9: {
+    "enumerable": 8e6080e9: <unknown JavaScript object type "FixedArray">,
+    "value": 8e6080e9: <unknown JavaScript object type "Map">,
+    "writable": 8e6080e9: <not a heap object>,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e608639: {
+    "enumerable": 8e608639: <unknown JavaScript object type "FixedArray">,
+    "value": 8e608639: <unknown JavaScript object type "Map">,
+    "writable": 8e608639: <not a heap object>,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e60abe1: {
+    "contextify": 8e60abe1: 7,
+    "natives": 8e60abe1: 0,
+    "buffer": 8e60abe1: "contextify",
+    "smalloc": 8e60abe1: 513,
+    "fs": 8e60abe1: <unknown JavaScript object type "Map">,
+    "constants": 8e60abe1: "natives",
+    "timer_wrap": 8e60abe1: 1055233,
+}
+property kind: "properties" array 
+object has invalid-looking property values
+8e60a169: {
+    "id": 8e60a169: <unknown JavaScript object type "FixedArray">,
+    "exports": 8e60a169: <unknown JavaScript object type "Map">,
+    "parent": 8e60a169: <couldn't read type>,
+    "filename": 8e60a169: 17596510,
+    "loaded": 8e60a169: <not a heap object>,
+    "children": 8e60a169: {},
+    "paths": 8e60a169: function Object,
+}
+property kind: in-object 
+object has invalid-looking property values
+8e608481: {
+    "Int8": 8e608481: <unknown JavaScript object type "FixedArray">,
+    "Uint8": 8e608481: <unknown JavaScript object type "Map">,
+    "Int16": 8e608481: <not a heap object>,
+    "Uint16": 8e608481: 17596510,
+    "Int32": 8e608481: <not a heap object>,
+    "Uint32": 8e608481: {},
+    "Float": 8e608481: function Object,
+    "Double": 8e608481: <unknown JavaScript object type "FixedArray">,
+    "Uint8Clamped": 8e608481: <unknown JavaScript object type "FixedArray">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb11dc9: {
+    "special": 9fb11dc9: <unknown JavaScript object type "FixedArray">,
+    "number": 9fb11dc9: <unknown JavaScript object type "Map">,
+    "boolean": 9fb11dc9: <couldn't read type>,
+    "undefined": 9fb11dc9: 9224295,
+    "null": 9fb11dc9: <not a heap object>,
+    "string": 9fb11dc9: function Empty,
+    "symbol": 9fb11dc9: null,
+    "date": 9fb11dc9: <unknown JavaScript object type "Map">,
+    "regexp": 9fb11dc9: <unknown JavaScript object type "FixedArray">,
+}
+property kind: in-object 
+object has invalid-looking property values
+89875f81: {
+    "StringIterator#iteratedString": 89875f81: <unknown JavaScript object type "
+SeqTwoByteString">,
+    "Promise#raw": 89875f81: <unknown JavaScript object type "SeqTwoByteString">
+,
+    "ArrayIterator#object": 89875f81: <unknown JavaScript object type "SeqTwoByt
+eString">,
+    "Promise#status": 89875f81: <unknown JavaScript object type "SeqTwoByteStrin
+g">,
+    "Promise#onReject": 89875f81: <unknown JavaScript object type "SeqTwoByteStr
+ing">,
+    "Promise#debug": 89875f81: <unknown JavaScript object type "SeqTwoByteString
+">,
+    "ArrayIterator#kind": 89875f81: <unknown JavaScript object type "SeqTwoByteS
+tring">,
+    "Promise#value": 89875f81: <unknown JavaScript object type "SeqTwoByteString
+">,
+    "Promise#onResolve": 89875f81: <unknown JavaScript object type "SeqTwoByteSt
+ring">,
+    "ArrayIterator#next": 89875f81: <unknown JavaScript object type "SeqTwoByteS
+tring">,
+    "StringIterator#next": 89875f81: <unknown JavaScript object type "SeqTwoByte
+String">,
+}
+property kind: dictionary 
+object has invalid-looking property values
+8e609ec1: {
+    "dev": 8e609ec1: <unknown JavaScript object type "FixedArray">,
+    "mode": 8e609ec1: <unknown JavaScript object type "Map">,
+    "nlink": 8e609ec1: <not a heap object>,
+    "uid": 8e609ec1: 17596510,
+    "gid": 8e609ec1: <not a heap object>,
+    "rdev": 8e609ec1: {},
+    "blksize": 8e609ec1: function Object,
+    "ino": 8e609ec1: <unknown JavaScript object type "FixedArray">,
+    "size": 8e609ec1: <unknown JavaScript object type "FixedArray">,
+    "blocks": 8e609ec1: <unknown JavaScript object type "FixedArray">,
+    "atime": 8e609ec1: <unknown JavaScript object type "FixedArray">,
+    "mtime": 8e609ec1: <unknown JavaScript object type "Map">,
+    "ctime": 8e609ec1: <not a heap object>,
+    "birthtime": 8e609ec1: 9207902,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb17f99: {
+    "events": 9fb17f99: 15,
+    "util": 9fb17f99: 0,
+    "buffer": 9fb17f99: "events",
+    "path": 9fb17f99: 513,
+    "module": 9fb17f99: <unknown JavaScript object type "Map">,
+    "vm": 9fb17f99: "util",
+    "assert": 9fb17f99: 1054209,
+    "fs": 9fb17f99: <unknown JavaScript object type "Map">,
+    "stream": 9fb17f99: "buffer",
+    "_stream_readable": 9fb17f99: 2109953,
+    "_stream_writable": 9fb17f99: <unknown JavaScript object type "Map">,
+    "_stream_duplex": 9fb17f99: "path",
+    "_stream_transform": 9fb17f99: 3149313,
+    "_stream_passthrough": 9fb17f99: <unknown JavaScript object type "Map">,
+    "smalloc": 9fb17f99: "module",
+}
+property kind: "properties" array 
+object has invalid-looking property values
+8e6082c9: {
+    "value_": 8e6082c9: <unknown JavaScript object type "FixedArray">,
+    "hasValue_": 8e6082c9: <unknown JavaScript object type "Map">,
+    "writable_": 8e6082c9: <not a heap object>,
+    "hasWritable_": 8e6082c9: 17596510,
+    "enumerable_": 8e6082c9: <not a heap object>,
+    "hasEnumerable_": 8e6082c9: {},
+    "configurable_": 8e6082c9: function Object,
+    "hasConfigurable_": 8e6082c9: <unknown JavaScript object type "FixedArray">,
+    "get_": 8e6082c9: <unknown JavaScript object type "FixedArray">,
+    "hasGetter_": 8e6082c9: <unknown JavaScript object type "FixedArray">,
+    "set_": 8e6082c9: <unknown JavaScript object type "FixedArray">,
+    "hasSetter_": 8e6082c9: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+9fb0b749: {
+    "value_": 9fb0b749: <unknown JavaScript object type "FixedArray">,
+    "hasValue_": 9fb0b749: <unknown JavaScript object type "Map">,
+    "writable_": 9fb0b749: <not a heap object>,
+    "hasWritable_": 9fb0b749: 819294,
+    "enumerable_": 9fb0b749: <not a heap object>,
+    "hasEnumerable_": 9fb0b749: {
+        "name": 9fb0b749: "Error",
+        "message": 9fb0b749: "",
+    },
+    "configurable_": 9fb0b749: function Error,
+    "hasConfigurable_": 9fb0b749: undefined,
+    "get_": 9fb0b749: <unknown JavaScript object type "FixedArray">,
+    "hasGetter_": 9fb0b749: <unknown JavaScript object type "FixedArray">,
+    "set_": 9fb0b749: <unknown JavaScript object type "FixedArray">,
+    "hasSetter_": 9fb0b749: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values

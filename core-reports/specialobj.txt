@@ -1,0 +1,4 @@
+#
+# Finds and prints the object we've deliberately injected into some core files.
+#
+::findjsobjects -p obj1smalldate | ::findjsobjects | ::jsprint -d4 -bv

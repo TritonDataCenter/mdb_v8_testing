@@ -1,0 +1,5 @@
+#
+# Prints the full contents of all objects that mdb_v8 tagged as being garbage.
+# We'll look through these by hand to find stuff that looks like non-garbage.
+#
+::findjsobjects -a -k badprop | ::findjsobjects | ::jsprint -b -v -N 0t160

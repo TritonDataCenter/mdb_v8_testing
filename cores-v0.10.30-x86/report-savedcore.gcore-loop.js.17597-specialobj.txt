@@ -1,0 +1,47 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+9b114ce9: {
+    "obj1smalldate": 9b114ce9: 33570815,
+    "obj2bigdate": 9b114ce9: 0,
+    "obj3null": 9b114ce9: 0,
+    "obj4undef": 9b114ce9: 0,
+    "obj5num": 9b114ce9: 0,
+    "obj6obj": 9b114ce9: 0,
+    "obj8str": 9b114ce9: 0,
+}
+property kind: in-object 
+ba781a6d: {
+    "obj1smalldate": ba781a6d: 1430174624093 (2015 Apr 27 15:43:44),
+    "obj2bigdate": ba781a6d: 0 (1969 Dec 31 16:00:00),
+    "obj3null": ba781a6d: null,
+    "obj4undef": ba781a6d: undefined,
+    "obj5num": ba781a6d: 5,
+    "obj6obj": ba781a6d: {
+        "obj7arr": ba781a6d: [
+            ba781a6d: 1,
+            ba781a6d: 7,
+            ba781a6d: 7,
+            ba781a6d: 6,
+        ],
+    },
+    "obj8str": ba781a6d: "it was the blurst of times!",
+}
+property kind: in-object 
+ba7817f1: {
+    "obj1smalldate": ba7817f1: undefined,
+    "obj2bigdate": ba7817f1: undefined,
+    "obj3null": ba7817f1: null,
+    "obj4undef": ba7817f1: undefined,
+    "obj5num": ba7817f1: 5,
+    "obj6obj": ba7817f1: {
+        "obj7arr": ba7817f1: [
+            ba7817f1: 1,
+            ba7817f1: 7,
+            ba7817f1: 7,
+            ba7817f1: 6,
+        ],
+    },
+    "obj8str": ba7817f1: "it was the blurst of times!",
+}
+property kind: in-object 

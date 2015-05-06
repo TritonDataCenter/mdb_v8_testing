@@ -1,0 +1,4247 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+bd32d20d: {}
+bd3154a9: {}
+bd309b31: {}
+ad71f2d9: {}
+bd3254e1: {}
+bd31a321: {}
+bd317051: {}
+property kind: dictionary 
+bd317371: {}
+property kind: dictionary 
+bd3171b9: {}
+property kind: dictionary 
+ad715901: []
+ad780031: []
+ad780011: []
+ad77fe81: []
+ad77fb61: [
+    ad77fb61: hole,
+    ad77fb61: hole,
+    ad77fb61: hole,
+    ad77fb61: hole,
+]
+ad77fa6d: [
+    ad77fa6d: hole,
+    ad77fa6d: hole,
+    ad77fa6d: hole,
+    ad77fa6d: hole,
+]
+ad77f869: []
+ad77f859: []
+ad77db51: []
+ad74b359: []
+ad74af15: [
+    ad74af15: hole,
+    ad74af15: hole,
+    ad74af15: hole,
+    ad74af15: hole,
+]
+ad74a9fd: [
+    ad74a9fd: hole,
+    ad74a9fd: hole,
+    ad74a9fd: hole,
+    ad74a9fd: hole,
+]
+ad74a891: [
+    ad74a891: hole,
+    ad74a891: hole,
+    ad74a891: hole,
+    ad74a891: hole,
+]
+ad74a6d5: []
+ad74a449: []
+ad74a0c9: []
+ad749771: []
+ad749761: []
+ad749751: []
+ad749741: []
+ad7451b9: []
+ad73fa45: []
+ad73fa35: []
+ad73e289: []
+ad73e211: []
+ad73e1a5: []
+ad73e0a9: []
+ad71f1a9: []
+ad71c391: []
+ad71c381: []
+ad71c2b5: [
+    ad71c2b5: hole,
+    ad71c2b5: hole,
+    ad71c2b5: hole,
+    ad71c2b5: hole,
+]
+ad718725: [
+    ad718725: hole,
+    ad718725: hole,
+    ad718725: hole,
+    ad718725: hole,
+]
+ad717bb5: []
+8f9099e5: {}
+bd30a355: {}
+bd30a2bd: {}
+bd3093cd: {}
+ad77f719: {}
+ad77f70d: {}
+ad77dd15: {}
+ad77dd09: {}
+ad77dcfd: {}
+ad77d13d: {}
+ad77ce1d: {}
+ad77cb79: {}
+ad77c57d: {}
+ad77c571: {}
+ad77c3f5: {}
+ad77c229: {}
+ad77af01: {}
+ad77a6d5: {}
+ad77a2ed: {}
+ad778379: {}
+ad77808d: {}
+ad77755d: {}
+ad7772d5: {}
+ad77415d: {}
+ad773c45: {}
+ad76cc25: {}
+ad76ca49: {}
+ad76ba65: {}
+ad759599: {}
+ad759439: {}
+ad759411: {}
+ad759351: {}
+ad759329: {}
+ad759305: {}
+ad7592dd: {}
+ad759219: {}
+ad7591f1: {}
+ad759199: {}
+ad759171: {}
+ad759119: {}
+ad7590f1: {}
+ad759099: {}
+ad759071: {}
+ad759019: {}
+ad758ff1: {}
+ad758e39: {}
+ad758e11: {}
+ad758db9: {}
+ad758d91: {}
+ad758d39: {}
+ad758d11: {}
+ad758cb9: {}
+ad758c91: {}
+ad758c39: {}
+ad758c11: {}
+ad758bb9: {}
+ad758b91: {}
+ad758a45: {}
+ad758a1d: {}
+ad7589c5: {}
+ad75899d: {}
+ad758945: {}
+ad75891d: {}
+ad7588c5: {}
+ad75889d: {}
+ad758799: {}
+ad758771: {}
+ad758719: {}
+ad7586f1: {}
+ad758699: {}
+ad758671: {}
+ad75859d: {}
+ad758575: {}
+ad75851d: {}
+ad7584f5: {}
+ad758445: {}
+ad75841d: {}
+ad758385: {}
+ad75835d: {}
+ad7582d1: {}
+ad7582a9: {}
+ad758229: {}
+ad758201: {}
+ad758189: {}
+ad758139: {}
+ad758111: {}
+ad7580ed: {}
+ad74b569: {}
+ad749a4d: {}
+ad74989d: {}
+ad749891: {}
+ad749885: {}
+ad749705: {}
+ad7496f9: {}
+ad7496d1: {}
+ad74962d: {}
+ad745455: {}
+ad7401cd: {}
+ad7401c1: {}
+ad73e40d: {}
+ad73e34d: {}
+ad73e0e1: {}
+ad73ae1d: {}
+ad73a565: {}
+ad73440d: {}
+ad7315f5: {}
+ad7314e9: {}
+ad7314c1: {}
+ad731469: {}
+ad73138d: {}
+ad731365: {}
+ad731281: {}
+ad731259: {}
+ad7310dd: {}
+ad7310b5: {}
+ad731065: {}
+ad73103d: {}
+ad730e8d: {}
+ad730e65: {}
+ad730e15: {}
+ad730ded: {}
+ad730d9d: {}
+ad730d75: {}
+ad730d25: {}
+ad730cfd: {}
+ad730cad: {}
+ad730c85: {}
+ad730c35: {}
+ad730c0d: {}
+ad730ac9: {}
+ad730aa1: {}
+ad730a51: {}
+ad730a29: {}
+ad7309d9: {}
+ad7309b1: {}
+ad730961: {}
+ad730939: {}
+ad73083d: {}
+ad730815: {}
+ad7307c5: {}
+ad73079d: {}
+ad73074d: {}
+ad730725: {}
+ad730659: {}
+ad730631: {}
+ad7305e1: {}
+ad7305b9: {}
+ad730511: {}
+ad7304e9: {}
+ad730459: {}
+ad730431: {}
+ad7303ad: {}
+ad730385: {}
+ad73030d: {}
+ad7302e5: {}
+ad73024d: {}
+ad730225: {}
+ad730201: {}
+ad7301c9: {}
+ad72fcb1: {}
+ad729311: {}
+ad728f85: {}
+ad726b0d: {}
+ad726981: {}
+ad726799: {}
+ad725519: {}
+ad725209: {}
+ad7251e1: {}
+ad72515d: {}
+ad725135: {}
+ad7250bd: {}
+ad725095: {}
+ad725015: {}
+ad724fed: {}
+ad724fc9: {}
+ad724fbd: {}
+ad724f95: {}
+ad724f55: {}
+ad724f2d: {}
+ad724e9d: {}
+ad724e75: {}
+ad724e05: {}
+ad724ddd: {}
+ad724d61: {}
+ad724d39: {}
+ad724bdd: {}
+ad724bb5: {}
+ad724b89: {}
+ad724619: {}
+ad7245f1: {}
+ad724311: {}
+ad7242e9: {}
+ad7242a1: {}
+ad724279: {}
+ad724231: {}
+ad724209: {}
+ad7241c1: {}
+ad724199: {}
+ad724151: {}
+ad724129: {}
+ad7240e1: {}
+ad7240b9: {}
+ad724071: {}
+ad724049: {}
+ad723031: {}
+ad723009: {}
+ad722b6d: {}
+ad722b45: {}
+ad722939: {}
+ad722911: {}
+ad722705: {}
+ad7226dd: {}
+ad7224d1: {}
+ad7224a9: {}
+ad72210d: {}
+ad7220e5: {}
+ad721ed9: {}
+ad721eb1: {}
+ad721c9d: {}
+ad721c75: {}
+ad721a51: {}
+ad721a29: {}
+ad721385: {}
+ad72135d: {}
+ad721165: {}
+ad72113d: {}
+ad721099: {}
+ad721019: {}
+ad720fc9: {}
+ad720fa1: {}
+ad720f49: {}
+ad720f21: {}
+ad720ec9: {}
+ad720ea1: {}
+ad720e49: {}
+ad720e21: {}
+ad720cf1: {}
+ad720cc9: {}
+ad720c71: {}
+ad720c49: {}
+ad720bf1: {}
+ad720bc9: {}
+ad720939: {}
+ad720911: {}
+ad7208b9: {}
+ad720891: {}
+ad720839: {}
+ad720811: {}
+ad7207b9: {}
+ad720791: {}
+ad720739: {}
+ad720711: {}
+ad7206b9: {}
+ad720691: {}
+ad720639: {}
+ad720611: {}
+ad7205b9: {}
+ad720591: {}
+ad720539: {}
+ad720511: {}
+ad7204b9: {}
+ad720491: {}
+ad7202b5: {}
+ad72028d: {}
+ad720235: {}
+ad72020d: {}
+ad7201b5: {}
+ad72018d: {}
+ad720135: {}
+ad72010d: {}
+ad7200b5: {}
+ad72008d: {}
+ad720035: {}
+ad72000d: {}
+ad71ff51: {}
+ad71ff29: {}
+ad71fdc5: {}
+ad71fd9d: {}
+ad71f2a1: {}
+ad71f279: {}
+ad71f20d: {}
+ad71e971: {}
+ad71e965: {}
+ad71e92d: {}
+ad71c2dd: {}
+ad71a2a9: {}
+ad71a29d: {}
+ad7198bd: {}
+ad717ee1: {}
+ad717ed5: {}
+ad717da1: {}
+ad717d99: {}
+ad71132d: {}
+ad7112f5: {}
+ad7112cd: {}
+ad7112a5: {}
+ad710fad: {}
+8f914acd: {}
+8f9145bd: {}
+8f91452d: {}
+8f9144e5: {}
+8f91437d: {}
+8f9141cd: {}
+8f91413d: {}
+8f913885: {}
+8f9137f5: {}
+8f9136b1: {}
+8f913645: {}
+8f913591: {}
+8f913471: {}
+8f913375: {}
+8f91320d: {}
+8f912d21: {}
+8f912cb5: {}
+8f9113d1: {}
+8f911365: {}
+8f9108b5: {}
+8f910165: {}
+8f90fd99: {}
+8f90f8d1: {}
+8f90f5dd: {}
+8f90dfed: {}
+8f90dfa5: {}
+8f90df39: {}
+8f90dcb1: {}
+8f90d8e5: {}
+8f90d7e9: {}
+8f90c0b5: {}
+ad711295: {
+    "length": ad711295: undefined,
+}
+property kind: in-object 
+ad749639: {
+    "/home/dap/node-testing/test-programs/explicit-abort.js": ad749639: [...],
+}
+property kind: dictionary 
+ad7496dd: {
+    "{"request":"/home/dap/node-testing/test-programs/explicit-abort.js","paths"
+:[""]}": ad7496dd: "/home/dap/node-testing/test-programs/explicit-abort.js",
+}
+property kind: dictionary 
+ad73e049: {
+    "target_defaults": ad73e049: [...],
+    "variables": ad73e049: [...],
+}
+property kind: "properties" array 
+ad71b365: {
+    "name": ad71b365: "Error",
+    "message": ad71b365: "",
+}
+property kind: in-object 
+ad7292a5: {
+    "value": ad7292a5: undefined,
+}
+property kind: in-object 
+ad7292e1: {
+    "value": ad7292e1: function process,
+}
+property kind: in-object 
+8f90ddd1: {
+    "usingDomains": 8f90ddd1: 2,
+}
+property kind: "properties" array 
+ad726b19: {
+    "usingDomains": ad726b19: false,
+}
+property kind: "properties" array 
+ad781055: {
+    "get": ad781055: undefined,
+}
+property kind: in-object 
+ad781091: {
+    "get": ad781091: function <anonymous> (as Object.defineProperty.get),
+}
+property kind: in-object 
+ad73f375: {
+    "": ad73f375: undefined,
+}
+property kind: dictionary 
+ad73f521: {
+    "": ad73f521: [...],
+}
+property kind: dictionary 
+8f9101f5: {
+    "INSPECT_MAX_BYTES": 8f9101f5: 3,
+}
+property kind: "properties" array 
+ad729eed: {
+    "INSPECT_MAX_BYTES": ad729eed: 50,
+}
+property kind: "properties" array 
+ad780bc5: {
+    "length": ad780bc5: 17,
+    "parent": ad780bc5: [...],
+    "offset": ad780bc5: 0,
+}
+property kind: in-object 
+ad71ad71: {
+    "receiver": ad71ad71: undefined,
+    "fun": ad71ad71: undefined,
+    "pos": ad71ad71: undefined,
+}
+property kind: "properties" array 
+ad71c3a1: {
+    "stack": ad71c3a1: undefined,
+    "arguments": ad71c3a1: [...],
+    "type": ad71c3a1: "stack_overflow",
+}
+property kind: in-object 
+ad71c715: {
+    "time": ad71c715: undefined,
+    "string": ad71c715: null,
+}
+property kind: in-object 
+ad71c78d: {
+    "time": ad71c78d: NaN,
+    "string": ad71c78d: null,
+}
+property kind: in-object 
+ad708081: {
+    "0": ad708081: 0,
+    "1": ad708081: undefined,
+}
+property kind: numeric-named 
+ad71044d: {
+    "0": ad71044d: 0,
+    "1": ad71044d: undefined,
+}
+property kind: numeric-named 
+ad77b44d: {
+    "enumerable": ad77b44d: false,
+    "value": ad77b44d: undefined,
+}
+property kind: in-object 
+ad77b4c5: {
+    "enumerable": ad77b4c5: false,
+    "value": ad77b4c5: function stringToFlags,
+}
+property kind: in-object 
+ad7808f1: {
+    "encoding": ad7808f1: undefined,
+    "flag": ad7808f1: "r",
+}
+property kind: in-object 
+ad780969: {
+    "encoding": ad780969: "utf8",
+    "flag": ad780969: "r",
+}
+property kind: in-object 
+ad74ae39: {
+    "request": ad74ae39: undefined,
+    "paths": ad74ae39: undefined,
+}
+property kind: in-object 
+ad74aeb1: {
+    "request": ad74aeb1: "/home/dap/node-testing/test-programs/explicit-abort.js
+",
+    "paths": ad74aeb1: [...],
+}
+property kind: in-object 
+8f911071: {
+    "sep": 8f911071: 12,
+    "delimiter": 8f911071: 0,
+}
+property kind: "properties" array 
+ad740709: {
+    "sep": ad740709: "/",
+    "delimiter": ad740709: ":",
+}
+property kind: "properties" array 
+ad718a65: {
+    "elements": ad718a65: undefined,
+    "special_string": ad718a65: undefined,
+    "add": ad718a65: function <anonymous> (as c),
+    "addSpecialSlice": ad718a65: function <anonymous> (as a),
+    "generate": ad718a65: function <anonymous> (as <anon>),
+}
+property kind: "properties" array 
+ad73e089: {
+    "cflags": ad73e089: [...],
+    "default_configuration": ad73e089: "Release",
+    "defines": ad73e089: [...],
+    "include_dirs": ad73e089: [...],
+    "libraries": ad73e089: [...],
+}
+property kind: "properties" array 
+ad71aa11: {
+    "script": ad71aa11: undefined,
+    "from_line": ad71aa11: undefined,
+    "to_line": ad71aa11: undefined,
+    "from_position": ad71aa11: undefined,
+    "to_position": ad71aa11: undefined,
+}
+property kind: "properties" array 
+ad71a6f5: {
+    "script": ad71a6f5: undefined,
+    "position": ad71a6f5: undefined,
+    "line": ad71a6f5: undefined,
+    "column": ad71a6f5: undefined,
+    "start": ad71a6f5: undefined,
+    "end": ad71a6f5: undefined,
+}
+property kind: "properties" array 
+ad71119d: {
+    "length": ad71119d: undefined,
+    "callee": ad71119d: undefined,
+}
+property kind: in-object 
+ad780d91: {
+    "length": ad780d91: 4,
+    "callee": ad780d91: function <anonymous> (as fs.readSync),
+}
+property kind: numeric-named in-object 
+ad71124d: {
+    "length": ad71124d: undefined,
+    "callee": ad71124d: undefined,
+}
+property kind: numeric-named in-object 
+8f9149f5: {
+    "length": 8f9149f5: 2,
+    "used": 8f9149f5: 0,
+}
+property kind: "properties" array 
+ad780c51: {
+    "length": ad780c51: 8192,
+    "used": ad780c51: 24,
+}
+property kind: "properties" array 
+ad73b171: {
+    "length": ad73b171: 0,
+    "used": ad73b171: undefined,
+}
+property kind: "properties" array 
+bd30a1e9: {
+    "source": bd30a1e9: undefined,
+    "name": bd30a1e9: undefined,
+    "line_ends": bd30a1e9: undefined,
+    "line_offset": bd30a1e9: undefined,
+    "column_offset": bd30a1e9: undefined,
+    "cachedNameOrSourceURL": bd30a1e9: undefined,
+    "hasCachedNameOrSourceURL": bd30a1e9: undefined,
+}
+property kind: "properties" array 
+ad77f69d: {
+    "id": ad77f69d: ".",
+    "exports": ad77f69d: [...],
+    "parent": ad77f69d: null,
+    "filename": ad77f69d: "/home/dap/node-testing/test-programs/explicit-abort.j
+s",
+    "loaded": ad77f69d: false,
+    "children": ad77f69d: [...],
+    "paths": ad77f69d: [...],
+}
+property kind: in-object 
+ad749e15: {
+    "0": ad749e15: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/node",
+    "1": ad749e15: "..",
+    "2": ad749e15: "..",
+    "3": ad749e15: "lib",
+    "4": ad749e15: "node",
+    "length": ad749e15: 5,
+    "callee": ad749e15: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ad7198e5: {
+    "E": ad7198e5: 2.718282e+00,
+    "LN10": ad7198e5: 2.302585e+00,
+    "LN2": ad7198e5: 6.931472e-01,
+    "LOG2E": ad7198e5: 1.442695e+00,
+    "LOG10E": ad7198e5: 4.342945e-01,
+    "PI": ad7198e5: 3.141593e+00,
+    "SQRT1_2": ad7198e5: 7.071068e-01,
+    "SQRT2": ad7198e5: 1.414214e+00,
+}
+property kind: in-object 
+ad7450bd: [
+    ad7450bd: "",
+    ad7450bd: "home",
+    ad7450bd: "dap",
+    ad7450bd: "node-testing",
+    ad7450bd: "cores-v0.10.30-x86",
+    ad7450bd: "..",
+    ad7450bd: "test-programs",
+    ad7450bd: "explicit-abort.js",
+    ad7450bd: "",
+]
+ad744b99: {
+    "0": ad744b99: "../test-programs/explicit-abort.js",
+    "length": ad744b99: 1,
+    "callee": ad744b99: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ad77fcc5: {
+    "0": ad77fcc5: "/home/dap/node-testing/test-programs",
+    "length": ad77fcc5: 1,
+    "callee": ad77fcc5: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ad77d9ad: {
+    "0": ad77d9ad: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    "length": ad77d9ad: 1,
+    "callee": ad77d9ad: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+8f90ab0d: {
+    "version": 8f90ab0d: 11,
+    "moduleLoadList": 8f90ab0d: 0,
+    "versions": 8f90ab0d: "title",
+    "arch": 8f90ab0d: 2359427,
+    "platform": 8f90ab0d: <unknown JavaScript object type "AccessorInfo">,
+    "argv": 8f90ab0d: "version",
+    "execArgv": 8f90ab0d: 1048833,
+    "env": 8f90ab0d: 0,
+    "pid": 8f90ab0d: "moduleLoadList",
+    "features": 8f90ab0d: 262529,
+}
+property kind: "properties" array 
+ad715c01: [
+    ad715c01: "isNaN",
+    ad715c01: function isNaN,
+    ad715c01: "isFinite",
+    ad715c01: function isFinite,
+    ad715c01: "parseInt",
+    ad715c01: function parseInt,
+    ad715c01: "parseFloat",
+    ad715c01: function parseFloat,
+    ad715c01: "eval",
+    ad715c01: function eval,
+]
+8f912f3d: {
+    "evals": 8f912f3d: 5,
+    "natives": 8f912f3d: 0,
+    "buffer": 8f912f3d: "evals",
+    "fs": 8f912f3d: 786561,
+    "constants": 8f912f3d: 0,
+}
+property kind: "properties" array 
+ad724afd: {
+    "evals": ad724afd: [...],
+    "natives": ad724afd: [...],
+    "buffer": ad724afd: [...],
+    "fs": ad724afd: [...],
+    "constants": ad724afd: [...],
+}
+property kind: "properties" array 
+ad7498a9: {
+    "/home/dap/node-testing/test-programs": ad7498a9: "/home/dap/node-testing/te
+st-programs",
+    "/home/dap": ad7498a9: "/home/dap",
+    "/home": ad7498a9: "/home",
+    "/home/dap/node-testing": ad7498a9: "/home/dap/node-testing",
+    "/home/dap/node-testing/test-programs/explicit-abort.js": ad7498a9: "/home/d
+ap/node-testing/test-programs/explicit-abort.js",
+}
+property kind: dictionary 
+ad77dd21: {
+    "/home/dap/node-testing/test-programs": ad77dd21: true,
+    "/home/dap": ad77dd21: true,
+    "/home": ad77dd21: true,
+    "/home/dap/node-testing": ad77dd21: true,
+    "/home/dap/node-testing/test-programs/explicit-abort.js": ad77dd21: true,
+}
+property kind: dictionary 
+8f90ab55: {
+    "version": 8f90ab55: 7,
+    "moduleLoadList": 8f90ab55: "title",
+    "versions": 8f90ab55: "version",
+    "arch": 8f90ab55: "moduleLoadList",
+    "platform": 8f90ab55: 2359427,
+    "argv": 8f90ab55: 1048961,
+    "execArgv": 8f90ab55: 3145985,
+    "env": 8f90ab55: 13,
+    "pid": 8f90ab55: 0,
+    "features": 8f90ab55: <unknown JavaScript object type "AccessorInfo">,
+    "execPath": 8f90ab55: 2,
+}
+property kind: "properties" array 
+8f90aae9: {
+    "debug": 8f90aae9: 6,
+    "uv": 8f90aae9: 0,
+    "ipv6": 8f90aae9: "debug",
+    "tls_npn": 8f90aae9: 1048705,
+    "tls_sni": 8f90aae9: 0,
+    "tls": 8f90aae9: "uv",
+}
+property kind: "properties" array 
+ad71f3c9: {
+    "debug": ad71f3c9: false,
+    "uv": ad71f3c9: true,
+    "ipv6": ad71f3c9: true,
+    "tls_npn": ad71f3c9: true,
+    "tls_sni": ad71f3c9: true,
+    "tls": ad71f3c9: true,
+}
+property kind: "properties" array 
+ad74a311: {
+    "0": ad74a311: "/home/dap",
+    "1": ad74a311: ".node_libraries",
+    "length": ad74a311: 2,
+    "callee": ad74a311: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ad74b1b1: {
+    "0": ad74b1b1: "",
+    "1": ad74b1b1: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    "length": ad74b1b1: 2,
+    "callee": ad74b1b1: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ad74a5a1: {
+    "0": ad74a5a1: "/home/dap",
+    "1": ad74a5a1: ".node_modules",
+    "length": ad74a5a1: 2,
+    "callee": ad74a5a1: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+8f90dadd: {
+    "_debugger": 8f90dadd: 13,
+    "_linklist": 8f90dadd: 0,
+    "assert": 8f90dadd: "_debugger",
+    "buffer": 8f90dadd: 129,
+    "child_process": 8f90dadd: 0,
+    "console": 8f90dadd: "_linklist",
+    "constants": 8f90dadd: 262401,
+    "crypto": 8f90dadd: 1,
+    "cluster": 8f90dadd: "assert",
+    "dgram": 8f90dadd: 2883969,
+    "dns": 8f90dadd: 2,
+    "domain": 8f90dadd: "buffer",
+    "events": 8f90dadd: 1049089,
+}
+property kind: "properties" array 
+8f912f19: {
+    "O_RDONLY": 8f912f19: 13,
+    "O_WRONLY": 8f912f19: 0,
+    "O_RDWR": 8f912f19: "O_RDONLY",
+    "S_IFMT": 8f912f19: 1048745,
+    "S_IFREG": 8f912f19: 0,
+    "S_IFDIR": 8f912f19: "O_WRONLY",
+    "S_IFCHR": 8f912f19: 1311017,
+    "S_IFBLK": 8f912f19: 1,
+    "S_IFIFO": 8f912f19: "O_RDWR",
+    "S_IFLNK": 8f912f19: 3146153,
+    "S_IFSOCK": 8f912f19: 2,
+    "O_CREAT": 8f912f19: "S_IFMT",
+    "O_EXCL": 8f912f19: 2359849,
+}
+property kind: "properties" array 
+8f910bcd: {
+    "clang": 8f910bcd: 13,
+    "gcc_version": 8f910bcd: 0,
+    "host_arch": 8f910bcd: "clang",
+    "node_install_npm": 8f910bcd: 1572993,
+    "node_prefix": 8f910bcd: 0,
+    "node_shared_cares": 8f910bcd: "gcc_version",
+    "node_shared_http_parser": 8f910bcd: 1048833,
+    "node_shared_libuv": 8f910bcd: 1,
+    "node_shared_openssl": 8f910bcd: "host_arch",
+    "node_shared_v8": 8f910bcd: 2097537,
+    "node_shared_zlib": 8f910bcd: 2,
+    "node_tag": 8f910bcd: "node_install_npm",
+    "node_unsafe_optimizations": 8f910bcd: 513,
+}
+property kind: "properties" array 
+ad724d89: {
+    "0": ad724d89: 12,
+    "1": ad724d89: "createContext",
+    "2": ad724d89: function <anonymous> (as <anon>),
+    "3": ad724d89: 0,
+    "4": ad724d89: "runInContext",
+    "5": ad724d89: function <anonymous> (as <anon>),
+    "6": ad724d89: 0,
+    "7": ad724d89: "runInThisContext",
+    "8": ad724d89: function <anonymous> (as <anon>),
+    "9": ad724d89: 0,
+    "10": ad724d89: "runInNewContext",
+    "11": ad724d89: function <anonymous> (as <anon>),
+    "12": ad724d89: 0,
+    "13": ad724d89: undefined,
+    "14": ad724d89: undefined,
+    "15": ad724d89: undefined,
+}
+property kind: numeric-named 
+ad718911: [
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+    ad718911: hole,
+]
+8f90a885: {
+    "http_parser": 8f90a885: 8,
+    "node": 8f90a885: 0,
+    "v8": 8f90a885: "http_parser",
+    "ares": 8f90a885: 786561,
+    "uv": 8f90a885: 0,
+    "zlib": 8f90a885: "node",
+    "modules": 8f90a885: 1048833,
+    "openssl": 8f90a885: 1,
+}
+property kind: "properties" array 
+ad71ec75: {
+    "http_parser": ad71ec75: "1.0",
+    "node": ad71ec75: "0.10.30",
+    "v8": ad71ec75: "3.14.5.9",
+    "ares": ad71ec75: "1.9.0-DEV",
+    "uv": ad71ec75: "0.10.28",
+    "zlib": ad71ec75: "1.2.3",
+    "modules": ad71ec75: "11",
+    "openssl": ad71ec75: "1.0.1h",
+}
+property kind: "properties" array 
+ad7397c5: {
+    "special": ad7397c5: "cyan",
+    "number": ad7397c5: "yellow",
+    "boolean": ad7397c5: "yellow",
+    "undefined": ad7397c5: "grey",
+    "null": ad7397c5: "bold",
+    "string": ad7397c5: "green",
+    "date": ad7397c5: "magenta",
+    "regexp": ad7397c5: "red",
+}
+property kind: in-object 
+ad7399fd: {
+    "special": ad7399fd: "cyan",
+    "number": ad7399fd: "yellow",
+    "boolean": ad7399fd: "yellow",
+    "undefined": ad7399fd: "grey",
+    "null": ad7399fd: "bold",
+    "string": ad7399fd: "green",
+    "date": ad7399fd: "magenta",
+    "regexp": ad7399fd: "red",
+}
+property kind: in-object 
+ad710939: {
+    "constructor": ad710939: function Object,
+}
+property kind: "properties" array 
+ad77d111: {
+    "constructor": ad77d111: [...],
+}
+property kind: in-object 
+ad77cdf1: {
+    "constructor": ad77cdf1: [...],
+}
+property kind: in-object 
+ad77cb4d: {
+    "constructor": ad77cb4d: [...],
+}
+property kind: in-object 
+ad77c3c9: {
+    "constructor": ad77c3c9: [...],
+}
+property kind: in-object 
+ad77c1fd: {
+    "constructor": ad77c1fd: [...],
+}
+property kind: in-object 
+ad77aed5: {
+    "constructor": ad77aed5: [...],
+}
+property kind: in-object 
+ad77a2c1: {
+    "constructor": ad77a2c1: [...],
+}
+property kind: in-object 
+ad778061: {
+    "constructor": ad778061: [...],
+}
+property kind: in-object 
+ad7772a9: {
+    "constructor": ad7772a9: [...],
+}
+property kind: in-object 
+ad773c19: {
+    "constructor": ad773c19: [...],
+}
+property kind: in-object 
+ad76ca0d: {
+    "constructor": ad76ca0d: [...],
+}
+property kind: in-object 
+ad73a3ed: {
+    "constructor": ad73a3ed: [...],
+}
+property kind: in-object 
+ad73a3dd: {
+    "constructor": ad73a3dd: undefined,
+}
+property kind: in-object 
+ad729289: {
+    "constructor": ad729289: [...],
+}
+property kind: in-object 
+ad72924d: {
+    "constructor": ad72924d: undefined,
+}
+property kind: in-object 
+ad71ec09: [
+    ad71ec09: "Binding evals",
+    ad71ec09: "Binding natives",
+    ad71ec09: "NativeModule events",
+    ad71ec09: "NativeModule buffer",
+    ad71ec09: "Binding buffer",
+    ad71ec09: "NativeModule assert",
+    ad71ec09: "NativeModule util",
+    ad71ec09: "NativeModule path",
+    ad71ec09: "NativeModule module",
+    ad71ec09: "NativeModule fs",
+    ad71ec09: "Binding fs",
+    ad71ec09: "Binding constants",
+    ad71ec09: "NativeModule stream",
+    ad71ec09: "NativeModule _stream_readable",
+    ad71ec09: "NativeModule _stream_writable",
+    ad71ec09: "NativeModule _stream_duplex",
+    ad71ec09: "NativeModule _stream_transform",
+    ad71ec09: "NativeModule _stream_passthrough",
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+    ad71ec09: hole,
+]
+ad716b05: [
+    ad716b05: "toString",
+    ad716b05: function toString,
+    ad716b05: "toLocaleString",
+    ad716b05: function toLocaleString,
+    ad716b05: "valueOf",
+    ad716b05: function valueOf,
+    ad716b05: "hasOwnProperty",
+    ad716b05: function hasOwnProperty,
+    ad716b05: "isPrototypeOf",
+    ad716b05: function isPrototypeOf,
+    ad716b05: "propertyIsEnumerable",
+    ad716b05: function propertyIsEnumerable,
+    ad716b05: "__defineGetter__",
+    ad716b05: function __defineGetter__,
+    ad716b05: "__lookupGetter__",
+    ad716b05: function __lookupGetter__,
+    ad716b05: "__defineSetter__",
+    ad716b05: function __defineSetter__,
+    ad716b05: "__lookupSetter__",
+    ad716b05: function __lookupSetter__,
+]
+ad73e3c5: {
+    "node_shared_zlib": ad73e3c5: false,
+    "node_use_openssl": ad73e3c5: true,
+    "node_shared_cares": ad73e3c5: false,
+    "node_install_npm": ad73e3c5: true,
+    "node_prefix": ad73e3c5: "/",
+    "python": ad73e3c5: "/opt/local/bin/python2.7",
+    "node_use_perfctr": ad73e3c5: false,
+    "node_shared_v8": ad73e3c5: false,
+    "node_shared_libuv": ad73e3c5: false,
+    "node_shared_http_parser": ad73e3c5: false,
+    "host_arch": ad73e3c5: "ia32",
+    "v8_use_snapshot": ad73e3c5: false,
+    "v8_enable_gdbjit": ad73e3c5: 0,
+    "node_shared_openssl": ad73e3c5: false,
+    "node_tag": ad73e3c5: "",
+    "target_arch": ad73e3c5: "ia32",
+    "gcc_version": ad73e3c5: 47,
+    "node_unsafe_optimizations": ad73e3c5: 0,
+    "node_use_etw": ad73e3c5: false,
+    "node_use_dtrace": ad73e3c5: true,
+    "clang": ad73e3c5: 0,
+    "want_separate_host_toolset": ad73e3c5: 0,
+    "v8_no_strict_aliasing": ad73e3c5: 1,
+}
+property kind: dictionary 
+ad71c885: [
+    ad71c885: hole,
+    ad71c885: hole,
+    ad71c885: hole,
+    ad71c885: hole,
+    ad71c885: hole,
+    ad71c885: hole,
+    ad71c885: hole,
+    ad71c885: hole,
+]
+ad74aeed: [
+    ad74aeed: "{",
+    ad74aeed: ""request"",
+    ad74aeed: ":",
+    ad74aeed: ""/home/dap/node-testing/test-programs/explicit-abort.js"",
+    ad74aeed: ","paths"",
+    ad74aeed: ":",
+    ad74aeed: "[""]",
+    ad74aeed: "}",
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+    ad74aeed: hole,
+]
+ad71d7f5: [
+    ad71d7f5: "exec",
+    ad71d7f5: function exec,
+    ad71d7f5: "test",
+    ad71d7f5: function test,
+    ad71d7f5: "toString",
+    ad71d7f5: function toString,
+    ad71d7f5: "compile",
+    ad71d7f5: function compile,
+]
+ad71b89d: {
+    "stack": ad71b89d: undefined,
+    "arguments": ad71b89d: undefined,
+    "type": ad71b89d: undefined,
+    "name": ad71b89d: "TypeError",
+}
+property kind: in-object 
+ad71c0e1: {
+    "stack": ad71c0e1: undefined,
+    "arguments": ad71c0e1: undefined,
+    "type": ad71c0e1: undefined,
+    "name": ad71c0e1: "URIError",
+}
+property kind: in-object 
+ad71bf6d: {
+    "stack": ad71bf6d: undefined,
+    "arguments": ad71bf6d: undefined,
+    "type": ad71bf6d: undefined,
+    "name": ad71bf6d: "EvalError",
+}
+property kind: in-object 
+ad71bdf9: {
+    "stack": ad71bdf9: undefined,
+    "arguments": ad71bdf9: undefined,
+    "type": ad71bdf9: undefined,
+    "name": ad71bdf9: "ReferenceError",
+}
+property kind: in-object 
+ad71bc6d: {
+    "stack": ad71bc6d: undefined,
+    "arguments": ad71bc6d: undefined,
+    "type": ad71bc6d: undefined,
+    "name": ad71bc6d: "SyntaxError",
+}
+property kind: in-object 
+ad71bac9: {
+    "stack": ad71bac9: undefined,
+    "arguments": ad71bac9: undefined,
+    "type": ad71bac9: undefined,
+    "name": ad71bac9: "RangeError",
+}
+property kind: in-object 
+ad739205: {
+    "bold": ad739205: [...],
+    "italic": ad739205: [...],
+    "underline": ad739205: [...],
+    "inverse": ad739205: [...],
+    "white": ad739205: [...],
+    "grey": ad739205: [...],
+    "black": ad739205: [...],
+    "blue": ad739205: [...],
+    "cyan": ad739205: [...],
+    "green": ad739205: [...],
+    "magenta": ad739205: [...],
+    "red": ad739205: [...],
+    "yellow": ad739205: [...],
+}
+property kind: in-object 
+ad7395d5: {
+    "bold": ad7395d5: [...],
+    "italic": ad7395d5: [...],
+    "underline": ad7395d5: [...],
+    "inverse": ad7395d5: [...],
+    "white": ad7395d5: [...],
+    "grey": ad7395d5: [...],
+    "black": ad7395d5: [...],
+    "blue": ad7395d5: [...],
+    "cyan": ad7395d5: [...],
+    "green": ad7395d5: [...],
+    "magenta": ad7395d5: [...],
+    "red": ad7395d5: [...],
+    "yellow": ad7395d5: [...],
+}
+property kind: in-object 
+8f9135d9: {
+    "events": 8f9135d9: 13,
+    "buffer": 8f9135d9: 0,
+    "assert": 8f9135d9: "events",
+    "util": 8f9135d9: 786561,
+    "path": 8f9135d9: 0,
+    "module": 8f9135d9: "buffer",
+    "fs": 8f9135d9: 1048833,
+    "stream": 8f9135d9: 1,
+    "_stream_readable": 8f9135d9: "assert",
+    "_stream_writable": 8f9135d9: 2621825,
+    "_stream_duplex": 8f9135d9: 2,
+    "_stream_transform": 8f9135d9: "util",
+    "_stream_passthrough": 8f9135d9: 3146241,
+}
+property kind: "properties" array 
+ad7267a5: {
+    "events": ad7267a5: [...],
+    "buffer": ad7267a5: [...],
+    "assert": ad7267a5: [...],
+    "util": ad7267a5: [...],
+    "path": ad7267a5: [...],
+    "module": ad7267a5: [...],
+    "fs": ad7267a5: [...],
+    "stream": ad7267a5: [...],
+    "_stream_readable": ad7267a5: [...],
+    "_stream_writable": ad7267a5: [...],
+    "_stream_duplex": ad7267a5: [...],
+    "_stream_transform": ad7267a5: [...],
+    "_stream_passthrough": ad7267a5: [...],
+}
+property kind: "properties" array 
+ad716e05: [
+    ad716e05: "keys",
+    ad716e05: function keys,
+    ad716e05: "create",
+    ad716e05: function create,
+    ad716e05: "defineProperty",
+    ad716e05: function defineProperty,
+    ad716e05: "defineProperties",
+    ad716e05: function defineProperties,
+    ad716e05: "freeze",
+    ad716e05: function freeze,
+    ad716e05: "getPrototypeOf",
+    ad716e05: function getPrototypeOf,
+    ad716e05: "getOwnPropertyDescriptor",
+    ad716e05: function getOwnPropertyDescriptor,
+    ad716e05: "getOwnPropertyNames",
+    ad716e05: function getOwnPropertyNames,
+    ad716e05: "is",
+    ad716e05: function is,
+    ad716e05: "isExtensible",
+    ad716e05: function isExtensible,
+    ad716e05: "isFrozen",
+    ad716e05: function isFrozen,
+    ad716e05: "isSealed",
+    ad716e05: function isSealed,
+    ad716e05: "preventExtensions",
+    ad716e05: function preventExtensions,
+    ad716e05: "seal",
+    ad716e05: function seal,
+]
+ad71a329: [
+    ad71a329: "lineFromPosition",
+    ad71a329: function ScriptLineFromPosition,
+    ad71a329: "locationFromPosition",
+    ad71a329: function ScriptLocationFromPosition,
+    ad71a329: "locationFromLine",
+    ad71a329: function ScriptLocationFromLine,
+    ad71a329: "sourceSlice",
+    ad71a329: function ScriptSourceSlice,
+    ad71a329: "sourceLine",
+    ad71a329: function ScriptSourceLine,
+    ad71a329: "lineCount",
+    ad71a329: function ScriptLineCount,
+    ad71a329: "nameOrSourceURL",
+    ad71a329: function ScriptNameOrSourceURL,
+]
+ad71d6a1: [
+    ad71d6a1: 10,
+    ad71d6a1: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ad71d6a1: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ad71d6a1: 0,
+    ad71d6a1: 54,
+    ad71d6a1: 0,
+    ad71d6a1: 1,
+    ad71d6a1: 1,
+    ad71d6a1: 37,
+    ad71d6a1: 37,
+    ad71d6a1: 54,
+    ad71d6a1: 51,
+    ad71d6a1: 54,
+    ad71d6a1: hole,
+]
+ad73c445: [
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: <sliced string (parent is not a sequential string)>,
+    ad73c445: "",
+]
+ad716469: {
+    "value_": ad716469: undefined,
+    "hasValue_": ad716469: undefined,
+    "writable_": ad716469: undefined,
+    "hasWritable_": ad716469: undefined,
+    "enumerable_": ad716469: undefined,
+    "hasEnumerable_": ad716469: undefined,
+    "configurable_": ad716469: undefined,
+    "hasConfigurable_": ad716469: undefined,
+    "get_": ad716469: undefined,
+    "hasGetter_": ad716469: undefined,
+    "set_": ad716469: undefined,
+    "hasSetter_": ad716469: undefined,
+    "toString": ad716469: function <anonymous> (as $Array.value_),
+    "setValue": ad716469: function <anonymous> (as $Array.enumerable_),
+    "getValue": ad716469: function <anonymous> (as $Array.enumerable_),
+    "hasValue": ad716469: function <anonymous> (as $Array.enumerable_),
+    "setEnumerable": ad716469: function <anonymous> (as $Array.writable_),
+    "isEnumerable": ad716469: function <anonymous> (as $Array.writable_),
+    "hasEnumerable": ad716469: function <anonymous> (as $Array.writable_),
+    "setWritable": ad716469: function <anonymous> (as $Array.configurable_),
+    "isWritable": ad716469: function <anonymous> (as $Array.configurable_),
+    "hasWritable": ad716469: function <anonymous> (as $Array.configurable_),
+    "setConfigurable": ad716469: function <anonymous> (as $Array.get_),
+    "hasConfigurable": ad716469: function <anonymous> (as $Array.get_),
+    "isConfigurable": ad716469: function <anonymous> (as $Array.get_),
+    "setGet": ad716469: function <anonymous> (as $Array.set_),
+    "getGet": ad716469: function <anonymous> (as $Array.set_),
+    "hasGetter": ad716469: function <anonymous> (as $Array.set_),
+    "setSet": ad716469: function <anonymous> (as <anon>),
+    "getSet": ad716469: function <anonymous> (as <anon>),
+    "hasSetter": ad716469: function <anonymous> (as <anon>),
+}
+property kind: "properties" array 
+ad71acc1: [
+    ad71acc1: "getThis",
+    ad71acc1: function CallSiteGetThis,
+    ad71acc1: "getTypeName",
+    ad71acc1: function CallSiteGetTypeName,
+    ad71acc1: "isToplevel",
+    ad71acc1: function CallSiteIsToplevel,
+    ad71acc1: "isEval",
+    ad71acc1: function CallSiteIsEval,
+    ad71acc1: "getEvalOrigin",
+    ad71acc1: function CallSiteGetEvalOrigin,
+    ad71acc1: "getScriptNameOrSourceURL",
+    ad71acc1: function CallSiteGetScriptNameOrSourceURL,
+    ad71acc1: "getFunction",
+    ad71acc1: function CallSiteGetFunction,
+    ad71acc1: "getFunctionName",
+    ad71acc1: function CallSiteGetFunctionName,
+    ad71acc1: "getMethodName",
+    ad71acc1: function CallSiteGetMethodName,
+    ad71acc1: "getFileName",
+    ad71acc1: function CallSiteGetFileName,
+    ad71acc1: "getLineNumber",
+    ad71acc1: function CallSiteGetLineNumber,
+    ad71acc1: "getColumnNumber",
+    ad71acc1: function CallSiteGetColumnNumber,
+    ad71acc1: "isNative",
+    ad71acc1: function CallSiteIsNative,
+    ad71acc1: "getPosition",
+    ad71acc1: function CallSiteGetPosition,
+    ad71acc1: "isConstructor",
+    ad71acc1: function CallSiteIsConstructor,
+    ad71acc1: "toString",
+    ad71acc1: function CallSiteToString,
+]
+ad71ac9d: [
+    ad71ac9d: "receiver",
+    ad71ac9d: "fun",
+    ad71ac9d: "pos",
+]
+ad780669: [
+    ad780669: "",
+    ad780669: "home",
+    ad780669: "node_modules",
+]
+ad78060d: [
+    ad78060d: "",
+    ad78060d: "home",
+    ad78060d: "node_modules",
+]
+ad7804a1: [
+    ad7804a1: "",
+    ad7804a1: "home",
+    ad7804a1: "dap",
+]
+ad74adf9: [
+    ad74adf9: ".js",
+    ad74adf9: ".json",
+    ad74adf9: ".node",
+]
+ad74a7d5: [
+    ad74a7d5: "/home/dap/.node_modules",
+    ad74a7d5: "/home/dap/.node_libraries",
+    ad74a7d5: "/home/dap/node-testing/node-v0.10.30-sunos-x86/lib/node",
+]
+ad74a765: [
+    ad74a765: "home",
+    ad74a765: "dap",
+    ad74a765: ".node_modules",
+]
+ad74a6ad: [
+    ad74a6ad: "home",
+    ad74a6ad: "dap",
+    ad74a6ad: ".node_modules",
+    ad74a6ad: hole,
+]
+ad74a4d9: [
+    ad74a4d9: "home",
+    ad74a4d9: "dap",
+    ad74a4d9: ".node_libraries",
+]
+ad74a421: [
+    ad74a421: "home",
+    ad74a421: "dap",
+    ad74a421: ".node_libraries",
+    ad74a421: hole,
+]
+ad749df9: [
+    ad749df9: "/home/dap/.node_modules",
+    ad749df9: "/home/dap/.node_libraries",
+    ad749df9: "/home/dap/node-testing/node-v0.10.30-sunos-x86/lib/node",
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+    ad749df9: hole,
+]
+ad719ba5: [
+    ad719ba5: "random",
+    ad719ba5: function random,
+    ad719ba5: "abs",
+    ad719ba5: function abs,
+    ad719ba5: "acos",
+    ad719ba5: function acos,
+    ad719ba5: "asin",
+    ad719ba5: function asin,
+    ad719ba5: "atan",
+    ad719ba5: function atan,
+    ad719ba5: "ceil",
+    ad719ba5: function ceil,
+    ad719ba5: "cos",
+    ad719ba5: function cos,
+    ad719ba5: "exp",
+    ad719ba5: function exp,
+    ad719ba5: "floor",
+    ad719ba5: function floor,
+    ad719ba5: "log",
+    ad719ba5: function log,
+    ad719ba5: "round",
+    ad719ba5: function round,
+    ad719ba5: "sin",
+    ad719ba5: function sin,
+    ad719ba5: "sqrt",
+    ad719ba5: function sqrt,
+    ad719ba5: "tan",
+    ad719ba5: function tan,
+    ad719ba5: "atan2",
+    ad719ba5: function atan2,
+    ad719ba5: "pow",
+    ad719ba5: function pow,
+    ad719ba5: "max",
+    ad719ba5: function max,
+    ad719ba5: "min",
+    ad719ba5: function min,
+]
+ad7211e5: {
+    "0": ad7211e5: 3,
+    "1": ad7211e5: "BYTES_PER_ELEMENT",
+    "2": ad7211e5: 1,
+    "3": ad7211e5: 1,
+}
+property kind: numeric-named 
+ad7229cd: {
+    "0": ad7229cd: 3,
+    "1": ad7229cd: "BYTES_PER_ELEMENT",
+    "2": ad7229cd: 8,
+    "3": ad7229cd: 1,
+}
+property kind: numeric-named 
+ad722799: {
+    "0": ad722799: 3,
+    "1": ad722799: "BYTES_PER_ELEMENT",
+    "2": ad722799: 4,
+    "3": ad722799: 1,
+}
+property kind: numeric-named 
+ad722565: {
+    "0": ad722565: 3,
+    "1": ad722565: "BYTES_PER_ELEMENT",
+    "2": ad722565: 4,
+    "3": ad722565: 1,
+}
+property kind: numeric-named 
+ad7221a1: {
+    "0": ad7221a1: 3,
+    "1": ad7221a1: "BYTES_PER_ELEMENT",
+    "2": ad7221a1: 4,
+    "3": ad7221a1: 1,
+}
+property kind: numeric-named 
+ad721f6d: {
+    "0": ad721f6d: 3,
+    "1": ad721f6d: "BYTES_PER_ELEMENT",
+    "2": ad721f6d: 2,
+    "3": ad721f6d: 1,
+}
+property kind: numeric-named 
+ad721d39: {
+    "0": ad721d39: 3,
+    "1": ad721d39: "BYTES_PER_ELEMENT",
+    "2": ad721d39: 2,
+    "3": ad721d39: 1,
+}
+property kind: numeric-named 
+ad721afd: {
+    "0": ad721afd: 3,
+    "1": ad721afd: "BYTES_PER_ELEMENT",
+    "2": ad721afd: 1,
+    "3": ad721afd: 1,
+}
+property kind: numeric-named 
+ad7218b1: {
+    "0": ad7218b1: 3,
+    "1": ad7218b1: "BYTES_PER_ELEMENT",
+    "2": ad7218b1: 1,
+    "3": ad7218b1: 1,
+}
+property kind: numeric-named 
+ad7163b9: [
+    ad7163b9: "toString",
+    ad7163b9: function <anonymous> (as $Array.value_),
+    ad7163b9: "setValue",
+    ad7163b9: function <anonymous> (as $Array.enumerable_),
+    ad7163b9: "getValue",
+    ad7163b9: function <anonymous> (as $Array.enumerable_),
+    ad7163b9: "hasValue",
+    ad7163b9: function <anonymous> (as $Array.enumerable_),
+    ad7163b9: "setEnumerable",
+    ad7163b9: function <anonymous> (as $Array.writable_),
+    ad7163b9: "isEnumerable",
+    ad7163b9: function <anonymous> (as $Array.writable_),
+    ad7163b9: "hasEnumerable",
+    ad7163b9: function <anonymous> (as $Array.writable_),
+    ad7163b9: "setWritable",
+    ad7163b9: function <anonymous> (as $Array.configurable_),
+    ad7163b9: "isWritable",
+    ad7163b9: function <anonymous> (as $Array.configurable_),
+    ad7163b9: "hasWritable",
+    ad7163b9: function <anonymous> (as $Array.configurable_),
+    ad7163b9: "setConfigurable",
+    ad7163b9: function <anonymous> (as $Array.get_),
+    ad7163b9: "hasConfigurable",
+    ad7163b9: function <anonymous> (as $Array.get_),
+    ad7163b9: "isConfigurable",
+    ad7163b9: function <anonymous> (as $Array.get_),
+    ad7163b9: "setGet",
+    ad7163b9: function <anonymous> (as $Array.set_),
+    ad7163b9: "getGet",
+    ad7163b9: function <anonymous> (as $Array.set_),
+    ad7163b9: "hasGetter",
+    ad7163b9: function <anonymous> (as $Array.set_),
+    ad7163b9: "setSet",
+    ad7163b9: function <anonymous> (as <anon>),
+    ad7163b9: "getSet",
+    ad7163b9: function <anonymous> (as <anon>),
+    ad7163b9: "hasSetter",
+    ad7163b9: function <anonymous> (as <anon>),
+]
+8f9148d5: {
+    "version": 8f9148d5: "moduleLoadList",
+    "moduleLoadList": 8f9148d5: "title",
+    "versions": 8f9148d5: 5505281,
+    "arch": 8f9148d5: 5243265,
+    "platform": 8f9148d5: 11796611,
+    "argv": 8f9148d5: 2,
+    "execArgv": 8f9148d5: 8,
+    "env": 8f9148d5: 65,
+    "pid": 8f9148d5: 0,
+    "features": 8f9148d5: <unknown JavaScript object type "AccessorInfo">,
+    "execPath": 8f9148d5: "version",
+    "_tickInfoBox": 8f9148d5: "versions",
+    "_events": 8f9148d5: 2359809,
+    "domain": 8f9148d5: 6,
+    "_maxListeners": 8f9148d5: "arch",
+    "_exiting": 8f9148d5: 3146369,
+    "config": 8f9148d5: 9,
+    "maxTickDepth": 8f9148d5: "platform",
+    "mainModule": 8f9148d5: 13632257,
+}
+property kind: "properties" array 
+ad71e9a9: {
+    "version": ad71e9a9: "v0.10.30",
+    "moduleLoadList": ad71e9a9: [...],
+    "versions": ad71e9a9: [...],
+    "arch": ad71e9a9: "ia32",
+    "platform": ad71e9a9: "sunos",
+    "argv": ad71e9a9: [...],
+    "execArgv": ad71e9a9: [...],
+    "env": ad71e9a9: [...],
+    "pid": ad71e9a9: 17594,
+    "features": ad71e9a9: [...],
+    "execPath": ad71e9a9: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/no
+de",
+    "_tickInfoBox": ad71e9a9: [...],
+    "_events": ad71e9a9: [...],
+    "domain": ad71e9a9: null,
+    "_maxListeners": ad71e9a9: 10,
+    "_exiting": ad71e9a9: false,
+    "config": ad71e9a9: [...],
+    "maxTickDepth": ad71e9a9: 1000,
+    "mainModule": ad71e9a9: [...],
+}
+property kind: "properties" array 
+ad7254b9: {
+    "crypto": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "stream": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "vm": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "tty": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "string_decoder": ad7254b9: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_passthrough": ad7254b9: "// Copyright Joyent, Inc. and other Node c
+ontributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "events": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "zlib": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "dgram": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "path": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "http": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_linklist": ad7254b9: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "fs": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "freelist": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "cluster": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "constants": ad7254b9: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "https": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "util": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_writable": ad7254b9: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "net": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "tls": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "assert": ad7254b9: "// http://wiki.commonjs.org/wiki/Unit_Testing/1.0
+//
+// THIS IS NOT TESTED NOR LIKELY TO WORK OUTSIDE V8!
+//
+// Originally from narwhal.js (http://narwhaljs.",
+    "querystring": ad7254b9: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "domain": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "buffer": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "console": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "timers": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_duplex": ad7254b9: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_debugger": ad7254b9: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "url": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "repl": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "punycode": ad7254b9: "/*! http://mths.be/punycode v1.2.0 by @mathias */
+;(function(root) {
+
+        /**
+         * The `punycode` object.
+         * @name punycode
+         * @type Object
+         */
+        var punycode,",
+    "os": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "sys": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_transform": ad7254b9: "// Copyright Joyent, Inc. and other Node con
+tributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "module": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_readable": ad7254b9: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "dns": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "readline": ad7254b9: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "child_process": ad7254b9: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+}
+property kind: dictionary 
+ad729351: [
+    ad729351: "constructor",
+    ad729351: hole,
+    ad729351: hole,
+    ad729351: hole,
+]
+ad7806bd: [ ad7806bd: "" ]
+ad77fb39: [
+    ad77fb39: ""."",
+    ad77fb39: hole,
+    ad77fb39: hole,
+    ad77fb39: hole,
+]
+ad77fa45: [
+    ad77fa45: ""/home/dap/node-testing/test-programs/explicit-abort.js"",
+    ad77fa45: hole,
+    ad77fa45: hole,
+    ad77fa45: hole,
+]
+ad77ddb5: [ ad77ddb5: "/" ]
+ad77d189: [
+    ad77d189: [...],
+    ad77d189: hole,
+    ad77d189: hole,
+    ad77d189: hole,
+]
+ad77d161: [
+    ad77d161: "constructor",
+    ad77d161: hole,
+    ad77d161: hole,
+    ad77d161: hole,
+]
+ad77cee5: [
+    ad77cee5: [...],
+    ad77cee5: hole,
+    ad77cee5: hole,
+    ad77cee5: hole,
+]
+ad77cebd: [
+    ad77cebd: "constructor",
+    ad77cebd: hole,
+    ad77cebd: hole,
+    ad77cebd: hole,
+]
+ad77cbc5: [
+    ad77cbc5: [...],
+    ad77cbc5: hole,
+    ad77cbc5: hole,
+    ad77cbc5: hole,
+]
+ad77cb9d: [
+    ad77cb9d: "constructor",
+    ad77cb9d: hole,
+    ad77cb9d: hole,
+    ad77cb9d: hole,
+]
+ad77c441: [
+    ad77c441: [...],
+    ad77c441: hole,
+    ad77c441: hole,
+    ad77c441: hole,
+]
+ad77c419: [
+    ad77c419: "constructor",
+    ad77c419: hole,
+    ad77c419: hole,
+    ad77c419: hole,
+]
+ad77c275: [
+    ad77c275: [...],
+    ad77c275: hole,
+    ad77c275: hole,
+    ad77c275: hole,
+]
+ad77c24d: [
+    ad77c24d: "constructor",
+    ad77c24d: hole,
+    ad77c24d: hole,
+    ad77c24d: hole,
+]
+ad77af4d: [
+    ad77af4d: [...],
+    ad77af4d: hole,
+    ad77af4d: hole,
+    ad77af4d: hole,
+]
+ad77af25: [
+    ad77af25: "constructor",
+    ad77af25: hole,
+    ad77af25: hole,
+    ad77af25: hole,
+]
+ad77a339: [
+    ad77a339: [...],
+    ad77a339: hole,
+    ad77a339: hole,
+    ad77a339: hole,
+]
+ad77a311: [
+    ad77a311: "constructor",
+    ad77a311: hole,
+    ad77a311: hole,
+    ad77a311: hole,
+]
+ad7780d9: [
+    ad7780d9: [...],
+    ad7780d9: hole,
+    ad7780d9: hole,
+    ad7780d9: hole,
+]
+ad7780b1: [
+    ad7780b1: "constructor",
+    ad7780b1: hole,
+    ad7780b1: hole,
+    ad7780b1: hole,
+]
+ad777321: [
+    ad777321: [...],
+    ad777321: hole,
+    ad777321: hole,
+    ad777321: hole,
+]
+ad7772f9: [
+    ad7772f9: "constructor",
+    ad7772f9: hole,
+    ad7772f9: hole,
+    ad7772f9: hole,
+]
+ad773ccd: [
+    ad773ccd: [...],
+    ad773ccd: hole,
+    ad773ccd: hole,
+    ad773ccd: hole,
+]
+ad773ca5: [
+    ad773ca5: "constructor",
+    ad773ca5: hole,
+    ad773ca5: hole,
+    ad773ca5: hole,
+]
+ad76ca95: [
+    ad76ca95: [...],
+    ad76ca95: hole,
+    ad76ca95: hole,
+    ad76ca95: hole,
+]
+ad76ca6d: [
+    ad76ca6d: "constructor",
+    ad76ca6d: hole,
+    ad76ca6d: hole,
+    ad76ca6d: hole,
+]
+ad74ae19: [ ad74ae19: "" ]
+ad74ae09: [ ad74ae09: "" ]
+ad74a869: [
+    ad74a869: ""/home/dap/node-testing/test-programs/explicit-abort.js"",
+    ad74a869: hole,
+    ad74a869: hole,
+    ad74a869: hole,
+]
+ad74a1ed: [ ad74a1ed: "bin" ]
+ad74a1d1: [ ad74a1d1: "node" ]
+ad74a1b5: [ ad74a1b5: ".." ]
+ad74a199: [ ad74a199: ".." ]
+ad749ddd: [ ad749ddd: 0 ]
+ad74527d: [ ad74527d: "cores-v0.10.30-x86" ]
+ad745261: [ ad745261: ".." ]
+ad73a601: [
+    ad73a601: [...],
+    ad73a601: hole,
+    ad73a601: hole,
+    ad73a601: hole,
+]
+ad73a5c9: [
+    ad73a5c9: "constructor",
+    ad73a5c9: hole,
+    ad73a5c9: hole,
+    ad73a5c9: hole,
+]
+ad7293bd: [
+    ad7293bd: [...],
+    ad7293bd: hole,
+    ad7293bd: hole,
+    ad7293bd: hole,
+]
+ad71815d: [
+    ad71815d: "toString",
+    ad71815d: function toString,
+    ad71815d: "toLocaleString",
+    ad71815d: function toLocaleString,
+    ad71815d: "join",
+    ad71815d: function join,
+    ad71815d: "pop",
+    ad71815d: function pop,
+    ad71815d: "push",
+    ad71815d: function push,
+    ad71815d: "concat",
+    ad71815d: function concat,
+    ad71815d: "reverse",
+    ad71815d: function reverse,
+    ad71815d: "shift",
+    ad71815d: function shift,
+    ad71815d: "unshift",
+    ad71815d: function unshift,
+    ad71815d: "slice",
+    ad71815d: function slice,
+    ad71815d: "splice",
+    ad71815d: function splice,
+    ad71815d: "sort",
+    ad71815d: function sort,
+    ad71815d: "filter",
+    ad71815d: function filter,
+    ad71815d: "forEach",
+    ad71815d: function forEach,
+    ad71815d: "some",
+    ad71815d: function some,
+    ad71815d: "every",
+    ad71815d: function every,
+    ad71815d: "map",
+    ad71815d: function map,
+    ad71815d: "indexOf",
+    ad71815d: function indexOf,
+    ad71815d: "lastIndexOf",
+    ad71815d: function lastIndexOf,
+    ad71815d: "reduce",
+    ad71815d: function reduce,
+    ad71815d: "reduceRight",
+    ad71815d: function reduceRight,
+]
+ad73a415: {
+    "value": ad73a415: undefined,
+    "enumerable": ad73a415: false,
+    "writable": ad73a415: true,
+    "configurable": ad73a415: true,
+}
+property kind: in-object 
+ad77d121: {
+    "value": ad77d121: function SyncWriteStream,
+    "enumerable": ad77d121: false,
+    "writable": ad77d121: true,
+    "configurable": ad77d121: true,
+}
+property kind: in-object 
+ad77ce01: {
+    "value": ad77ce01: function WriteStream,
+    "enumerable": ad77ce01: false,
+    "writable": ad77ce01: true,
+    "configurable": ad77ce01: true,
+}
+property kind: in-object 
+ad77cb5d: {
+    "value": ad77cb5d: function ReadStream,
+    "enumerable": ad77cb5d: false,
+    "writable": ad77cb5d: true,
+    "configurable": ad77cb5d: true,
+}
+property kind: in-object 
+ad77c3d9: {
+    "value": ad77c3d9: function StatWatcher,
+    "enumerable": ad77c3d9: false,
+    "writable": ad77c3d9: true,
+    "configurable": ad77c3d9: true,
+}
+property kind: in-object 
+ad77c20d: {
+    "value": ad77c20d: function FSWatcher,
+    "enumerable": ad77c20d: false,
+    "writable": ad77c20d: true,
+    "configurable": ad77c20d: true,
+}
+property kind: in-object 
+ad77aee5: {
+    "value": ad77aee5: function PassThrough,
+    "enumerable": ad77aee5: false,
+    "writable": ad77aee5: true,
+    "configurable": ad77aee5: true,
+}
+property kind: in-object 
+ad77a2d1: {
+    "value": ad77a2d1: function Transform,
+    "enumerable": ad77a2d1: false,
+    "writable": ad77a2d1: true,
+    "configurable": ad77a2d1: true,
+}
+property kind: in-object 
+ad778071: {
+    "value": ad778071: function Duplex,
+    "enumerable": ad778071: false,
+    "writable": ad778071: true,
+    "configurable": ad778071: true,
+}
+property kind: in-object 
+ad7772b9: {
+    "value": ad7772b9: function Writable,
+    "enumerable": ad7772b9: false,
+    "writable": ad7772b9: true,
+    "configurable": ad7772b9: true,
+}
+property kind: in-object 
+ad773c29: {
+    "value": ad773c29: function Readable,
+    "enumerable": ad773c29: false,
+    "writable": ad773c29: true,
+    "configurable": ad773c29: true,
+}
+property kind: in-object 
+ad76ca1d: {
+    "value": ad76ca1d: function Stream,
+    "enumerable": ad76ca1d: false,
+    "writable": ad76ca1d: true,
+    "configurable": ad76ca1d: true,
+}
+property kind: in-object 
+ad73a529: {
+    "value": ad73a529: function AssertionError,
+    "enumerable": ad73a529: false,
+    "writable": ad73a529: true,
+    "configurable": ad73a529: true,
+}
+property kind: in-object 
+ad726a55: {
+    "filename": ad726a55: "events.js",
+    "id": ad726a55: "events",
+    "exports": ad726a55: [...],
+    "loaded": ad726a55: true,
+}
+property kind: in-object 
+ad77a6a5: {
+    "filename": ad77a6a5: "_stream_passthrough.js",
+    "id": ad77a6a5: "_stream_passthrough",
+    "exports": ad77a6a5: function PassThrough,
+    "loaded": ad77a6a5: true,
+}
+property kind: in-object 
+ad778349: {
+    "filename": ad778349: "_stream_transform.js",
+    "id": ad778349: "_stream_transform",
+    "exports": ad778349: function Transform,
+    "loaded": ad778349: true,
+}
+property kind: in-object 
+ad77752d: {
+    "filename": ad77752d: "_stream_duplex.js",
+    "id": ad77752d: "_stream_duplex",
+    "exports": ad77752d: function Duplex,
+    "loaded": ad77752d: true,
+}
+property kind: in-object 
+ad77412d: {
+    "filename": ad77412d: "_stream_writable.js",
+    "id": ad77412d: "_stream_writable",
+    "exports": ad77412d: function Writable,
+    "loaded": ad77412d: true,
+}
+property kind: in-object 
+ad76cbf5: {
+    "filename": ad76cbf5: "_stream_readable.js",
+    "id": ad76cbf5: "_stream_readable",
+    "exports": ad76cbf5: function Readable,
+    "loaded": ad76cbf5: true,
+}
+property kind: in-object 
+ad76ba11: {
+    "filename": ad76ba11: "stream.js",
+    "id": ad76ba11: "stream",
+    "exports": ad76ba11: function Stream,
+    "loaded": ad76ba11: true,
+}
+property kind: in-object 
+ad74b519: {
+    "filename": ad74b519: "fs.js",
+    "id": ad74b519: "fs",
+    "exports": ad74b519: [...],
+    "loaded": ad74b519: true,
+}
+property kind: in-object 
+ad745401: {
+    "filename": ad745401: "module.js",
+    "id": ad745401: "module",
+    "exports": ad745401: function Module,
+    "loaded": ad745401: true,
+}
+property kind: in-object 
+ad7406b9: {
+    "filename": ad7406b9: "path.js",
+    "id": ad7406b9: "path",
+    "exports": ad7406b9: [...],
+    "loaded": ad7406b9: true,
+}
+property kind: in-object 
+ad7343bd: {
+    "filename": ad7343bd: "util.js",
+    "id": ad7343bd: "util",
+    "exports": ad7343bd: [...],
+    "loaded": ad7343bd: true,
+}
+property kind: in-object 
+ad7315a1: {
+    "filename": ad7315a1: "assert.js",
+    "id": ad7315a1: "assert",
+    "exports": ad7315a1: function ok,
+    "loaded": ad7315a1: true,
+}
+property kind: in-object 
+ad729e79: {
+    "filename": ad729e79: "buffer.js",
+    "id": ad729e79: "buffer",
+    "exports": ad729e79: [...],
+    "loaded": ad729e79: true,
+}
+property kind: in-object 
+ad71874d: [
+    ad71874d: "join",
+    ad71874d: function join,
+    ad71874d: "pop",
+    ad71874d: function pop,
+    ad71874d: "push",
+    ad71874d: function push,
+]
+ad78024d: [
+    ad78024d: "",
+    ad78024d: "home",
+    ad78024d: "dap",
+    ad78024d: "node-testing",
+    ad78024d: "test-programs",
+    ad78024d: "node_modules",
+]
+ad7801f1: [
+    ad7801f1: "",
+    ad7801f1: "home",
+    ad7801f1: "dap",
+    ad7801f1: "node-testing",
+    ad7801f1: "test-programs",
+    ad7801f1: "node_modules",
+]
+ad77fda5: [
+    ad77fda5: "",
+    ad77fda5: "home",
+    ad77fda5: "dap",
+    ad77fda5: "node-testing",
+    ad77fda5: "test-programs",
+    ad77fda5: "",
+]
+ad74a255: [
+    ad74a255: "home",
+    ad74a255: "dap",
+    ad74a255: "node-testing",
+    ad74a255: "node-v0.10.30-sunos-x86",
+    ad74a255: "lib",
+    ad74a255: "node",
+]
+ad74a0a1: [
+    ad74a0a1: "home",
+    ad74a0a1: "dap",
+    ad74a0a1: "node-testing",
+    ad74a0a1: "node-v0.10.30-sunos-x86",
+    ad74a0a1: "lib",
+    ad74a0a1: "node",
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+    ad74a0a1: hole,
+]
+ad71c8bd: [
+    ad71c8bd: "UTC",
+    ad71c8bd: function UTC,
+    ad71c8bd: "parse",
+    ad71c8bd: function parse,
+    ad71c8bd: "now",
+    ad71c8bd: function now,
+]
+ad71a685: [
+    ad71a685: "script",
+    ad71a685: "position",
+    ad71a685: "line",
+    ad71a685: "column",
+    ad71a685: "start",
+    ad71a685: "end",
+]
+ad718a1d: [
+    ad718a1d: "add",
+    ad718a1d: function <anonymous> (as c),
+    ad718a1d: "addSpecialSlice",
+    ad718a1d: function <anonymous> (as a),
+    ad718a1d: "generate",
+    ad718a1d: function <anonymous> (as <anon>),
+]
+ad73c719: [
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: <sliced string (parent is not a sequential string)>,
+    ad73c719: "",
+]
+ad73c7a5: [
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: <sliced string (parent is not a sequential string)>,
+    ad73c7a5: "",
+]
+ad717345: [
+    ad717345: "toString",
+    ad717345: function toString,
+    ad717345: "valueOf",
+    ad717345: function valueOf,
+]
+ad781341: [
+    ad781341: "/",
+    ad781341: "home/dap/node-testing/test-programs/",
+    ad781341: "explicit-abort.js",
+    ad781341: ".js",
+]
+ad7808b9: [
+    ad7808b9: "/",
+    ad7808b9: "home/dap/node-testing/test-programs/",
+    ad7808b9: "explicit-abort.js",
+    ad7808b9: ".js",
+]
+ad780559: [
+    ad780559: "",
+    ad780559: "home",
+    ad780559: "dap",
+    ad780559: "node_modules",
+]
+ad7804fd: [
+    ad7804fd: "",
+    ad7804fd: "home",
+    ad7804fd: "dap",
+    ad7804fd: "node_modules",
+]
+ad780361: [
+    ad780361: "",
+    ad780361: "home",
+    ad780361: "dap",
+    ad780361: "node-testing",
+]
+ad77ff11: [
+    ad77ff11: "home",
+    ad77ff11: "dap",
+    ad77ff11: "node-testing",
+    ad77ff11: "test-programs",
+]
+ad77fe59: [
+    ad77fe59: "home",
+    ad77fe59: "dap",
+    ad77fe59: "node-testing",
+    ad77fe59: "test-programs",
+]
+ad77fc75: [
+    ad77fc75: "/",
+    ad77fc75: "home/dap/node-testing/test-programs/",
+    ad77fc75: "explicit-abort.js",
+    ad77fc75: ".js",
+]
+ad7781fd: [
+    ad7781fd: "pipe",
+    ad7781fd: "write",
+    ad7781fd: "_write",
+    ad7781fd: "end",
+]
+ad71d5ed: [
+    ad71d5ed: "parse",
+    ad71d5ed: function parse,
+    ad71d5ed: "stringify",
+    ad71d5ed: function stringify,
+]
+ad71a6b5: [
+    ad71a6b5: "restrict",
+    ad71a6b5: function SourceLocationRestrict,
+    ad71a6b5: "sourceText",
+    ad71a6b5: function SourceLocationSourceText,
+]
+ad718969: [
+    ad718969: hole,
+    ad718969: hole,
+    ad718969: hole,
+    ad718969: hole,
+]
+ad717a89: [
+    ad717a89: "bind",
+    ad717a89: function bind,
+    ad717a89: "toString",
+    ad717a89: function toString,
+]
+ad71792d: [
+    ad71792d: "isFinite",
+    ad71792d: function isFinite,
+    ad71792d: "isNaN",
+    ad71792d: function isNaN,
+]
+ad718d7d: [
+    ad718d7d: "valueOf",
+    ad718d7d: function valueOf,
+    ad718d7d: "toString",
+    ad718d7d: function toString,
+    ad718d7d: "charAt",
+    ad718d7d: function charAt,
+    ad718d7d: "charCodeAt",
+    ad718d7d: function charCodeAt,
+    ad718d7d: "concat",
+    ad718d7d: function concat,
+    ad718d7d: "indexOf",
+    ad718d7d: function indexOf,
+    ad718d7d: "lastIndexOf",
+    ad718d7d: function lastIndexOf,
+    ad718d7d: "localeCompare",
+    ad718d7d: function localeCompare,
+    ad718d7d: "match",
+    ad718d7d: function match,
+    ad718d7d: "replace",
+    ad718d7d: function replace,
+    ad718d7d: "search",
+    ad718d7d: function search,
+    ad718d7d: "slice",
+    ad718d7d: function slice,
+    ad718d7d: "split",
+    ad718d7d: function split,
+    ad718d7d: "substring",
+    ad718d7d: function substring,
+    ad718d7d: "substr",
+    ad718d7d: function substr,
+    ad718d7d: "toLowerCase",
+    ad718d7d: function toLowerCase,
+    ad718d7d: "toLocaleLowerCase",
+    ad718d7d: function toLocaleLowerCase,
+    ad718d7d: "toUpperCase",
+    ad718d7d: function toUpperCase,
+    ad718d7d: "toLocaleUpperCase",
+    ad718d7d: function toLocaleUpperCase,
+    ad718d7d: "trim",
+    ad718d7d: function trim,
+    ad718d7d: "trimLeft",
+    ad718d7d: function trimLeft,
+    ad718d7d: "trimRight",
+    ad718d7d: function trimRight,
+    ad718d7d: "link",
+    ad718d7d: function link,
+    ad718d7d: "anchor",
+    ad718d7d: function anchor,
+    ad718d7d: "fontcolor",
+    ad718d7d: function fontcolor,
+    ad718d7d: "fontsize",
+    ad718d7d: function fontsize,
+    ad718d7d: "big",
+    ad718d7d: function big,
+    ad718d7d: "blink",
+    ad718d7d: function blink,
+    ad718d7d: "bold",
+    ad718d7d: function bold,
+    ad718d7d: "fixed",
+    ad718d7d: function fixed,
+    ad718d7d: "italics",
+    ad718d7d: function italics,
+    ad718d7d: "small",
+    ad718d7d: function small,
+    ad718d7d: "strike",
+    ad718d7d: function strike,
+    ad718d7d: "sub",
+    ad718d7d: function sub,
+    ad718d7d: "sup",
+    ad718d7d: function sup,
+]
+ad71ca35: [
+    ad71ca35: "toString",
+    ad71ca35: function toString,
+    ad71ca35: "toDateString",
+    ad71ca35: function toDateString,
+    ad71ca35: "toTimeString",
+    ad71ca35: function toTimeString,
+    ad71ca35: "toLocaleString",
+    ad71ca35: function toLocaleString,
+    ad71ca35: "toLocaleDateString",
+    ad71ca35: function toLocaleDateString,
+    ad71ca35: "toLocaleTimeString",
+    ad71ca35: function toLocaleTimeString,
+    ad71ca35: "valueOf",
+    ad71ca35: function valueOf,
+    ad71ca35: "getTime",
+    ad71ca35: function getTime,
+    ad71ca35: "getFullYear",
+    ad71ca35: function getFullYear,
+    ad71ca35: "getUTCFullYear",
+    ad71ca35: function getUTCFullYear,
+    ad71ca35: "getMonth",
+    ad71ca35: function getMonth,
+    ad71ca35: "getUTCMonth",
+    ad71ca35: function getUTCMonth,
+    ad71ca35: "getDate",
+    ad71ca35: function getDate,
+    ad71ca35: "getUTCDate",
+    ad71ca35: function getUTCDate,
+    ad71ca35: "getDay",
+    ad71ca35: function getDay,
+    ad71ca35: "getUTCDay",
+    ad71ca35: function getUTCDay,
+    ad71ca35: "getHours",
+    ad71ca35: function getHours,
+    ad71ca35: "getUTCHours",
+    ad71ca35: function getUTCHours,
+    ad71ca35: "getMinutes",
+    ad71ca35: function getMinutes,
+    ad71ca35: "getUTCMinutes",
+    ad71ca35: function getUTCMinutes,
+    ad71ca35: "getSeconds",
+    ad71ca35: function getSeconds,
+    ad71ca35: "getUTCSeconds",
+    ad71ca35: function getUTCSeconds,
+    ad71ca35: "getMilliseconds",
+    ad71ca35: function getMilliseconds,
+    ad71ca35: "getUTCMilliseconds",
+    ad71ca35: function getUTCMilliseconds,
+    ad71ca35: "getTimezoneOffset",
+    ad71ca35: function getTimezoneOffset,
+    ad71ca35: "setTime",
+    ad71ca35: function setTime,
+    ad71ca35: "setMilliseconds",
+    ad71ca35: function setMilliseconds,
+    ad71ca35: "setUTCMilliseconds",
+    ad71ca35: function setUTCMilliseconds,
+    ad71ca35: "setSeconds",
+    ad71ca35: function setSeconds,
+    ad71ca35: "setUTCSeconds",
+    ad71ca35: function setUTCSeconds,
+    ad71ca35: "setMinutes",
+    ad71ca35: function setMinutes,
+    ad71ca35: "setUTCMinutes",
+    ad71ca35: function setUTCMinutes,
+    ad71ca35: "setHours",
+    ad71ca35: function setHours,
+    ad71ca35: "setUTCHours",
+    ad71ca35: function setUTCHours,
+    ad71ca35: "setDate",
+    ad71ca35: function setDate,
+    ad71ca35: "setUTCDate",
+    ad71ca35: function setUTCDate,
+    ad71ca35: "setMonth",
+    ad71ca35: function setMonth,
+    ad71ca35: "setUTCMonth",
+    ad71ca35: function setUTCMonth,
+    ad71ca35: "setFullYear",
+    ad71ca35: function setFullYear,
+    ad71ca35: "setUTCFullYear",
+    ad71ca35: function setUTCFullYear,
+    ad71ca35: "toGMTString",
+    ad71ca35: function toGMTString,
+    ad71ca35: "toUTCString",
+    ad71ca35: function toUTCString,
+    ad71ca35: "getYear",
+    ad71ca35: function getYear,
+    ad71ca35: "setYear",
+    ad71ca35: function setYear,
+    ad71ca35: "toISOString",
+    ad71ca35: function toISOString,
+    ad71ca35: "toJSON",
+    ad71ca35: function toJSON,
+]
+ad717c49: [
+    ad717c49: "isArray",
+    ad717c49: function isArray,
+]
+ad780765: [
+    ad780765: "",
+    ad780765: "node_modules",
+]
+ad780709: [
+    ad780709: "",
+    ad780709: "node_modules",
+]
+ad7806d9: [
+    ad7806d9: [...],
+    ad7806d9: "node_modules",
+]
+ad7805d9: [
+    ad7805d9: [...],
+    ad7805d9: "node_modules",
+]
+ad7805b9: [
+    ad7805b9: "",
+    ad7805b9: "home",
+]
+ad7804c5: [
+    ad7804c5: [...],
+    ad7804c5: "node_modules",
+]
+ad780389: [
+    ad780389: [...],
+    ad780389: "node_modules",
+]
+ad7801b1: [
+    ad7801b1: [...],
+    ad7801b1: "node_modules",
+]
+ad77f1e9: [
+    ad77f1e9: "explicit-abort.js",
+    ad77f1e9: "explicit-abort.js",
+]
+ad77eef5: [
+    ad77eef5: "test-programs/",
+    ad77eef5: "test-programs",
+]
+ad77ec0d: [
+    ad77ec0d: "node-testing/",
+    ad77ec0d: "node-testing",
+]
+ad77e8bd: [
+    ad77e8bd: "dap/",
+    ad77e8bd: "dap",
+]
+ad77e2a1: [
+    ad77e2a1: "home/",
+    ad77e2a1: "home",
+]
+ad74afb5: [
+    ad74afb5: "request",
+    ad74afb5: "paths",
+]
+ad74a849: [
+    ad74a849: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ad74a849: [...],
+]
+ad74a829: [
+    ad74a829: 0,
+    ad74a829: 0,
+]
+ad7396d5: [
+    ad7396d5: 7,
+    ad7396d5: 27,
+]
+ad7396c5: [
+    ad7396c5: 32,
+    ad7396c5: 39,
+]
+ad7396b5: [
+    ad7396b5: 36,
+    ad7396b5: 39,
+]
+ad7396a5: [
+    ad7396a5: 3,
+    ad7396a5: 23,
+]
+ad739695: [
+    ad739695: 34,
+    ad739695: 39,
+]
+ad739685: [
+    ad739685: 90,
+    ad739685: 39,
+]
+ad739675: [
+    ad739675: 1,
+    ad739675: 22,
+]
+ad739665: [
+    ad739665: 33,
+    ad739665: 39,
+]
+ad739655: [
+    ad739655: 30,
+    ad739655: 39,
+]
+ad739645: [
+    ad739645: 4,
+    ad739645: 24,
+]
+ad739635: [
+    ad739635: 37,
+    ad739635: 39,
+]
+ad739625: [
+    ad739625: 35,
+    ad739625: 39,
+]
+ad739615: [
+    ad739615: 31,
+    ad739615: 39,
+]
+ad7394a1: [
+    ad7394a1: 33,
+    ad7394a1: 39,
+]
+ad739491: [
+    ad739491: 31,
+    ad739491: 39,
+]
+ad739481: [
+    ad739481: 35,
+    ad739481: 39,
+]
+ad739471: [
+    ad739471: 32,
+    ad739471: 39,
+]
+ad739461: [
+    ad739461: 36,
+    ad739461: 39,
+]
+ad739451: [
+    ad739451: 34,
+    ad739451: 39,
+]
+ad739441: [
+    ad739441: 30,
+    ad739441: 39,
+]
+ad739431: [
+    ad739431: 90,
+    ad739431: 39,
+]
+ad739421: [
+    ad739421: 37,
+    ad739421: 39,
+]
+ad739411: [
+    ad739411: 7,
+    ad739411: 27,
+]
+ad739401: [
+    ad739401: 4,
+    ad739401: 24,
+]
+ad7393f1: [
+    ad7393f1: 3,
+    ad7393f1: 23,
+]
+ad7393e1: [
+    ad7393e1: 1,
+    ad7393e1: 22,
+]
+ad726949: [
+    ad726949: "(function (exports, require, module, __filename, __dirname) { ",
+    ad726949: "
+});",
+]
+ad726939: [
+    ad726939: "(function (exports, require, module, __filename, __dirname) { ",
+    ad726939: "
+});",
+]
+ad71f089: [
+    ad71f089: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/node",
+    ad71f089: "/home/dap/node-testing/test-programs/explicit-abort.js",
+]
+ad71c321: [
+    ad71c321: "toString",
+    ad71c321: function toString,
+]
+ad71c301: [
+    ad71c301: "toString",
+    ad71c301: 0,
+]
+ad71a9d9: [
+    ad71a9d9: "sourceText",
+    ad71a9d9: function SourceSliceSourceText,
+]
+ad718d05: [
+    ad718d05: "fromCharCode",
+    ad718d05: function fromCharCode,
+]
+ad718991: [
+    ad718991: "elements",
+    ad718991: "special_string",
+]
+8f914791: {
+    "dev": 8f914791: 13,
+    "mode": 8f914791: 0,
+    "nlink": 8f914791: "dev",
+    "uid": 8f914791: 1310849,
+    "gid": 8f914791: 0,
+    "rdev": 8f914791: "mode",
+    "blksize": 8f914791: 262401,
+    "ino": 8f914791: 1,
+    "size": 8f914791: "nlink",
+    "blocks": 8f914791: 385,
+    "atime": 8f914791: 2,
+    "mtime": 8f914791: "uid",
+    "ctime": 8f914791: 1573377,
+}
+property kind: "properties" array 
+ad7809bd: {
+    "dev": ad7809bd: 23658621,
+    "mode": ad7809bd: 33188,
+    "nlink": ad7809bd: 1,
+    "uid": ad7809bd: 103,
+    "gid": ad7809bd: 1,
+    "rdev": ad7809bd: 2147483647,
+    "blksize": ad7809bd: 512,
+    "ino": ad7809bd: 185776,
+    "size": ad7809bd: 17,
+    "blocks": ad7809bd: 2,
+    "atime": ad7809bd: 1430173064000 (2015 Apr 27 15:17:44),
+    "mtime": ad7809bd: 1430173064000 (2015 Apr 27 15:17:44),
+    "ctime": ad7809bd: 1430173064000 (2015 Apr 27 15:17:44),
+}
+property kind: "properties" array 
+ad77f2f9: {
+    "dev": ad77f2f9: 23658621,
+    "mode": ad77f2f9: 33188,
+    "nlink": ad77f2f9: 1,
+    "uid": ad77f2f9: 103,
+    "gid": ad77f2f9: 1,
+    "rdev": ad77f2f9: 2147483647,
+    "blksize": ad77f2f9: 512,
+    "ino": ad77f2f9: 185776,
+    "size": ad77f2f9: 17,
+    "blocks": ad77f2f9: 2,
+    "atime": ad77f2f9: 1430173064000 (2015 Apr 27 15:17:44),
+    "mtime": ad77f2f9: 1430173064000 (2015 Apr 27 15:17:44),
+    "ctime": ad77f2f9: 1430173064000 (2015 Apr 27 15:17:44),
+}
+property kind: "properties" array 
+ad77efe1: {
+    "dev": ad77efe1: 23658621,
+    "mode": ad77efe1: 16877,
+    "nlink": ad77efe1: 2,
+    "uid": ad77efe1: 103,
+    "gid": ad77efe1: 1,
+    "rdev": ad77efe1: 2147483647,
+    "blksize": ad77efe1: 131072,
+    "ino": ad77efe1: 185763,
+    "size": ad77efe1: 5,
+    "blocks": ad77efe1: 1,
+    "atime": ad77efe1: 1430173018000 (2015 Apr 27 15:16:58),
+    "mtime": ad77efe1: 1430174616000 (2015 Apr 27 15:43:36),
+    "ctime": ad77efe1: 1430174616000 (2015 Apr 27 15:43:36),
+}
+property kind: "properties" array 
+ad77eced: {
+    "dev": ad77eced: 23658621,
+    "mode": ad77eced: 16877,
+    "nlink": ad77eced: 9,
+    "uid": ad77eced: 103,
+    "gid": ad77eced: 1,
+    "rdev": ad77eced: 2147483647,
+    "blksize": ad77eced: 131072,
+    "ino": ad77eced: 178843,
+    "size": ad77eced: 15,
+    "blocks": ad77eced: 3,
+    "atime": ad77eced: 1430172858000 (2015 Apr 27 15:14:18),
+    "mtime": ad77eced: 1430174623000 (2015 Apr 27 15:43:43),
+    "ctime": ad77eced: 1430174623000 (2015 Apr 27 15:43:43),
+}
+property kind: "properties" array 
+ad77e9c5: {
+    "dev": ad77e9c5: 23658621,
+    "mode": ad77e9c5: 16877,
+    "nlink": ad77e9c5: 29,
+    "uid": ad77e9c5: 103,
+    "gid": ad77e9c5: 10,
+    "rdev": ad77e9c5: 2147483647,
+    "blksize": ad77e9c5: 3072,
+    "ino": ad77e9c5: 8641,
+    "size": ad77e9c5: 44,
+    "blocks": ad77e9c5: 5,
+    "atime": ad77e9c5: 1429051996000 (2015 Apr 14 15:53:16),
+    "mtime": ad77e9c5: 1430174616000 (2015 Apr 27 15:43:36),
+    "ctime": ad77e9c5: 1430174616000 (2015 Apr 27 15:43:36),
+}
+property kind: "properties" array 
+ad77e36d: {
+    "dev": ad77e36d: 23658621,
+    "mode": ad77e36d: 16877,
+    "nlink": ad77e36d: 4,
+    "uid": ad77e36d: 0,
+    "gid": ad77e36d: 0,
+    "rdev": ad77e36d: 2147483647,
+    "blksize": ad77e36d: 512,
+    "ino": ad77e36d: 406,
+    "size": ad77e36d: 4,
+    "blocks": ad77e36d: 1,
+    "atime": ad77e36d: 1320337067000 (2011 Nov  3 09:17:47),
+    "mtime": ad77e36d: 1429051864000 (2015 Apr 14 15:51:04),
+    "ctime": ad77e36d: 1429051864000 (2015 Apr 14 15:51:04),
+}
+property kind: "properties" array 
+ad77d419: {
+    "dev": ad77d419: 23658621,
+    "mode": ad77d419: 33188,
+    "nlink": ad77d419: 1,
+    "uid": ad77d419: 103,
+    "gid": ad77d419: 1,
+    "rdev": ad77d419: 2147483647,
+    "blksize": ad77d419: 512,
+    "ino": ad77d419: 185776,
+    "size": ad77d419: 17,
+    "blocks": ad77d419: 2,
+    "atime": ad77d419: 1430173064000 (2015 Apr 27 15:17:44),
+    "mtime": ad77d419: 1430173064000 (2015 Apr 27 15:17:44),
+    "ctime": ad77d419: 1430173064000 (2015 Apr 27 15:17:44),
+}
+property kind: "properties" array 
+ad7188f1: [
+    ad7188f1: 2,
+    ad7188f1: "",
+    ad7188f1: "",
+    ad7188f1: 2147483647,
+    ad7188f1: 2147483647,
+]
+ad781481: [
+    ad781481: [...],
+    ad781481: function require,
+    ad781481: [...],
+    ad781481: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ad781481: "/home/dap/node-testing/test-programs",
+]
+ad781455: [
+    ad781455: 0,
+    ad781455: 0,
+    ad781455: 0,
+    ad781455: 0,
+    ad781455: 0,
+]
+ad7812d1: [
+    ad7812d1: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ad7812d1: "/",
+    ad7812d1: "home/dap/node-testing/test-programs/",
+    ad7812d1: "explicit-abort.js",
+    ad7812d1: ".js",
+]
+ad780839: [
+    ad780839: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ad780839: "/",
+    ad780839: "home/dap/node-testing/test-programs/",
+    ad780839: "explicit-abort.js",
+    ad780839: ".js",
+]
+ad780421: [
+    ad780421: "",
+    ad780421: "home",
+    ad780421: "dap",
+    ad780421: "node-testing",
+    ad780421: "node_modules",
+]
+ad7803c5: [
+    ad7803c5: "",
+    ad7803c5: "home",
+    ad7803c5: "dap",
+    ad7803c5: "node-testing",
+    ad7803c5: "node_modules",
+]
+ad780185: [
+    ad780185: "",
+    ad780185: "home",
+    ad780185: "dap",
+    ad780185: "node-testing",
+    ad780185: "test-programs",
+]
+ad780041: [
+    ad780041: "",
+    ad780041: "home",
+    ad780041: "dap",
+    ad780041: "node-testing",
+    ad780041: "test-programs",
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+    ad780041: hole,
+]
+ad780021: [
+    ad780021: "/home/dap/node-testing/test-programs/node_modules",
+    ad780021: "/home/dap/node-testing/node_modules",
+    ad780021: "/home/dap/node_modules",
+    ad780021: "/home/node_modules",
+    ad780021: "/node_modules",
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+    ad780021: hole,
+]
+ad77fc05: [
+    ad77fc05: "/home/dap/node-testing/test-programs/explicit-abort.js",
+    ad77fc05: "/",
+    ad77fc05: "home/dap/node-testing/test-programs/",
+    ad77fc05: "explicit-abort.js",
+    ad77fc05: ".js",
+]
+ad77dc45: [
+    ad77dc45: "home",
+    ad77dc45: "dap",
+    ad77dc45: "node-testing",
+    ad77dc45: "test-programs",
+    ad77dc45: "explicit-abort.js",
+]
+ad77db29: [
+    ad77db29: "home",
+    ad77db29: "dap",
+    ad77db29: "node-testing",
+    ad77db29: "test-programs",
+    ad77db29: "explicit-abort.js",
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+    ad77db29: hole,
+]
+ad74b44d: [
+    ad74b44d: "home",
+    ad74b44d: "dap",
+    ad74b44d: "node-testing",
+    ad74b44d: "test-programs",
+    ad74b44d: "explicit-abort.js",
+]
+ad74b331: [
+    ad74b331: "home",
+    ad74b331: "dap",
+    ad74b331: "node-testing",
+    ad74b331: "test-programs",
+    ad74b331: "explicit-abort.js",
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+    ad74b331: hole,
+]
+ad74a9d5: [
+    ad74a9d5: "[",
+    ad74a9d5: ""/home/dap/.node_modules"",
+    ad74a9d5: ","/home/dap/.node_libraries"",
+    ad74a9d5: ","/home/dap/node-testing/node-v0.10.30-sunos-x86/lib/node"",
+    ad74a9d5: "]",
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+    ad74a9d5: hole,
+]
+ad74a629: [
+    ad74a629: "",
+    ad74a629: "home",
+    ad74a629: "dap",
+    ad74a629: ".node_modules",
+    ad74a629: "",
+]
+ad74a39d: [
+    ad74a39d: "",
+    ad74a39d: "home",
+    ad74a39d: "dap",
+    ad74a39d: ".node_libraries",
+    ad74a39d: "",
+]
+ad745325: [
+    ad745325: "home",
+    ad745325: "dap",
+    ad745325: "node-testing",
+    ad745325: "test-programs",
+    ad745325: "explicit-abort.js",
+]
+ad745191: [
+    ad745191: "home",
+    ad745191: "dap",
+    ad745191: "node-testing",
+    ad745191: "test-programs",
+    ad745191: "explicit-abort.js",
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+    ad745191: hole,
+]
+ad71a9ad: [
+    ad71a9ad: "script",
+    ad71a9ad: "from_line",
+    ad71a9ad: "to_line",
+    ad71a9ad: "from_position",
+    ad71a9ad: "to_position",
+]
+ad718901: [
+    ad718901: 2,
+    ad718901: "",
+    ad718901: "",
+    ad718901: 2147483647,
+    ad718901: 2147483647,
+]
+ad7160c5: [
+    ad7160c5: "value_",
+    ad7160c5: "hasValue_",
+    ad7160c5: "writable_",
+    ad7160c5: "hasWritable_",
+    ad7160c5: "enumerable_",
+    ad7160c5: "hasEnumerable_",
+    ad7160c5: "configurable_",
+    ad7160c5: "hasConfigurable_",
+    ad7160c5: "get_",
+    ad7160c5: "hasGetter_",
+    ad7160c5: "set_",
+    ad7160c5: "hasSetter_",
+]
+ad749f71: [
+    ad749f71: "",
+    ad749f71: "home",
+    ad749f71: "dap",
+    ad749f71: "node-testing",
+    ad749f71: "node-v0.10.30-sunos-x86",
+    ad749f71: "bin",
+    ad749f71: "node",
+    ad749f71: "..",
+    ad749f71: "..",
+    ad749f71: "lib",
+    ad749f71: "node",
+    ad749f71: "",
+]
+ad739c2d: [
+    ad739c2d: "Jan",
+    ad739c2d: "Feb",
+    ad739c2d: "Mar",
+    ad739c2d: "Apr",
+    ad739c2d: "May",
+    ad739c2d: "Jun",
+    ad739c2d: "Jul",
+    ad739c2d: "Aug",
+    ad739c2d: "Sep",
+    ad739c2d: "Oct",
+    ad739c2d: "Nov",
+    ad739c2d: "Dec",
+]
+ad739c1d: [
+    ad739c1d: "Jan",
+    ad739c1d: "Feb",
+    ad739c1d: "Mar",
+    ad739c1d: "Apr",
+    ad739c1d: "May",
+    ad739c1d: "Jun",
+    ad739c1d: "Jul",
+    ad739c1d: "Aug",
+    ad739c1d: "Sep",
+    ad739c1d: "Oct",
+    ad739c1d: "Nov",
+    ad739c1d: "Dec",
+]
+ad71c875: [
+    ad71c875: "January",
+    ad71c875: "February",
+    ad71c875: "March",
+    ad71c875: "April",
+    ad71c875: "May",
+    ad71c875: "June",
+    ad71c875: "July",
+    ad71c875: "August",
+    ad71c875: "September",
+    ad71c875: "October",
+    ad71c875: "November",
+    ad71c875: "December",
+]
+ad71c865: [
+    ad71c865: "January",
+    ad71c865: "February",
+    ad71c865: "March",
+    ad71c865: "April",
+    ad71c865: "May",
+    ad71c865: "June",
+    ad71c865: "July",
+    ad71c865: "August",
+    ad71c865: "September",
+    ad71c865: "October",
+    ad71c865: "November",
+    ad71c865: "December",
+]
+ad71c835: [
+    ad71c835: "Jan",
+    ad71c835: "Feb",
+    ad71c835: "Mar",
+    ad71c835: "Apr",
+    ad71c835: "May",
+    ad71c835: "Jun",
+    ad71c835: "Jul",
+    ad71c835: "Aug",
+    ad71c835: "Sep",
+    ad71c835: "Oct",
+    ad71c835: "Nov",
+    ad71c835: "Dec",
+]
+ad71c825: [
+    ad71c825: "Jan",
+    ad71c825: "Feb",
+    ad71c825: "Mar",
+    ad71c825: "Apr",
+    ad71c825: "May",
+    ad71c825: "Jun",
+    ad71c825: "Jul",
+    ad71c825: "Aug",
+    ad71c825: "Sep",
+    ad71c825: "Oct",
+    ad71c825: "Nov",
+    ad71c825: "Dec",
+]
+ad719815: [
+    ad719815: "escape",
+    ad719815: function escape,
+    ad719815: "unescape",
+    ad719815: function unescape,
+    ad719815: "decodeURI",
+    ad719815: function decodeURI,
+    ad719815: "decodeURIComponent",
+    ad719815: function decodeURIComponent,
+    ad719815: "encodeURI",
+    ad719815: function encodeURI,
+    ad719815: "encodeURIComponent",
+    ad719815: function encodeURIComponent,
+]
+ad717839: [
+    ad717839: "toString",
+    ad717839: function toString,
+    ad717839: "toLocaleString",
+    ad717839: function toLocaleString,
+    ad717839: "valueOf",
+    ad717839: function valueOf,
+    ad717839: "toFixed",
+    ad717839: function toFixed,
+    ad717839: "toExponential",
+    ad717839: function toExponential,
+    ad717839: "toPrecision",
+    ad717839: function toPrecision,
+]
+ad71c695: [
+    ad71c695: function process,
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function ArrayBuffer,
+    ad71c695: hole,
+    ad71c695: function Int8Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Uint8Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Uint8ClampedArray,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Int16Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Uint16Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Int32Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Uint32Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Float32Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function Float64Array,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function DataView,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: hole,
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function Context,
+    ad71c695: function NodeScript,
+    ad71c695: function createContext,
+    ad71c695: function runInContext,
+    ad71c695: function runInThisContext,
+    ad71c695: function runInNewContext,
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function SlowBuffer,
+    ad71c695: function binarySlice,
+    ad71c695: function asciiSlice,
+    ad71c695: function base64Slice,
+    ad71c695: function ucs2Slice,
+    ad71c695: function hexSlice,
+    ad71c695: function utf8Slice,
+    ad71c695: function utf8Write,
+    ad71c695: function asciiWrite,
+    ad71c695: function binaryWrite,
+    ad71c695: function base64Write,
+    ad71c695: function ucs2Write,
+    ad71c695: function hexWrite,
+    ad71c695: function readFloatLE,
+    ad71c695: function readFloatBE,
+    ad71c695: function readDoubleLE,
+    ad71c695: function readDoubleBE,
+    ad71c695: function writeFloatLE,
+    ad71c695: function writeFloatBE,
+    ad71c695: function writeDoubleLE,
+    ad71c695: function writeDoubleBE,
+    ad71c695: function fill,
+    ad71c695: function copy,
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function <anonymous> (as <anon>),
+    ad71c695: function StatWatcher,
+    ad71c695: function start,
+    ad71c695: function stop,
+    ad71c695: hole,
+]
+ad759565: {
+    "EINTR": ad759565: 4,
+    "SSL_OP_SSLREF2_REUSE_CERT_TYPE_BUG": ad759565: 0,
+    "EPROTO": ad759565: 71,
+    "EPIPE": ad759565: 32,
+    "SIGFPE": ad759565: 8,
+    "EIO": ad759565: 5,
+    "SSL_OP_ALL": ad759565: 2147486719,
+    "O_NONBLOCK": ad759565: 128,
+    "SSL_OP_CISCO_ANYCONNECT": ad759565: 32768,
+    "EMSGSIZE": ad759565: 97,
+    "ENXIO": ad759565: 6,
+    "S_IFBLK": ad759565: 24576,
+    "SSL_OP_CIPHER_SERVER_PREFERENCE": ad759565: 4194304,
+    "SSL_OP_NETSCAPE_DEMO_CIPHER_CHANGE_BUG": ad759565: 1073741824,
+    "EAGAIN": ad759565: 11,
+    "O_NOFOLLOW": ad759565: 131072,
+    "SSL_OP_NETSCAPE_CA_DN_BUG": ad759565: 536870912,
+    "SSL_OP_MICROSOFT_SESS_ID_BUG": ad759565: 1,
+    "SSL_OP_MSIE_SSLV2_RSA_PADDING": ad759565: 0,
+    "EFBIG": ad759565: 27,
+    "EMFILE": ad759565: 24,
+    "EOPNOTSUPP": ad759565: 122,
+    "ENOLCK": ad759565: 46,
+    "EMLINK": ad759565: 31,
+    "SIGXFSZ": ad759565: 31,
+    "ETXTBSY": ad759565: 26,
+    "SIGTERM": ad759565: 15,
+    "ENOTEMPTY": ad759565: 93,
+    "SSL_OP_NO_TLSv1": ad759565: 67108864,
+    "S_IFCHR": ad759565: 8192,
+    "EFAULT": ad759565: 14,
+    "S_IRGRP": ad759565: 32,
+    "ENETDOWN": ad759565: 127,
+    "SSL_OP_EPHEMERAL_RSA": ad759565: 2097152,
+    "SIGSYS": ad759565: 12,
+    "EDESTADDRREQ": ad759565: 96,
+    "O_RDONLY": ad759565: 0,
+    "SIGUSR2": ad759565: 17,
+    "EDOM": ad759565: 33,
+    "ENOLINK": ad759565: 67,
+    "SIGIOT": ad759565: 6,
+    "EPERM": ad759565: 1,
+    "S_IRWXU": ad759565: 448,
+    "S_IRWXG": ad759565: 56,
+    "SSL_OP_PKCS1_CHECK_2": ad759565: 0,
+    "EBADMSG": ad759565: 77,
+    "SSL_OP_TLS_BLOCK_PADDING_BUG": ad759565: 512,
+    "S_IRUSR": ad759565: 256,
+    "EDEADLK": ad759565: 45,
+    "S_IWUSR": ad759565: 128,
+    "EACCES": ad759565: 13,
+    "ENOPROTOOPT": ad759565: 99,
+    "S_IFSOCK": ad759565: 49152,
+    "SSL_OP_NO_SSLv2": ad759565: 16777216,
+    "SIGPWR": ad759565: 19,
+    "S_IWGRP": ad759565: 16,
+    "SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG": ad759565: 8,
+    "SSL_OP_PKCS1_CHECK_1": ad759565: 0,
+    "ENAMETOOLONG": ad759565: 78,
+    "ESRCH": ad759565: 3,
+    "SIGQUIT": ad759565: 3,
+    "SIGPOLL": ad759565: 22,
+    "SIGTTOU": ad759565: 27,
+    "SIGSTOP": ad759565: 23,
+    "S_IRWXO": ad759565: 7,
+    "ENOTSUP": ad759565: 48,
+    "SIGSEGV": ad759565: 11,
+    "SIGLOST": ad759565: 37,
+    "ENOTSOCK": ad759565: 95,
+    "ENOENT": ad759565: 2,
+    "SIGWINCH": ad759565: 20,
+    "O_SYNC": ad759565: 16,
+    "ENOSYS": ad759565: 89,
+    "SIGUSR1": ad759565: 16,
+    "ELOOP": ad759565: 90,
+    "EOVERFLOW": ad759565: 79,
+    "O_NOCTTY": ad759565: 2048,
+    "EBUSY": ad759565: 16,
+    "EIDRM": ad759565: 36,
+    "SIGURG": ad759565: 21,
+    "SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS": ad759565: 2048,
+    "ENOSTR": ad759565: 60,
+    "ETIME": ad759565: 62,
+    "EILSEQ": ad759565: 88,
+    "SSL_OP_NO_SESSION_RESUMPTION_ON_RENEGOTIATION": ad759565: 65536,
+    "ESPIPE": ad759565: 29,
+    "S_IFDIR": ad759565: 16384,
+    "S_IROTH": ad759565: 4,
+    "EADDRNOTAVAIL": ad759565: 126,
+    "O_RDWR": ad759565: 2,
+    "SIGIO": ad759565: 22,
+    "SSL_OP_SINGLE_ECDH_USE": ad759565: 524288,
+    "S_IWOTH": ad759565: 2,
+    "ENODATA": ad759565: 61,
+    "ENOMEM": ad759565: 12,
+    "EINVAL": ad759565: 22,
+    "EALREADY": ad759565: 149,
+    "EPROTOTYPE": ad759565: 98,
+    "SSL_OP_LEGACY_SERVER_CONNECT": ad759565: 4,
+    "ECHILD": ad759565: 10,
+    "ENOTCONN": ad759565: 134,
+    "O_TRUNC": ad759565: 512,
+    "EISDIR": ad759565: 21,
+    "ENOEXEC": ad759565: 8,
+    "ENETUNREACH": ad759565: 128,
+    "EADDRINUSE": ad759565: 125,
+    "SSL_OP_SSLEAY_080_CLIENT_DH_BUG": ad759565: 128,
+    "S_IXOTH": ad759565: 1,
+    "SSL_OP_NO_TICKET": ad759565: 16384,
+    "SIGPROF": ad759565: 29,
+    "SIGTTIN": ad759565: 26,
+    "SSL_OP_TLS_D5_BUG": ad759565: 256,
+    "SIGXCPU": ad759565: 30,
+    "ENFILE": ad759565: 23,
+    "ECONNREFUSED": ad759565: 146,
+    "EBADF": ad759565: 9,
+    "SIGKILL": ad759565: 9,
+    "ENODEV": ad759565: 19,
+    "ECANCELED": ad759565: 47,
+    "SSL_OP_MICROSOFT_BIG_SSLV3_BUFFER": ad759565: 32,
+    "SIGPIPE": ad759565: 13,
+    "EHOSTUNREACH": ad759565: 148,
+    "EXDEV": ad759565: 18,
+    "SIGHUP": ad759565: 1,
+    "S_IXUSR": ad759565: 64,
+    "EDQUOT": ad759565: 49,
+    "SIGCONT": ad759565: 25,
+    "EINPROGRESS": ad759565: 150,
+    "EMULTIHOP": ad759565: 74,
+    "SIGVTALRM": ad759565: 28,
+    "ENOTDIR": ad759565: 20,
+    "SIGTRAP": ad759565: 5,
+    "SIGINT": ad759565: 2,
+    "SIGCHLD": ad759565: 18,
+    "S_IFMT": ad759565: 61440,
+    "ECONNRESET": ad759565: 131,
+    "SSL_OP_NO_COMPRESSION": ad759565: 131072,
+    "EAFNOSUPPORT": ad759565: 124,
+    "ENETRESET": ad759565: 129,
+    "O_CREAT": ad759565: 256,
+    "EWOULDBLOCK": ad759565: 11,
+    "EROFS": ad759565: 30,
+    "O_WRONLY": ad759565: 1,
+    "SIGTSTP": ad759565: 24,
+    "SSL_OP_CRYPTOPRO_TLSEXT_BUG": ad759565: 2147483648,
+    "EISCONN": ad759565: 133,
+    "SSL_OP_NO_TLSv1_2": ad759565: 134217728,
+    "SSL_OP_COOKIE_EXCHANGE": ad759565: 8192,
+    "SSL_OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION": ad759565: 262144,
+    "S_IFLNK": ad759565: 40960,
+    "O_APPEND": ad759565: 8,
+    "EEXIST": ad759565: 17,
+    "ESTALE": ad759565: 151,
+    "SSL_OP_NO_QUERY_MTU": ad759565: 4096,
+    "ERANGE": ad759565: 34,
+    "E2BIG": ad759565: 7,
+    "O_EXCL": ad759565: 1024,
+    "ENOSPC": ad759565: 28,
+    "SSL_OP_NO_TLSv1_1": ad759565: 268435456,
+    "SSL_OP_NETSCAPE_CHALLENGE_BUG": ad759565: 2,
+    "SIGALRM": ad759565: 14,
+    "S_IFREG": ad759565: 32768,
+    "SIGABRT": ad759565: 6,
+    "ENOMSG": ad759565: 35,
+    "SIGBUS": ad759565: 10,
+    "ENOBUFS": ad759565: 132,
+    "SSL_OP_SINGLE_DH_USE": ad759565: 1048576,
+    "S_IFIFO": ad759565: 4096,
+    "ENOTTY": ad759565: 25,
+    "SSL_OP_TLS_ROLLBACK_BUG": ad759565: 8388608,
+    "EPROTONOSUPPORT": ad759565: 120,
+    "ECONNABORTED": ad759565: 130,
+    "NPN_ENABLED": ad759565: 1,
+    "SIGILL": ad759565: 4,
+    "ENOSR": ad759565: 63,
+    "SSL_OP_NO_SSLv3": ad759565: 33554432,
+    "ETIMEDOUT": ad759565: 145,
+    "S_IXGRP": ad759565: 8,
+}
+property kind: dictionary 
+ad71a2f5: [
+    ad71a2f5: "source",
+    ad71a2f5: "name",
+    ad71a2f5: "line_ends",
+    ad71a2f5: "line_offset",
+    ad71a2f5: "column_offset",
+    ad71a2f5: "cachedNameOrSourceURL",
+    ad71a2f5: "hasCachedNameOrSourceURL",
+]
+ad781135: [
+    ad781135: undefined,
+    ad781135: undefined,
+    ad781135: undefined,
+    ad781135: undefined,
+    ad781135: undefined,
+    ad781135: undefined,
+    ad781135: undefined,
+]
+ad77da5d: [
+    ad77da5d: "",
+    ad77da5d: "home",
+    ad77da5d: "dap",
+    ad77da5d: "node-testing",
+    ad77da5d: "test-programs",
+    ad77da5d: "explicit-abort.js",
+    ad77da5d: "",
+]
+ad77d211: [
+    ad77d211: undefined,
+    ad77d211: undefined,
+    ad77d211: undefined,
+    ad77d211: undefined,
+    ad77d211: undefined,
+    ad77d211: undefined,
+    ad77d211: undefined,
+]
+ad77cf6d: [
+    ad77cf6d: undefined,
+    ad77cf6d: undefined,
+    ad77cf6d: undefined,
+    ad77cf6d: undefined,
+    ad77cf6d: undefined,
+    ad77cf6d: undefined,
+    ad77cf6d: undefined,
+]
+ad77cc4d: [
+    ad77cc4d: undefined,
+    ad77cc4d: undefined,
+    ad77cc4d: undefined,
+    ad77cc4d: undefined,
+    ad77cc4d: undefined,
+    ad77cc4d: undefined,
+    ad77cc4d: undefined,
+]
+ad77c4c9: [
+    ad77c4c9: undefined,
+    ad77c4c9: undefined,
+    ad77c4c9: undefined,
+    ad77c4c9: undefined,
+    ad77c4c9: undefined,
+    ad77c4c9: undefined,
+    ad77c4c9: undefined,
+]
+ad77c2fd: [
+    ad77c2fd: undefined,
+    ad77c2fd: undefined,
+    ad77c2fd: undefined,
+    ad77c2fd: undefined,
+    ad77c2fd: undefined,
+    ad77c2fd: undefined,
+    ad77c2fd: undefined,
+]
+ad77b589: [
+    ad77b589: undefined,
+    ad77b589: undefined,
+    ad77b589: undefined,
+    ad77b589: undefined,
+    ad77b589: undefined,
+    ad77b589: undefined,
+    ad77b589: undefined,
+]
+ad77afd5: [
+    ad77afd5: undefined,
+    ad77afd5: undefined,
+    ad77afd5: undefined,
+    ad77afd5: undefined,
+    ad77afd5: undefined,
+    ad77afd5: undefined,
+    ad77afd5: undefined,
+]
+ad77a3c1: [
+    ad77a3c1: undefined,
+    ad77a3c1: undefined,
+    ad77a3c1: undefined,
+    ad77a3c1: undefined,
+    ad77a3c1: undefined,
+    ad77a3c1: undefined,
+    ad77a3c1: undefined,
+]
+ad778161: [
+    ad778161: undefined,
+    ad778161: undefined,
+    ad778161: undefined,
+    ad778161: undefined,
+    ad778161: undefined,
+    ad778161: undefined,
+    ad778161: undefined,
+]
+ad7773a9: [
+    ad7773a9: undefined,
+    ad7773a9: undefined,
+    ad7773a9: undefined,
+    ad7773a9: undefined,
+    ad7773a9: undefined,
+    ad7773a9: undefined,
+    ad7773a9: undefined,
+]
+ad773d75: [
+    ad773d75: undefined,
+    ad773d75: undefined,
+    ad773d75: undefined,
+    ad773d75: undefined,
+    ad773d75: undefined,
+    ad773d75: undefined,
+    ad773d75: undefined,
+]
+ad76cbb5: [
+    ad76cbb5: undefined,
+    ad76cbb5: undefined,
+    ad76cbb5: undefined,
+    ad76cbb5: undefined,
+    ad76cbb5: undefined,
+    ad76cbb5: undefined,
+    ad76cbb5: undefined,
+]
+ad74b265: [
+    ad74b265: "",
+    ad74b265: "home",
+    ad74b265: "dap",
+    ad74b265: "node-testing",
+    ad74b265: "test-programs",
+    ad74b265: "explicit-abort.js",
+    ad74b265: "",
+]
+ad73ff59: [
+    ad73ff59: undefined,
+    ad73ff59: undefined,
+    ad73ff59: undefined,
+    ad73ff59: undefined,
+    ad73ff59: undefined,
+    ad73ff59: undefined,
+    ad73ff59: undefined,
+]
+ad73fe7d: [
+    ad73fe7d: undefined,
+    ad73fe7d: undefined,
+    ad73fe7d: undefined,
+    ad73fe7d: undefined,
+    ad73fe7d: undefined,
+    ad73fe7d: undefined,
+    ad73fe7d: undefined,
+]
+ad73fda9: [
+    ad73fda9: undefined,
+    ad73fda9: undefined,
+    ad73fda9: undefined,
+    ad73fda9: undefined,
+    ad73fda9: undefined,
+    ad73fda9: undefined,
+    ad73fda9: undefined,
+]
+ad73c2b5: [
+    ad73c2b5: undefined,
+    ad73c2b5: undefined,
+    ad73c2b5: undefined,
+    ad73c2b5: undefined,
+    ad73c2b5: undefined,
+    ad73c2b5: undefined,
+    ad73c2b5: undefined,
+]
+ad73a999: [
+    ad73a999: undefined,
+    ad73a999: undefined,
+    ad73a999: undefined,
+    ad73a999: undefined,
+    ad73a999: undefined,
+    ad73a999: undefined,
+    ad73a999: undefined,
+]
+ad7297b5: [
+    ad7297b5: undefined,
+    ad7297b5: undefined,
+    ad7297b5: undefined,
+    ad7297b5: undefined,
+    ad7297b5: undefined,
+    ad7297b5: undefined,
+    ad7297b5: undefined,
+]
+ad71c855: [
+    ad71c855: "Sunday",
+    ad71c855: "Monday",
+    ad71c855: "Tuesday",
+    ad71c855: "Wednesday",
+    ad71c855: "Thursday",
+    ad71c855: "Friday",
+    ad71c855: "Saturday",
+]
+ad71c845: [
+    ad71c845: "Sunday",
+    ad71c845: "Monday",
+    ad71c845: "Tuesday",
+    ad71c845: "Wednesday",
+    ad71c845: "Thursday",
+    ad71c845: "Friday",
+    ad71c845: "Saturday",
+]
+ad71c815: [
+    ad71c815: "Sun",
+    ad71c815: "Mon",
+    ad71c815: "Tue",
+    ad71c815: "Wed",
+    ad71c815: "Thu",
+    ad71c815: "Fri",
+    ad71c815: "Sat",
+]
+ad71c805: [
+    ad71c805: "Sun",
+    ad71c805: "Mon",
+    ad71c805: "Tue",
+    ad71c805: "Wed",
+    ad71c805: "Thu",
+    ad71c805: "Fri",
+    ad71c805: "Sat",
+]
+ad7293e5: {
+    "value_": ad7293e5: function process,
+    "hasValue_": ad7293e5: true,
+    "writable_": ad7293e5: false,
+    "hasWritable_": ad7293e5: false,
+    "enumerable_": ad7293e5: false,
+    "hasEnumerable_": ad7293e5: false,
+    "configurable_": ad7293e5: false,
+    "hasConfigurable_": ad7293e5: false,
+    "get_": ad7293e5: undefined,
+    "hasGetter_": ad7293e5: false,
+    "set_": ad7293e5: undefined,
+    "hasSetter_": ad7293e5: false,
+}
+property kind: in-object 
+ad7810d5: {
+    "value_": ad7810d5: undefined,
+    "hasValue_": ad7810d5: false,
+    "writable_": ad7810d5: false,
+    "hasWritable_": ad7810d5: false,
+    "enumerable_": ad7810d5: false,
+    "hasEnumerable_": ad7810d5: false,
+    "configurable_": ad7810d5: false,
+    "hasConfigurable_": ad7810d5: false,
+    "get_": ad7810d5: function <anonymous> (as Object.defineProperty.get),
+    "hasGetter_": ad7810d5: true,
+    "set_": ad7810d5: undefined,
+    "hasSetter_": ad7810d5: false,
+}
+property kind: in-object 
+ad77d1b1: {
+    "value_": ad77d1b1: function SyncWriteStream,
+    "hasValue_": ad77d1b1: true,
+    "writable_": ad77d1b1: true,
+    "hasWritable_": ad77d1b1: true,
+    "enumerable_": ad77d1b1: false,
+    "hasEnumerable_": ad77d1b1: true,
+    "configurable_": ad77d1b1: true,
+    "hasConfigurable_": ad77d1b1: true,
+    "get_": ad77d1b1: undefined,
+    "hasGetter_": ad77d1b1: false,
+    "set_": ad77d1b1: undefined,
+    "hasSetter_": ad77d1b1: false,
+}
+property kind: in-object 
+ad77cf0d: {
+    "value_": ad77cf0d: function WriteStream,
+    "hasValue_": ad77cf0d: true,
+    "writable_": ad77cf0d: true,
+    "hasWritable_": ad77cf0d: true,
+    "enumerable_": ad77cf0d: false,
+    "hasEnumerable_": ad77cf0d: true,
+    "configurable_": ad77cf0d: true,
+    "hasConfigurable_": ad77cf0d: true,
+    "get_": ad77cf0d: undefined,
+    "hasGetter_": ad77cf0d: false,
+    "set_": ad77cf0d: undefined,
+    "hasSetter_": ad77cf0d: false,
+}
+property kind: in-object 
+ad77cbed: {
+    "value_": ad77cbed: function ReadStream,
+    "hasValue_": ad77cbed: true,
+    "writable_": ad77cbed: true,
+    "hasWritable_": ad77cbed: true,
+    "enumerable_": ad77cbed: false,
+    "hasEnumerable_": ad77cbed: true,
+    "configurable_": ad77cbed: true,
+    "hasConfigurable_": ad77cbed: true,
+    "get_": ad77cbed: undefined,
+    "hasGetter_": ad77cbed: false,
+    "set_": ad77cbed: undefined,
+    "hasSetter_": ad77cbed: false,
+}
+property kind: in-object 
+ad77c469: {
+    "value_": ad77c469: function StatWatcher,
+    "hasValue_": ad77c469: true,
+    "writable_": ad77c469: true,
+    "hasWritable_": ad77c469: true,
+    "enumerable_": ad77c469: false,
+    "hasEnumerable_": ad77c469: true,
+    "configurable_": ad77c469: true,
+    "hasConfigurable_": ad77c469: true,
+    "get_": ad77c469: undefined,
+    "hasGetter_": ad77c469: false,
+    "set_": ad77c469: undefined,
+    "hasSetter_": ad77c469: false,
+}
+property kind: in-object 
+ad77c29d: {
+    "value_": ad77c29d: function FSWatcher,
+    "hasValue_": ad77c29d: true,
+    "writable_": ad77c29d: true,
+    "hasWritable_": ad77c29d: true,
+    "enumerable_": ad77c29d: false,
+    "hasEnumerable_": ad77c29d: true,
+    "configurable_": ad77c29d: true,
+    "hasConfigurable_": ad77c29d: true,
+    "get_": ad77c29d: undefined,
+    "hasGetter_": ad77c29d: false,
+    "set_": ad77c29d: undefined,
+    "hasSetter_": ad77c29d: false,
+}
+property kind: in-object 
+ad77b4e9: {
+    "value_": ad77b4e9: function stringToFlags,
+    "hasValue_": ad77b4e9: true,
+    "writable_": ad77b4e9: false,
+    "hasWritable_": ad77b4e9: false,
+    "enumerable_": ad77b4e9: false,
+    "hasEnumerable_": ad77b4e9: true,
+    "configurable_": ad77b4e9: false,
+    "hasConfigurable_": ad77b4e9: false,
+    "get_": ad77b4e9: undefined,
+    "hasGetter_": ad77b4e9: false,
+    "set_": ad77b4e9: undefined,
+    "hasSetter_": ad77b4e9: false,
+}
+property kind: in-object 
+ad77af75: {
+    "value_": ad77af75: function PassThrough,
+    "hasValue_": ad77af75: true,
+    "writable_": ad77af75: true,
+    "hasWritable_": ad77af75: true,
+    "enumerable_": ad77af75: false,
+    "hasEnumerable_": ad77af75: true,
+    "configurable_": ad77af75: true,
+    "hasConfigurable_": ad77af75: true,
+    "get_": ad77af75: undefined,
+    "hasGetter_": ad77af75: false,
+    "set_": ad77af75: undefined,
+    "hasSetter_": ad77af75: false,
+}
+property kind: in-object 
+ad77a361: {
+    "value_": ad77a361: function Transform,
+    "hasValue_": ad77a361: true,
+    "writable_": ad77a361: true,
+    "hasWritable_": ad77a361: true,
+    "enumerable_": ad77a361: false,
+    "hasEnumerable_": ad77a361: true,
+    "configurable_": ad77a361: true,
+    "hasConfigurable_": ad77a361: true,
+    "get_": ad77a361: undefined,
+    "hasGetter_": ad77a361: false,
+    "set_": ad77a361: undefined,
+    "hasSetter_": ad77a361: false,
+}
+property kind: in-object 
+ad778101: {
+    "value_": ad778101: function Duplex,
+    "hasValue_": ad778101: true,
+    "writable_": ad778101: true,
+    "hasWritable_": ad778101: true,
+    "enumerable_": ad778101: false,
+    "hasEnumerable_": ad778101: true,
+    "configurable_": ad778101: true,
+    "hasConfigurable_": ad778101: true,
+    "get_": ad778101: undefined,
+    "hasGetter_": ad778101: false,
+    "set_": ad778101: undefined,
+    "hasSetter_": ad778101: false,
+}
+property kind: in-object 
+ad777349: {
+    "value_": ad777349: function Writable,
+    "hasValue_": ad777349: true,
+    "writable_": ad777349: true,
+    "hasWritable_": ad777349: true,
+    "enumerable_": ad777349: false,
+    "hasEnumerable_": ad777349: true,
+    "configurable_": ad777349: true,
+    "hasConfigurable_": ad777349: true,
+    "get_": ad777349: undefined,
+    "hasGetter_": ad777349: false,
+    "set_": ad777349: undefined,
+    "hasSetter_": ad777349: false,
+}
+property kind: in-object 
+ad773cf5: {
+    "value_": ad773cf5: function Readable,
+    "hasValue_": ad773cf5: true,
+    "writable_": ad773cf5: true,
+    "hasWritable_": ad773cf5: true,
+    "enumerable_": ad773cf5: false,
+    "hasEnumerable_": ad773cf5: true,
+    "configurable_": ad773cf5: true,
+    "hasConfigurable_": ad773cf5: true,
+    "get_": ad773cf5: undefined,
+    "hasGetter_": ad773cf5: false,
+    "set_": ad773cf5: undefined,
+    "hasSetter_": ad773cf5: false,
+}
+property kind: in-object 
+ad76cabd: {
+    "value_": ad76cabd: function Stream,
+    "hasValue_": ad76cabd: true,
+    "writable_": ad76cabd: true,
+    "hasWritable_": ad76cabd: true,
+    "enumerable_": ad76cabd: false,
+    "hasEnumerable_": ad76cabd: true,
+    "configurable_": ad76cabd: true,
+    "hasConfigurable_": ad76cabd: true,
+    "get_": ad76cabd: undefined,
+    "hasGetter_": ad76cabd: false,
+    "set_": ad76cabd: undefined,
+    "hasSetter_": ad76cabd: false,
+}
+property kind: in-object 
+ad73fed9: {
+    "value_": ad73fed9: undefined,
+    "hasValue_": ad73fed9: false,
+    "writable_": ad73fed9: false,
+    "hasWritable_": ad73fed9: false,
+    "enumerable_": ad73fed9: true,
+    "hasEnumerable_": ad73fed9: true,
+    "configurable_": ad73fed9: true,
+    "hasConfigurable_": ad73fed9: true,
+    "get_": ad73fed9: function <anonymous> (as <anon>),
+    "hasGetter_": ad73fed9: true,
+    "set_": ad73fed9: undefined,
+    "hasSetter_": ad73fed9: false,
+}
+property kind: in-object 
+ad73fdfd: {
+    "value_": ad73fdfd: undefined,
+    "hasValue_": ad73fdfd: false,
+    "writable_": ad73fdfd: false,
+    "hasWritable_": ad73fdfd: false,
+    "enumerable_": ad73fdfd: true,
+    "hasEnumerable_": ad73fdfd: true,
+    "configurable_": ad73fdfd: true,
+    "hasConfigurable_": ad73fdfd: true,
+    "get_": ad73fdfd: function <anonymous> (as <anon>),
+    "hasGetter_": ad73fdfd: true,
+    "set_": ad73fdfd: undefined,
+    "hasSetter_": ad73fdfd: false,
+}
+property kind: in-object 
+ad73fd29: {
+    "value_": ad73fd29: undefined,
+    "hasValue_": ad73fd29: false,
+    "writable_": ad73fd29: false,
+    "hasWritable_": ad73fd29: false,
+    "enumerable_": ad73fd29: true,
+    "hasEnumerable_": ad73fd29: true,
+    "configurable_": ad73fd29: true,
+    "hasConfigurable_": ad73fd29: true,
+    "get_": ad73fd29: function <anonymous> (as <anon>),
+    "hasGetter_": ad73fd29: true,
+    "set_": ad73fd29: undefined,
+    "hasSetter_": ad73fd29: false,
+}
+property kind: in-object 
+ad73c215: {
+    "value_": ad73c215: undefined,
+    "hasValue_": ad73c215: false,
+    "writable_": ad73c215: false,
+    "hasWritable_": ad73c215: false,
+    "enumerable_": ad73c215: true,
+    "hasEnumerable_": ad73c215: true,
+    "configurable_": ad73c215: true,
+    "hasConfigurable_": ad73c215: true,
+    "get_": ad73c215: function <anonymous> (as <anon>),
+    "hasGetter_": ad73c215: true,
+    "set_": ad73c215: undefined,
+    "hasSetter_": ad73c215: false,
+}
+property kind: in-object 
+ad73a661: {
+    "value_": ad73a661: function AssertionError,
+    "hasValue_": ad73a661: true,
+    "writable_": ad73a661: true,
+    "hasWritable_": ad73a661: true,
+    "enumerable_": ad73a661: false,
+    "hasEnumerable_": ad73a661: true,
+    "configurable_": ad73a661: true,
+    "hasConfigurable_": ad73a661: true,
+    "get_": ad73a661: undefined,
+    "hasGetter_": ad73a661: false,
+    "set_": ad73a661: undefined,
+    "hasSetter_": ad73a661: false,
+}
+property kind: in-object 

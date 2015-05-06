@@ -1,0 +1,314 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+7fa7ecb07ca1: {
+    "name": 7fa7ecb07ca1: 33562623,
+    "message": 7fa7ecb07ca1: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb1a661: {
+    "encoding": 7fa7ecb1a661: 33560575,
+    "flag": 7fa7ecb1a661: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb14961: {
+    "request": 7fa7ecb14961: 33558530,
+    "paths": 7fa7ecb14961: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb07f21: {
+    "time": 7fa7ecb07f21: 33560575,
+    "string": 7fa7ecb07f21: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb05e61: {
+    "length": 7fa7ecb05e61: 33560575,
+    "callee": 7fa7ecb05e61: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb13921: {
+    "target_defaults": 7fa7ecb13921: 2,
+    "variables": 7fa7ecb13921: <unknown JavaScript object type "FixedArray">,
+}
+property kind: "properties" array 
+object has invalid-looking property values
+7fa7ecb188e1: {
+    "enumerable": 7fa7ecb188e1: 33560575,
+    "value": 7fa7ecb188e1: <unknown JavaScript object type "Map">,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb07e61: {
+    "stack": 7fa7ecb07e61: 33564671,
+    "arguments": 7fa7ecb07e61: <unknown JavaScript object type "Map">,
+    "type": 7fa7ecb07e61: <couldn't read type>,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb1a7e1: {
+    "length": 7fa7ecb1a7e1: 33562623,
+    "parent": 7fa7ecb1a7e1: <unknown JavaScript object type "Map">,
+    "offset": 7fa7ecb1a7e1: <couldn't read type>,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb07921: {
+    "stack": 7fa7ecb07921: 33562623,
+    "arguments": 7fa7ecb07921: <unknown JavaScript object type "Map">,
+    "type": 7fa7ecb07921: <couldn't read type>,
+}
+property kind: in-object 
+object has invalid-looking property values
+7fa7ecb0e621: {
+    "filename": 7fa7ecb0e621: 33564671,
+    "id": 7fa7ecb0e621: <unknown JavaScript object type "Map">,
+    "exports": 7fa7ecb0e621: <not a heap object>,
+    "loaded": 7fa7ecb0e621: {},
+}
+property kind: in-object 
+object has invalid-looking property values
+53490af35f89: {
+    "0": 53490af35f89: 3,
+    "1": 53490af35f89: "slice",
+    "2": 53490af35f89: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "3": 53490af35f89: 0,
+}
+property kind: numeric-named 
+object has invalid-looking property values
+7fa7ecb12121: {
+    "value": 7fa7ecb12121: 33564671,
+    "enumerable": 7fa7ecb12121: <unknown JavaScript object type "Map">,
+    "writable": 7fa7ecb12121: <not a heap object>,
+    "configurable": 7fa7ecb12121: {
+        "name": 7fa7ecb12121: "Error",
+        "message": 7fa7ecb12121: "",
+    },
+}
+property kind: in-object 
+object has invalid-looking property values
+53490af836e1: {
+    "0": 53490af836e1: 6,
+    "1": 53490af836e1: "start",
+    "2": 53490af836e1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "3": 53490af836e1: 0,
+    "4": 53490af836e1: "stop",
+    "5": 53490af836e1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af836e1: 0,
+    "7": 53490af836e1: undefined,
+}
+property kind: numeric-named 
+object has invalid-looking property values
+53490af39331: {
+    "0": 53490af39331: 48,
+    "1": 53490af39331: "getUint8",
+    "2": 53490af39331: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "3": 53490af39331: 0,
+    "4": 53490af39331: "getInt8",
+    "5": 53490af39331: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af39331: 0,
+    "7": 53490af39331: "getUint16",
+    "8": 53490af39331: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af39331: 0,
+    "10": 53490af39331: "getInt16",
+    "11": 53490af39331: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 5349
+property kind: numeric-named 
+object has invalid-looking property values
+53490af4bb91: {
+    "0": 53490af4bb91: 66,
+    "1": 53490af4bb91: "binarySlice",
+    "2": 53490af4bb91: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "3": 53490af4bb91: 0,
+    "4": 53490af4bb91: "asciiSlice",
+    "5": 53490af4bb91: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af4bb91: 0,
+    "7": 53490af4bb91: "base64Slice",
+    "8": 53490af4bb91: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af4bb91: 0,
+    "10": 53490af4bb91: "ucs2Slice",
+    "11": 53490af4bb91: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "
+property kind: numeric-named 
+object has invalid-looking property values
+53490af361e9: {
+    "0": 53490af361e9: 15,
+    "1": 53490af361e9: "BYTES_PER_ELEMENT",
+    "2": 53490af361e9: 1,
+    "3": 53490af361e9: 1,
+    "4": 53490af361e9: "get",
+    "5": 53490af361e9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af361e9: 0,
+    "7": 53490af361e9: "set",
+    "8": 53490af361e9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af361e9: 0,
+    "10": 53490af361e9: "slice",
+    "11": 53490af361e9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af361e9: 0,
+    "13": 53490af361e9: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af3d1c1: {
+    "0": 53490af3d1c1: 12,
+    "1": 53490af3d1c1: "createContext",
+    "2": 53490af3d1c1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "3": 53490af3d1c1: 0,
+    "4": 53490af3d1c1: "runInContext",
+    "5": 53490af3d1c1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af3d1c1: 0,
+    "7": 53490af3d1c1: "runInThisContext",
+    "8": 53490af3d1c1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af3d1c1: 0,
+    "10": 53490af3d1c1: "runInNewContext",
+    "11": 53490af3d1c1: <unknown JavaScript object type "FunctionTempla
+property kind: numeric-named 
+object has invalid-looking property values
+53490af38fa9: {
+    "0": 53490af38fa9: 15,
+    "1": 53490af38fa9: "BYTES_PER_ELEMENT",
+    "2": 53490af38fa9: 8,
+    "3": 53490af38fa9: 1,
+    "4": 53490af38fa9: "get",
+    "5": 53490af38fa9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af38fa9: 0,
+    "7": 53490af38fa9: "set",
+    "8": 53490af38fa9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af38fa9: 0,
+    "10": 53490af38fa9: "slice",
+    "11": 53490af38fa9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af38fa9: 0,
+    "13": 53490af38fa9: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af38b81: {
+    "0": 53490af38b81: 15,
+    "1": 53490af38b81: "BYTES_PER_ELEMENT",
+    "2": 53490af38b81: 4,
+    "3": 53490af38b81: 1,
+    "4": 53490af38b81: "get",
+    "5": 53490af38b81: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af38b81: 0,
+    "7": 53490af38b81: "set",
+    "8": 53490af38b81: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af38b81: 0,
+    "10": 53490af38b81: "slice",
+    "11": 53490af38b81: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af38b81: 0,
+    "13": 53490af38b81: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af38759: {
+    "0": 53490af38759: 15,
+    "1": 53490af38759: "BYTES_PER_ELEMENT",
+    "2": 53490af38759: 4,
+    "3": 53490af38759: 1,
+    "4": 53490af38759: "get",
+    "5": 53490af38759: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af38759: 0,
+    "7": 53490af38759: "set",
+    "8": 53490af38759: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af38759: 0,
+    "10": 53490af38759: "slice",
+    "11": 53490af38759: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af38759: 0,
+    "13": 53490af38759: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af38011: {
+    "0": 53490af38011: 15,
+    "1": 53490af38011: "BYTES_PER_ELEMENT",
+    "2": 53490af38011: 4,
+    "3": 53490af38011: 1,
+    "4": 53490af38011: "get",
+    "5": 53490af38011: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af38011: 0,
+    "7": 53490af38011: "set",
+    "8": 53490af38011: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af38011: 0,
+    "10": 53490af38011: "slice",
+    "11": 53490af38011: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af38011: 0,
+    "13": 53490af38011: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af37be9: {
+    "0": 53490af37be9: 15,
+    "1": 53490af37be9: "BYTES_PER_ELEMENT",
+    "2": 53490af37be9: 2,
+    "3": 53490af37be9: 1,
+    "4": 53490af37be9: "get",
+    "5": 53490af37be9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af37be9: 0,
+    "7": 53490af37be9: "set",
+    "8": 53490af37be9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af37be9: 0,
+    "10": 53490af37be9: "slice",
+    "11": 53490af37be9: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af37be9: 0,
+    "13": 53490af37be9: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af377c1: {
+    "0": 53490af377c1: 15,
+    "1": 53490af377c1: "BYTES_PER_ELEMENT",
+    "2": 53490af377c1: 2,
+    "3": 53490af377c1: 1,
+    "4": 53490af377c1: "get",
+    "5": 53490af377c1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af377c1: 0,
+    "7": 53490af377c1: "set",
+    "8": 53490af377c1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af377c1: 0,
+    "10": 53490af377c1: "slice",
+    "11": 53490af377c1: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af377c1: 0,
+    "13": 53490af377c1: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af37391: {
+    "0": 53490af37391: 15,
+    "1": 53490af37391: "BYTES_PER_ELEMENT",
+    "2": 53490af37391: 1,
+    "3": 53490af37391: 1,
+    "4": 53490af37391: "get",
+    "5": 53490af37391: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af37391: 0,
+    "7": 53490af37391: "set",
+    "8": 53490af37391: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af37391: 0,
+    "10": 53490af37391: "slice",
+    "11": 53490af37391: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af37391: 0,
+    "13": 53490af37391: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values
+53490af36f41: {
+    "0": 53490af36f41: 15,
+    "1": 53490af36f41: "BYTES_PER_ELEMENT",
+    "2": 53490af36f41: 1,
+    "3": 53490af36f41: 1,
+    "4": 53490af36f41: "get",
+    "5": 53490af36f41: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "6": 53490af36f41: 0,
+    "7": 53490af36f41: "set",
+    "8": 53490af36f41: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "9": 53490af36f41: 0,
+    "10": 53490af36f41: "slice",
+    "11": 53490af36f41: <unknown JavaScript object type "FunctionTemplateInfo">,
+    "12": 53490af36f41: 0,
+    "13": 53490af36f41: "subarray",
+    "14":
+property kind: numeric-named 
+object has invalid-looking property values

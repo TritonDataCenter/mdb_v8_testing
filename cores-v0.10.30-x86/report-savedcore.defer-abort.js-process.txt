@@ -1,0 +1,6 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+"moduleLoadList" 8388739 <unknown JavaScript object type "AccessorInfo"> 
+undefined
+"sunos" "ia32" "v0.10.30" "3.14.5.9"

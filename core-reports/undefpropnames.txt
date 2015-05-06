@@ -1,0 +1,5 @@
+#
+# Finds and prints any objects that have "undefined" property names (a filter
+# added for a specific bug fix).
+#
+::findjsobjects -k undefpropnames | ::findjsobjects | ::jsprint -b -v -N 0t160

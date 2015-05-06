@@ -1,0 +1,70 @@
+#!/bin/bash
+
+node_versions="v0.10.30 v0.12.2"
+node_builds="x86 x64"
+reports_dir="$(dirname ${BASH_SOURCE[0]})/core-reports"
+dmod_dir="$(dirname ${BASH_SOURCE[0]})"
+do_extra=true
+
+function fail
+{
+	echo "reportcores: $@" >&2
+	exit 1
+}
+
+#
+# check_cores BUILD COREFILE ...: run reports for all core files in the current
+# directory.  Determines which dmod to use based on BUILD, which must be either
+# "x86" or "x64".
+#
+function check_cores
+{
+        local dmod script reportname
+
+	case "$1" in
+	x86)	dmod=32 ;;
+	x64)	dmod=64 ;;
+	*)	fail "unknown build type: $build"
+	esac
+
+        shift
+        for core in $@; do 
+                for report in $reports_dir/*.txt; do
+                        reportname="$(basename "$report" .txt)"
+                        script="::load $dmod_dir/mdb_v8_$dmod.so; "
+                        script="$script $(sed -e s'/^#.*//' "$report" | 
+                            tr '\n' ' ')"
+                        echo "    core $core, report $reportname"
+                        mdb -e "$script" $core \
+                            > report-$core-$reportname.txt || \
+                            fail "failed to run mdb"
+                done
+        done
+}
+
+function main
+{
+        reports_dir="$(cd $reports_dir && pwd)" || \
+            fail "failed to resolve reports dir"
+        dmod_dir="$(cd $dmod_dir && pwd)" || \
+            fail "failed to resolve dmod dir"
+        
+        for build in $node_builds; do
+                for vers in $node_versions; do
+        		coredir="$PWD/cores-$vers-$build"
+        		echo "node $vers, build $build"
+                        (cd "$coredir" && check_cores "$build" savedcore.*) ||
+                            fail "failed"
+                done
+
+                if [[ "$do_extra" != "true" || ! -d "extracores-$build" ]]; then
+                        continue
+                fi
+
+                echo "node $build, extra core files"
+                (cd "extracores-$build" && check_cores "$build" savedcore.*) ||
+                    fail "failed"
+        done
+}
+
+main

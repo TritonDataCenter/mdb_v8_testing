@@ -1,0 +1,4425 @@
+V8 version: 3.14.5.9
+Autoconfigured V8 support from target
+C++ symbol demangling enabled
+8842d20d: {}
+88409b31: {}
+8841a321: {}
+884154a9: {}
+884254e1: {}
+ae71f2d5: {}
+ae715901: []
+ae77ffdd: []
+ae77ffbd: []
+ae77fe2d: []
+ae77fb0d: [
+    ae77fb0d: hole,
+    ae77fb0d: hole,
+    ae77fb0d: hole,
+    ae77fb0d: hole,
+]
+ae77fa1d: [
+    ae77fa1d: hole,
+    ae77fa1d: hole,
+    ae77fa1d: hole,
+    ae77fa1d: hole,
+]
+ae77f819: []
+ae77f809: []
+ae77db11: []
+ae74b32d: []
+ae74aefd: [
+    ae74aefd: hole,
+    ae74aefd: hole,
+    ae74aefd: hole,
+    ae74aefd: hole,
+]
+ae74a9e5: [
+    ae74a9e5: hole,
+    ae74a9e5: hole,
+    ae74a9e5: hole,
+    ae74a9e5: hole,
+]
+ae74a881: [
+    ae74a881: hole,
+    ae74a881: hole,
+    ae74a881: hole,
+    ae74a881: hole,
+]
+ae74a6c5: []
+ae74a439: []
+ae74a0b9: []
+ae749761: []
+ae749751: []
+ae749741: []
+ae749731: []
+ae7451b1: []
+ae73fa41: []
+ae73fa31: []
+ae73e285: []
+ae73e20d: []
+ae73e1a1: []
+ae73e0a5: []
+ae71f1a5: []
+ae71c391: []
+ae71c381: []
+ae71c2b5: [
+    ae71c2b5: hole,
+    ae71c2b5: hole,
+    ae71c2b5: hole,
+    ae71c2b5: hole,
+]
+ae718725: [
+    ae718725: hole,
+    ae718725: hole,
+    ae718725: hole,
+    ae718725: hole,
+]
+ae717bb5: []
+875099e5: {}
+ae786dc9: {}
+ae786b61: {}
+ae786a6d: {}
+ae7867b5: {}
+ae7867a9: {}
+ae785b7d: {}
+ae785abd: {}
+ae7858fd: {}
+ae7858d5: {}
+ae785809: {}
+ae7857e1: {}
+ae785791: {}
+ae785769: {}
+ae78552d: {}
+ae785505: {}
+ae785475: {}
+ae78544d: {}
+ae7853c9: {}
+ae7853a1: {}
+ae785329: {}
+ae785301: {}
+ae785231: {}
+ae785209: {}
+ae7851e5: {}
+ae7851bd: {}
+ae784fdd: {}
+ae784fb5: {}
+ae784b5d: {}
+ae781551: {}
+ae77f6c9: {}
+ae77f6bd: {}
+ae77dccd: {}
+ae77dcc1: {}
+ae77dcb5: {}
+ae77d109: {}
+ae77cde9: {}
+ae77cb45: {}
+ae77c549: {}
+ae77c53d: {}
+ae77c3c1: {}
+ae77c1f5: {}
+ae77aecd: {}
+ae77a6a1: {}
+ae77a2b9: {}
+ae778345: {}
+ae778059: {}
+ae777529: {}
+ae7772a1: {}
+ae774129: {}
+ae773c11: {}
+ae76cbf1: {}
+ae76ca15: {}
+ae76ba31: {}
+ae759565: {}
+ae759405: {}
+ae7593dd: {}
+ae75931d: {}
+ae7592f5: {}
+ae7592d1: {}
+ae7592a9: {}
+ae7591e5: {}
+ae7591bd: {}
+ae759165: {}
+ae75913d: {}
+ae7590e5: {}
+ae7590bd: {}
+ae759065: {}
+ae75903d: {}
+ae758fe5: {}
+ae758fbd: {}
+ae758e05: {}
+ae758ddd: {}
+ae758d85: {}
+ae758d5d: {}
+ae758d05: {}
+ae758cdd: {}
+ae758c85: {}
+ae758c5d: {}
+ae758c05: {}
+ae758bdd: {}
+ae758b85: {}
+ae758b5d: {}
+ae758a11: {}
+ae7589e9: {}
+ae758991: {}
+ae758969: {}
+ae758911: {}
+ae7588e9: {}
+ae758891: {}
+ae758869: {}
+ae758765: {}
+ae75873d: {}
+ae7586e5: {}
+ae7586bd: {}
+ae758665: {}
+ae75863d: {}
+ae758569: {}
+ae758541: {}
+ae7584e9: {}
+ae7584c1: {}
+ae758411: {}
+ae7583e9: {}
+ae758351: {}
+ae758329: {}
+ae75829d: {}
+ae758275: {}
+ae7581f5: {}
+ae7581cd: {}
+ae758155: {}
+ae758105: {}
+ae7580dd: {}
+ae7580b9: {}
+ae74b535: {}
+ae749a3d: {}
+ae74988d: {}
+ae749881: {}
+ae749875: {}
+ae7496f5: {}
+ae7496e9: {}
+ae7496c1: {}
+ae74961d: {}
+ae745445: {}
+ae7401c9: {}
+ae7401bd: {}
+ae73e409: {}
+ae73e349: {}
+ae73e0dd: {}
+ae73ae19: {}
+ae73a561: {}
+ae734409: {}
+ae7315f1: {}
+ae7314e5: {}
+ae7314bd: {}
+ae731465: {}
+ae731389: {}
+ae731361: {}
+ae73127d: {}
+ae731255: {}
+ae7310d9: {}
+ae7310b1: {}
+ae731061: {}
+ae731039: {}
+ae730e89: {}
+ae730e61: {}
+ae730e11: {}
+ae730de9: {}
+ae730d99: {}
+ae730d71: {}
+ae730d21: {}
+ae730cf9: {}
+ae730ca9: {}
+ae730c81: {}
+ae730c31: {}
+ae730c09: {}
+ae730ac5: {}
+ae730a9d: {}
+ae730a4d: {}
+ae730a25: {}
+ae7309d5: {}
+ae7309ad: {}
+ae73095d: {}
+ae730935: {}
+ae730839: {}
+ae730811: {}
+ae7307c1: {}
+ae730799: {}
+ae730749: {}
+ae730721: {}
+ae730655: {}
+ae73062d: {}
+ae7305dd: {}
+ae7305b5: {}
+ae73050d: {}
+ae7304e5: {}
+ae730455: {}
+ae73042d: {}
+ae7303a9: {}
+ae730381: {}
+ae730309: {}
+ae7302e1: {}
+ae730249: {}
+ae730221: {}
+ae7301fd: {}
+ae7301c5: {}
+ae72fcad: {}
+ae72930d: {}
+ae728f81: {}
+ae726b09: {}
+ae72697d: {}
+ae726795: {}
+ae725515: {}
+ae725205: {}
+ae7251dd: {}
+ae725159: {}
+ae725131: {}
+ae7250b9: {}
+ae725091: {}
+ae725011: {}
+ae724fe9: {}
+ae724fc5: {}
+ae724fb9: {}
+ae724f91: {}
+ae724f51: {}
+ae724f29: {}
+ae724e99: {}
+ae724e71: {}
+ae724e01: {}
+ae724dd9: {}
+ae724d5d: {}
+ae724d35: {}
+ae724bd9: {}
+ae724bb1: {}
+ae724b85: {}
+ae724615: {}
+ae7245ed: {}
+ae72430d: {}
+ae7242e5: {}
+ae72429d: {}
+ae724275: {}
+ae72422d: {}
+ae724205: {}
+ae7241bd: {}
+ae724195: {}
+ae72414d: {}
+ae724125: {}
+ae7240dd: {}
+ae7240b5: {}
+ae72406d: {}
+ae724045: {}
+ae72302d: {}
+ae723005: {}
+ae722b69: {}
+ae722b41: {}
+ae722935: {}
+ae72290d: {}
+ae722701: {}
+ae7226d9: {}
+ae7224cd: {}
+ae7224a5: {}
+ae722109: {}
+ae7220e1: {}
+ae721ed5: {}
+ae721ead: {}
+ae721c99: {}
+ae721c71: {}
+ae721a4d: {}
+ae721a25: {}
+ae721381: {}
+ae721359: {}
+ae721161: {}
+ae721139: {}
+ae721095: {}
+ae721015: {}
+ae720fc5: {}
+ae720f9d: {}
+ae720f45: {}
+ae720f1d: {}
+ae720ec5: {}
+ae720e9d: {}
+ae720e45: {}
+ae720e1d: {}
+ae720ced: {}
+ae720cc5: {}
+ae720c6d: {}
+ae720c45: {}
+ae720bed: {}
+ae720bc5: {}
+ae720935: {}
+ae72090d: {}
+ae7208b5: {}
+ae72088d: {}
+ae720835: {}
+ae72080d: {}
+ae7207b5: {}
+ae72078d: {}
+ae720735: {}
+ae72070d: {}
+ae7206b5: {}
+ae72068d: {}
+ae720635: {}
+ae72060d: {}
+ae7205b5: {}
+ae72058d: {}
+ae720535: {}
+ae72050d: {}
+ae7204b5: {}
+ae72048d: {}
+ae7202b1: {}
+ae720289: {}
+ae720231: {}
+ae720209: {}
+ae7201b1: {}
+ae720189: {}
+ae720131: {}
+ae720109: {}
+ae7200b1: {}
+ae720089: {}
+ae720031: {}
+ae720009: {}
+ae71ff4d: {}
+ae71ff25: {}
+ae71fdc1: {}
+ae71fd99: {}
+ae71f29d: {}
+ae71f275: {}
+ae71f209: {}
+ae71e971: {}
+ae71e965: {}
+ae71e92d: {}
+ae71c2dd: {}
+ae71a2a9: {}
+ae71a29d: {}
+ae7198bd: {}
+ae717ee1: {}
+ae717ed5: {}
+ae717d29: {}
+ae717cd9: {}
+ae71132d: {}
+ae7112f5: {}
+ae7112cd: {}
+ae7112a5: {}
+ae710fad: {}
+8840a355: {}
+8840a2bd: {}
+884093cd: {}
+87515799: {}
+875156e5: {}
+87515535: {}
+87515415: {}
+87515385: {}
+87514acd: {}
+875145bd: {}
+8751452d: {}
+875144e5: {}
+8751437d: {}
+875141cd: {}
+8751413d: {}
+87513885: {}
+875137f5: {}
+875136b1: {}
+87513645: {}
+87513591: {}
+87513471: {}
+87513375: {}
+8751320d: {}
+87512d21: {}
+87512cb5: {}
+875113d1: {}
+87511365: {}
+875108b5: {}
+87510165: {}
+8750fd99: {}
+8750f8d1: {}
+8750f5dd: {}
+8750dfed: {}
+8750dfa5: {}
+8750df39: {}
+8750dcb1: {}
+8750d8e5: {}
+8750d7e9: {}
+8750c0b5: {}
+ae7496cd: {
+    "{"request":"/home/dap/node-testing/test-programs/defer-abort.js","paths":["
+"]}": ae7496cd: "/home/dap/node-testing/test-programs/defer-abort.js",
+}
+property kind: dictionary 
+ae749629: {
+    "/home/dap/node-testing/test-programs/defer-abort.js": ae749629: [...],
+}
+property kind: dictionary 
+ae711295: {
+    "length": ae711295: undefined,
+}
+property kind: in-object 
+ae73e045: {
+    "target_defaults": ae73e045: [...],
+    "variables": ae73e045: [...],
+}
+property kind: "properties" array 
+ae71b365: {
+    "name": ae71b365: "Error",
+    "message": ae71b365: "",
+}
+property kind: in-object 
+ae7292a1: {
+    "value": ae7292a1: undefined,
+}
+property kind: in-object 
+ae7292dd: {
+    "value": ae7292dd: function process,
+}
+property kind: in-object 
+875101f5: {
+    "INSPECT_MAX_BYTES": 875101f5: 3,
+}
+property kind: "properties" array 
+ae729ee9: {
+    "INSPECT_MAX_BYTES": ae729ee9: 50,
+}
+property kind: "properties" array 
+ae78102d: {
+    "get": ae78102d: undefined,
+}
+property kind: in-object 
+ae781069: {
+    "get": ae781069: function <anonymous> (as Object.defineProperty.get),
+}
+property kind: in-object 
+8750ddd1: {
+    "usingDomains": 8750ddd1: 2,
+}
+property kind: "properties" array 
+ae726b15: {
+    "usingDomains": ae726b15: false,
+}
+property kind: "properties" array 
+ae73f371: {
+    "": ae73f371: undefined,
+}
+property kind: dictionary 
+ae73f51d: {
+    "": ae73f51d: [...],
+}
+property kind: dictionary 
+ae71c3a1: {
+    "stack": ae71c3a1: undefined,
+    "arguments": ae71c3a1: [...],
+    "type": ae71c3a1: "stack_overflow",
+}
+property kind: in-object 
+ae71ad71: {
+    "receiver": ae71ad71: undefined,
+    "fun": ae71ad71: undefined,
+    "pos": ae71ad71: undefined,
+}
+property kind: "properties" array 
+ae780b71: {
+    "length": ae780b71: 63,
+    "parent": ae780b71: [...],
+    "offset": ae780b71: 0,
+}
+property kind: in-object 
+ae78089d: {
+    "encoding": ae78089d: undefined,
+    "flag": ae78089d: "r",
+}
+property kind: in-object 
+ae780915: {
+    "encoding": ae780915: "utf8",
+    "flag": ae780915: "r",
+}
+property kind: in-object 
+ae708081: {
+    "0": ae708081: 0,
+    "1": ae708081: undefined,
+}
+property kind: numeric-named 
+ae71044d: {
+    "0": ae71044d: 0,
+    "1": ae71044d: undefined,
+}
+property kind: numeric-named 
+ae77b419: {
+    "enumerable": ae77b419: false,
+    "value": ae77b419: undefined,
+}
+property kind: in-object 
+ae77b491: {
+    "enumerable": ae77b491: false,
+    "value": ae77b491: function stringToFlags,
+}
+property kind: in-object 
+ae71c715: {
+    "time": ae71c715: undefined,
+    "string": ae71c715: null,
+}
+property kind: in-object 
+ae71c78d: {
+    "time": ae71c78d: NaN,
+    "string": ae71c78d: null,
+}
+property kind: in-object 
+ae74ae21: {
+    "request": ae74ae21: undefined,
+    "paths": ae74ae21: undefined,
+}
+property kind: in-object 
+ae74ae99: {
+    "request": ae74ae99: "/home/dap/node-testing/test-programs/defer-abort.js",
+    "paths": ae74ae99: [...],
+}
+property kind: in-object 
+87511071: {
+    "sep": 87511071: 12,
+    "delimiter": 87511071: 0,
+}
+property kind: "properties" array 
+ae740705: {
+    "sep": ae740705: "/",
+    "delimiter": ae740705: ":",
+}
+property kind: "properties" array 
+ae718a65: {
+    "elements": ae718a65: undefined,
+    "special_string": ae718a65: undefined,
+    "add": ae718a65: function <anonymous> (as c),
+    "addSpecialSlice": ae718a65: function <anonymous> (as a),
+    "generate": ae718a65: function <anonymous> (as <anon>),
+}
+property kind: "properties" array 
+ae71aa11: {
+    "script": ae71aa11: undefined,
+    "from_line": ae71aa11: undefined,
+    "to_line": ae71aa11: undefined,
+    "from_position": ae71aa11: undefined,
+    "to_position": ae71aa11: undefined,
+}
+property kind: "properties" array 
+ae73e085: {
+    "cflags": ae73e085: [...],
+    "default_configuration": ae73e085: "Release",
+    "defines": ae73e085: [...],
+    "include_dirs": ae73e085: [...],
+    "libraries": ae73e085: [...],
+}
+property kind: "properties" array 
+ae71a6f5: {
+    "script": ae71a6f5: undefined,
+    "position": ae71a6f5: undefined,
+    "line": ae71a6f5: undefined,
+    "column": ae71a6f5: undefined,
+    "start": ae71a6f5: undefined,
+    "end": ae71a6f5: undefined,
+}
+property kind: "properties" array 
+875157bd: {
+    "_idleNext": 875157bd: 3,
+    "_idlePrev": 875157bd: 0,
+}
+property kind: "properties" array 
+ae786dd5: {
+    "_idleNext": ae786dd5: null,
+    "_idlePrev": ae786dd5: null,
+}
+property kind: "properties" array 
+ae786b6d: {
+    "_idleNext": ae786b6d: [...],
+    "_idlePrev": ae786b6d: [...],
+}
+property kind: "properties" array 
+875149f5: {
+    "length": 875149f5: 2,
+    "used": 875149f5: 0,
+}
+property kind: "properties" array 
+ae780bfd: {
+    "length": ae780bfd: 8192,
+    "used": ae780bfd: 64,
+}
+property kind: "properties" array 
+ae73b16d: {
+    "length": ae73b16d: 0,
+    "used": ae73b16d: undefined,
+}
+property kind: "properties" array 
+ae749e05: {
+    "0": ae749e05: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/node",
+    "1": ae749e05: "..",
+    "2": ae749e05: "..",
+    "3": ae749e05: "lib",
+    "4": ae749e05: "node",
+    "length": ae749e05: 5,
+    "callee": ae749e05: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+8840a1e9: {
+    "source": 8840a1e9: undefined,
+    "name": 8840a1e9: undefined,
+    "line_ends": 8840a1e9: undefined,
+    "line_offset": 8840a1e9: undefined,
+    "column_offset": 8840a1e9: undefined,
+    "cachedNameOrSourceURL": 8840a1e9: undefined,
+    "hasCachedNameOrSourceURL": 8840a1e9: undefined,
+}
+property kind: "properties" array 
+ae77f64d: {
+    "id": ae77f64d: ".",
+    "exports": ae77f64d: [...],
+    "parent": ae77f64d: null,
+    "filename": ae77f64d: "/home/dap/node-testing/test-programs/defer-abort.js",
+    "loaded": ae77f64d: true,
+    "children": ae77f64d: [...],
+    "paths": ae77f64d: [...],
+}
+property kind: in-object 
+ae7198e5: {
+    "E": ae7198e5: 2.718282e+00,
+    "LN10": ae7198e5: 2.302585e+00,
+    "LN2": ae7198e5: 6.931472e-01,
+    "LOG2E": ae7198e5: 1.442695e+00,
+    "LOG10E": ae7198e5: 4.342945e-01,
+    "PI": ae7198e5: 3.141593e+00,
+    "SQRT1_2": ae7198e5: 7.071068e-01,
+    "SQRT2": ae7198e5: 1.414214e+00,
+}
+property kind: in-object 
+ae71119d: {
+    "length": ae71119d: undefined,
+    "callee": ae71119d: undefined,
+}
+property kind: in-object 
+ae786d95: {
+    "length": ae786d95: 1,
+    "callee": ae786d95: function <anonymous> (as exports.setImmediate),
+}
+property kind: numeric-named in-object 
+ae780d3d: {
+    "length": ae780d3d: 4,
+    "callee": ae780d3d: function <anonymous> (as fs.readSync),
+}
+property kind: numeric-named in-object 
+ae71124d: {
+    "length": ae71124d: undefined,
+    "callee": ae71124d: undefined,
+}
+property kind: numeric-named in-object 
+ae7450b5: [
+    ae7450b5: "",
+    ae7450b5: "home",
+    ae7450b5: "dap",
+    ae7450b5: "node-testing",
+    ae7450b5: "cores-v0.10.30-x86",
+    ae7450b5: "..",
+    ae7450b5: "test-programs",
+    ae7450b5: "defer-abort.js",
+    ae7450b5: "",
+]
+8750ab0d: {
+    "version": 8750ab0d: 11,
+    "moduleLoadList": 8750ab0d: 0,
+    "versions": 8750ab0d: "title",
+    "arch": 8750ab0d: 2621571,
+    "platform": 8750ab0d: <unknown JavaScript object type "AccessorInfo">,
+    "argv": 8750ab0d: "version",
+    "execArgv": 8750ab0d: 786689,
+    "env": 8750ab0d: 0,
+    "pid": 8750ab0d: "moduleLoadList",
+    "features": 8750ab0d: 1048961,
+}
+property kind: "properties" array 
+ae715c01: [
+    ae715c01: "isNaN",
+    ae715c01: function isNaN,
+    ae715c01: "isFinite",
+    ae715c01: function isFinite,
+    ae715c01: "parseInt",
+    ae715c01: function parseInt,
+    ae715c01: "parseFloat",
+    ae715c01: function parseFloat,
+    ae715c01: "eval",
+    ae715c01: function eval,
+]
+ae749899: {
+    "/home": ae749899: "/home",
+    "/home/dap": ae749899: "/home/dap",
+    "/home/dap/node-testing/test-programs/defer-abort.js": ae749899: "/home/dap/
+node-testing/test-programs/defer-abort.js",
+    "/home/dap/node-testing/test-programs": ae749899: "/home/dap/node-testing/te
+st-programs",
+    "/home/dap/node-testing": ae749899: "/home/dap/node-testing",
+}
+property kind: dictionary 
+ae77dcd9: {
+    "/home": ae77dcd9: true,
+    "/home/dap": ae77dcd9: true,
+    "/home/dap/node-testing/test-programs/defer-abort.js": ae77dcd9: true,
+    "/home/dap/node-testing/test-programs": ae77dcd9: true,
+    "/home/dap/node-testing": ae77dcd9: true,
+}
+property kind: dictionary 
+8750ab55: {
+    "version": 8750ab55: <unknown JavaScript object type "AccessorInfo">,
+    "moduleLoadList": 8750ab55: 0,
+    "versions": 8750ab55: "version",
+    "arch": 8750ab55: 2883715,
+    "platform": 8750ab55: 4,
+    "argv": 8750ab55: "title",
+    "execArgv": 8750ab55: "moduleLoadList",
+    "env": 8750ab55: 3146113,
+    "pid": 8750ab55: 2621697,
+    "features": 8750ab55: 13,
+    "execPath": 8750ab55: 1,
+}
+property kind: "properties" array 
+8750aae9: {
+    "debug": 8750aae9: 6,
+    "uv": 8750aae9: 0,
+    "ipv6": 8750aae9: "debug",
+    "tls_npn": 8750aae9: 129,
+    "tls_sni": 8750aae9: 0,
+    "tls": 8750aae9: "uv",
+}
+property kind: "properties" array 
+ae71f3c5: {
+    "debug": ae71f3c5: false,
+    "uv": ae71f3c5: true,
+    "ipv6": ae71f3c5: true,
+    "tls_npn": ae71f3c5: true,
+    "tls_sni": ae71f3c5: true,
+    "tls": ae71f3c5: true,
+}
+property kind: "properties" array 
+87515439: {
+    "evals": 87515439: 6,
+    "natives": 87515439: 0,
+    "buffer": 87515439: "evals",
+    "fs": 87515439: 129,
+    "constants": 87515439: 0,
+    "timer_wrap": 87515439: "natives",
+}
+property kind: "properties" array 
+ae724af9: {
+    "evals": ae724af9: [...],
+    "natives": ae724af9: [...],
+    "buffer": ae724af9: [...],
+    "fs": ae724af9: [...],
+    "constants": ae724af9: [...],
+    "timer_wrap": ae724af9: [...],
+}
+property kind: "properties" array 
+ae74a301: {
+    "0": ae74a301: "/home/dap",
+    "1": ae74a301: ".node_libraries",
+    "length": ae74a301: 2,
+    "callee": ae74a301: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ae74b18d: {
+    "0": ae74b18d: "",
+    "1": ae74b18d: "/home/dap/node-testing/test-programs/defer-abort.js",
+    "length": ae74b18d: 2,
+    "callee": ae74b18d: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ae74a591: {
+    "0": ae74a591: "/home/dap",
+    "1": ae74a591: ".node_modules",
+    "length": ae74a591: 2,
+    "callee": ae74a591: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ae744b95: {
+    "0": ae744b95: "../test-programs/defer-abort.js",
+    "length": ae744b95: 1,
+    "callee": ae744b95: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ae7814d9: {
+    "0": ae7814d9: function doExplicitAbort,
+    "length": ae7814d9: 1,
+    "callee": ae7814d9: function <anonymous> (as global.setImmediate),
+}
+property kind: numeric-named in-object 
+ae77fc71: {
+    "0": ae77fc71: "/home/dap/node-testing/test-programs",
+    "length": ae77fc71: 1,
+    "callee": ae77fc71: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+ae77d975: {
+    "0": ae77d975: "/home/dap/node-testing/test-programs/defer-abort.js",
+    "length": ae77d975: 1,
+    "callee": ae77d975: function <anonymous> (as exports.resolve),
+}
+property kind: numeric-named in-object 
+87510bcd: {
+    "clang": 87510bcd: 13,
+    "gcc_version": 87510bcd: 0,
+    "host_arch": 87510bcd: "clang",
+    "node_install_npm": 87510bcd: 2097281,
+    "node_prefix": 87510bcd: 0,
+    "node_shared_cares": 87510bcd: "gcc_version",
+    "node_shared_http_parser": 87510bcd: 1835265,
+    "node_shared_libuv": 87510bcd: 1,
+    "node_shared_openssl": 87510bcd: "host_arch",
+    "node_shared_v8": 87510bcd: 2359681,
+    "node_shared_zlib": 87510bcd: 2,
+    "node_tag": 87510bcd: "node_install_npm",
+    "node_unsafe_optimizations": 87510bcd: 524801,
+}
+property kind: "properties" array 
+87512f19: {
+    "O_RDONLY": 87512f19: 13,
+    "O_WRONLY": 87512f19: 0,
+    "O_RDWR": 87512f19: "O_RDONLY",
+    "S_IFMT": 87512f19: 3145897,
+    "S_IFREG": 87512f19: 0,
+    "S_IFDIR": 87512f19: "O_WRONLY",
+    "S_IFCHR": 87512f19: 297,
+    "S_IFBLK": 87512f19: 1,
+    "S_IFIFO": 87512f19: "O_RDWR",
+    "S_IFLNK": 87512f19: 2884009,
+    "S_IFSOCK": 87512f19: 2,
+    "O_CREAT": 87512f19: "S_IFMT",
+    "O_EXCL": 87512f19: 786985,
+}
+property kind: "properties" array 
+8750dadd: {
+    "_debugger": 8750dadd: 13,
+    "_linklist": 8750dadd: 0,
+    "assert": 8750dadd: "_debugger",
+    "buffer": 8750dadd: 1835137,
+    "child_process": 8750dadd: 0,
+    "console": 8750dadd: "_linklist",
+    "constants": 8750dadd: 3145985,
+    "crypto": 8750dadd: 1,
+    "cluster": 8750dadd: "assert",
+    "dgram": 8750dadd: 385,
+    "dns": 8750dadd: 2,
+    "domain": 8750dadd: "buffer",
+    "events": 8750dadd: 2359809,
+}
+property kind: "properties" array 
+ae718911: [
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+    ae718911: hole,
+]
+ae724d85: {
+    "0": ae724d85: 12,
+    "1": ae724d85: "createContext",
+    "2": ae724d85: function <anonymous> (as <anon>),
+    "3": ae724d85: 0,
+    "4": ae724d85: "runInContext",
+    "5": ae724d85: function <anonymous> (as <anon>),
+    "6": ae724d85: 0,
+    "7": ae724d85: "runInThisContext",
+    "8": ae724d85: function <anonymous> (as <anon>),
+    "9": ae724d85: 0,
+    "10": ae724d85: "runInNewContext",
+    "11": ae724d85: function <anonymous> (as <anon>),
+    "12": ae724d85: 0,
+    "13": ae724d85: undefined,
+    "14": ae724d85: undefined,
+    "15": ae724d85: undefined,
+}
+property kind: numeric-named 
+ae7397c1: {
+    "special": ae7397c1: "cyan",
+    "number": ae7397c1: "yellow",
+    "boolean": ae7397c1: "yellow",
+    "undefined": ae7397c1: "grey",
+    "null": ae7397c1: "bold",
+    "string": ae7397c1: "green",
+    "date": ae7397c1: "magenta",
+    "regexp": ae7397c1: "red",
+}
+property kind: in-object 
+ae7399f9: {
+    "special": ae7399f9: "cyan",
+    "number": ae7399f9: "yellow",
+    "boolean": ae7399f9: "yellow",
+    "undefined": ae7399f9: "grey",
+    "null": ae7399f9: "bold",
+    "string": ae7399f9: "green",
+    "date": ae7399f9: "magenta",
+    "regexp": ae7399f9: "red",
+}
+property kind: in-object 
+8750a885: {
+    "http_parser": 8750a885: 8,
+    "node": 8750a885: 0,
+    "v8": 8750a885: "http_parser",
+    "ares": 8750a885: 129,
+    "uv": 8750a885: 0,
+    "zlib": 8750a885: "node",
+    "modules": 8750a885: 786689,
+    "openssl": 8750a885: 1,
+}
+property kind: "properties" array 
+ae71ec75: {
+    "http_parser": ae71ec75: "1.0",
+    "node": ae71ec75: "0.10.30",
+    "v8": ae71ec75: "3.14.5.9",
+    "ares": ae71ec75: "1.9.0-DEV",
+    "uv": ae71ec75: "0.10.28",
+    "zlib": ae71ec75: "1.2.3",
+    "modules": ae71ec75: "11",
+    "openssl": ae71ec75: "1.0.1h",
+}
+property kind: "properties" array 
+ae710939: {
+    "constructor": ae710939: function Object,
+}
+property kind: "properties" array 
+ae77d0dd: {
+    "constructor": ae77d0dd: [...],
+}
+property kind: in-object 
+ae77cdbd: {
+    "constructor": ae77cdbd: [...],
+}
+property kind: in-object 
+ae77cb19: {
+    "constructor": ae77cb19: [...],
+}
+property kind: in-object 
+ae77c395: {
+    "constructor": ae77c395: [...],
+}
+property kind: in-object 
+ae77c1c9: {
+    "constructor": ae77c1c9: [...],
+}
+property kind: in-object 
+ae77aea1: {
+    "constructor": ae77aea1: [...],
+}
+property kind: in-object 
+ae77a28d: {
+    "constructor": ae77a28d: [...],
+}
+property kind: in-object 
+ae77802d: {
+    "constructor": ae77802d: [...],
+}
+property kind: in-object 
+ae777275: {
+    "constructor": ae777275: [...],
+}
+property kind: in-object 
+ae773be5: {
+    "constructor": ae773be5: [...],
+}
+property kind: in-object 
+ae76c9d9: {
+    "constructor": ae76c9d9: [...],
+}
+property kind: in-object 
+ae73a3e9: {
+    "constructor": ae73a3e9: [...],
+}
+property kind: in-object 
+ae73a3d9: {
+    "constructor": ae73a3d9: undefined,
+}
+property kind: in-object 
+ae729285: {
+    "constructor": ae729285: [...],
+}
+property kind: in-object 
+ae729249: {
+    "constructor": ae729249: undefined,
+}
+property kind: in-object 
+ae716b05: [
+    ae716b05: "toString",
+    ae716b05: function toString,
+    ae716b05: "toLocaleString",
+    ae716b05: function toLocaleString,
+    ae716b05: "valueOf",
+    ae716b05: function valueOf,
+    ae716b05: "hasOwnProperty",
+    ae716b05: function hasOwnProperty,
+    ae716b05: "isPrototypeOf",
+    ae716b05: function isPrototypeOf,
+    ae716b05: "propertyIsEnumerable",
+    ae716b05: function propertyIsEnumerable,
+    ae716b05: "__defineGetter__",
+    ae716b05: function __defineGetter__,
+    ae716b05: "__lookupGetter__",
+    ae716b05: function __lookupGetter__,
+    ae716b05: "__defineSetter__",
+    ae716b05: function __defineSetter__,
+    ae716b05: "__lookupSetter__",
+    ae716b05: function __lookupSetter__,
+]
+ae71ec09: [
+    ae71ec09: "Binding evals",
+    ae71ec09: "Binding natives",
+    ae71ec09: "NativeModule events",
+    ae71ec09: "NativeModule buffer",
+    ae71ec09: "Binding buffer",
+    ae71ec09: "NativeModule assert",
+    ae71ec09: "NativeModule util",
+    ae71ec09: "NativeModule path",
+    ae71ec09: "NativeModule module",
+    ae71ec09: "NativeModule fs",
+    ae71ec09: "Binding fs",
+    ae71ec09: "Binding constants",
+    ae71ec09: "NativeModule stream",
+    ae71ec09: "NativeModule _stream_readable",
+    ae71ec09: "NativeModule _stream_writable",
+    ae71ec09: "NativeModule _stream_duplex",
+    ae71ec09: "NativeModule _stream_transform",
+    ae71ec09: "NativeModule _stream_passthrough",
+    ae71ec09: "NativeModule timers",
+    ae71ec09: "Binding timer_wrap",
+    ae71ec09: "NativeModule _linklist",
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+    ae71ec09: hole,
+]
+ae73e3c1: {
+    "gcc_version": ae73e3c1: 47,
+    "node_use_dtrace": ae73e3c1: true,
+    "node_install_npm": ae73e3c1: true,
+    "node_shared_v8": ae73e3c1: false,
+    "node_use_perfctr": ae73e3c1: false,
+    "v8_use_snapshot": ae73e3c1: false,
+    "node_prefix": ae73e3c1: "/",
+    "host_arch": ae73e3c1: "ia32",
+    "clang": ae73e3c1: 0,
+    "node_shared_zlib": ae73e3c1: false,
+    "v8_enable_gdbjit": ae73e3c1: 0,
+    "python": ae73e3c1: "/opt/local/bin/python2.7",
+    "want_separate_host_toolset": ae73e3c1: 0,
+    "target_arch": ae73e3c1: "ia32",
+    "node_tag": ae73e3c1: "",
+    "node_use_etw": ae73e3c1: false,
+    "node_unsafe_optimizations": ae73e3c1: 0,
+    "node_shared_cares": ae73e3c1: false,
+    "node_shared_openssl": ae73e3c1: false,
+    "node_use_openssl": ae73e3c1: true,
+    "node_shared_libuv": ae73e3c1: false,
+    "v8_no_strict_aliasing": ae73e3c1: 1,
+    "node_shared_http_parser": ae73e3c1: false,
+}
+property kind: dictionary 
+ae71c885: [
+    ae71c885: hole,
+    ae71c885: hole,
+    ae71c885: hole,
+    ae71c885: hole,
+    ae71c885: hole,
+    ae71c885: hole,
+    ae71c885: hole,
+    ae71c885: hole,
+]
+ae74aed5: [
+    ae74aed5: "{",
+    ae74aed5: ""request"",
+    ae74aed5: ":",
+    ae74aed5: ""/home/dap/node-testing/test-programs/defer-abort.js"",
+    ae74aed5: ","paths"",
+    ae74aed5: ":",
+    ae74aed5: "[""]",
+    ae74aed5: "}",
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+    ae74aed5: hole,
+]
+ae71d7f5: [
+    ae71d7f5: "exec",
+    ae71d7f5: function exec,
+    ae71d7f5: "test",
+    ae71d7f5: function test,
+    ae71d7f5: "toString",
+    ae71d7f5: function toString,
+    ae71d7f5: "compile",
+    ae71d7f5: function compile,
+]
+ae71b89d: {
+    "stack": ae71b89d: undefined,
+    "arguments": ae71b89d: undefined,
+    "type": ae71b89d: undefined,
+    "name": ae71b89d: "TypeError",
+}
+property kind: in-object 
+ae71c0e1: {
+    "stack": ae71c0e1: undefined,
+    "arguments": ae71c0e1: undefined,
+    "type": ae71c0e1: undefined,
+    "name": ae71c0e1: "URIError",
+}
+property kind: in-object 
+ae71bf6d: {
+    "stack": ae71bf6d: undefined,
+    "arguments": ae71bf6d: undefined,
+    "type": ae71bf6d: undefined,
+    "name": ae71bf6d: "EvalError",
+}
+property kind: in-object 
+ae71bdf9: {
+    "stack": ae71bdf9: undefined,
+    "arguments": ae71bdf9: undefined,
+    "type": ae71bdf9: undefined,
+    "name": ae71bdf9: "ReferenceError",
+}
+property kind: in-object 
+ae71bc6d: {
+    "stack": ae71bc6d: undefined,
+    "arguments": ae71bc6d: undefined,
+    "type": ae71bc6d: undefined,
+    "name": ae71bc6d: "SyntaxError",
+}
+property kind: in-object 
+ae71bac9: {
+    "stack": ae71bac9: undefined,
+    "arguments": ae71bac9: undefined,
+    "type": ae71bac9: undefined,
+    "name": ae71bac9: "RangeError",
+}
+property kind: in-object 
+ae739201: {
+    "bold": ae739201: [...],
+    "italic": ae739201: [...],
+    "underline": ae739201: [...],
+    "inverse": ae739201: [...],
+    "white": ae739201: [...],
+    "grey": ae739201: [...],
+    "black": ae739201: [...],
+    "blue": ae739201: [...],
+    "cyan": ae739201: [...],
+    "green": ae739201: [...],
+    "magenta": ae739201: [...],
+    "red": ae739201: [...],
+    "yellow": ae739201: [...],
+}
+property kind: in-object 
+ae7395d1: {
+    "bold": ae7395d1: [...],
+    "italic": ae7395d1: [...],
+    "underline": ae7395d1: [...],
+    "inverse": ae7395d1: [...],
+    "white": ae7395d1: [...],
+    "grey": ae7395d1: [...],
+    "black": ae7395d1: [...],
+    "blue": ae7395d1: [...],
+    "cyan": ae7395d1: [...],
+    "green": ae7395d1: [...],
+    "magenta": ae7395d1: [...],
+    "red": ae7395d1: [...],
+    "yellow": ae7395d1: [...],
+}
+property kind: in-object 
+ae716e05: [
+    ae716e05: "keys",
+    ae716e05: function keys,
+    ae716e05: "create",
+    ae716e05: function create,
+    ae716e05: "defineProperty",
+    ae716e05: function defineProperty,
+    ae716e05: "defineProperties",
+    ae716e05: function defineProperties,
+    ae716e05: "freeze",
+    ae716e05: function freeze,
+    ae716e05: "getPrototypeOf",
+    ae716e05: function getPrototypeOf,
+    ae716e05: "getOwnPropertyDescriptor",
+    ae716e05: function getOwnPropertyDescriptor,
+    ae716e05: "getOwnPropertyNames",
+    ae716e05: function getOwnPropertyNames,
+    ae716e05: "is",
+    ae716e05: function is,
+    ae716e05: "isExtensible",
+    ae716e05: function isExtensible,
+    ae716e05: "isFrozen",
+    ae716e05: function isFrozen,
+    ae716e05: "isSealed",
+    ae716e05: function isSealed,
+    ae716e05: "preventExtensions",
+    ae716e05: function preventExtensions,
+    ae716e05: "seal",
+    ae716e05: function seal,
+]
+ae71a329: [
+    ae71a329: "lineFromPosition",
+    ae71a329: function ScriptLineFromPosition,
+    ae71a329: "locationFromPosition",
+    ae71a329: function ScriptLocationFromPosition,
+    ae71a329: "locationFromLine",
+    ae71a329: function ScriptLocationFromLine,
+    ae71a329: "sourceSlice",
+    ae71a329: function ScriptSourceSlice,
+    ae71a329: "sourceLine",
+    ae71a329: function ScriptSourceLine,
+    ae71a329: "lineCount",
+    ae71a329: function ScriptLineCount,
+    ae71a329: "nameOrSourceURL",
+    ae71a329: function ScriptNameOrSourceURL,
+]
+ae71d6a1: [
+    ae71d6a1: 10,
+    ae71d6a1: "/home/dap/node-testing/test-programs/defer-abort.js",
+    ae71d6a1: "/home/dap/node-testing/test-programs/defer-abort.js",
+    ae71d6a1: 0,
+    ae71d6a1: 51,
+    ae71d6a1: 0,
+    ae71d6a1: 1,
+    ae71d6a1: 1,
+    ae71d6a1: 37,
+    ae71d6a1: 37,
+    ae71d6a1: 51,
+    ae71d6a1: 48,
+    ae71d6a1: 51,
+    ae71d6a1: hole,
+]
+ae73c441: [
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: <sliced string (parent is not a sequential string)>,
+    ae73c441: "",
+]
+8751545d: {
+    "events": 8751545d: 15,
+    "buffer": 8751545d: 0,
+    "assert": 8751545d: "events",
+    "util": 8751545d: 129,
+    "path": 8751545d: 0,
+    "module": 8751545d: "buffer",
+    "fs": 8751545d: 1310977,
+    "stream": 8751545d: 1,
+    "_stream_readable": 8751545d: "assert",
+    "_stream_writable": 8751545d: 2359681,
+    "_stream_duplex": 8751545d: 2,
+    "_stream_transform": 8751545d: "util",
+    "_stream_passthrough": 8751545d: 1835521,
+    "timers": 8751545d: 3,
+    "_linklist": 8751545d: "path",
+}
+property kind: "properties" array 
+ae7267a1: {
+    "events": ae7267a1: [...],
+    "buffer": ae7267a1: [...],
+    "assert": ae7267a1: [...],
+    "util": ae7267a1: [...],
+    "path": ae7267a1: [...],
+    "module": ae7267a1: [...],
+    "fs": ae7267a1: [...],
+    "stream": ae7267a1: [...],
+    "_stream_readable": ae7267a1: [...],
+    "_stream_writable": ae7267a1: [...],
+    "_stream_duplex": ae7267a1: [...],
+    "_stream_transform": ae7267a1: [...],
+    "_stream_passthrough": ae7267a1: [...],
+    "timers": ae7267a1: [...],
+    "_linklist": ae7267a1: [...],
+}
+property kind: "properties" array 
+ae716469: {
+    "value_": ae716469: undefined,
+    "hasValue_": ae716469: undefined,
+    "writable_": ae716469: undefined,
+    "hasWritable_": ae716469: undefined,
+    "enumerable_": ae716469: undefined,
+    "hasEnumerable_": ae716469: undefined,
+    "configurable_": ae716469: undefined,
+    "hasConfigurable_": ae716469: undefined,
+    "get_": ae716469: undefined,
+    "hasGetter_": ae716469: undefined,
+    "set_": ae716469: undefined,
+    "hasSetter_": ae716469: undefined,
+    "toString": ae716469: function <anonymous> (as $Array.value_),
+    "setValue": ae716469: function <anonymous> (as $Array.enumerable_),
+    "getValue": ae716469: function <anonymous> (as $Array.enumerable_),
+    "hasValue": ae716469: function <anonymous> (as $Array.enumerable_),
+    "setEnumerable": ae716469: function <anonymous> (as $Array.writable_),
+    "isEnumerable": ae716469: function <anonymous> (as $Array.writable_),
+    "hasEnumerable": ae716469: function <anonymous> (as $Array.writable_),
+    "setWritable": ae716469: function <anonymous> (as $Array.configurable_),
+    "isWritable": ae716469: function <anonymous> (as $Array.configurable_),
+    "hasWritable": ae716469: function <anonymous> (as $Array.configurable_),
+    "setConfigurable": ae716469: function <anonymous> (as $Array.get_),
+    "hasConfigurable": ae716469: function <anonymous> (as $Array.get_),
+    "isConfigurable": ae716469: function <anonymous> (as $Array.get_),
+    "setGet": ae716469: function <anonymous> (as $Array.set_),
+    "getGet": ae716469: function <anonymous> (as $Array.set_),
+    "hasGetter": ae716469: function <anonymous> (as $Array.set_),
+    "setSet": ae716469: function <anonymous> (as <anon>),
+    "getSet": ae716469: function <anonymous> (as <anon>),
+    "hasSetter": ae716469: function <anonymous> (as <anon>),
+}
+property kind: "properties" array 
+ae71acc1: [
+    ae71acc1: "getThis",
+    ae71acc1: function CallSiteGetThis,
+    ae71acc1: "getTypeName",
+    ae71acc1: function CallSiteGetTypeName,
+    ae71acc1: "isToplevel",
+    ae71acc1: function CallSiteIsToplevel,
+    ae71acc1: "isEval",
+    ae71acc1: function CallSiteIsEval,
+    ae71acc1: "getEvalOrigin",
+    ae71acc1: function CallSiteGetEvalOrigin,
+    ae71acc1: "getScriptNameOrSourceURL",
+    ae71acc1: function CallSiteGetScriptNameOrSourceURL,
+    ae71acc1: "getFunction",
+    ae71acc1: function CallSiteGetFunction,
+    ae71acc1: "getFunctionName",
+    ae71acc1: function CallSiteGetFunctionName,
+    ae71acc1: "getMethodName",
+    ae71acc1: function CallSiteGetMethodName,
+    ae71acc1: "getFileName",
+    ae71acc1: function CallSiteGetFileName,
+    ae71acc1: "getLineNumber",
+    ae71acc1: function CallSiteGetLineNumber,
+    ae71acc1: "getColumnNumber",
+    ae71acc1: function CallSiteGetColumnNumber,
+    ae71acc1: "isNative",
+    ae71acc1: function CallSiteIsNative,
+    ae71acc1: "getPosition",
+    ae71acc1: function CallSiteGetPosition,
+    ae71acc1: "isConstructor",
+    ae71acc1: function CallSiteIsConstructor,
+    ae71acc1: "toString",
+    ae71acc1: function CallSiteToString,
+]
+ae71ac9d: [
+    ae71ac9d: "receiver",
+    ae71ac9d: "fun",
+    ae71ac9d: "pos",
+]
+ae780615: [
+    ae780615: "",
+    ae780615: "home",
+    ae780615: "node_modules",
+]
+ae7805b9: [
+    ae7805b9: "",
+    ae7805b9: "home",
+    ae7805b9: "node_modules",
+]
+ae78044d: [
+    ae78044d: "",
+    ae78044d: "home",
+    ae78044d: "dap",
+]
+ae74ade1: [
+    ae74ade1: ".js",
+    ae74ade1: ".json",
+    ae74ade1: ".node",
+]
+ae74a7c5: [
+    ae74a7c5: "/home/dap/.node_modules",
+    ae74a7c5: "/home/dap/.node_libraries",
+    ae74a7c5: "/home/dap/node-testing/node-v0.10.30-sunos-x86/lib/node",
+]
+ae74a755: [
+    ae74a755: "home",
+    ae74a755: "dap",
+    ae74a755: ".node_modules",
+]
+ae74a69d: [
+    ae74a69d: "home",
+    ae74a69d: "dap",
+    ae74a69d: ".node_modules",
+    ae74a69d: hole,
+]
+ae74a4c9: [
+    ae74a4c9: "home",
+    ae74a4c9: "dap",
+    ae74a4c9: ".node_libraries",
+]
+ae74a411: [
+    ae74a411: "home",
+    ae74a411: "dap",
+    ae74a411: ".node_libraries",
+    ae74a411: hole,
+]
+ae749de9: [
+    ae749de9: "/home/dap/.node_modules",
+    ae749de9: "/home/dap/.node_libraries",
+    ae749de9: "/home/dap/node-testing/node-v0.10.30-sunos-x86/lib/node",
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+    ae749de9: hole,
+]
+ae719ba5: [
+    ae719ba5: "random",
+    ae719ba5: function random,
+    ae719ba5: "abs",
+    ae719ba5: function abs,
+    ae719ba5: "acos",
+    ae719ba5: function acos,
+    ae719ba5: "asin",
+    ae719ba5: function asin,
+    ae719ba5: "atan",
+    ae719ba5: function atan,
+    ae719ba5: "ceil",
+    ae719ba5: function ceil,
+    ae719ba5: "cos",
+    ae719ba5: function cos,
+    ae719ba5: "exp",
+    ae719ba5: function exp,
+    ae719ba5: "floor",
+    ae719ba5: function floor,
+    ae719ba5: "log",
+    ae719ba5: function log,
+    ae719ba5: "round",
+    ae719ba5: function round,
+    ae719ba5: "sin",
+    ae719ba5: function sin,
+    ae719ba5: "sqrt",
+    ae719ba5: function sqrt,
+    ae719ba5: "tan",
+    ae719ba5: function tan,
+    ae719ba5: "atan2",
+    ae719ba5: function atan2,
+    ae719ba5: "pow",
+    ae719ba5: function pow,
+    ae719ba5: "max",
+    ae719ba5: function max,
+    ae719ba5: "min",
+    ae719ba5: function min,
+]
+ae7163b9: [
+    ae7163b9: "toString",
+    ae7163b9: function <anonymous> (as $Array.value_),
+    ae7163b9: "setValue",
+    ae7163b9: function <anonymous> (as $Array.enumerable_),
+    ae7163b9: "getValue",
+    ae7163b9: function <anonymous> (as $Array.enumerable_),
+    ae7163b9: "hasValue",
+    ae7163b9: function <anonymous> (as $Array.enumerable_),
+    ae7163b9: "setEnumerable",
+    ae7163b9: function <anonymous> (as $Array.writable_),
+    ae7163b9: "isEnumerable",
+    ae7163b9: function <anonymous> (as $Array.writable_),
+    ae7163b9: "hasEnumerable",
+    ae7163b9: function <anonymous> (as $Array.writable_),
+    ae7163b9: "setWritable",
+    ae7163b9: function <anonymous> (as $Array.configurable_),
+    ae7163b9: "isWritable",
+    ae7163b9: function <anonymous> (as $Array.configurable_),
+    ae7163b9: "hasWritable",
+    ae7163b9: function <anonymous> (as $Array.configurable_),
+    ae7163b9: "setConfigurable",
+    ae7163b9: function <anonymous> (as $Array.get_),
+    ae7163b9: "hasConfigurable",
+    ae7163b9: function <anonymous> (as $Array.get_),
+    ae7163b9: "isConfigurable",
+    ae7163b9: function <anonymous> (as $Array.get_),
+    ae7163b9: "setGet",
+    ae7163b9: function <anonymous> (as $Array.set_),
+    ae7163b9: "getGet",
+    ae7163b9: function <anonymous> (as $Array.set_),
+    ae7163b9: "hasGetter",
+    ae7163b9: function <anonymous> (as $Array.set_),
+    ae7163b9: "setSet",
+    ae7163b9: function <anonymous> (as <anon>),
+    ae7163b9: "getSet",
+    ae7163b9: function <anonymous> (as <anon>),
+    ae7163b9: "hasSetter",
+    ae7163b9: function <anonymous> (as <anon>),
+]
+875157e1: {
+    "version": 875157e1: <unknown JavaScript object type "AccessorInfo">,
+    "moduleLoadList": 875157e1: 0,
+    "versions": 875157e1: "version",
+    "arch": 875157e1: 8388739,
+    "platform": 875157e1: "moduleLoadList",
+    "argv": 875157e1: "title",
+    "execArgv": 875157e1: 15729025,
+    "env": 875157e1: 1,
+    "pid": 875157e1: 12845313,
+    "features": 875157e1: 66,
+    "execPath": 875157e1: 4,
+    "_tickInfoBox": 875157e1: "versions",
+    "_events": 875157e1: 7078401,
+    "domain": 875157e1: 5,
+    "_maxListeners": 875157e1: "arch",
+    "_exiting": 875157e1: 13632129,
+    "config": 875157e1: 3,
+    "maxTickDepth": 875157e1: "platform",
+    "mainModule": 875157e1: 2884353,
+}
+property kind: "properties" array 
+ae71e9a9: {
+    "version": ae71e9a9: "v0.10.30",
+    "moduleLoadList": ae71e9a9: [...],
+    "versions": ae71e9a9: [...],
+    "arch": ae71e9a9: "ia32",
+    "platform": ae71e9a9: "sunos",
+    "argv": ae71e9a9: [...],
+    "execArgv": ae71e9a9: [...],
+    "env": ae71e9a9: [...],
+    "pid": ae71e9a9: 17586,
+    "features": ae71e9a9: [...],
+    "execPath": ae71e9a9: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/no
+de",
+    "_tickInfoBox": ae71e9a9: [...],
+    "_events": ae71e9a9: [...],
+    "domain": ae71e9a9: null,
+    "_maxListeners": ae71e9a9: 10,
+    "_exiting": ae71e9a9: false,
+    "config": ae71e9a9: [...],
+    "maxTickDepth": ae71e9a9: 1000,
+    "mainModule": ae71e9a9: [...],
+}
+property kind: "properties" array 
+ae7254b5: {
+    "events": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "dns": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "module": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "net": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "tty": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "readline": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "domain": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "repl": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "tls": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "constants": ae7254b5: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_duplex": ae7254b5: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_writable": ae7254b5: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "fs": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "buffer": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "console": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "os": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "assert": ae7254b5: "// http://wiki.commonjs.org/wiki/Unit_Testing/1.0
+//
+// THIS IS NOT TESTED NOR LIKELY TO WORK OUTSIDE V8!
+//
+// Originally from narwhal.js (http://narwhaljs.",
+    "path": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "querystring": ae7254b5: "// Copyright Joyent, Inc. and other Node contribut
+ors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "url": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_readable": ae7254b5: "// Copyright Joyent, Inc. and other Node cont
+ributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_transform": ae7254b5: "// Copyright Joyent, Inc. and other Node con
+tributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "stream": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "crypto": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "timers": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "zlib": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_linklist": ae7254b5: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "http": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "child_process": ae7254b5: "// Copyright Joyent, Inc. and other Node contrib
+utors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "string_decoder": ae7254b5: "// Copyright Joyent, Inc. and other Node contri
+butors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_debugger": ae7254b5: "// Copyright Joyent, Inc. and other Node contributor
+s.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "https": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "util": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "freelist": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors
+.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "punycode": ae7254b5: "/*! http://mths.be/punycode v1.2.0 by @mathias */
+;(function(root) {
+
+        /**
+         * The `punycode` object.
+         * @name punycode
+         * @type Object
+         */
+        var punycode,",
+    "sys": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "dgram": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "_stream_passthrough": ae7254b5: "// Copyright Joyent, Inc. and other Node c
+ontributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "vm": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+    "cluster": ae7254b5: "// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software",
+}
+property kind: dictionary 
+ae7211e1: {
+    "0": ae7211e1: 3,
+    "1": ae7211e1: "BYTES_PER_ELEMENT",
+    "2": ae7211e1: 1,
+    "3": ae7211e1: 1,
+}
+property kind: numeric-named 
+ae785005: {
+    "0": ae785005: 3,
+    "1": ae785005: "now",
+    "2": ae785005: function <anonymous> (as <anon>),
+    "3": ae785005: 0,
+}
+property kind: numeric-named 
+ae7229c9: {
+    "0": ae7229c9: 3,
+    "1": ae7229c9: "BYTES_PER_ELEMENT",
+    "2": ae7229c9: 8,
+    "3": ae7229c9: 1,
+}
+property kind: numeric-named 
+ae722795: {
+    "0": ae722795: 3,
+    "1": ae722795: "BYTES_PER_ELEMENT",
+    "2": ae722795: 4,
+    "3": ae722795: 1,
+}
+property kind: numeric-named 
+ae722561: {
+    "0": ae722561: 3,
+    "1": ae722561: "BYTES_PER_ELEMENT",
+    "2": ae722561: 4,
+    "3": ae722561: 1,
+}
+property kind: numeric-named 
+ae72219d: {
+    "0": ae72219d: 3,
+    "1": ae72219d: "BYTES_PER_ELEMENT",
+    "2": ae72219d: 4,
+    "3": ae72219d: 1,
+}
+property kind: numeric-named 
+ae721f69: {
+    "0": ae721f69: 3,
+    "1": ae721f69: "BYTES_PER_ELEMENT",
+    "2": ae721f69: 2,
+    "3": ae721f69: 1,
+}
+property kind: numeric-named 
+ae721d35: {
+    "0": ae721d35: 3,
+    "1": ae721d35: "BYTES_PER_ELEMENT",
+    "2": ae721d35: 2,
+    "3": ae721d35: 1,
+}
+property kind: numeric-named 
+ae721af9: {
+    "0": ae721af9: 3,
+    "1": ae721af9: "BYTES_PER_ELEMENT",
+    "2": ae721af9: 1,
+    "3": ae721af9: 1,
+}
+property kind: numeric-named 
+ae7218ad: {
+    "0": ae7218ad: 3,
+    "1": ae7218ad: "BYTES_PER_ELEMENT",
+    "2": ae7218ad: 1,
+    "3": ae7218ad: 1,
+}
+property kind: numeric-named 
+ae72934d: [
+    ae72934d: "constructor",
+    ae72934d: hole,
+    ae72934d: hole,
+    ae72934d: hole,
+]
+ae780669: [ ae780669: "" ]
+ae77fae5: [
+    ae77fae5: ""."",
+    ae77fae5: hole,
+    ae77fae5: hole,
+    ae77fae5: hole,
+]
+ae77f9f5: [
+    ae77f9f5: ""/home/dap/node-testing/test-programs/defer-abort.js"",
+    ae77f9f5: hole,
+    ae77f9f5: hole,
+    ae77f9f5: hole,
+]
+ae77dd69: [ ae77dd69: "/" ]
+ae77d155: [
+    ae77d155: [...],
+    ae77d155: hole,
+    ae77d155: hole,
+    ae77d155: hole,
+]
+ae77d12d: [
+    ae77d12d: "constructor",
+    ae77d12d: hole,
+    ae77d12d: hole,
+    ae77d12d: hole,
+]
+ae77ceb1: [
+    ae77ceb1: [...],
+    ae77ceb1: hole,
+    ae77ceb1: hole,
+    ae77ceb1: hole,
+]
+ae77ce89: [
+    ae77ce89: "constructor",
+    ae77ce89: hole,
+    ae77ce89: hole,
+    ae77ce89: hole,
+]
+ae77cb91: [
+    ae77cb91: [...],
+    ae77cb91: hole,
+    ae77cb91: hole,
+    ae77cb91: hole,
+]
+ae77cb69: [
+    ae77cb69: "constructor",
+    ae77cb69: hole,
+    ae77cb69: hole,
+    ae77cb69: hole,
+]
+ae77c40d: [
+    ae77c40d: [...],
+    ae77c40d: hole,
+    ae77c40d: hole,
+    ae77c40d: hole,
+]
+ae77c3e5: [
+    ae77c3e5: "constructor",
+    ae77c3e5: hole,
+    ae77c3e5: hole,
+    ae77c3e5: hole,
+]
+ae77c241: [
+    ae77c241: [...],
+    ae77c241: hole,
+    ae77c241: hole,
+    ae77c241: hole,
+]
+ae77c219: [
+    ae77c219: "constructor",
+    ae77c219: hole,
+    ae77c219: hole,
+    ae77c219: hole,
+]
+ae77af19: [
+    ae77af19: [...],
+    ae77af19: hole,
+    ae77af19: hole,
+    ae77af19: hole,
+]
+ae77aef1: [
+    ae77aef1: "constructor",
+    ae77aef1: hole,
+    ae77aef1: hole,
+    ae77aef1: hole,
+]
+ae77a305: [
+    ae77a305: [...],
+    ae77a305: hole,
+    ae77a305: hole,
+    ae77a305: hole,
+]
+ae77a2dd: [
+    ae77a2dd: "constructor",
+    ae77a2dd: hole,
+    ae77a2dd: hole,
+    ae77a2dd: hole,
+]
+ae7780a5: [
+    ae7780a5: [...],
+    ae7780a5: hole,
+    ae7780a5: hole,
+    ae7780a5: hole,
+]
+ae77807d: [
+    ae77807d: "constructor",
+    ae77807d: hole,
+    ae77807d: hole,
+    ae77807d: hole,
+]
+ae7772ed: [
+    ae7772ed: [...],
+    ae7772ed: hole,
+    ae7772ed: hole,
+    ae7772ed: hole,
+]
+ae7772c5: [
+    ae7772c5: "constructor",
+    ae7772c5: hole,
+    ae7772c5: hole,
+    ae7772c5: hole,
+]
+ae773c99: [
+    ae773c99: [...],
+    ae773c99: hole,
+    ae773c99: hole,
+    ae773c99: hole,
+]
+ae773c71: [
+    ae773c71: "constructor",
+    ae773c71: hole,
+    ae773c71: hole,
+    ae773c71: hole,
+]
+ae76ca61: [
+    ae76ca61: [...],
+    ae76ca61: hole,
+    ae76ca61: hole,
+    ae76ca61: hole,
+]
+ae76ca39: [
+    ae76ca39: "constructor",
+    ae76ca39: hole,
+    ae76ca39: hole,
+    ae76ca39: hole,
+]
+ae74ae01: [ ae74ae01: "" ]
+ae74adf1: [ ae74adf1: "" ]
+ae74a859: [
+    ae74a859: ""/home/dap/node-testing/test-programs/defer-abort.js"",
+    ae74a859: hole,
+    ae74a859: hole,
+    ae74a859: hole,
+]
+ae74a1dd: [ ae74a1dd: "bin" ]
+ae74a1c1: [ ae74a1c1: "node" ]
+ae74a1a5: [ ae74a1a5: ".." ]
+ae74a189: [ ae74a189: ".." ]
+ae749dcd: [ ae749dcd: 0 ]
+ae745275: [ ae745275: "cores-v0.10.30-x86" ]
+ae745259: [ ae745259: ".." ]
+ae73a5fd: [
+    ae73a5fd: [...],
+    ae73a5fd: hole,
+    ae73a5fd: hole,
+    ae73a5fd: hole,
+]
+ae73a5c5: [
+    ae73a5c5: "constructor",
+    ae73a5c5: hole,
+    ae73a5c5: hole,
+    ae73a5c5: hole,
+]
+ae7293b9: [
+    ae7293b9: [...],
+    ae7293b9: hole,
+    ae7293b9: hole,
+    ae7293b9: hole,
+]
+ae71815d: [
+    ae71815d: "toString",
+    ae71815d: function toString,
+    ae71815d: "toLocaleString",
+    ae71815d: function toLocaleString,
+    ae71815d: "join",
+    ae71815d: function join,
+    ae71815d: "pop",
+    ae71815d: function pop,
+    ae71815d: "push",
+    ae71815d: function push,
+    ae71815d: "concat",
+    ae71815d: function concat,
+    ae71815d: "reverse",
+    ae71815d: function reverse,
+    ae71815d: "shift",
+    ae71815d: function shift,
+    ae71815d: "unshift",
+    ae71815d: function unshift,
+    ae71815d: "slice",
+    ae71815d: function slice,
+    ae71815d: "splice",
+    ae71815d: function splice,
+    ae71815d: "sort",
+    ae71815d: function sort,
+    ae71815d: "filter",
+    ae71815d: function filter,
+    ae71815d: "forEach",
+    ae71815d: function forEach,
+    ae71815d: "some",
+    ae71815d: function some,
+    ae71815d: "every",
+    ae71815d: function every,
+    ae71815d: "map",
+    ae71815d: function map,
+    ae71815d: "indexOf",
+    ae71815d: function indexOf,
+    ae71815d: "lastIndexOf",
+    ae71815d: function lastIndexOf,
+    ae71815d: "reduce",
+    ae71815d: function reduce,
+    ae71815d: "reduceRight",
+    ae71815d: function reduceRight,
+]
+ae73a411: {
+    "value": ae73a411: undefined,
+    "enumerable": ae73a411: false,
+    "writable": ae73a411: true,
+    "configurable": ae73a411: true,
+}
+property kind: in-object 
+ae77d0ed: {
+    "value": ae77d0ed: function SyncWriteStream,
+    "enumerable": ae77d0ed: false,
+    "writable": ae77d0ed: true,
+    "configurable": ae77d0ed: true,
+}
+property kind: in-object 
+ae77cdcd: {
+    "value": ae77cdcd: function WriteStream,
+    "enumerable": ae77cdcd: false,
+    "writable": ae77cdcd: true,
+    "configurable": ae77cdcd: true,
+}
+property kind: in-object 
+ae77cb29: {
+    "value": ae77cb29: function ReadStream,
+    "enumerable": ae77cb29: false,
+    "writable": ae77cb29: true,
+    "configurable": ae77cb29: true,
+}
+property kind: in-object 
+ae77c3a5: {
+    "value": ae77c3a5: function StatWatcher,
+    "enumerable": ae77c3a5: false,
+    "writable": ae77c3a5: true,
+    "configurable": ae77c3a5: true,
+}
+property kind: in-object 
+ae77c1d9: {
+    "value": ae77c1d9: function FSWatcher,
+    "enumerable": ae77c1d9: false,
+    "writable": ae77c1d9: true,
+    "configurable": ae77c1d9: true,
+}
+property kind: in-object 
+ae77aeb1: {
+    "value": ae77aeb1: function PassThrough,
+    "enumerable": ae77aeb1: false,
+    "writable": ae77aeb1: true,
+    "configurable": ae77aeb1: true,
+}
+property kind: in-object 
+ae77a29d: {
+    "value": ae77a29d: function Transform,
+    "enumerable": ae77a29d: false,
+    "writable": ae77a29d: true,
+    "configurable": ae77a29d: true,
+}
+property kind: in-object 
+ae77803d: {
+    "value": ae77803d: function Duplex,
+    "enumerable": ae77803d: false,
+    "writable": ae77803d: true,
+    "configurable": ae77803d: true,
+}
+property kind: in-object 
+ae777285: {
+    "value": ae777285: function Writable,
+    "enumerable": ae777285: false,
+    "writable": ae777285: true,
+    "configurable": ae777285: true,
+}
+property kind: in-object 
+ae773bf5: {
+    "value": ae773bf5: function Readable,
+    "enumerable": ae773bf5: false,
+    "writable": ae773bf5: true,
+    "configurable": ae773bf5: true,
+}
+property kind: in-object 
+ae76c9e9: {
+    "value": ae76c9e9: function Stream,
+    "enumerable": ae76c9e9: false,
+    "writable": ae76c9e9: true,
+    "configurable": ae76c9e9: true,
+}
+property kind: in-object 
+ae73a525: {
+    "value": ae73a525: function AssertionError,
+    "enumerable": ae73a525: false,
+    "writable": ae73a525: true,
+    "configurable": ae73a525: true,
+}
+property kind: in-object 
+ae71874d: [
+    ae71874d: "join",
+    ae71874d: function join,
+    ae71874d: "pop",
+    ae71874d: function pop,
+    ae71874d: "push",
+    ae71874d: function push,
+]
+ae7801f9: [
+    ae7801f9: "",
+    ae7801f9: "home",
+    ae7801f9: "dap",
+    ae7801f9: "node-testing",
+    ae7801f9: "test-programs",
+    ae7801f9: "node_modules",
+]
+ae78019d: [
+    ae78019d: "",
+    ae78019d: "home",
+    ae78019d: "dap",
+    ae78019d: "node-testing",
+    ae78019d: "test-programs",
+    ae78019d: "node_modules",
+]
+ae77fd51: [
+    ae77fd51: "",
+    ae77fd51: "home",
+    ae77fd51: "dap",
+    ae77fd51: "node-testing",
+    ae77fd51: "test-programs",
+    ae77fd51: "",
+]
+ae74a245: [
+    ae74a245: "home",
+    ae74a245: "dap",
+    ae74a245: "node-testing",
+    ae74a245: "node-v0.10.30-sunos-x86",
+    ae74a245: "lib",
+    ae74a245: "node",
+]
+ae74a091: [
+    ae74a091: "home",
+    ae74a091: "dap",
+    ae74a091: "node-testing",
+    ae74a091: "node-v0.10.30-sunos-x86",
+    ae74a091: "lib",
+    ae74a091: "node",
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+    ae74a091: hole,
+]
+ae71c8bd: [
+    ae71c8bd: "UTC",
+    ae71c8bd: function UTC,
+    ae71c8bd: "parse",
+    ae71c8bd: function parse,
+    ae71c8bd: "now",
+    ae71c8bd: function now,
+]
+ae71a685: [
+    ae71a685: "script",
+    ae71a685: "position",
+    ae71a685: "line",
+    ae71a685: "column",
+    ae71a685: "start",
+    ae71a685: "end",
+]
+ae718a1d: [
+    ae718a1d: "add",
+    ae718a1d: function <anonymous> (as c),
+    ae718a1d: "addSpecialSlice",
+    ae718a1d: function <anonymous> (as a),
+    ae718a1d: "generate",
+    ae718a1d: function <anonymous> (as <anon>),
+]
+ae73c715: [
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: <sliced string (parent is not a sequential string)>,
+    ae73c715: "",
+]
+ae73c7a1: [
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: <sliced string (parent is not a sequential string)>,
+    ae73c7a1: "",
+]
+ae717345: [
+    ae717345: "toString",
+    ae717345: function toString,
+    ae717345: "valueOf",
+    ae717345: function valueOf,
+]
+ae781319: [
+    ae781319: "/",
+    ae781319: "home/dap/node-testing/test-programs/",
+    ae781319: "defer-abort.js",
+    ae781319: ".js",
+]
+ae780865: [
+    ae780865: "/",
+    ae780865: "home/dap/node-testing/test-programs/",
+    ae780865: "defer-abort.js",
+    ae780865: ".js",
+]
+ae780505: [
+    ae780505: "",
+    ae780505: "home",
+    ae780505: "dap",
+    ae780505: "node_modules",
+]
+ae7804a9: [
+    ae7804a9: "",
+    ae7804a9: "home",
+    ae7804a9: "dap",
+    ae7804a9: "node_modules",
+]
+ae78030d: [
+    ae78030d: "",
+    ae78030d: "home",
+    ae78030d: "dap",
+    ae78030d: "node-testing",
+]
+ae77febd: [
+    ae77febd: "home",
+    ae77febd: "dap",
+    ae77febd: "node-testing",
+    ae77febd: "test-programs",
+]
+ae77fe05: [
+    ae77fe05: "home",
+    ae77fe05: "dap",
+    ae77fe05: "node-testing",
+    ae77fe05: "test-programs",
+]
+ae77fc21: [
+    ae77fc21: "/",
+    ae77fc21: "home/dap/node-testing/test-programs/",
+    ae77fc21: "defer-abort.js",
+    ae77fc21: ".js",
+]
+ae7781c9: [
+    ae7781c9: "pipe",
+    ae7781c9: "write",
+    ae7781c9: "_write",
+    ae7781c9: "end",
+]
+ae71d5ed: [
+    ae71d5ed: "parse",
+    ae71d5ed: function parse,
+    ae71d5ed: "stringify",
+    ae71d5ed: function stringify,
+]
+ae71a6b5: [
+    ae71a6b5: "restrict",
+    ae71a6b5: function SourceLocationRestrict,
+    ae71a6b5: "sourceText",
+    ae71a6b5: function SourceLocationSourceText,
+]
+ae718969: [
+    ae718969: hole,
+    ae718969: hole,
+    ae718969: hole,
+    ae718969: hole,
+]
+ae717a89: [
+    ae717a89: "bind",
+    ae717a89: function bind,
+    ae717a89: "toString",
+    ae717a89: function toString,
+]
+ae71792d: [
+    ae71792d: "isFinite",
+    ae71792d: function isFinite,
+    ae71792d: "isNaN",
+    ae71792d: function isNaN,
+]
+ae726a51: {
+    "filename": ae726a51: "events.js",
+    "id": ae726a51: "events",
+    "exports": ae726a51: [...],
+    "loaded": ae726a51: true,
+}
+property kind: in-object 
+ae785b49: {
+    "filename": ae785b49: "_linklist.js",
+    "id": ae785b49: "_linklist",
+    "exports": ae785b49: [...],
+    "loaded": ae785b49: true,
+}
+property kind: in-object 
+ae78151d: {
+    "filename": ae78151d: "timers.js",
+    "id": ae78151d: "timers",
+    "exports": ae78151d: [...],
+    "loaded": ae78151d: true,
+}
+property kind: in-object 
+ae77a671: {
+    "filename": ae77a671: "_stream_passthrough.js",
+    "id": ae77a671: "_stream_passthrough",
+    "exports": ae77a671: function PassThrough,
+    "loaded": ae77a671: true,
+}
+property kind: in-object 
+ae778315: {
+    "filename": ae778315: "_stream_transform.js",
+    "id": ae778315: "_stream_transform",
+    "exports": ae778315: function Transform,
+    "loaded": ae778315: true,
+}
+property kind: in-object 
+ae7774f9: {
+    "filename": ae7774f9: "_stream_duplex.js",
+    "id": ae7774f9: "_stream_duplex",
+    "exports": ae7774f9: function Duplex,
+    "loaded": ae7774f9: true,
+}
+property kind: in-object 
+ae7740f9: {
+    "filename": ae7740f9: "_stream_writable.js",
+    "id": ae7740f9: "_stream_writable",
+    "exports": ae7740f9: function Writable,
+    "loaded": ae7740f9: true,
+}
+property kind: in-object 
+ae76cbc1: {
+    "filename": ae76cbc1: "_stream_readable.js",
+    "id": ae76cbc1: "_stream_readable",
+    "exports": ae76cbc1: function Readable,
+    "loaded": ae76cbc1: true,
+}
+property kind: in-object 
+ae76b9dd: {
+    "filename": ae76b9dd: "stream.js",
+    "id": ae76b9dd: "stream",
+    "exports": ae76b9dd: function Stream,
+    "loaded": ae76b9dd: true,
+}
+property kind: in-object 
+ae74b4e5: {
+    "filename": ae74b4e5: "fs.js",
+    "id": ae74b4e5: "fs",
+    "exports": ae74b4e5: [...],
+    "loaded": ae74b4e5: true,
+}
+property kind: in-object 
+ae7453f1: {
+    "filename": ae7453f1: "module.js",
+    "id": ae7453f1: "module",
+    "exports": ae7453f1: function Module,
+    "loaded": ae7453f1: true,
+}
+property kind: in-object 
+ae7406b5: {
+    "filename": ae7406b5: "path.js",
+    "id": ae7406b5: "path",
+    "exports": ae7406b5: [...],
+    "loaded": ae7406b5: true,
+}
+property kind: in-object 
+ae7343b9: {
+    "filename": ae7343b9: "util.js",
+    "id": ae7343b9: "util",
+    "exports": ae7343b9: [...],
+    "loaded": ae7343b9: true,
+}
+property kind: in-object 
+ae73159d: {
+    "filename": ae73159d: "assert.js",
+    "id": ae73159d: "assert",
+    "exports": ae73159d: function ok,
+    "loaded": ae73159d: true,
+}
+property kind: in-object 
+ae729e75: {
+    "filename": ae729e75: "buffer.js",
+    "id": ae729e75: "buffer",
+    "exports": ae729e75: [...],
+    "loaded": ae729e75: true,
+}
+property kind: in-object 
+ae718d7d: [
+    ae718d7d: "valueOf",
+    ae718d7d: function valueOf,
+    ae718d7d: "toString",
+    ae718d7d: function toString,
+    ae718d7d: "charAt",
+    ae718d7d: function charAt,
+    ae718d7d: "charCodeAt",
+    ae718d7d: function charCodeAt,
+    ae718d7d: "concat",
+    ae718d7d: function concat,
+    ae718d7d: "indexOf",
+    ae718d7d: function indexOf,
+    ae718d7d: "lastIndexOf",
+    ae718d7d: function lastIndexOf,
+    ae718d7d: "localeCompare",
+    ae718d7d: function localeCompare,
+    ae718d7d: "match",
+    ae718d7d: function match,
+    ae718d7d: "replace",
+    ae718d7d: function replace,
+    ae718d7d: "search",
+    ae718d7d: function search,
+    ae718d7d: "slice",
+    ae718d7d: function slice,
+    ae718d7d: "split",
+    ae718d7d: function split,
+    ae718d7d: "substring",
+    ae718d7d: function substring,
+    ae718d7d: "substr",
+    ae718d7d: function substr,
+    ae718d7d: "toLowerCase",
+    ae718d7d: function toLowerCase,
+    ae718d7d: "toLocaleLowerCase",
+    ae718d7d: function toLocaleLowerCase,
+    ae718d7d: "toUpperCase",
+    ae718d7d: function toUpperCase,
+    ae718d7d: "toLocaleUpperCase",
+    ae718d7d: function toLocaleUpperCase,
+    ae718d7d: "trim",
+    ae718d7d: function trim,
+    ae718d7d: "trimLeft",
+    ae718d7d: function trimLeft,
+    ae718d7d: "trimRight",
+    ae718d7d: function trimRight,
+    ae718d7d: "link",
+    ae718d7d: function link,
+    ae718d7d: "anchor",
+    ae718d7d: function anchor,
+    ae718d7d: "fontcolor",
+    ae718d7d: function fontcolor,
+    ae718d7d: "fontsize",
+    ae718d7d: function fontsize,
+    ae718d7d: "big",
+    ae718d7d: function big,
+    ae718d7d: "blink",
+    ae718d7d: function blink,
+    ae718d7d: "bold",
+    ae718d7d: function bold,
+    ae718d7d: "fixed",
+    ae718d7d: function fixed,
+    ae718d7d: "italics",
+    ae718d7d: function italics,
+    ae718d7d: "small",
+    ae718d7d: function small,
+    ae718d7d: "strike",
+    ae718d7d: function strike,
+    ae718d7d: "sub",
+    ae718d7d: function sub,
+    ae718d7d: "sup",
+    ae718d7d: function sup,
+]
+ae71ca35: [
+    ae71ca35: "toString",
+    ae71ca35: function toString,
+    ae71ca35: "toDateString",
+    ae71ca35: function toDateString,
+    ae71ca35: "toTimeString",
+    ae71ca35: function toTimeString,
+    ae71ca35: "toLocaleString",
+    ae71ca35: function toLocaleString,
+    ae71ca35: "toLocaleDateString",
+    ae71ca35: function toLocaleDateString,
+    ae71ca35: "toLocaleTimeString",
+    ae71ca35: function toLocaleTimeString,
+    ae71ca35: "valueOf",
+    ae71ca35: function valueOf,
+    ae71ca35: "getTime",
+    ae71ca35: function getTime,
+    ae71ca35: "getFullYear",
+    ae71ca35: function getFullYear,
+    ae71ca35: "getUTCFullYear",
+    ae71ca35: function getUTCFullYear,
+    ae71ca35: "getMonth",
+    ae71ca35: function getMonth,
+    ae71ca35: "getUTCMonth",
+    ae71ca35: function getUTCMonth,
+    ae71ca35: "getDate",
+    ae71ca35: function getDate,
+    ae71ca35: "getUTCDate",
+    ae71ca35: function getUTCDate,
+    ae71ca35: "getDay",
+    ae71ca35: function getDay,
+    ae71ca35: "getUTCDay",
+    ae71ca35: function getUTCDay,
+    ae71ca35: "getHours",
+    ae71ca35: function getHours,
+    ae71ca35: "getUTCHours",
+    ae71ca35: function getUTCHours,
+    ae71ca35: "getMinutes",
+    ae71ca35: function getMinutes,
+    ae71ca35: "getUTCMinutes",
+    ae71ca35: function getUTCMinutes,
+    ae71ca35: "getSeconds",
+    ae71ca35: function getSeconds,
+    ae71ca35: "getUTCSeconds",
+    ae71ca35: function getUTCSeconds,
+    ae71ca35: "getMilliseconds",
+    ae71ca35: function getMilliseconds,
+    ae71ca35: "getUTCMilliseconds",
+    ae71ca35: function getUTCMilliseconds,
+    ae71ca35: "getTimezoneOffset",
+    ae71ca35: function getTimezoneOffset,
+    ae71ca35: "setTime",
+    ae71ca35: function setTime,
+    ae71ca35: "setMilliseconds",
+    ae71ca35: function setMilliseconds,
+    ae71ca35: "setUTCMilliseconds",
+    ae71ca35: function setUTCMilliseconds,
+    ae71ca35: "setSeconds",
+    ae71ca35: function setSeconds,
+    ae71ca35: "setUTCSeconds",
+    ae71ca35: function setUTCSeconds,
+    ae71ca35: "setMinutes",
+    ae71ca35: function setMinutes,
+    ae71ca35: "setUTCMinutes",
+    ae71ca35: function setUTCMinutes,
+    ae71ca35: "setHours",
+    ae71ca35: function setHours,
+    ae71ca35: "setUTCHours",
+    ae71ca35: function setUTCHours,
+    ae71ca35: "setDate",
+    ae71ca35: function setDate,
+    ae71ca35: "setUTCDate",
+    ae71ca35: function setUTCDate,
+    ae71ca35: "setMonth",
+    ae71ca35: function setMonth,
+    ae71ca35: "setUTCMonth",
+    ae71ca35: function setUTCMonth,
+    ae71ca35: "setFullYear",
+    ae71ca35: function setFullYear,
+    ae71ca35: "setUTCFullYear",
+    ae71ca35: function setUTCFullYear,
+    ae71ca35: "toGMTString",
+    ae71ca35: function toGMTString,
+    ae71ca35: "toUTCString",
+    ae71ca35: function toUTCString,
+    ae71ca35: "getYear",
+    ae71ca35: function getYear,
+    ae71ca35: "setYear",
+    ae71ca35: function setYear,
+    ae71ca35: "toISOString",
+    ae71ca35: function toISOString,
+    ae71ca35: "toJSON",
+    ae71ca35: function toJSON,
+]
+ae717c49: [
+    ae717c49: "isArray",
+    ae717c49: function isArray,
+]
+ae780711: [
+    ae780711: "",
+    ae780711: "node_modules",
+]
+ae7806b5: [
+    ae7806b5: "",
+    ae7806b5: "node_modules",
+]
+ae780685: [
+    ae780685: [...],
+    ae780685: "node_modules",
+]
+ae780585: [
+    ae780585: [...],
+    ae780585: "node_modules",
+]
+ae780565: [
+    ae780565: "",
+    ae780565: "home",
+]
+ae780471: [
+    ae780471: [...],
+    ae780471: "node_modules",
+]
+ae780335: [
+    ae780335: [...],
+    ae780335: "node_modules",
+]
+ae78015d: [
+    ae78015d: [...],
+    ae78015d: "node_modules",
+]
+ae77f19d: [
+    ae77f19d: "defer-abort.js",
+    ae77f19d: "defer-abort.js",
+]
+ae77eea9: [
+    ae77eea9: "test-programs/",
+    ae77eea9: "test-programs",
+]
+ae77ebc1: [
+    ae77ebc1: "node-testing/",
+    ae77ebc1: "node-testing",
+]
+ae77e871: [
+    ae77e871: "dap/",
+    ae77e871: "dap",
+]
+ae77e255: [
+    ae77e255: "home/",
+    ae77e255: "home",
+]
+ae74af9d: [
+    ae74af9d: "request",
+    ae74af9d: "paths",
+]
+ae74a839: [
+    ae74a839: "/home/dap/node-testing/test-programs/defer-abort.js",
+    ae74a839: [...],
+]
+ae74a819: [
+    ae74a819: 0,
+    ae74a819: 0,
+]
+ae7396d1: [
+    ae7396d1: 1,
+    ae7396d1: 22,
+]
+ae7396c1: [
+    ae7396c1: 4,
+    ae7396c1: 24,
+]
+ae7396b1: [
+    ae7396b1: 36,
+    ae7396b1: 39,
+]
+ae7396a1: [
+    ae7396a1: 37,
+    ae7396a1: 39,
+]
+ae739691: [
+    ae739691: 31,
+    ae739691: 39,
+]
+ae739681: [
+    ae739681: 35,
+    ae739681: 39,
+]
+ae739671: [
+    ae739671: 30,
+    ae739671: 39,
+]
+ae739661: [
+    ae739661: 32,
+    ae739661: 39,
+]
+ae739651: [
+    ae739651: 3,
+    ae739651: 23,
+]
+ae739641: [
+    ae739641: 34,
+    ae739641: 39,
+]
+ae739631: [
+    ae739631: 7,
+    ae739631: 27,
+]
+ae739621: [
+    ae739621: 33,
+    ae739621: 39,
+]
+ae739611: [
+    ae739611: 90,
+    ae739611: 39,
+]
+ae73949d: [
+    ae73949d: 33,
+    ae73949d: 39,
+]
+ae73948d: [
+    ae73948d: 31,
+    ae73948d: 39,
+]
+ae73947d: [
+    ae73947d: 35,
+    ae73947d: 39,
+]
+ae73946d: [
+    ae73946d: 32,
+    ae73946d: 39,
+]
+ae73945d: [
+    ae73945d: 36,
+    ae73945d: 39,
+]
+ae73944d: [
+    ae73944d: 34,
+    ae73944d: 39,
+]
+ae73943d: [
+    ae73943d: 30,
+    ae73943d: 39,
+]
+ae73942d: [
+    ae73942d: 90,
+    ae73942d: 39,
+]
+ae73941d: [
+    ae73941d: 37,
+    ae73941d: 39,
+]
+ae73940d: [
+    ae73940d: 7,
+    ae73940d: 27,
+]
+ae7393fd: [
+    ae7393fd: 4,
+    ae7393fd: 24,
+]
+ae7393ed: [
+    ae7393ed: 3,
+    ae7393ed: 23,
+]
+ae7393dd: [
+    ae7393dd: 1,
+    ae7393dd: 22,
+]
+ae726945: [
+    ae726945: "(function (exports, require, module, __filename, __dirname) { ",
+    ae726945: "
+});",
+]
+ae726935: [
+    ae726935: "(function (exports, require, module, __filename, __dirname) { ",
+    ae726935: "
+});",
+]
+ae71f089: [
+    ae71f089: "/home/dap/node-testing/node-v0.10.30-sunos-x86/bin/node",
+    ae71f089: "/home/dap/node-testing/test-programs/defer-abort.js",
+]
+ae71c321: [
+    ae71c321: "toString",
+    ae71c321: function toString,
+]
+ae71c301: [
+    ae71c301: "toString",
+    ae71c301: 0,
+]
+ae71a9d9: [
+    ae71a9d9: "sourceText",
+    ae71a9d9: function SourceSliceSourceText,
+]
+ae718d05: [
+    ae718d05: "fromCharCode",
+    ae718d05: function fromCharCode,
+]
+ae718991: [
+    ae718991: "elements",
+    ae718991: "special_string",
+]
+87514791: {
+    "dev": 87514791: 13,
+    "mode": 87514791: 0,
+    "nlink": 87514791: "dev",
+    "uid": 87514791: 262273,
+    "gid": 87514791: 0,
+    "rdev": 87514791: "mode",
+    "blksize": 87514791: 2621697,
+    "ino": 87514791: 1,
+    "size": 87514791: "nlink",
+    "blocks": 87514791: 1048961,
+    "atime": 87514791: 2,
+    "mtime": 87514791: "uid",
+    "ctime": 87514791: 786945,
+}
+property kind: "properties" array 
+ae780969: {
+    "dev": ae780969: 23658621,
+    "mode": ae780969: 33188,
+    "nlink": ae780969: 1,
+    "uid": ae780969: 103,
+    "gid": ae780969: 1,
+    "rdev": ae780969: 2147483647,
+    "blksize": ae780969: 512,
+    "ino": ae780969: 185769,
+    "size": ae780969: 63,
+    "blocks": ae780969: 2,
+    "atime": ae780969: 1430173042000 (2015 Apr 27 15:17:22),
+    "mtime": ae780969: 1430173042000 (2015 Apr 27 15:17:22),
+    "ctime": ae780969: 1430173053000 (2015 Apr 27 15:17:33),
+}
+property kind: "properties" array 
+ae77f2a9: {
+    "dev": ae77f2a9: 23658621,
+    "mode": ae77f2a9: 33188,
+    "nlink": ae77f2a9: 1,
+    "uid": ae77f2a9: 103,
+    "gid": ae77f2a9: 1,
+    "rdev": ae77f2a9: 2147483647,
+    "blksize": ae77f2a9: 512,
+    "ino": ae77f2a9: 185769,
+    "size": ae77f2a9: 63,
+    "blocks": ae77f2a9: 2,
+    "atime": ae77f2a9: 1430173042000 (2015 Apr 27 15:17:22),
+    "mtime": ae77f2a9: 1430173042000 (2015 Apr 27 15:17:22),
+    "ctime": ae77f2a9: 1430173053000 (2015 Apr 27 15:17:33),
+}
+property kind: "properties" array 
+ae77ef95: {
+    "dev": ae77ef95: 23658621,
+    "mode": ae77ef95: 16877,
+    "nlink": ae77ef95: 2,
+    "uid": ae77ef95: 103,
+    "gid": ae77ef95: 1,
+    "rdev": ae77ef95: 2147483647,
+    "blksize": ae77ef95: 131072,
+    "ino": ae77ef95: 185763,
+    "size": ae77ef95: 5,
+    "blocks": ae77ef95: 1,
+    "atime": ae77ef95: 1430173018000 (2015 Apr 27 15:16:58),
+    "mtime": ae77ef95: 1430174616000 (2015 Apr 27 15:43:36),
+    "ctime": ae77ef95: 1430174616000 (2015 Apr 27 15:43:36),
+}
+property kind: "properties" array 
+ae77eca1: {
+    "dev": ae77eca1: 23658621,
+    "mode": ae77eca1: 16877,
+    "nlink": ae77eca1: 9,
+    "uid": ae77eca1: 103,
+    "gid": ae77eca1: 1,
+    "rdev": ae77eca1: 2147483647,
+    "blksize": ae77eca1: 131072,
+    "ino": ae77eca1: 178843,
+    "size": ae77eca1: 15,
+    "blocks": ae77eca1: 3,
+    "atime": ae77eca1: 1430172858000 (2015 Apr 27 15:14:18),
+    "mtime": ae77eca1: 1430174623000 (2015 Apr 27 15:43:43),
+    "ctime": ae77eca1: 1430174623000 (2015 Apr 27 15:43:43),
+}
+property kind: "properties" array 
+ae77e979: {
+    "dev": ae77e979: 23658621,
+    "mode": ae77e979: 16877,
+    "nlink": ae77e979: 29,
+    "uid": ae77e979: 103,
+    "gid": ae77e979: 10,
+    "rdev": ae77e979: 2147483647,
+    "blksize": ae77e979: 3072,
+    "ino": ae77e979: 8641,
+    "size": ae77e979: 44,
+    "blocks": ae77e979: 5,
+    "atime": ae77e979: 1429051996000 (2015 Apr 14 15:53:16),
+    "mtime": ae77e979: 1430174616000 (2015 Apr 27 15:43:36),
+    "ctime": ae77e979: 1430174616000 (2015 Apr 27 15:43:36),
+}
+property kind: "properties" array 
+ae77e321: {
+    "dev": ae77e321: 23658621,
+    "mode": ae77e321: 16877,
+    "nlink": ae77e321: 4,
+    "uid": ae77e321: 0,
+    "gid": ae77e321: 0,
+    "rdev": ae77e321: 2147483647,
+    "blksize": ae77e321: 512,
+    "ino": ae77e321: 406,
+    "size": ae77e321: 4,
+    "blocks": ae77e321: 1,
+    "atime": ae77e321: 1320337067000 (2011 Nov  3 09:17:47),
+    "mtime": ae77e321: 1429051864000 (2015 Apr 14 15:51:04),
+    "ctime": ae77e321: 1429051864000 (2015 Apr 14 15:51:04),
+}
+property kind: "properties" array 
+ae77d3e1: {
+    "dev": ae77d3e1: 23658621,
+    "mode": ae77d3e1: 33188,
+    "nlink": ae77d3e1: 1,
+    "uid": ae77d3e1: 103,
+    "gid": ae77d3e1: 1,
+    "rdev": ae77d3e1: 2147483647,
+    "blksize": ae77d3e1: 512,
+    "ino": ae77d3e1: 185769,
+    "size": ae77d3e1: 63,
+    "blocks": ae77d3e1: 2,
+    "atime": ae77d3e1: 1430173042000 (2015 Apr 27 15:17:22),
+    "mtime": ae77d3e1: 1430173042000 (2015 Apr 27 15:17:22),
+    "ctime": ae77d3e1: 1430173053000 (2015 Apr 27 15:17:33),
+}
+property kind: "properties" array 
+ae7188f1: [
+    ae7188f1: 2,
+    ae7188f1: "",
+    ae7188f1: "",
+    ae7188f1: 2147483647,
+    ae7188f1: 2147483647,
+]
+ae781489: [
+    ae781489: [...],
+    ae781489: function require,
+    ae781489: [...],
+    ae781489: "/home/dap/node-testing/test-programs/defer-abort.js",
+    ae781489: "/home/dap/node-testing/test-programs",
+]
+ae78145d: [
+    ae78145d: 0,
+    ae78145d: 0,
+    ae78145d: 0,
+    ae78145d: 0,
+    ae78145d: 0,
+]
+ae7812a9: [
+    ae7812a9: "/home/dap/node-testing/test-programs/defer-abort.js",
+    ae7812a9: "/",
+    ae7812a9: "home/dap/node-testing/test-programs/",
+    ae7812a9: "defer-abort.js",
+    ae7812a9: ".js",
+]
+ae7807e5: [
+    ae7807e5: "/home/dap/node-testing/test-programs/defer-abort.js",
+    ae7807e5: "/",
+    ae7807e5: "home/dap/node-testing/test-programs/",
+    ae7807e5: "defer-abort.js",
+    ae7807e5: ".js",
+]
+ae7803cd: [
+    ae7803cd: "",
+    ae7803cd: "home",
+    ae7803cd: "dap",
+    ae7803cd: "node-testing",
+    ae7803cd: "node_modules",
+]
+ae780371: [
+    ae780371: "",
+    ae780371: "home",
+    ae780371: "dap",
+    ae780371: "node-testing",
+    ae780371: "node_modules",
+]
+ae780131: [
+    ae780131: "",
+    ae780131: "home",
+    ae780131: "dap",
+    ae780131: "node-testing",
+    ae780131: "test-programs",
+]
+ae77ffed: [
+    ae77ffed: "",
+    ae77ffed: "home",
+    ae77ffed: "dap",
+    ae77ffed: "node-testing",
+    ae77ffed: "test-programs",
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+    ae77ffed: hole,
+]
+ae77ffcd: [
+    ae77ffcd: "/home/dap/node-testing/test-programs/node_modules",
+    ae77ffcd: "/home/dap/node-testing/node_modules",
+    ae77ffcd: "/home/dap/node_modules",
+    ae77ffcd: "/home/node_modules",
+    ae77ffcd: "/node_modules",
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+    ae77ffcd: hole,
+]
+ae77fbb1: [
+    ae77fbb1: "/home/dap/node-testing/test-programs/defer-abort.js",
+    ae77fbb1: "/",
+    ae77fbb1: "home/dap/node-testing/test-programs/",
+    ae77fbb1: "defer-abort.js",
+    ae77fbb1: ".js",
+]
+ae77dc05: [
+    ae77dc05: "home",
+    ae77dc05: "dap",
+    ae77dc05: "node-testing",
+    ae77dc05: "test-programs",
+    ae77dc05: "defer-abort.js",
+]
+ae77dae9: [
+    ae77dae9: "home",
+    ae77dae9: "dap",
+    ae77dae9: "node-testing",
+    ae77dae9: "test-programs",
+    ae77dae9: "defer-abort.js",
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+    ae77dae9: hole,
+]
+ae74b421: [
+    ae74b421: "home",
+    ae74b421: "dap",
+    ae74b421: "node-testing",
+    ae74b421: "test-programs",
+    ae74b421: "defer-abort.js",
+]
+ae74b305: [
+    ae74b305: "home",
+    ae74b305: "dap",
+    ae74b305: "node-testing",
+    ae74b305: "test-programs",
+    ae74b305: "defer-abort.js",
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+    ae74b305: hole,
+]
+ae74a9bd: [
+    ae74a9bd: "[",
+    ae74a9bd: ""/home/dap/.node_modules"",
+    ae74a9bd: ","/home/dap/.node_libraries"",
+    ae74a9bd: ","/home/dap/node-testing/node-v0.10.30-sunos-x86/lib/node"",
+    ae74a9bd: "]",
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+    ae74a9bd: hole,
+]
+ae74a619: [
+    ae74a619: "",
+    ae74a619: "home",
+    ae74a619: "dap",
+    ae74a619: ".node_modules",
+    ae74a619: "",
+]
+ae74a38d: [
+    ae74a38d: "",
+    ae74a38d: "home",
+    ae74a38d: "dap",
+    ae74a38d: ".node_libraries",
+    ae74a38d: "",
+]
+ae74531d: [
+    ae74531d: "home",
+    ae74531d: "dap",
+    ae74531d: "node-testing",
+    ae74531d: "test-programs",
+    ae74531d: "defer-abort.js",
+]
+ae745189: [
+    ae745189: "home",
+    ae745189: "dap",
+    ae745189: "node-testing",
+    ae745189: "test-programs",
+    ae745189: "defer-abort.js",
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+    ae745189: hole,
+]
+ae71a9ad: [
+    ae71a9ad: "script",
+    ae71a9ad: "from_line",
+    ae71a9ad: "to_line",
+    ae71a9ad: "from_position",
+    ae71a9ad: "to_position",
+]
+ae718901: [
+    ae718901: 2,
+    ae718901: "",
+    ae718901: "",
+    ae718901: 2147483647,
+    ae718901: 2147483647,
+]
+ae7160c5: [
+    ae7160c5: "value_",
+    ae7160c5: "hasValue_",
+    ae7160c5: "writable_",
+    ae7160c5: "hasWritable_",
+    ae7160c5: "enumerable_",
+    ae7160c5: "hasEnumerable_",
+    ae7160c5: "configurable_",
+    ae7160c5: "hasConfigurable_",
+    ae7160c5: "get_",
+    ae7160c5: "hasGetter_",
+    ae7160c5: "set_",
+    ae7160c5: "hasSetter_",
+]
+ae749f61: [
+    ae749f61: "",
+    ae749f61: "home",
+    ae749f61: "dap",
+    ae749f61: "node-testing",
+    ae749f61: "node-v0.10.30-sunos-x86",
+    ae749f61: "bin",
+    ae749f61: "node",
+    ae749f61: "..",
+    ae749f61: "..",
+    ae749f61: "lib",
+    ae749f61: "node",
+    ae749f61: "",
+]
+ae739c29: [
+    ae739c29: "Jan",
+    ae739c29: "Feb",
+    ae739c29: "Mar",
+    ae739c29: "Apr",
+    ae739c29: "May",
+    ae739c29: "Jun",
+    ae739c29: "Jul",
+    ae739c29: "Aug",
+    ae739c29: "Sep",
+    ae739c29: "Oct",
+    ae739c29: "Nov",
+    ae739c29: "Dec",
+]
+ae739c19: [
+    ae739c19: "Jan",
+    ae739c19: "Feb",
+    ae739c19: "Mar",
+    ae739c19: "Apr",
+    ae739c19: "May",
+    ae739c19: "Jun",
+    ae739c19: "Jul",
+    ae739c19: "Aug",
+    ae739c19: "Sep",
+    ae739c19: "Oct",
+    ae739c19: "Nov",
+    ae739c19: "Dec",
+]
+ae71c875: [
+    ae71c875: "January",
+    ae71c875: "February",
+    ae71c875: "March",
+    ae71c875: "April",
+    ae71c875: "May",
+    ae71c875: "June",
+    ae71c875: "July",
+    ae71c875: "August",
+    ae71c875: "September",
+    ae71c875: "October",
+    ae71c875: "November",
+    ae71c875: "December",
+]
+ae71c865: [
+    ae71c865: "January",
+    ae71c865: "February",
+    ae71c865: "March",
+    ae71c865: "April",
+    ae71c865: "May",
+    ae71c865: "June",
+    ae71c865: "July",
+    ae71c865: "August",
+    ae71c865: "September",
+    ae71c865: "October",
+    ae71c865: "November",
+    ae71c865: "December",
+]
+ae71c835: [
+    ae71c835: "Jan",
+    ae71c835: "Feb",
+    ae71c835: "Mar",
+    ae71c835: "Apr",
+    ae71c835: "May",
+    ae71c835: "Jun",
+    ae71c835: "Jul",
+    ae71c835: "Aug",
+    ae71c835: "Sep",
+    ae71c835: "Oct",
+    ae71c835: "Nov",
+    ae71c835: "Dec",
+]
+ae71c825: [
+    ae71c825: "Jan",
+    ae71c825: "Feb",
+    ae71c825: "Mar",
+    ae71c825: "Apr",
+    ae71c825: "May",
+    ae71c825: "Jun",
+    ae71c825: "Jul",
+    ae71c825: "Aug",
+    ae71c825: "Sep",
+    ae71c825: "Oct",
+    ae71c825: "Nov",
+    ae71c825: "Dec",
+]
+ae719815: [
+    ae719815: "escape",
+    ae719815: function escape,
+    ae719815: "unescape",
+    ae719815: function unescape,
+    ae719815: "decodeURI",
+    ae719815: function decodeURI,
+    ae719815: "decodeURIComponent",
+    ae719815: function decodeURIComponent,
+    ae719815: "encodeURI",
+    ae719815: function encodeURI,
+    ae719815: "encodeURIComponent",
+    ae719815: function encodeURIComponent,
+]
+ae717839: [
+    ae717839: "toString",
+    ae717839: function toString,
+    ae717839: "toLocaleString",
+    ae717839: function toLocaleString,
+    ae717839: "valueOf",
+    ae717839: function valueOf,
+    ae717839: "toFixed",
+    ae717839: function toFixed,
+    ae717839: "toExponential",
+    ae717839: function toExponential,
+    ae717839: "toPrecision",
+    ae717839: function toPrecision,
+]
+ae71c695: [
+    ae71c695: function process,
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function ArrayBuffer,
+    ae71c695: hole,
+    ae71c695: function Int8Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Uint8Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Uint8ClampedArray,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Int16Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Uint16Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Int32Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Uint32Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Float32Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function Float64Array,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function DataView,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function Context,
+    ae71c695: function NodeScript,
+    ae71c695: function createContext,
+    ae71c695: function runInContext,
+    ae71c695: function runInThisContext,
+    ae71c695: function runInNewContext,
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function SlowBuffer,
+    ae71c695: function binarySlice,
+    ae71c695: function asciiSlice,
+    ae71c695: function base64Slice,
+    ae71c695: function ucs2Slice,
+    ae71c695: function hexSlice,
+    ae71c695: function utf8Slice,
+    ae71c695: function utf8Write,
+    ae71c695: function asciiWrite,
+    ae71c695: function binaryWrite,
+    ae71c695: function base64Write,
+    ae71c695: function ucs2Write,
+    ae71c695: function hexWrite,
+    ae71c695: function readFloatLE,
+    ae71c695: function readFloatBE,
+    ae71c695: function readDoubleLE,
+    ae71c695: function readDoubleBE,
+    ae71c695: function writeFloatLE,
+    ae71c695: function writeFloatBE,
+    ae71c695: function writeDoubleLE,
+    ae71c695: function writeDoubleBE,
+    ae71c695: function fill,
+    ae71c695: function copy,
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function StatWatcher,
+    ae71c695: function start,
+    ae71c695: function stop,
+    ae71c695: function Timer,
+    ae71c695: function <anonymous> (as <anon>),
+    ae71c695: function close,
+    ae71c695: function ref,
+    ae71c695: function unref,
+    ae71c695: function start,
+    ae71c695: function stop,
+    ae71c695: function setRepeat,
+    ae71c695: function getRepeat,
+    ae71c695: function again,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+    ae71c695: hole,
+]
+ae759531: {
+    "ESPIPE": ae759531: 29,
+    "O_APPEND": ae759531: 8,
+    "EALREADY": ae759531: 149,
+    "SIGFPE": ae759531: 8,
+    "SSL_OP_CRYPTOPRO_TLSEXT_BUG": ae759531: 2147483648,
+    "S_IXGRP": ae759531: 8,
+    "SSL_OP_NO_QUERY_MTU": ae759531: 4096,
+    "SSL_OP_MSIE_SSLV2_RSA_PADDING": ae759531: 0,
+    "EIDRM": ae759531: 36,
+    "EEXIST": ae759531: 17,
+    "EOVERFLOW": ae759531: 79,
+    "ENOTSOCK": ae759531: 95,
+    "SSL_OP_NETSCAPE_DEMO_CIPHER_CHANGE_BUG": ae759531: 1073741824,
+    "ELOOP": ae759531: 90,
+    "S_IFMT": ae759531: 61440,
+    "EADDRNOTAVAIL": ae759531: 126,
+    "EAGAIN": ae759531: 11,
+    "ENAMETOOLONG": ae759531: 78,
+    "SIGPIPE": ae759531: 13,
+    "EDQUOT": ae759531: 49,
+    "ENETDOWN": ae759531: 127,
+    "SSL_OP_TLS_ROLLBACK_BUG": ae759531: 8388608,
+    "EPROTO": ae759531: 71,
+    "S_IXUSR": ae759531: 64,
+    "EROFS": ae759531: 30,
+    "ECANCELED": ae759531: 47,
+    "SIGIOT": ae759531: 6,
+    "SSL_OP_SSLEAY_080_CLIENT_DH_BUG": ae759531: 128,
+    "EBADMSG": ae759531: 77,
+    "SSL_OP_CISCO_ANYCONNECT": ae759531: 32768,
+    "SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG": ae759531: 8,
+    "ENOLCK": ae759531: 46,
+    "ENOTSUP": ae759531: 48,
+    "EPROTONOSUPPORT": ae759531: 120,
+    "SIGSYS": ae759531: 12,
+    "SIGSEGV": ae759531: 11,
+    "EBUSY": ae759531: 16,
+    "ESTALE": ae759531: 151,
+    "ENOMEM": ae759531: 12,
+    "EBADF": ae759531: 9,
+    "ENODATA": ae759531: 61,
+    "SSL_OP_NO_TLSv1": ae759531: 67108864,
+    "ENOTDIR": ae759531: 20,
+    "SIGPWR": ae759531: 19,
+    "ETIMEDOUT": ae759531: 145,
+    "ENFILE": ae759531: 23,
+    "EIO": ae759531: 5,
+    "SSL_OP_NO_SESSION_RESUMPTION_ON_RENEGOTIATION": ae759531: 65536,
+    "O_SYNC": ae759531: 16,
+    "SSL_OP_NO_COMPRESSION": ae759531: 131072,
+    "SIGQUIT": ae759531: 3,
+    "SSL_OP_MICROSOFT_BIG_SSLV3_BUFFER": ae759531: 32,
+    "SIGUSR1": ae759531: 16,
+    "ENOSR": ae759531: 63,
+    "SIGIO": ae759531: 22,
+    "SSL_OP_EPHEMERAL_RSA": ae759531: 2097152,
+    "SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS": ae759531: 2048,
+    "EMULTIHOP": ae759531: 74,
+    "EISCONN": ae759531: 133,
+    "SSL_OP_LEGACY_SERVER_CONNECT": ae759531: 4,
+    "S_IRUSR": ae759531: 256,
+    "SIGCHLD": ae759531: 18,
+    "SSL_OP_SINGLE_ECDH_USE": ae759531: 524288,
+    "EAFNOSUPPORT": ae759531: 124,
+    "SIGHUP": ae759531: 1,
+    "O_NOFOLLOW": ae759531: 131072,
+    "EFAULT": ae759531: 14,
+    "SSL_OP_NO_SSLv2": ae759531: 16777216,
+    "ENOTEMPTY": ae759531: 93,
+    "SSL_OP_MICROSOFT_SESS_ID_BUG": ae759531: 1,
+    "S_IROTH": ae759531: 4,
+    "SIGABRT": ae759531: 6,
+    "ENOPROTOOPT": ae759531: 99,
+    "EADDRINUSE": ae759531: 125,
+    "SIGLOST": ae759531: 37,
+    "S_IFREG": ae759531: 32768,
+    "EXDEV": ae759531: 18,
+    "O_RDONLY": ae759531: 0,
+    "EDESTADDRREQ": ae759531: 96,
+    "EPROTOTYPE": ae759531: 98,
+    "ENOMSG": ae759531: 35,
+    "S_IFLNK": ae759531: 40960,
+    "SIGCONT": ae759531: 25,
+    "ESRCH": ae759531: 3,
+    "SSL_OP_SINGLE_DH_USE": ae759531: 1048576,
+    "S_IXOTH": ae759531: 1,
+    "S_IRWXG": ae759531: 56,
+    "EINTR": ae759531: 4,
+    "SIGXFSZ": ae759531: 31,
+    "EFBIG": ae759531: 27,
+    "SIGVTALRM": ae759531: 28,
+    "SSL_OP_NO_SSLv3": ae759531: 33554432,
+    "SSL_OP_PKCS1_CHECK_2": ae759531: 0,
+    "SIGTTIN": ae759531: 26,
+    "EPERM": ae759531: 1,
+    "SSL_OP_SSLREF2_REUSE_CERT_TYPE_BUG": ae759531: 0,
+    "S_IRWXO": ae759531: 7,
+    "ECHILD": ae759531: 10,
+    "O_TRUNC": ae759531: 512,
+    "O_CREAT": ae759531: 256,
+    "O_WRONLY": ae759531: 1,
+    "EPIPE": ae759531: 32,
+    "O_NONBLOCK": ae759531: 128,
+    "ETXTBSY": ae759531: 26,
+    "SSL_OP_NETSCAPE_CHALLENGE_BUG": ae759531: 2,
+    "EILSEQ": ae759531: 88,
+    "SIGTTOU": ae759531: 27,
+    "SSL_OP_NETSCAPE_CA_DN_BUG": ae759531: 536870912,
+    "EMFILE": ae759531: 24,
+    "S_IFDIR": ae759531: 16384,
+    "ENOSYS": ae759531: 89,
+    "SIGURG": ae759531: 21,
+    "ETIME": ae759531: 62,
+    "SSL_OP_TLS_BLOCK_PADDING_BUG": ae759531: 512,
+    "S_IFIFO": ae759531: 4096,
+    "S_IRWXU": ae759531: 448,
+    "S_IWUSR": ae759531: 128,
+    "S_IWGRP": ae759531: 16,
+    "S_IFBLK": ae759531: 24576,
+    "ENXIO": ae759531: 6,
+    "ECONNRESET": ae759531: 131,
+    "EDOM": ae759531: 33,
+    "SIGTSTP": ae759531: 24,
+    "ERANGE": ae759531: 34,
+    "SIGKILL": ae759531: 9,
+    "SIGILL": ae759531: 4,
+    "SIGSTOP": ae759531: 23,
+    "E2BIG": ae759531: 7,
+    "EINPROGRESS": ae759531: 150,
+    "ENETUNREACH": ae759531: 128,
+    "ENODEV": ae759531: 19,
+    "SIGBUS": ae759531: 10,
+    "SSL_OP_NO_TLSv1_1": ae759531: 268435456,
+    "EWOULDBLOCK": ae759531: 11,
+    "SIGTERM": ae759531: 15,
+    "S_IFSOCK": ae759531: 49152,
+    "SIGALRM": ae759531: 14,
+    "SIGTRAP": ae759531: 5,
+    "EMSGSIZE": ae759531: 97,
+    "ENOTCONN": ae759531: 134,
+    "SSL_OP_CIPHER_SERVER_PREFERENCE": ae759531: 4194304,
+    "SSL_OP_TLS_D5_BUG": ae759531: 256,
+    "EDEADLK": ae759531: 45,
+    "EHOSTUNREACH": ae759531: 148,
+    "ENOBUFS": ae759531: 132,
+    "SIGPOLL": ae759531: 22,
+    "SSL_OP_COOKIE_EXCHANGE": ae759531: 8192,
+    "SIGXCPU": ae759531: 30,
+    "SSL_OP_ALL": ae759531: 2147486719,
+    "ENOSTR": ae759531: 60,
+    "ECONNABORTED": ae759531: 130,
+    "SIGWINCH": ae759531: 20,
+    "SIGINT": ae759531: 2,
+    "SSL_OP_PKCS1_CHECK_1": ae759531: 0,
+    "ECONNREFUSED": ae759531: 146,
+    "EMLINK": ae759531: 31,
+    "ENOLINK": ae759531: 67,
+    "ENOSPC": ae759531: 28,
+    "EOPNOTSUPP": ae759531: 122,
+    "ENOEXEC": ae759531: 8,
+    "O_EXCL": ae759531: 1024,
+    "ENOENT": ae759531: 2,
+    "ENOTTY": ae759531: 25,
+    "S_IRGRP": ae759531: 32,
+    "SIGPROF": ae759531: 29,
+    "S_IWOTH": ae759531: 2,
+    "ENETRESET": ae759531: 129,
+    "EACCES": ae759531: 13,
+    "NPN_ENABLED": ae759531: 1,
+    "S_IFCHR": ae759531: 8192,
+    "EINVAL": ae759531: 22,
+    "O_NOCTTY": ae759531: 2048,
+    "SSL_OP_ALLOW_UNSAFE_LEGACY_RENEGOTIATION": ae759531: 262144,
+    "SSL_OP_NO_TICKET": ae759531: 16384,
+    "SIGUSR2": ae759531: 17,
+    "O_RDWR": ae759531: 2,
+    "SSL_OP_NO_TLSv1_2": ae759531: 134217728,
+    "EISDIR": ae759531: 21,
+}
+property kind: dictionary 
+ae71a2f5: [
+    ae71a2f5: "source",
+    ae71a2f5: "name",
+    ae71a2f5: "line_ends",
+    ae71a2f5: "line_offset",
+    ae71a2f5: "column_offset",
+    ae71a2f5: "cachedNameOrSourceURL",
+    ae71a2f5: "hasCachedNameOrSourceURL",
+]
+ae78110d: [
+    ae78110d: undefined,
+    ae78110d: undefined,
+    ae78110d: undefined,
+    ae78110d: undefined,
+    ae78110d: undefined,
+    ae78110d: undefined,
+    ae78110d: undefined,
+]
+ae77da1d: [
+    ae77da1d: "",
+    ae77da1d: "home",
+    ae77da1d: "dap",
+    ae77da1d: "node-testing",
+    ae77da1d: "test-programs",
+    ae77da1d: "defer-abort.js",
+    ae77da1d: "",
+]
+ae77d1dd: [
+    ae77d1dd: undefined,
+    ae77d1dd: undefined,
+    ae77d1dd: undefined,
+    ae77d1dd: undefined,
+    ae77d1dd: undefined,
+    ae77d1dd: undefined,
+    ae77d1dd: undefined,
+]
+ae77cf39: [
+    ae77cf39: undefined,
+    ae77cf39: undefined,
+    ae77cf39: undefined,
+    ae77cf39: undefined,
+    ae77cf39: undefined,
+    ae77cf39: undefined,
+    ae77cf39: undefined,
+]
+ae77cc19: [
+    ae77cc19: undefined,
+    ae77cc19: undefined,
+    ae77cc19: undefined,
+    ae77cc19: undefined,
+    ae77cc19: undefined,
+    ae77cc19: undefined,
+    ae77cc19: undefined,
+]
+ae77c495: [
+    ae77c495: undefined,
+    ae77c495: undefined,
+    ae77c495: undefined,
+    ae77c495: undefined,
+    ae77c495: undefined,
+    ae77c495: undefined,
+    ae77c495: undefined,
+]
+ae77c2c9: [
+    ae77c2c9: undefined,
+    ae77c2c9: undefined,
+    ae77c2c9: undefined,
+    ae77c2c9: undefined,
+    ae77c2c9: undefined,
+    ae77c2c9: undefined,
+    ae77c2c9: undefined,
+]
+ae77b555: [
+    ae77b555: undefined,
+    ae77b555: undefined,
+    ae77b555: undefined,
+    ae77b555: undefined,
+    ae77b555: undefined,
+    ae77b555: undefined,
+    ae77b555: undefined,
+]
+ae77afa1: [
+    ae77afa1: undefined,
+    ae77afa1: undefined,
+    ae77afa1: undefined,
+    ae77afa1: undefined,
+    ae77afa1: undefined,
+    ae77afa1: undefined,
+    ae77afa1: undefined,
+]
+ae77a38d: [
+    ae77a38d: undefined,
+    ae77a38d: undefined,
+    ae77a38d: undefined,
+    ae77a38d: undefined,
+    ae77a38d: undefined,
+    ae77a38d: undefined,
+    ae77a38d: undefined,
+]
+ae77812d: [
+    ae77812d: undefined,
+    ae77812d: undefined,
+    ae77812d: undefined,
+    ae77812d: undefined,
+    ae77812d: undefined,
+    ae77812d: undefined,
+    ae77812d: undefined,
+]
+ae777375: [
+    ae777375: undefined,
+    ae777375: undefined,
+    ae777375: undefined,
+    ae777375: undefined,
+    ae777375: undefined,
+    ae777375: undefined,
+    ae777375: undefined,
+]
+ae773d41: [
+    ae773d41: undefined,
+    ae773d41: undefined,
+    ae773d41: undefined,
+    ae773d41: undefined,
+    ae773d41: undefined,
+    ae773d41: undefined,
+    ae773d41: undefined,
+]
+ae76cb81: [
+    ae76cb81: undefined,
+    ae76cb81: undefined,
+    ae76cb81: undefined,
+    ae76cb81: undefined,
+    ae76cb81: undefined,
+    ae76cb81: undefined,
+    ae76cb81: undefined,
+]
+ae74b239: [
+    ae74b239: "",
+    ae74b239: "home",
+    ae74b239: "dap",
+    ae74b239: "node-testing",
+    ae74b239: "test-programs",
+    ae74b239: "defer-abort.js",
+    ae74b239: "",
+]
+ae73ff55: [
+    ae73ff55: undefined,
+    ae73ff55: undefined,
+    ae73ff55: undefined,
+    ae73ff55: undefined,
+    ae73ff55: undefined,
+    ae73ff55: undefined,
+    ae73ff55: undefined,
+]
+ae73fe79: [
+    ae73fe79: undefined,
+    ae73fe79: undefined,
+    ae73fe79: undefined,
+    ae73fe79: undefined,
+    ae73fe79: undefined,
+    ae73fe79: undefined,
+    ae73fe79: undefined,
+]
+ae73fda5: [
+    ae73fda5: undefined,
+    ae73fda5: undefined,
+    ae73fda5: undefined,
+    ae73fda5: undefined,
+    ae73fda5: undefined,
+    ae73fda5: undefined,
+    ae73fda5: undefined,
+]
+ae73c2b1: [
+    ae73c2b1: undefined,
+    ae73c2b1: undefined,
+    ae73c2b1: undefined,
+    ae73c2b1: undefined,
+    ae73c2b1: undefined,
+    ae73c2b1: undefined,
+    ae73c2b1: undefined,
+]
+ae73a995: [
+    ae73a995: undefined,
+    ae73a995: undefined,
+    ae73a995: undefined,
+    ae73a995: undefined,
+    ae73a995: undefined,
+    ae73a995: undefined,
+    ae73a995: undefined,
+]
+ae7297b1: [
+    ae7297b1: undefined,
+    ae7297b1: undefined,
+    ae7297b1: undefined,
+    ae7297b1: undefined,
+    ae7297b1: undefined,
+    ae7297b1: undefined,
+    ae7297b1: undefined,
+]
+ae71c855: [
+    ae71c855: "Sunday",
+    ae71c855: "Monday",
+    ae71c855: "Tuesday",
+    ae71c855: "Wednesday",
+    ae71c855: "Thursday",
+    ae71c855: "Friday",
+    ae71c855: "Saturday",
+]
+ae71c845: [
+    ae71c845: "Sunday",
+    ae71c845: "Monday",
+    ae71c845: "Tuesday",
+    ae71c845: "Wednesday",
+    ae71c845: "Thursday",
+    ae71c845: "Friday",
+    ae71c845: "Saturday",
+]
+ae71c815: [
+    ae71c815: "Sun",
+    ae71c815: "Mon",
+    ae71c815: "Tue",
+    ae71c815: "Wed",
+    ae71c815: "Thu",
+    ae71c815: "Fri",
+    ae71c815: "Sat",
+]
+ae71c805: [
+    ae71c805: "Sun",
+    ae71c805: "Mon",
+    ae71c805: "Tue",
+    ae71c805: "Wed",
+    ae71c805: "Thu",
+    ae71c805: "Fri",
+    ae71c805: "Sat",
+]
+ae7293e1: {
+    "value_": ae7293e1: function process,
+    "hasValue_": ae7293e1: true,
+    "writable_": ae7293e1: false,
+    "hasWritable_": ae7293e1: false,
+    "enumerable_": ae7293e1: false,
+    "hasEnumerable_": ae7293e1: false,
+    "configurable_": ae7293e1: false,
+    "hasConfigurable_": ae7293e1: false,
+    "get_": ae7293e1: undefined,
+    "hasGetter_": ae7293e1: false,
+    "set_": ae7293e1: undefined,
+    "hasSetter_": ae7293e1: false,
+}
+property kind: in-object 
+ae7810ad: {
+    "value_": ae7810ad: undefined,
+    "hasValue_": ae7810ad: false,
+    "writable_": ae7810ad: false,
+    "hasWritable_": ae7810ad: false,
+    "enumerable_": ae7810ad: false,
+    "hasEnumerable_": ae7810ad: false,
+    "configurable_": ae7810ad: false,
+    "hasConfigurable_": ae7810ad: false,
+    "get_": ae7810ad: function <anonymous> (as Object.defineProperty.get),
+    "hasGetter_": ae7810ad: true,
+    "set_": ae7810ad: undefined,
+    "hasSetter_": ae7810ad: false,
+}
+property kind: in-object 
+ae77d17d: {
+    "value_": ae77d17d: function SyncWriteStream,
+    "hasValue_": ae77d17d: true,
+    "writable_": ae77d17d: true,
+    "hasWritable_": ae77d17d: true,
+    "enumerable_": ae77d17d: false,
+    "hasEnumerable_": ae77d17d: true,
+    "configurable_": ae77d17d: true,
+    "hasConfigurable_": ae77d17d: true,
+    "get_": ae77d17d: undefined,
+    "hasGetter_": ae77d17d: false,
+    "set_": ae77d17d: undefined,
+    "hasSetter_": ae77d17d: false,
+}
+property kind: in-object 
+ae77ced9: {
+    "value_": ae77ced9: function WriteStream,
+    "hasValue_": ae77ced9: true,
+    "writable_": ae77ced9: true,
+    "hasWritable_": ae77ced9: true,
+    "enumerable_": ae77ced9: false,
+    "hasEnumerable_": ae77ced9: true,
+    "configurable_": ae77ced9: true,
+    "hasConfigurable_": ae77ced9: true,
+    "get_": ae77ced9: undefined,
+    "hasGetter_": ae77ced9: false,
+    "set_": ae77ced9: undefined,
+    "hasSetter_": ae77ced9: false,
+}
+property kind: in-object 
+ae77cbb9: {
+    "value_": ae77cbb9: function ReadStream,
+    "hasValue_": ae77cbb9: true,
+    "writable_": ae77cbb9: true,
+    "hasWritable_": ae77cbb9: true,
+    "enumerable_": ae77cbb9: false,
+    "hasEnumerable_": ae77cbb9: true,
+    "configurable_": ae77cbb9: true,
+    "hasConfigurable_": ae77cbb9: true,
+    "get_": ae77cbb9: undefined,
+    "hasGetter_": ae77cbb9: false,
+    "set_": ae77cbb9: undefined,
+    "hasSetter_": ae77cbb9: false,
+}
+property kind: in-object 
+ae77c435: {
+    "value_": ae77c435: function StatWatcher,
+    "hasValue_": ae77c435: true,
+    "writable_": ae77c435: true,
+    "hasWritable_": ae77c435: true,
+    "enumerable_": ae77c435: false,
+    "hasEnumerable_": ae77c435: true,
+    "configurable_": ae77c435: true,
+    "hasConfigurable_": ae77c435: true,
+    "get_": ae77c435: undefined,
+    "hasGetter_": ae77c435: false,
+    "set_": ae77c435: undefined,
+    "hasSetter_": ae77c435: false,
+}
+property kind: in-object 
+ae77c269: {
+    "value_": ae77c269: function FSWatcher,
+    "hasValue_": ae77c269: true,
+    "writable_": ae77c269: true,
+    "hasWritable_": ae77c269: true,
+    "enumerable_": ae77c269: false,
+    "hasEnumerable_": ae77c269: true,
+    "configurable_": ae77c269: true,
+    "hasConfigurable_": ae77c269: true,
+    "get_": ae77c269: undefined,
+    "hasGetter_": ae77c269: false,
+    "set_": ae77c269: undefined,
+    "hasSetter_": ae77c269: false,
+}
+property kind: in-object 
+ae77b4b5: {
+    "value_": ae77b4b5: function stringToFlags,
+    "hasValue_": ae77b4b5: true,
+    "writable_": ae77b4b5: false,
+    "hasWritable_": ae77b4b5: false,
+    "enumerable_": ae77b4b5: false,
+    "hasEnumerable_": ae77b4b5: true,
+    "configurable_": ae77b4b5: false,
+    "hasConfigurable_": ae77b4b5: false,
+    "get_": ae77b4b5: undefined,
+    "hasGetter_": ae77b4b5: false,
+    "set_": ae77b4b5: undefined,
+    "hasSetter_": ae77b4b5: false,
+}
+property kind: in-object 
+ae77af41: {
+    "value_": ae77af41: function PassThrough,
+    "hasValue_": ae77af41: true,
+    "writable_": ae77af41: true,
+    "hasWritable_": ae77af41: true,
+    "enumerable_": ae77af41: false,
+    "hasEnumerable_": ae77af41: true,
+    "configurable_": ae77af41: true,
+    "hasConfigurable_": ae77af41: true,
+    "get_": ae77af41: undefined,
+    "hasGetter_": ae77af41: false,
+    "set_": ae77af41: undefined,
+    "hasSetter_": ae77af41: false,
+}
+property kind: in-object 
+ae77a32d: {
+    "value_": ae77a32d: function Transform,
+    "hasValue_": ae77a32d: true,
+    "writable_": ae77a32d: true,
+    "hasWritable_": ae77a32d: true,
+    "enumerable_": ae77a32d: false,
+    "hasEnumerable_": ae77a32d: true,
+    "configurable_": ae77a32d: true,
+    "hasConfigurable_": ae77a32d: true,
+    "get_": ae77a32d: undefined,
+    "hasGetter_": ae77a32d: false,
+    "set_": ae77a32d: undefined,
+    "hasSetter_": ae77a32d: false,
+}
+property kind: in-object 
+ae7780cd: {
+    "value_": ae7780cd: function Duplex,
+    "hasValue_": ae7780cd: true,
+    "writable_": ae7780cd: true,
+    "hasWritable_": ae7780cd: true,
+    "enumerable_": ae7780cd: false,
+    "hasEnumerable_": ae7780cd: true,
+    "configurable_": ae7780cd: true,
+    "hasConfigurable_": ae7780cd: true,
+    "get_": ae7780cd: undefined,
+    "hasGetter_": ae7780cd: false,
+    "set_": ae7780cd: undefined,
+    "hasSetter_": ae7780cd: false,
+}
+property kind: in-object 
+ae777315: {
+    "value_": ae777315: function Writable,
+    "hasValue_": ae777315: true,
+    "writable_": ae777315: true,
+    "hasWritable_": ae777315: true,
+    "enumerable_": ae777315: false,
+    "hasEnumerable_": ae777315: true,
+    "configurable_": ae777315: true,
+    "hasConfigurable_": ae777315: true,
+    "get_": ae777315: undefined,
+    "hasGetter_": ae777315: false,
+    "set_": ae777315: undefined,
+    "hasSetter_": ae777315: false,
+}
+property kind: in-object 
+ae773cc1: {
+    "value_": ae773cc1: function Readable,
+    "hasValue_": ae773cc1: true,
+    "writable_": ae773cc1: true,
+    "hasWritable_": ae773cc1: true,
+    "enumerable_": ae773cc1: false,
+    "hasEnumerable_": ae773cc1: true,
+    "configurable_": ae773cc1: true,
+    "hasConfigurable_": ae773cc1: true,
+    "get_": ae773cc1: undefined,
+    "hasGetter_": ae773cc1: false,
+    "set_": ae773cc1: undefined,
+    "hasSetter_": ae773cc1: false,
+}
+property kind: in-object 
+ae76ca89: {
+    "value_": ae76ca89: function Stream,
+    "hasValue_": ae76ca89: true,
+    "writable_": ae76ca89: true,
+    "hasWritable_": ae76ca89: true,
+    "enumerable_": ae76ca89: false,
+    "hasEnumerable_": ae76ca89: true,
+    "configurable_": ae76ca89: true,
+    "hasConfigurable_": ae76ca89: true,
+    "get_": ae76ca89: undefined,
+    "hasGetter_": ae76ca89: false,
+    "set_": ae76ca89: undefined,
+    "hasSetter_": ae76ca89: false,
+}
+property kind: in-object 
+ae73fed5: {
+    "value_": ae73fed5: undefined,
+    "hasValue_": ae73fed5: false,
+    "writable_": ae73fed5: false,
+    "hasWritable_": ae73fed5: false,
+    "enumerable_": ae73fed5: true,
+    "hasEnumerable_": ae73fed5: true,
+    "configurable_": ae73fed5: true,
+    "hasConfigurable_": ae73fed5: true,
+    "get_": ae73fed5: function <anonymous> (as <anon>),
+    "hasGetter_": ae73fed5: true,
+    "set_": ae73fed5: undefined,
+    "hasSetter_": ae73fed5: false,
+}
+property kind: in-object 
+ae73fdf9: {
+    "value_": ae73fdf9: undefined,
+    "hasValue_": ae73fdf9: false,
+    "writable_": ae73fdf9: false,
+    "hasWritable_": ae73fdf9: false,
+    "enumerable_": ae73fdf9: true,
+    "hasEnumerable_": ae73fdf9: true,
+    "configurable_": ae73fdf9: true,
+    "hasConfigurable_": ae73fdf9: true,
+    "get_": ae73fdf9: function <anonymous> (as <anon>),
+    "hasGetter_": ae73fdf9: true,
+    "set_": ae73fdf9: undefined,
+    "hasSetter_": ae73fdf9: false,
+}
+property kind: in-object 
+ae73fd25: {
+    "value_": ae73fd25: undefined,
+    "hasValue_": ae73fd25: false,
+    "writable_": ae73fd25: false,
+    "hasWritable_": ae73fd25: false,
+    "enumerable_": ae73fd25: true,
+    "hasEnumerable_": ae73fd25: true,
+    "configurable_": ae73fd25: true,
+    "hasConfigurable_": ae73fd25: true,
+    "get_": ae73fd25: function <anonymous> (as <anon>),
+    "hasGetter_": ae73fd25: true,
+    "set_": ae73fd25: undefined,
+    "hasSetter_": ae73fd25: false,
+}
+property kind: in-object 
+ae73c211: {
+    "value_": ae73c211: undefined,
+    "hasValue_": ae73c211: false,
+    "writable_": ae73c211: false,
+    "hasWritable_": ae73c211: false,
+    "enumerable_": ae73c211: true,
+    "hasEnumerable_": ae73c211: true,
+    "configurable_": ae73c211: true,
+    "hasConfigurable_": ae73c211: true,
+    "get_": ae73c211: function <anonymous> (as <anon>),
+    "hasGetter_": ae73c211: true,
+    "set_": ae73c211: undefined,
+    "hasSetter_": ae73c211: false,
+}
+property kind: in-object 
+ae73a65d: {
+    "value_": ae73a65d: function AssertionError,
+    "hasValue_": ae73a65d: true,
+    "writable_": ae73a65d: true,
+    "hasWritable_": ae73a65d: true,
+    "enumerable_": ae73a65d: false,
+    "hasEnumerable_": ae73a65d: true,
+    "configurable_": ae73a65d: true,
+    "hasConfigurable_": ae73a65d: true,
+    "get_": ae73a65d: undefined,
+    "hasGetter_": ae73a65d: false,
+    "set_": ae73a65d: undefined,
+    "hasSetter_": ae73a65d: false,
+}
+property kind: in-object 
