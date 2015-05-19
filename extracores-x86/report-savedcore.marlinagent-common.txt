@@ -1,7 +1,7 @@
 V8 version: 3.14.5.9
 Autoconfigured V8 support from target
 C++ symbol demangling enabled
-findjsobjects:         elapsed time (seconds) => 61
+findjsobjects:         elapsed time (seconds) => 46
 findjsobjects:                   heap objects => 12086272
 findjsobjects:                     type reads => 5561817
 findjsobjects:                   cached reads => 496184
