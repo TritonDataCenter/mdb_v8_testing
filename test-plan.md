@@ -78,3 +78,36 @@ The automated regression tests ran fine on both the v0.10.30 and v0.12.2.
 ## cstyle
 
 cstyle.pl with no options passes on all changed files.
+
+# Notes for future work
+
+* It looks like we could prune more garbage by checking whether the pointers
+  referenced by a ConsString are themselves garbage.
+* For testing, it would be useful to have a dcmd for walking the object graph
+  from a given object and seeing whether anything it points to looks like
+  garbage.  This way, we could take an object we believe is good, and make sure
+  that everything reachable from that object looks valid.  It would also help
+  point to valid constructs that we don't yet grok.
+* It would be handy to have dcmds for selecting arrays, arrays of length N.
+* It would be handy to have dcmds for filtering on V8 types (like FixedArray).
+  We could use this, e.g., to identify all forms of JSDate.
+* Many objects identified as garbage appear to have DebugInfo objects that might
+  otherwise be okay.
+* It would be great if we could print out Accessors more usefully.
+* There are also some objects marked as garbage (category "badprop") that look
+  basically fine except that we don't know how to print a FunctionTemplateInfo.
+* To automate the currently manual process of scanning through output looking
+  for things that "look wrong", it would be helpful to be able to print out
+  objects for which printing out property values of that object results in some
+  detected error, maybe classified by error.  Right now I'm using a regexp to do
+  this, and there are many categories of false positives.
+* When we print many kinds of strings and find an error, we don't always close
+  the quote.
+* We don't quote strings properly anyway because we don't escape the quotes.
+* To build some of these tools, it may be helpful for mdb\_v8 to have a dcmd
+  that prints out a complete manifest of _everything_ it finds: V8 objects, JS
+  objects, and so on.  It would only keep track of pointers that it has already
+  printed.  Maybe this could be turned into a little database with a separate
+  program for exploring it.  If nothing else, this would be a useful development
+  tool.
+

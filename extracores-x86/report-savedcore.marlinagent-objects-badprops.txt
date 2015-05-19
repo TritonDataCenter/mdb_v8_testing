@@ -2281,7 +2281,7 @@ property kind: in-object
 object has invalid-looking property values
 bbed1331: {
     "w_request": bbed1331: <unknown JavaScript object type "<unknown>">,
-    "w_response": bbed1331: ,
+    "w_response": bbed1331: <JSDate (value has unexpected type)>,
     "w_next": bbed1331: function <anonymous> (as <anon>),
 }
 property kind: in-object 
@@ -3131,9 +3131,9 @@ object has invalid-looking property values
 bfe1b01d: {
     "domain": bfe1b01d: {
         "domain": bfe1b01d: null,
-        "_events": bfe1b01d: ,
+        "_events": bfe1b01d: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe1b01d: 10,
-        "members": bfe1b01d: ,
+        "members": bfe1b01d: <JSDate (value has unexpected type)>,
     },
     "_events": bfe1b01d: <unknown JavaScript object type "Foreign">,
     "_maxListeners": bfe1b01d: 10,
@@ -3948,7 +3948,7 @@ bbe9bcd1: {
     },
     "_events": bbe9bcd1: <couldn't read type>,
     "_maxListeners": bbe9bcd1: 10,
-    "output": bbe9bcd1: ,
+    "output": bbe9bcd1: <JSDate (value has unexpected type)>,
     "outputEncodings": bbe9bcd1: "<not a string>,
     "writable": bbe9bcd1: true,
     "_last": bbe9bcd1: false,
@@ -5022,7 +5022,7 @@ object has invalid-looking property values
     "cpu": 9c1650c5: "<could not read type>,
     "memory": 9c1650c5: "<could not read type>,
     "vfs": 9c1650c5: <unknown JavaScript object type "Code">,
-    "zfs": 9c1650c5: ,
+    "zfs": 9c1650c5: <JSDate (value has unexpected type)>,
     "vnic0": 9c1650c5: <unknown JavaScript object type "DebugInfo">,
     "hrtimestamp": 9c1650c5: <external two-byte string>,
 }
@@ -5077,7 +5077,7 @@ property kind: in-object
 object has invalid-looking property values
 915c0375: {
     "key": 915c0375: <couldn't read type>,
-    "value": 915c0375: ,
+    "value": 915c0375: <JSDate (value has unexpected type)>,
     "lu": 915c0375: 28,
     "length": 915c0375: 1,
     "now": 915c0375: 0,
@@ -5496,7 +5496,7 @@ object has invalid-looking property values
 property kind: in-object "properties" array 
 object has invalid-looking property values
 986260d5: {
-    "summary": 986260d5: ,
+    "summary": 986260d5: <JSDate (value has unexpected type)>,
     "error": 986260d5: false,
     "wroteHeader": 986260d5: true,
     "request_args": 986260d5: <unknown JavaScript object type "<unknown>">,
@@ -5925,7 +5925,7 @@ b94bed05: {
     "socket": b94bed05: null,
     "connection": b94bed05: undefined,
     "httpVersion": b94bed05: "<not a string>,
-    "complete": b94bed05: ,
+    "complete": b94bed05: <JSDate (value has unexpected type)>,
     "headers": b94bed05: 33564671,
     "trailers": b94bed05: <unknown JavaScript object type "Map">,
     "_pendings": b94bed05: <couldn't read type>,
@@ -5933,7 +5933,7 @@ b94bed05: {
     "url": b94bed05: function Empty,
     "method": b94bed05: null,
     "statusCode": b94bed05: undefined,
-    "client": b94bed05: ,
+    "client": b94bed05: <JSDate (value has unexpected type)>,
     "_consuming": b94bed05: <unknown JavaScript object type "FixedArray">,
     "_dumped": b94bed05: 33564671,
     "httpVersionMajor": b94bed05: <unknown JavaScript object type "Map">,
@@ -8679,7 +8679,7 @@ object has invalid-looking property values
     "_readableState": 9868b325: <couldn't read type>,
     "readable": 9868b325: false,
     "domain": 9868b325: "<not a string>,
-    "_events": 9868b325: ,
+    "_events": 9868b325: <JSDate (value has unexpected type)>,
     "_maxListeners": 9868b325: 10,
     "socket": 9868b325: <external string (failed to read ExternalString data)>,
     "connection": 9868b325: <external string (failed to read ExternalString data)>,
@@ -8745,8 +8745,8 @@ a14c71f1: {
     "domain": a14c71f1: <couldn't read type>,
     "_events": a14c71f1: <couldn't read type>,
     "_maxListeners": a14c71f1: 10,
-    "socket": a14c71f1: ,
-    "connection": a14c71f1: ,
+    "socket": a14c71f1: <JSDate (value has unexpected type)>,
+    "connection": a14c71f1: <JSDate (value has unexpected type)>,
     "httpVersion": a14c71f1: <couldn't read type>,
     "complete": a14c71f1: true,
     "headers": a14c71f1: <couldn't read type>,
@@ -8756,7 +8756,7 @@ a14c71f1: {
     "url": a14c71f1: <couldn't read type>,
     "method": a14c71f1: "PUT",
     "statusCode": a14c71f1: null,
-    "client": a14c71f1: ,
+    "client": a14c71f1: <JSDate (value has unexpected type)>,
     "_consuming": a14c71f1: true,
     "_dumped": a14c71f1: false,
     "httpVersionMajor": a14c71f1: 1,
@@ -10614,7 +10614,7 @@ bfee9c11: {
     "complete": bfee9c11: true,
     "headers": bfee9c11: <string (failed to read length)>,
     "trailers": bfee9c11: <couldn't read type>,
-    "_pendings": bfee9c11: ,
+    "_pendings": bfee9c11: <JSDate (value has unexpected type)>,
     "_pendingIndex": bfee9c11: 0,
     "url": bfee9c11: <couldn't read type>,
     "method": bfee9c11: "POST",
@@ -11807,7 +11807,7 @@ object has invalid-looking property values
     "path": 915b28d9: <couldn't read type>,
     "spec": 915b28d9: <couldn't read type>,
     "types": 915b28d9: <unknown JavaScript object type "DebugInfo">,
-    "versions": 915b28d9: ,
+    "versions": 915b28d9: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -11835,7 +11835,7 @@ object has invalid-looking property values
     ],
     "spec": 915b28b5: <couldn't read type>,
     "types": 915b28b5: <unknown JavaScript object type "DebugInfo">,
-    "versions": 915b28b5: ,
+    "versions": 915b28b5: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -11863,7 +11863,7 @@ object has invalid-looking property values
         915b2891: hole,
     ],
     "types": 915b2891: <unknown JavaScript object type "DebugInfo">,
-    "versions": 915b2891: ,
+    "versions": 915b2891: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -11873,7 +11873,7 @@ object has invalid-looking property values
     "path": 915b286d: function <anonymous> (as b),
     "spec": 915b286d: [ 915b286d: [...] ],
     "types": 915b286d: <unknown JavaScript object type "DebugInfo">,
-    "versions": 915b286d: ,
+    "versions": 915b286d: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -11883,7 +11883,7 @@ object has invalid-looking property values
     "path": 915b2849: <couldn't read type>,
     "spec": 915b2849: <couldn't read type>,
     "types": 915b2849: <unknown JavaScript object type "DebugInfo">,
-    "versions": 915b2849: ,
+    "versions": 915b2849: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -11933,7 +11933,7 @@ object has invalid-looking property values
     "complete": 9861a92d: false,
     "headers": 9861a92d: <external two-byte string>,
     "trailers": 9861a92d: <couldn't read type>,
-    "_pendings": 9861a92d: ,
+    "_pendings": 9861a92d: <JSDate (value has unexpected type)>,
     "_pendingIndex": 9861a92d: 0,
     "url": 9861a92d: <couldn't read type>,
     "method": 9861a92d: "PUT",
@@ -11981,13 +11981,13 @@ object has invalid-looking property values
 property kind: in-object "properties" array 
 object has invalid-looking property values
 bfee7125: {
-    "_readableState": bfee7125: ,
+    "_readableState": bfee7125: <JSDate (value has unexpected type)>,
     "readable": bfee7125: false,
     "domain": bfee7125: <string (failed to read length)>,
     "_events": bfee7125: <unknown JavaScript object type "<unknown>">,
     "_maxListeners": bfee7125: 10,
-    "socket": bfee7125: ,
-    "connection": bfee7125: ,
+    "socket": bfee7125: <JSDate (value has unexpected type)>,
+    "connection": bfee7125: <JSDate (value has unexpected type)>,
     "httpVersion": bfee7125: <couldn't read type>,
     "complete": bfee7125: true,
     "headers": bfee7125: <string (failed to read length)>,
@@ -12006,7 +12006,7 @@ bfee7125: {
     },
     "method": bfee7125: "PUT",
     "statusCode": bfee7125: null,
-    "client": bfee7125: ,
+    "client": bfee7125: <JSDate (value has unexpected type)>,
     "_consuming": bfee7125: true,
     "_dumped": bfee7125: false,
     "httpVersionMajor": bfee7125: 1,
@@ -12538,8 +12538,8 @@ object has invalid-looking property values
     "domain": 9c109b49: <couldn't read type>,
     "_events": 9c109b49: <external two-byte string>,
     "_maxListeners": 9c109b49: 10,
-    "socket": 9c109b49: ,
-    "connection": 9c109b49: ,
+    "socket": 9c109b49: <JSDate (value has unexpected type)>,
+    "connection": 9c109b49: <JSDate (value has unexpected type)>,
     "httpVersion": 9c109b49: <couldn't read type>,
     "complete": 9c109b49: true,
     "headers": 9c109b49: <couldn't read type>,
@@ -12549,7 +12549,7 @@ object has invalid-looking property values
     "url": 9c109b49: <couldn't read type>,
     "method": 9c109b49: "PUT",
     "statusCode": 9c109b49: null,
-    "client": 9c109b49: ,
+    "client": 9c109b49: <JSDate (value has unexpected type)>,
     "_consuming": 9c109b49: true,
     "_dumped": 9c109b49: false,
     "httpVersionMajor": 9c109b49: 1,
@@ -15716,7 +15716,7 @@ property kind: in-object
 object has invalid-looking property values
 bfe29369: {
     "domain": bfe29369: null,
-    "_events": bfe29369: ,
+    "_events": bfe29369: <JSDate (value has unexpected type)>,
     "_maxListeners": bfe29369: 10,
     "members": bfe29369: <unknown JavaScript object type "<unknown>">,
 }
@@ -16382,8 +16382,8 @@ bbe94de5: {
     "domain": bbe94de5: <unknown JavaScript object type "DebugInfo">,
     "_events": bbe94de5: <couldn't read type>,
     "_maxListeners": bbe94de5: 10,
-    "socket": bbe94de5: ,
-    "connection": bbe94de5: ,
+    "socket": bbe94de5: <JSDate (value has unexpected type)>,
+    "connection": bbe94de5: <JSDate (value has unexpected type)>,
     "httpVersion": bbe94de5: <couldn't read type>,
     "complete": bbe94de5: true,
     "headers": bbe94de5: {
@@ -16399,7 +16399,7 @@ bbe94de5: {
     "url": bbe94de5: <couldn't read type>,
     "method": bbe94de5: "PUT",
     "statusCode": bbe94de5: null,
-    "client": bbe94de5: ,
+    "client": bbe94de5: <JSDate (value has unexpected type)>,
     "_consuming": bbe94de5: true,
     "_dumped": bbe94de5: false,
     "httpVersionMajor": bbe94de5: 1,
@@ -16483,7 +16483,7 @@ object has invalid-looking property values
 property kind: in-object "properties" array 
 object has invalid-looking property values
 9861a64d: {
-    "_readableState": 9861a64d: ,
+    "_readableState": 9861a64d: <JSDate (value has unexpected type)>,
     "readable": 9861a64d: false,
     "domain": 9861a64d: <couldn't read type>,
     "_events": 9861a64d: {
@@ -19082,7 +19082,7 @@ object has invalid-looking property values
 bfe5bf41: {
     "bucket": bfe5bf41: <couldn't read type>,
     "key": bfe5bf41: <couldn't read type>,
-    "value": bfe5bf41: ,
+    "value": bfe5bf41: <JSDate (value has unexpected type)>,
     "_id": bfe5bf41: 4163680,
     "_etag": bfe5bf41: <couldn't read type>,
     "_mtime": bfe5bf41: <couldn't read type>,
@@ -19893,7 +19893,7 @@ object has invalid-looking property values
 bfeca00d: {
     "request": bfeca00d: <unknown JavaScript object type "FreeSpace">,
     "response": bfeca00d: {
-        "domain": bfeca00d: ,
+        "domain": bfeca00d: <JSDate (value has unexpected type)>,
         "_events": bfeca00d: [...],
         "_maxListeners": bfeca00d: 10,
         "output": bfeca00d: [...],
@@ -20017,7 +20017,7 @@ object has invalid-looking property values
 bfec8c45: {
     "request": bfec8c45: <unknown JavaScript object type "FreeSpace">,
     "response": bfec8c45: {
-        "domain": bfec8c45: ,
+        "domain": bfec8c45: <JSDate (value has unexpected type)>,
         "_events": bfec8c45: [...],
         "_maxListeners": bfec8c45: 10,
         "output": bfec8c45: [...],
@@ -20233,7 +20233,7 @@ property kind: in-object
 object has invalid-looking property values
 bbeb7f55: {
     "request": bbeb7f55: <unknown JavaScript object type "FixedArray">,
-    "response": bbeb7f55: ,
+    "response": bbeb7f55: <JSDate (value has unexpected type)>,
     "server": bbeb7f55: {
         "headers": bbeb7f55: [...],
         "host": bbeb7f55: "172.27.5.14",
@@ -20244,7 +20244,7 @@ property kind: in-object
 object has invalid-looking property values
 bbeb7bb1: {
     "request": bbeb7bb1: <unknown JavaScript object type "FixedArray">,
-    "response": bbeb7bb1: ,
+    "response": bbeb7bb1: <JSDate (value has unexpected type)>,
     "server": bbeb7bb1: {
         "headers": bbeb7bb1: [...],
         "host": bbeb7bb1: "172.27.5.14",
@@ -20255,7 +20255,7 @@ property kind: in-object
 object has invalid-looking property values
 bbeb7aed: {
     "request": bbeb7aed: <unknown JavaScript object type "FixedArray">,
-    "response": bbeb7aed: ,
+    "response": bbeb7aed: <JSDate (value has unexpected type)>,
     "server": bbeb7aed: {
         "headers": bbeb7aed: [...],
         "host": bbeb7aed: "172.27.5.14",
@@ -20267,7 +20267,7 @@ object has invalid-looking property values
 bbeb723d: {
     "request": bbeb723d: <unknown JavaScript object type "FixedArray">,
     "response": bbeb723d: {
-        "domain": bbeb723d: ,
+        "domain": bbeb723d: <JSDate (value has unexpected type)>,
         "_events": bbeb723d: [...],
         "_maxListeners": bbeb723d: 10,
         "output": bbeb723d: [...],
@@ -20328,7 +20328,7 @@ bbeb61fd: {
 property kind: in-object 
 object has invalid-looking property values
 bbeb5f15: {
-    "request": bbeb5f15: ,
+    "request": bbeb5f15: <JSDate (value has unexpected type)>,
     "response": bbeb5f15: <unknown JavaScript object type "DebugInfo">,
     "server": bbeb5f15: {
         "headers": bbeb5f15: [...],
@@ -20351,7 +20351,7 @@ property kind: in-object
 object has invalid-looking property values
 bbeb06b5: {
     "request": bbeb06b5: <unknown JavaScript object type "FixedArray">,
-    "response": bbeb06b5: ,
+    "response": bbeb06b5: <JSDate (value has unexpected type)>,
     "server": bbeb06b5: {
         "headers": bbeb06b5: [...],
         "host": bbeb06b5: "172.27.5.14",
@@ -20362,7 +20362,7 @@ property kind: in-object
 object has invalid-looking property values
 bbe7bda9: {
     "request": bbe7bda9: <unknown JavaScript object type "FixedArray">,
-    "response": bbe7bda9: ,
+    "response": bbe7bda9: <JSDate (value has unexpected type)>,
     "server": bbe7bda9: [],
 }
 property kind: in-object 
@@ -20376,13 +20376,13 @@ property kind: in-object
 object has invalid-looking property values
 bbe37565: {
     "request": bbe37565: <unknown JavaScript object type "FixedArray">,
-    "response": bbe37565: ,
+    "response": bbe37565: <JSDate (value has unexpected type)>,
     "server": bbe37565: [],
 }
 property kind: in-object 
 object has invalid-looking property values
 bbe37245: {
-    "request": bbe37245: ,
+    "request": bbe37245: <JSDate (value has unexpected type)>,
     "response": bbe37245: <couldn't read type>,
     "server": bbe37245: [],
 }
@@ -20390,7 +20390,7 @@ property kind: in-object
 object has invalid-looking property values
 bbe370d1: {
     "request": bbe370d1: <unknown JavaScript object type "FixedArray">,
-    "response": bbe370d1: ,
+    "response": bbe370d1: <JSDate (value has unexpected type)>,
     "server": bbe370d1: [],
 }
 property kind: in-object 
@@ -20403,7 +20403,7 @@ bbe36f5d: {
 property kind: in-object 
 object has invalid-looking property values
 bbe366b9: {
-    "request": bbe366b9: ,
+    "request": bbe366b9: <JSDate (value has unexpected type)>,
     "response": bbe366b9: <unknown JavaScript object type "DebugInfo">,
     "server": bbe366b9: [],
 }
@@ -20411,14 +20411,14 @@ property kind: in-object
 object has invalid-looking property values
 bbe320c9: {
     "request": bbe320c9: <unknown JavaScript object type "FixedArray">,
-    "response": bbe320c9: ,
+    "response": bbe320c9: <JSDate (value has unexpected type)>,
     "server": bbe320c9: [],
 }
 property kind: in-object 
 object has invalid-looking property values
 bbe32005: {
     "request": bbe32005: <unknown JavaScript object type "FixedArray">,
-    "response": bbe32005: ,
+    "response": bbe32005: <JSDate (value has unexpected type)>,
     "server": bbe32005: [],
 }
 property kind: in-object 
@@ -20452,7 +20452,7 @@ bbe310ed: {
 property kind: in-object 
 object has invalid-looking property values
 bbe30c79: {
-    "request": bbe30c79: ,
+    "request": bbe30c79: <JSDate (value has unexpected type)>,
     "response": bbe30c79: <couldn't read type>,
     "server": bbe30c79: [],
 }
@@ -20467,14 +20467,14 @@ property kind: in-object
 object has invalid-looking property values
 bbe309a1: {
     "request": bbe309a1: <unknown JavaScript object type "<unknown>">,
-    "response": bbe309a1: ,
+    "response": bbe309a1: <JSDate (value has unexpected type)>,
     "server": bbe309a1: [],
 }
 property kind: in-object 
 object has invalid-looking property values
 bbe3082d: {
     "request": bbe3082d: <unknown JavaScript object type "FixedArray">,
-    "response": bbe3082d: ,
+    "response": bbe3082d: <JSDate (value has unexpected type)>,
     "server": bbe3082d: [],
 }
 property kind: in-object 
@@ -20495,7 +20495,7 @@ property kind: in-object
 object has invalid-looking property values
 bbe2c2dd: {
     "request": bbe2c2dd: <unknown JavaScript object type "FixedArray">,
-    "response": bbe2c2dd: ,
+    "response": bbe2c2dd: <JSDate (value has unexpected type)>,
     "server": bbe2c2dd: "<not a string>,
 }
 property kind: in-object 
@@ -20543,7 +20543,7 @@ property kind: in-object
 object has invalid-looking property values
 bbe17a35: {
     "request": bbe17a35: <unknown JavaScript object type "FixedArray">,
-    "response": bbe17a35: ,
+    "response": bbe17a35: <JSDate (value has unexpected type)>,
     "server": bbe17a35: [],
 }
 property kind: in-object 
@@ -20564,7 +20564,7 @@ property kind: in-object
 object has invalid-looking property values
 bbe157f1: {
     "request": bbe157f1: <couldn't read type>,
-    "response": bbe157f1: ,
+    "response": bbe157f1: <JSDate (value has unexpected type)>,
     "server": bbe157f1: [],
 }
 property kind: in-object 
@@ -20578,14 +20578,14 @@ property kind: in-object
 object has invalid-looking property values
 b5c772a9: {
     "request": b5c772a9: <unknown JavaScript object type "FixedArray">,
-    "response": b5c772a9: ,
+    "response": b5c772a9: <JSDate (value has unexpected type)>,
     "server": b5c772a9: function <could not read type>,
 }
 property kind: in-object 
 object has invalid-looking property values
 b5c769d9: {
     "request": b5c769d9: <unknown JavaScript object type "FixedArray">,
-    "response": b5c769d9: ,
+    "response": b5c769d9: <JSDate (value has unexpected type)>,
     "server": b5c769d9: [],
 }
 property kind: in-object 
@@ -20636,7 +20636,7 @@ property kind: in-object
 object has invalid-looking property values
 b5c74091: {
     "request": b5c74091: <unknown JavaScript object type "<unknown>">,
-    "response": b5c74091: ,
+    "response": b5c74091: <JSDate (value has unexpected type)>,
     "server": b5c74091: [],
 }
 property kind: in-object 
@@ -24887,7 +24887,7 @@ b05112f9: {
 property kind: "properties" array 
 object has invalid-looking property values
 b04f80b5: {
-    "domain": b04f80b5: ,
+    "domain": b04f80b5: <JSDate (value has unexpected type)>,
     "": b04f80b5: <unknown JavaScript object type "FixedArray">,
     "bytes": b04f80b5: 1407,
     "cb": b04f80b5: undefined,
@@ -24895,7 +24895,7 @@ b04f80b5: {
 property kind: "properties" array 
 object has invalid-looking property values
 b04825b5: {
-    "domain": b04825b5: ,
+    "domain": b04825b5: <JSDate (value has unexpected type)>,
     "": b04825b5: <unknown JavaScript object type "FixedArray">,
     "bytes": b04825b5: 15,
     "cb": b04825b5: undefined,
@@ -24927,7 +24927,7 @@ b0386455: {
 property kind: "properties" array 
 object has invalid-looking property values
 b03487fd: {
-    "domain": b03487fd: ,
+    "domain": b03487fd: <JSDate (value has unexpected type)>,
     "": b03487fd: <unknown JavaScript object type "FixedArray">,
     "bytes": b03487fd: 2408,
     "cb": b03487fd: undefined,
@@ -25181,7 +25181,7 @@ bfe52259: {
     "_trailer": bfe52259: "",
     "res": bfe52259: <couldn't read type>,
     "socketPath": bfe52259: undefined,
-    "_events": bfe52259: ,
+    "_events": bfe52259: <JSDate (value has unexpected type)>,
 }
 property kind: dictionary 
 object has invalid-looking property values
@@ -27889,7 +27889,7 @@ computed-md5: pmk5Ucy03DOAaEReW0SuMg=[...]",
 property kind: in-object "properties" array 
 object has invalid-looking property values
 bbee6be9: {
-    "domain": bbee6be9: ,
+    "domain": bbee6be9: <JSDate (value has unexpected type)>,
     "_events": bbee6be9: {
         "close": bbee6be9: [...],
         "finish": bbee6be9: [...],
@@ -28106,7 +28106,7 @@ bbe35ee1: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 bbe346d5: {
-    "domain": bbe346d5: ,
+    "domain": bbe346d5: <JSDate (value has unexpected type)>,
     "_events": bbe346d5: {
         "<Foreign>": bbe346d5: 0,
     },
@@ -28200,7 +28200,7 @@ bbe2efd5: {
     ],
     "formatters": bbe2efd5: {},
     "req": bbe2efd5: {
-        "_readableState": bbe2efd5: ,
+        "_readableState": bbe2efd5: <JSDate (value has unexpected type)>,
         "readable": bbe2efd5: false,
         "domain": bbe2efd5: <unknown JavaScript object type "FixedArray">,
         "_events": bbe2efd5: <unknown JavaScript object type "FixedArray">,
@@ -28252,7 +28252,7 @@ bbe2efd5: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 bbe29cb5: {
-    "domain": bbe29cb5: ,
+    "domain": bbe29cb5: <JSDate (value has unexpected type)>,
     "_events": bbe29cb5: {
         "close": bbe29cb5: [...],
         "finish": bbe29cb5: [...],
@@ -32740,7 +32740,7 @@ object has invalid-looking property values
 bbeb8dcd: {
     "_readableState": bbeb8dcd: <couldn't read type>,
     "readable": bbeb8dcd: false,
-    "domain": bbeb8dcd: ,
+    "domain": bbeb8dcd: <JSDate (value has unexpected type)>,
     "_events": bbeb8dcd: <unknown JavaScript object type "ExternalShortArray">,
     "_maxListeners": bbeb8dcd: 10,
     "socket": bbeb8dcd: <unknown JavaScript object type "FixedArray">,
@@ -32772,7 +32772,7 @@ object has invalid-looking property values
 bbeb8d49: {
     "_readableState": bbeb8d49: <couldn't read type>,
     "readable": bbeb8d49: false,
-    "domain": bbeb8d49: ,
+    "domain": bbeb8d49: <JSDate (value has unexpected type)>,
     "_events": bbeb8d49: <unknown JavaScript object type "ExternalShortArray">,
     "_maxListeners": bbeb8d49: 10,
     "socket": bbeb8d49: <unknown JavaScript object type "DebugInfo">,
@@ -32804,8 +32804,8 @@ object has invalid-looking property values
 bbeb8cc5: {
     "_readableState": bbeb8cc5: <couldn't read type>,
     "readable": bbeb8cc5: false,
-    "domain": bbeb8cc5: ,
-    "_events": bbeb8cc5: ,
+    "domain": bbeb8cc5: <JSDate (value has unexpected type)>,
+    "_events": bbeb8cc5: <JSDate (value has unexpected type)>,
     "_maxListeners": bbeb8cc5: 10,
     "socket": bbeb8cc5: <unknown JavaScript object type "FixedArray">,
     "connection": bbeb8cc5: <unknown JavaScript object type "FixedArray">,
@@ -32825,7 +32825,7 @@ bbeb8cc5: {
     "httpVersionMinor": bbeb8cc5: 1,
     "upgrade": bbeb8cc5: false,
     "log": bbeb8cc5: {
-        "domain": bbeb8cc5: ,
+        "domain": bbeb8cc5: <JSDate (value has unexpected type)>,
         "_events": bbeb8cc5: <couldn't read type>,
         "_maxListeners": bbeb8cc5: 10,
         "_isSimpleChild": bbeb8cc5: true,
@@ -32849,8 +32849,8 @@ bbe4138d: {
     "domain": bbe4138d: <couldn't read type>,
     "_events": bbe4138d: <couldn't read type>,
     "_maxListeners": bbe4138d: 10,
-    "socket": bbe4138d: ,
-    "connection": bbe4138d: ,
+    "socket": bbe4138d: <JSDate (value has unexpected type)>,
+    "connection": bbe4138d: <JSDate (value has unexpected type)>,
     "httpVersion": bbe4138d: <couldn't read type>,
     "complete": bbe4138d: true,
     "headers": bbe4138d: <unknown JavaScript object type "Foreign">,
@@ -32860,7 +32860,7 @@ bbe4138d: {
     "url": bbe4138d: "host",
     "method": bbe4138d: "PUT",
     "statusCode": bbe4138d: null,
-    "client": bbe4138d: ,
+    "client": bbe4138d: <JSDate (value has unexpected type)>,
     "_consuming": bbe4138d: true,
     "_dumped": bbe4138d: false,
     "httpVersionMajor": bbe4138d: 1,
@@ -33193,8 +33193,8 @@ a14969f9: {
     "domain": a14969f9: <unknown JavaScript object type "Foreign">,
     "_events": a14969f9: <unknown JavaScript object type "Foreign">,
     "_maxListeners": a14969f9: 10,
-    "socket": a14969f9: ,
-    "connection": a14969f9: ,
+    "socket": a14969f9: <JSDate (value has unexpected type)>,
+    "connection": a14969f9: <JSDate (value has unexpected type)>,
     "httpVersion": a14969f9: <couldn't read type>,
     "complete": a14969f9: true,
     "headers": a14969f9: <couldn't read type>,
@@ -33204,7 +33204,7 @@ a14969f9: {
     "url": a14969f9: <couldn't read type>,
     "method": a14969f9: "PUT",
     "statusCode": a14969f9: null,
-    "client": a14969f9: ,
+    "client": a14969f9: <JSDate (value has unexpected type)>,
     "_consuming": a14969f9: true,
     "_dumped": a14969f9: false,
     "httpVersionMajor": a14969f9: 1,
@@ -37293,7 +37293,7 @@ x-request-id: 0f9db93a-acff-4[...]",
         bbee8815: "application/javascript",
     ],
     "formatters": bbee8815: {},
-    "req": bbee8815: ,
+    "req": bbee8815: <JSDate (value has unexpected type)>,
     "serverName": bbee8815: "e37640b5-b59b-403a-b26d-cdafc9221673 agent server",
     "version": bbee8815: "1.0.0",
     "methods": bbee8815: [
@@ -37821,7 +37821,7 @@ bbe387c1: {
         "_contentType": bbe387c1: <string (failed to read length)>,
         "body": bbe387c1: [...],
         "pause": bbe387c1: <couldn't read type>,
-        "resume": bbe387c1: ,
+        "resume": bbe387c1: <JSDate (value has unexpected type)>,
         "_body": bbe387c1: <couldn't read type>,
         "maZone": bbe387c1: [...],
     },
@@ -37975,14 +37975,14 @@ bbe33cb9: {
         "_clen": bbe33cb9: 55,
         "_contentType": bbe33cb9: <unknown JavaScript object type "ByteArray">,
         "body": bbe33cb9: [...],
-        "pause": bbe33cb9: ,
+        "pause": bbe33cb9: <JSDate (value has unexpected type)>,
         "resume": bbe33cb9: <unknown JavaScript object type "<unknown>">,
         "_body": bbe33cb9: <unknown JavaScript object type "ByteArray">,
         "maZone": bbe33cb9: [...],
     },
     "serverName": bbe33cb9: "336ed652-7d01-4480-9971-6d89e398182c agent server",
     "version": bbe33cb9: "1.0.0",
-    "methods": bbe33cb9: ,
+    "methods": bbe33cb9: <JSDate (value has unexpected type)>,
     "statusCode": bbe33cb9: 204,
     "_body": bbe33cb9: undefined,
     "_data": bbe33cb9: null,
@@ -38897,7 +38897,7 @@ bfeb9ca9: {
         "streams": bfeb9ca9: <couldn't read type>,
         "serializers": bfeb9ca9: <couldn't read type>,
         "src": bfeb9ca9: false,
-        "fields": bfeb9ca9: ,
+        "fields": bfeb9ca9: <JSDate (value has unexpected type)>,
     },
     "_time": bfeb9ca9: <couldn't read type>,
     "_version": bfeb9ca9: "*",
@@ -39136,7 +39136,7 @@ bfe5b901: {
     "_query": bfe5b901: {},
     "query": bfe5b901: {},
     "_negotiator": bfe5b901: {
-        "request": bfe5b901: ,
+        "request": bfe5b901: <JSDate (value has unexpected type)>,
     },
     "_clen": bfe5b901: 56,
     "_contentType": bfe5b901: <couldn't read type>,
@@ -39620,9 +39620,9 @@ bfe56a1d: {
     "readable": bfe56a1d: false,
     "domain": bfe56a1d: {
         "domain": bfe56a1d: null,
-        "_events": bfe56a1d: ,
+        "_events": bfe56a1d: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe56a1d: 10,
-        "members": bfe56a1d: ,
+        "members": bfe56a1d: <JSDate (value has unexpected type)>,
     },
     "_events": bfe56a1d: {
         "<JSObject>": bfe56a1d: 0,
@@ -39744,14 +39744,14 @@ bfe56a1d: {
     "params": bfe56a1d: <sliced string (failed to read offset)>,
     "context": bfe56a1d: <sliced string (failed to read offset)>,
     "route": bfe56a1d: undefined,
-    "_id": bfe56a1d: ,
-    "_url": bfe56a1d: ,
-    "_query": bfe56a1d: ,
-    "query": bfe56a1d: ,
-    "_negotiator": bfe56a1d: ,
+    "_id": bfe56a1d: <JSDate (value has unexpected type)>,
+    "_url": bfe56a1d: <JSDate (value has unexpected type)>,
+    "_query": bfe56a1d: <JSDate (value has unexpected type)>,
+    "query": bfe56a1d: <JSDate (value has unexpected type)>,
+    "_negotiator": bfe56a1d: <JSDate (value has unexpected type)>,
     "_clen": bfe56a1d: 55,
     "_contentType": bfe56a1d: <couldn't read type>,
-    "body": bfe56a1d: ,
+    "body": bfe56a1d: <JSDate (value has unexpected type)>,
     "pause": bfe56a1d: function <anonymous> (as stream.pause),
     "resume": bfe56a1d: function <anonymous> (as stream.resume),
     "_body": bfe56a1d: <couldn't read type>,
@@ -39815,9 +39815,9 @@ bfe565ad: {
     "readable": bfe565ad: false,
     "domain": bfe565ad: {
         "domain": bfe565ad: null,
-        "_events": bfe565ad: ,
+        "_events": bfe565ad: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe565ad: 10,
-        "members": bfe565ad: ,
+        "members": bfe565ad: <JSDate (value has unexpected type)>,
     },
     "_events": bfe565ad: ,
     "_maxListeners": bfe565ad: 10,
@@ -39923,7 +39923,7 @@ bfe565ad: {
     "upgrade": bfe565ad: false,
     "log": bfe565ad: {
         "domain": bfe565ad: [...],
-        "_events": bfe565ad: ,
+        "_events": bfe565ad: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe565ad: 10,
         "_isSimpleChild": bfe565ad: true,
         "_level": bfe565ad: 30,
@@ -40214,9 +40214,9 @@ bfe52f1d: {
     "readable": bfe52f1d: false,
     "domain": bfe52f1d: {
         "domain": bfe52f1d: null,
-        "_events": bfe52f1d: ,
+        "_events": bfe52f1d: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe52f1d: 10,
-        "members": bfe52f1d: ,
+        "members": bfe52f1d: <JSDate (value has unexpected type)>,
     },
     "_events": bfe52f1d: {
         "<JSDate>": bfe52f1d: 0,
@@ -40335,14 +40335,14 @@ bfe52f1d: {
     },
     "_time": bfe52f1d: <couldn't read type>,
     "_version": bfe52f1d: "*",
-    "params": bfe52f1d: ,
-    "context": bfe52f1d: ,
+    "params": bfe52f1d: <JSDate (value has unexpected type)>,
+    "context": bfe52f1d: <JSDate (value has unexpected type)>,
     "route": bfe52f1d: undefined,
-    "_id": bfe52f1d: ,
+    "_id": bfe52f1d: <JSDate (value has unexpected type)>,
     "_url": bfe52f1d: <couldn't read type>,
-    "_query": bfe52f1d: ,
-    "query": bfe52f1d: ,
-    "_negotiator": bfe52f1d: ,
+    "_query": bfe52f1d: <JSDate (value has unexpected type)>,
+    "query": bfe52f1d: <JSDate (value has unexpected type)>,
+    "_negotiator": bfe52f1d: <JSDate (value has unexpected type)>,
     "_clen": bfe52f1d: 40,
     "_contentType": bfe52f1d: <couldn't read type>,
     "body": bfe52f1d: <external two-byte string>,
@@ -40477,7 +40477,7 @@ bfe2ad05: {
         "key": bfe2ad05: <couldn't read type>,
         "nkeys": bfe2ad05: undefined,
     },
-    "pause": bfe2ad05: ,
+    "pause": bfe2ad05: <JSDate (value has unexpected type)>,
     "resume": bfe2ad05: <unknown JavaScript object type "<unknown>">,
     "_body": bfe2ad05: <unknown JavaScript object type "ByteArray">,
     "maZone": bfe2ad05: {
@@ -41547,7 +41547,7 @@ bbeaa1e1: {
         "nkeys": bbeaa1e1: undefined,
     },
     "pause": bbeaa1e1: <couldn't read type>,
-    "resume": bbeaa1e1: ,
+    "resume": bbeaa1e1: <JSDate (value has unexpected type)>,
     "_body": bbeaa1e1: <couldn't read type>,
     "maZone": bbeaa1e1: {
         "z_zonename": bbeaa1e1: "8d98849b-c1b3-4ead-a81e-ec1c4c9b23ec",
@@ -41964,7 +41964,7 @@ bfe4d235: {
     "_headers": bfe4d235: <external two-byte string>,
     "_headerNames": bfe4d235: <unknown JavaScript object type "<unknown>">,
     "parser": bfe4d235: null,
-    "res": bfe4d235: ,
+    "res": bfe4d235: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -42206,7 +42206,7 @@ bfe3ec59: {
     "useChunkedEncodingByDefault": bfe3ec59: true,
     "sendDate": bfe3ec59: false,
     "_headerSent": bfe3ec59: true,
-    "_header": bfe3ec59: ,
+    "_header": bfe3ec59: <JSDate (value has unexpected type)>,
     "_hasBody": bfe3ec59: true,
     "_trailer": bfe3ec59: "",
     "finished": bfe3ec59: true,
@@ -42501,7 +42501,7 @@ bfe3cdfd: {
     "socketPath": bfe3cdfd: undefined,
     "method": bfe3cdfd: "PUT",
     "path": bfe3cdfd: <couldn't read type>,
-    "_headers": bfe3cdfd: ,
+    "_headers": bfe3cdfd: <JSDate (value has unexpected type)>,
     "_headerNames": bfe3cdfd: <external string (failed to read ExternalString data)>,
     "parser": bfe3cdfd: null,
     "res": bfe3cdfd: <external two-byte string>,
@@ -42526,7 +42526,7 @@ bfe3be9d: {
     "useChunkedEncodingByDefault": bfe3be9d: true,
     "sendDate": bfe3be9d: false,
     "_headerSent": bfe3be9d: true,
-    "_header": bfe3be9d: ,
+    "_header": bfe3be9d: <JSDate (value has unexpected type)>,
     "_hasBody": bfe3be9d: true,
     "_trailer": bfe3be9d: "",
     "finished": bfe3be9d: true,
@@ -42545,10 +42545,10 @@ bfe3be9d: {
     "socketPath": bfe3be9d: undefined,
     "method": bfe3be9d: "PUT",
     "path": bfe3be9d: <couldn't read type>,
-    "_headers": bfe3be9d: ,
-    "_headerNames": bfe3be9d: ,
+    "_headers": bfe3be9d: <JSDate (value has unexpected type)>,
+    "_headerNames": bfe3be9d: <JSDate (value has unexpected type)>,
     "parser": bfe3be9d: null,
-    "res": bfe3be9d: ,
+    "res": bfe3be9d: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -48294,7 +48294,7 @@ object has invalid-looking property values
 property kind: in-object "properties" array 
 object has invalid-looking property values
 90c6929d: {
-    "domain": 90c6929d: ,
+    "domain": 90c6929d: <JSDate (value has unexpected type)>,
     "_events": 90c6929d: <unknown JavaScript object type "ExternalShortArray">,
     "_maxListeners": 90c6929d: 10,
     "_isSimpleChild": 90c6929d: true,
@@ -48485,7 +48485,7 @@ bfed9e95: {
         "_maxListeners": bfed9e95: 10,
         "members": bfed9e95: <unknown JavaScript object type "JSSet">,
     },
-    "_events": bfed9e95: ,
+    "_events": bfed9e95: <JSDate (value has unexpected type)>,
     "_maxListeners": bfed9e95: 10,
     "_isSimpleChild": bfed9e95: true,
     "_level": bfed9e95: 30,
@@ -48520,9 +48520,9 @@ object has invalid-looking property values
 bfec4a3d: {
     "domain": bfec4a3d: {
         "domain": bfec4a3d: null,
-        "_events": bfec4a3d: ,
+        "_events": bfec4a3d: <JSDate (value has unexpected type)>,
         "_maxListeners": bfec4a3d: 10,
-        "members": bfec4a3d: ,
+        "members": bfec4a3d: <JSDate (value has unexpected type)>,
     },
     "_events": bfec4a3d: <unknown JavaScript object type "<unknown>">,
     "_maxListeners": bfec4a3d: 10,
@@ -48531,7 +48531,7 @@ bfec4a3d: {
     "streams": bfec4a3d: <couldn't read type>,
     "serializers": bfec4a3d: <couldn't read type>,
     "src": bfec4a3d: false,
-    "fields": bfec4a3d: ,
+    "fields": bfec4a3d: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -48578,7 +48578,7 @@ bfec0b65: {
         "res": bfec0b65: function res,
     },
     "src": bfec0b65: false,
-    "fields": bfec0b65: ,
+    "fields": bfec0b65: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -48640,7 +48640,7 @@ bfeab9cd: {
     "streams": bfeab9cd: <couldn't read type>,
     "serializers": bfeab9cd: <couldn't read type>,
     "src": bfeab9cd: false,
-    "fields": bfeab9cd: ,
+    "fields": bfeab9cd: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -48698,7 +48698,7 @@ bfe9edd5: {
         "_maxListeners": bfe9edd5: 10,
         "members": bfe9edd5: <couldn't read type>,
     },
-    "_events": bfe9edd5: ,
+    "_events": bfe9edd5: <JSDate (value has unexpected type)>,
     "_maxListeners": bfe9edd5: 10,
     "_isSimpleChild": bfe9edd5: true,
     "_level": bfe9edd5: 30,
@@ -48732,14 +48732,14 @@ property kind: in-object
 object has invalid-looking property values
 bfe57035: {
     "domain": bfe57035: <unknown JavaScript object type "DebugInfo">,
-    "_events": bfe57035: ,
+    "_events": bfe57035: <JSDate (value has unexpected type)>,
     "_maxListeners": bfe57035: 10,
     "_isSimpleChild": bfe57035: true,
     "_level": bfe57035: 30,
     "streams": bfe57035: <couldn't read type>,
     "serializers": bfe57035: <couldn't read type>,
     "src": bfe57035: false,
-    "fields": bfe57035: ,
+    "fields": bfe57035: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -48933,9 +48933,9 @@ object has invalid-looking property values
 bfe398d9: {
     "domain": bfe398d9: {
         "domain": bfe398d9: null,
-        "_events": bfe398d9: ,
+        "_events": bfe398d9: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe398d9: 10,
-        "members": bfe398d9: ,
+        "members": bfe398d9: <JSDate (value has unexpected type)>,
     },
     "_events": bfe398d9: <external two-byte string>,
     "_maxListeners": bfe398d9: 10,
@@ -48972,9 +48972,9 @@ object has invalid-looking property values
 bfe39191: {
     "domain": bfe39191: {
         "domain": bfe39191: null,
-        "_events": bfe39191: ,
+        "_events": bfe39191: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe39191: 10,
-        "members": bfe39191: ,
+        "members": bfe39191: <JSDate (value has unexpected type)>,
     },
     "_events": bfe39191: <couldn't read type>,
     "_maxListeners": bfe39191: 10,
@@ -49169,9 +49169,9 @@ object has invalid-looking property values
 bfe2e051: {
     "domain": bfe2e051: {
         "domain": bfe2e051: null,
-        "_events": bfe2e051: ,
+        "_events": bfe2e051: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe2e051: 10,
-        "members": bfe2e051: ,
+        "members": bfe2e051: <JSDate (value has unexpected type)>,
     },
     "_events": bfe2e051: <unknown JavaScript object type "ExternalShortArray">,
     "_maxListeners": bfe2e051: 10,
@@ -49249,7 +49249,7 @@ bfe2cde1: {
         "domain": bfe2cde1: null,
         "_events": bfe2cde1: <external string (failed to read ExternalString data)>,
         "_maxListeners": bfe2cde1: 10,
-        "members": bfe2cde1: ,
+        "members": bfe2cde1: <JSDate (value has unexpected type)>,
     },
     "_events": bfe2cde1: {
         "request": bfe2cde1: [...],
@@ -49288,9 +49288,9 @@ object has invalid-looking property values
 bfe2c3ad: {
     "domain": bfe2c3ad: {
         "domain": bfe2c3ad: null,
-        "_events": bfe2c3ad: ,
+        "_events": bfe2c3ad: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe2c3ad: 10,
-        "members": bfe2c3ad: ,
+        "members": bfe2c3ad: <JSDate (value has unexpected type)>,
     },
     "_events": bfe2c3ad: <couldn't read type>,
     "_maxListeners": bfe2c3ad: 10,
@@ -49327,9 +49327,9 @@ object has invalid-looking property values
 bfe2b36d: {
     "domain": bfe2b36d: {
         "domain": bfe2b36d: null,
-        "_events": bfe2b36d: ,
+        "_events": bfe2b36d: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe2b36d: 10,
-        "members": bfe2b36d: ,
+        "members": bfe2b36d: <JSDate (value has unexpected type)>,
     },
     "_events": bfe2b36d: <couldn't read type>,
     "_maxListeners": bfe2b36d: 10,
@@ -49366,9 +49366,9 @@ object has invalid-looking property values
 bfe2b02d: {
     "domain": bfe2b02d: {
         "domain": bfe2b02d: null,
-        "_events": bfe2b02d: ,
+        "_events": bfe2b02d: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe2b02d: 10,
-        "members": bfe2b02d: ,
+        "members": bfe2b02d: <JSDate (value has unexpected type)>,
     },
     "_events": bfe2b02d: <couldn't read type>,
     "_maxListeners": bfe2b02d: 10,
@@ -49405,7 +49405,7 @@ object has invalid-looking property values
 bfe293b9: {
     "domain": bfe293b9: {
         "domain": bfe293b9: null,
-        "_events": bfe293b9: ,
+        "_events": bfe293b9: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe293b9: 10,
         "members": bfe293b9: <unknown JavaScript object type "<unknown>">,
     },
@@ -49485,7 +49485,7 @@ bfe28d1d: {
         "domain": bfe28d1d: null,
         "_events": bfe28d1d: <external string (failed to read ExternalString data)>,
         "_maxListeners": bfe28d1d: 10,
-        "members": bfe28d1d: ,
+        "members": bfe28d1d: <JSDate (value has unexpected type)>,
     },
     "_events": bfe28d1d: <unknown JavaScript object type "<unknown>">,
     "_maxListeners": bfe28d1d: 10,
@@ -49602,7 +49602,7 @@ object has invalid-looking property values
 bbeb9ba9: {
     "domain": bbeb9ba9: {
         "domain": bbeb9ba9: null,
-        "_events": bbeb9ba9: ,
+        "_events": bbeb9ba9: <JSDate (value has unexpected type)>,
         "_maxListeners": bbeb9ba9: 10,
         "members": bbeb9ba9: <external string (failed to read ExternalString data)>,
     },
@@ -49640,7 +49640,7 @@ property kind: in-object
 object has invalid-looking property values
 bbead219: {
     "domain": bbead219: <unknown JavaScript object type "<unknown>">,
-    "_events": bbead219: ,
+    "_events": bbead219: <JSDate (value has unexpected type)>,
     "_maxListeners": bbead219: 10,
     "_isSimpleChild": bbead219: true,
     "_level": bbead219: 30,
@@ -49668,7 +49668,7 @@ bbead219: {
         "res": bbead219: function res,
     },
     "src": bbead219: false,
-    "fields": bbead219: ,
+    "fields": bbead219: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -49775,9 +49775,9 @@ object has invalid-looking property values
 bbe9bab9: {
     "domain": bbe9bab9: {
         "domain": bbe9bab9: null,
-        "_events": bbe9bab9: ,
+        "_events": bbe9bab9: <JSDate (value has unexpected type)>,
         "_maxListeners": bbe9bab9: 10,
-        "members": bbe9bab9: ,
+        "members": bbe9bab9: <JSDate (value has unexpected type)>,
     },
     "_events": bbe9bab9: <couldn't read type>,
     "_maxListeners": bbe9bab9: 10,
@@ -49814,9 +49814,9 @@ object has invalid-looking property values
 bbe83fb5: {
     "domain": bbe83fb5: {
         "domain": bbe83fb5: null,
-        "_events": bbe83fb5: ,
+        "_events": bbe83fb5: <JSDate (value has unexpected type)>,
         "_maxListeners": bbe83fb5: 10,
-        "members": bbe83fb5: ,
+        "members": bbe83fb5: <JSDate (value has unexpected type)>,
     },
     "_events": bbe83fb5: <couldn't read type>,
     "_maxListeners": bbe83fb5: 10,
@@ -49885,7 +49885,7 @@ bbe5d9f5: {
 property kind: in-object 
 object has invalid-looking property values
 bbe4cf51: {
-    "domain": bbe4cf51: ,
+    "domain": bbe4cf51: <JSDate (value has unexpected type)>,
     "_events": bbe4cf51: <couldn't read type>,
     "_maxListeners": bbe4cf51: 10,
     "_isSimpleChild": bbe4cf51: true,
@@ -50005,7 +50005,7 @@ bb96f4c5: {
         "res": bb96f4c5: function res,
     },
     "src": bb96f4c5: false,
-    "fields": bb96f4c5: ,
+    "fields": bb96f4c5: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -51162,7 +51162,7 @@ property kind: in-object
 object has invalid-looking property values
 a14e2225: {
     "domain": a14e2225: <couldn't read type>,
-    "_events": a14e2225: ,
+    "_events": a14e2225: <JSDate (value has unexpected type)>,
     "_maxListeners": a14e2225: 10,
     "_isSimpleChild": a14e2225: true,
     "_level": a14e2225: 30,
@@ -51190,7 +51190,7 @@ a14e2225: {
         "res": a14e2225: function res,
     },
     "src": a14e2225: false,
-    "fields": a14e2225: ,
+    "fields": a14e2225: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -51235,7 +51235,7 @@ property kind: in-object
 object has invalid-looking property values
 a1487f3d: {
     "domain": a1487f3d: <unknown JavaScript object type "Foreign">,
-    "_events": a1487f3d: ,
+    "_events": a1487f3d: <JSDate (value has unexpected type)>,
     "_maxListeners": a1487f3d: 10,
     "_isSimpleChild": a1487f3d: true,
     "_level": a1487f3d: 30,
@@ -51457,9 +51457,9 @@ object has invalid-looking property values
 9c16a23d: {
     "domain": 9c16a23d: {
         "domain": 9c16a23d: null,
-        "_events": 9c16a23d: ,
+        "_events": 9c16a23d: <JSDate (value has unexpected type)>,
         "_maxListeners": 9c16a23d: 10,
-        "members": 9c16a23d: ,
+        "members": 9c16a23d: <JSDate (value has unexpected type)>,
     },
     "_events": 9c16a23d: <unknown JavaScript object type "DebugInfo">,
     "_maxListeners": 9c16a23d: 10,
@@ -51677,7 +51677,7 @@ object has invalid-looking property values
         "res": 9865f839: function res,
     },
     "src": 9865f839: false,
-    "fields": 9865f839: ,
+    "fields": 9865f839: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -51821,7 +51821,7 @@ object has invalid-looking property values
 90c696e9: {
     "domain": 90c696e9: {
         "domain": 90c696e9: null,
-        "_events": 90c696e9: ,
+        "_events": 90c696e9: <JSDate (value has unexpected type)>,
         "_maxListeners": 90c696e9: 10,
         "members": 90c696e9: "????????????????????????
 property kind: in-object 
@@ -51851,7 +51851,7 @@ b5ca4a15: {
         "encoding": b5ca4a15: null,
     },
     "readable": b5ca4a15: false,
-    "domain": b5ca4a15: ,
+    "domain": b5ca4a15: <JSDate (value has unexpected type)>,
     "_events": b5ca4a15: [],
     "_maxListeners": b5ca4a15: 10,
     "socket": b5ca4a15: <external string (failed to read ExternalString data)>,
@@ -52100,23 +52100,23 @@ bfe5c939: {
 property kind: in-object 
 object has invalid-looking property values
 bfe1dd51: {
-    "_readableState": bfe1dd51: ,
+    "_readableState": bfe1dd51: <JSDate (value has unexpected type)>,
     "readable": bfe1dd51: false,
     "domain": bfe1dd51: <couldn't read type>,
     "_events": bfe1dd51: <unknown JavaScript object type "DebugInfo">,
     "_maxListeners": bfe1dd51: 10,
-    "socket": bfe1dd51: ,
-    "connection": bfe1dd51: ,
+    "socket": bfe1dd51: <JSDate (value has unexpected type)>,
+    "connection": bfe1dd51: <JSDate (value has unexpected type)>,
     "httpVersion": bfe1dd51: <couldn't read type>,
     "complete": bfe1dd51: true,
-    "headers": bfe1dd51: ,
-    "trailers": bfe1dd51: ,
-    "_pendings": bfe1dd51: ,
+    "headers": bfe1dd51: <JSDate (value has unexpected type)>,
+    "trailers": bfe1dd51: <JSDate (value has unexpected type)>,
+    "_pendings": bfe1dd51: <JSDate (value has unexpected type)>,
     "_pendingIndex": bfe1dd51: 0,
     "url": bfe1dd51: "",
     "method": bfe1dd51: null,
     "statusCode": bfe1dd51: 404,
-    "client": bfe1dd51: ,
+    "client": bfe1dd51: <JSDate (value has unexpected type)>,
     "_consuming": bfe1dd51: true,
     "_dumped": bfe1dd51: false,
     "httpVersionMajor": bfe1dd51: 1,
@@ -52424,9 +52424,9 @@ bfe159dd: {
     "readable": bfe159dd: false,
     "domain": bfe159dd: {
         "domain": bfe159dd: null,
-        "_events": bfe159dd: ,
+        "_events": bfe159dd: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe159dd: 10,
-        "members": bfe159dd: ,
+        "members": bfe159dd: <JSDate (value has unexpected type)>,
     },
     "_events": bfe159dd: <external two-byte string>,
     "_maxListeners": bfe159dd: 10,
@@ -52694,8 +52694,8 @@ bbea256d: {
     "domain": bbea256d: <unknown JavaScript object type "DebugInfo">,
     "_events": bbea256d: <couldn't read type>,
     "_maxListeners": bbea256d: 10,
-    "socket": bbea256d: ,
-    "connection": bbea256d: ,
+    "socket": bbea256d: <JSDate (value has unexpected type)>,
+    "connection": bbea256d: <JSDate (value has unexpected type)>,
     "httpVersion": bbea256d: "1.1",
     "complete": bbea256d: true,
     "headers": bbea256d: <external string (failed to read ExternalString data)>,
@@ -52705,7 +52705,7 @@ bbea256d: {
     "url": bbea256d: "",
     "method": bbea256d: null,
     "statusCode": bbea256d: 204,
-    "client": bbea256d: ,
+    "client": bbea256d: <JSDate (value has unexpected type)>,
     "_consuming": bbea256d: true,
     "_dumped": bbea256d: false,
     "httpVersionMajor": bbea256d: 1,
@@ -52740,7 +52740,7 @@ bbe8bac1: {
         "encoding": bbe8bac1: null,
     },
     "readable": bbe8bac1: false,
-    "domain": bbe8bac1: ,
+    "domain": bbe8bac1: <JSDate (value has unexpected type)>,
     "_events": bbe8bac1: {
         "error": bbe8bac1: function <anonymous> (as b),
         "end": bbe8bac1: [...],
@@ -52854,18 +52854,18 @@ bbe5c1d5: {
 property kind: in-object 
 object has invalid-looking property values
 bbe58ea9: {
-    "_readableState": bbe58ea9: ,
+    "_readableState": bbe58ea9: <JSDate (value has unexpected type)>,
     "readable": bbe58ea9: false,
     "domain": bbe58ea9: {
         "domain": bbe58ea9: null,
-        "_events": bbe58ea9: ,
+        "_events": bbe58ea9: <JSDate (value has unexpected type)>,
         "_maxListeners": bbe58ea9: 10,
-        "members": bbe58ea9: ,
+        "members": bbe58ea9: <JSDate (value has unexpected type)>,
     },
     "_events": bbe58ea9: <unknown JavaScript object type "DebugInfo">,
     "_maxListeners": bbe58ea9: 10,
-    "socket": bbe58ea9: ,
-    "connection": bbe58ea9: ,
+    "socket": bbe58ea9: <JSDate (value has unexpected type)>,
+    "connection": bbe58ea9: <JSDate (value has unexpected type)>,
     "httpVersion": bbe58ea9: <couldn't read type>,
     "complete": bbe58ea9: true,
     "headers": bbe58ea9: "<not a string>,
@@ -52875,7 +52875,7 @@ bbe58ea9: {
     "url": bbe58ea9: "",
     "method": bbe58ea9: null,
     "statusCode": bbe58ea9: 204,
-    "client": bbe58ea9: ,
+    "client": bbe58ea9: <JSDate (value has unexpected type)>,
     "_consuming": bbe58ea9: true,
     "_dumped": bbe58ea9: false,
     "httpVersionMajor": bbe58ea9: 1,
@@ -53176,7 +53176,7 @@ bbe40835: {
     },
     "_events": bbe40835: {
         "error": bbe40835: 0 (1969 Dec 31 16:00:00),
-        "end": bbe40835: ,
+        "end": bbe40835: <JSDate (value has unexpected type)>,
     },
     "_maxListeners": bbe40835: 10,
     "socket": bbe40835: {
@@ -54039,7 +54039,7 @@ bbe3d1a9: {
 property kind: in-object 
 object has invalid-looking property values
 bbe2e921: {
-    "_readableState": bbe2e921: ,
+    "_readableState": bbe2e921: <JSDate (value has unexpected type)>,
     "readable": bbe2e921: false,
     "domain": bbe2e921: "<not a string>,
     "_events": bbe2e921: 28 (1969 Dec 31 16:00:00),
@@ -54142,7 +54142,7 @@ bbe2e079: {
         "encoding": bbe2e079: null,
     },
     "readable": bbe2e079: false,
-    "domain": bbe2e079: ,
+    "domain": bbe2e079: <JSDate (value has unexpected type)>,
     "_events": bbe2e079: function <could not read type>,
     "_maxListeners": bbe2e079: 10,
     "socket": bbe2e079: <unknown JavaScript object type "FreeSpace">,
@@ -54211,7 +54211,7 @@ bbe2e011: {
     "httpVersionMajor": bbe2e011: 1,
     "httpVersionMinor": bbe2e011: 1,
     "upgrade": bbe2e011: false,
-    "req": bbe2e011: ,
+    "req": bbe2e011: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -54269,7 +54269,7 @@ object has invalid-looking property values
 bbe2d8c9: {
     "_readableState": bbe2d8c9: {
         "highWaterMark": bbe2d8c9: 16384,
-        "buffer": bbe2d8c9: ,
+        "buffer": bbe2d8c9: <JSDate (value has unexpected type)>,
         "length": bbe2d8c9: 0,
         "pipes": bbe2d8c9: null,
         "pipesCount": bbe2d8c9: 0,
@@ -54291,11 +54291,11 @@ bbe2d8c9: {
         "encoding": bbe2d8c9: null,
     },
     "readable": bbe2d8c9: false,
-    "domain": bbe2d8c9: ,
+    "domain": bbe2d8c9: <JSDate (value has unexpected type)>,
     "_events": bbe2d8c9: function <could not read type>,
     "_maxListeners": bbe2d8c9: 10,
-    "socket": bbe2d8c9: ,
-    "connection": bbe2d8c9: ,
+    "socket": bbe2d8c9: <JSDate (value has unexpected type)>,
+    "connection": bbe2d8c9: <JSDate (value has unexpected type)>,
     "httpVersion": bbe2d8c9: <couldn't read type>,
     "complete": bbe2d8c9: true,
     "headers": bbe2d8c9: function <could not read type>,
@@ -54305,7 +54305,7 @@ bbe2d8c9: {
     "url": bbe2d8c9: "",
     "method": bbe2d8c9: null,
     "statusCode": bbe2d8c9: 204,
-    "client": bbe2d8c9: ,
+    "client": bbe2d8c9: <JSDate (value has unexpected type)>,
     "_consuming": bbe2d8c9: true,
     "_dumped": bbe2d8c9: false,
     "httpVersionMajor": bbe2d8c9: 1,
@@ -54318,7 +54318,7 @@ object has invalid-looking property values
 bbe2d4f1: {
     "_readableState": bbe2d4f1: {
         "highWaterMark": bbe2d4f1: 16384,
-        "buffer": bbe2d4f1: ,
+        "buffer": bbe2d4f1: <JSDate (value has unexpected type)>,
         "length": bbe2d4f1: 0,
         "pipes": bbe2d4f1: null,
         "pipesCount": bbe2d4f1: 0,
@@ -54364,7 +54364,7 @@ bbe2d4f1: {
     "httpVersionMajor": bbe2d4f1: 1,
     "httpVersionMinor": bbe2d4f1: 1,
     "upgrade": bbe2d4f1: false,
-    "req": bbe2d4f1: ,
+    "req": bbe2d4f1: <JSDate (value has unexpected type)>,
 }
 property kind: in-object 
 object has invalid-looking property values
@@ -54650,7 +54650,7 @@ bfef5d95: {
     "t_nout_pending": bfef5d95: 0,
     "t_done": bfef5d95: false,
     "t_async_error": bfef5d95: undefined,
-    "t_localfile": bfef5d95: ,
+    "t_localfile": bfef5d95: <JSDate (value has unexpected type)>,
     "t_shortened": bfef5d95: false,
 }
 property kind: in-object 
@@ -55053,7 +55053,7 @@ property kind: in-object
 object has invalid-looking property values
 bfe98b21: {
     "t_id": bfe98b21: <couldn't read type>,
-    "t_record": bfe98b21: ,
+    "t_record": bfe98b21: <JSDate (value has unexpected type)>,
     "t_xinput": bfe98b21: 583 (1969 Dec 31 16:00:00),
     "t_group": bfe98b21: {
         "g_groupid": bfe98b21: "c4055759-a8f0-63a0-ae2b-bdb246ee0414/0",
@@ -55105,7 +55105,7 @@ bfe65169: {
     "t_nout_pending": bfe65169: 0,
     "t_done": bfe65169: false,
     "t_async_error": bfe65169: undefined,
-    "t_localfile": bfe65169: ,
+    "t_localfile": bfe65169: <JSDate (value has unexpected type)>,
     "t_shortened": bfe65169: false,
 }
 property kind: in-object 
@@ -55942,7 +55942,7 @@ property kind: in-object
 object has invalid-looking property values
 a143f6e9: {
     "t_id": a143f6e9: <couldn't read type>,
-    "t_record": a143f6e9: ,
+    "t_record": a143f6e9: <JSDate (value has unexpected type)>,
     "t_xinput": a143f6e9: [],
     "t_group": a143f6e9: {
         "g_groupid": a143f6e9: "c4055759-a8f0-63a0-ae2b-bdb246ee0414/0",
@@ -56868,7 +56868,7 @@ property kind: in-object
 object has invalid-looking property values
 98651221: {
     "t_id": 98651221: "8849",
-    "t_record": 98651221: ,
+    "t_record": 98651221: <JSDate (value has unexpected type)>,
     "t_xinput": 98651221: "<not a string>,
     "t_group": 98651221: {
         "g_groupid": 98651221: "c4055759-a8f0-63a0-ae2b-bdb246ee0414/0",
@@ -60283,8 +60283,8 @@ Connection: close
     "route": bfefd6a9: undefined,
     "_id": bfefd6a9: <couldn't read type>,
     "_url": bfefd6a9: <unknown JavaScript object type "DebugInfo">,
-    "_query": bfefd6a9: ,
-    "query": bfefd6a9: ,
+    "_query": bfefd6a9: <JSDate (value has unexpected type)>,
+    "query": bfefd6a9: <JSDate (value has unexpected type)>,
     "maZone": bfefd6a9: {
         "z_zonename": bfefd6a9: "e6dcb6f6-bd07-4b23-bf53-c698679dc6fc",
         "z_spawner": bfefd6a9: [...],
@@ -60315,8 +60315,8 @@ Connection: close
         "z_pending_command": bfefd6a9: undefined,
         "z_taskstream": bfefd6a9: [...],
     },
-    "pause": bfefd6a9: ,
-    "resume": bfefd6a9: ,
+    "pause": bfefd6a9: <JSDate (value has unexpected type)>,
+    "resume": bfefd6a9: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -60526,8 +60526,8 @@ bfe5baf1: {
         "z_pending_command": bfe5baf1: undefined,
         "z_taskstream": bfe5baf1: [...],
     },
-    "pause": bfe5baf1: ,
-    "resume": bfe5baf1: ,
+    "pause": bfe5baf1: <JSDate (value has unexpected type)>,
+    "resume": bfe5baf1: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -60731,7 +60731,7 @@ bfe5b779: {
         "z_pending_command": bfe5b779: undefined,
         "z_taskstream": bfe5b779: [...],
     },
-    "pause": bfe5b779: ,
+    "pause": bfe5b779: <JSDate (value has unexpected type)>,
     "resume": bfe5b779: <external two-byte string>,
 }
 property kind: in-object "properties" array 
@@ -61141,8 +61141,8 @@ bfe5842d: {
         "z_pending_command": bfe5842d: undefined,
         "z_taskstream": bfe5842d: [...],
     },
-    "pause": bfe5842d: ,
-    "resume": bfe5842d: ,
+    "pause": bfe5842d: <JSDate (value has unexpected type)>,
+    "resume": bfe5842d: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -62950,7 +62950,7 @@ object has invalid-looking property values
 bfe54f41: {
     "_readableState": bfe54f41: {
         "highWaterMark": bfe54f41: 16384,
-        "buffer": bfe54f41: ,
+        "buffer": bfe54f41: <JSDate (value has unexpected type)>,
         "length": bfe54f41: 0,
         "pipes": bfe54f41: null,
         "pipesCount": bfe54f41: 0,
@@ -62974,9 +62974,9 @@ bfe54f41: {
     "readable": bfe54f41: false,
     "domain": bfe54f41: {
         "domain": bfe54f41: null,
-        "_events": bfe54f41: ,
+        "_events": bfe54f41: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe54f41: 10,
-        "members": bfe54f41: ,
+        "members": bfe54f41: <JSDate (value has unexpected type)>,
     },
     "_events": bfe54f41: {
         "<JSDate>": bfe54f41: 0,
@@ -63084,24 +63084,24 @@ bfe54f41: {
     "upgrade": bfe54f41: false,
     "log": bfe54f41: {
         "domain": bfe54f41: [...],
-        "_events": bfe54f41: ,
+        "_events": bfe54f41: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe54f41: 10,
         "_isSimpleChild": bfe54f41: true,
         "_level": bfe54f41: 30,
         "streams": bfe54f41: [...],
         "serializers": bfe54f41: [...],
         "src": bfe54f41: false,
-        "fields": bfe54f41: ,
+        "fields": bfe54f41: <JSDate (value has unexpected type)>,
     },
     "_time": bfe54f41: <couldn't read type>,
     "_version": bfe54f41: <couldn't read type>,
-    "params": bfe54f41: ,
-    "context": bfe54f41: ,
+    "params": bfe54f41: <JSDate (value has unexpected type)>,
+    "context": bfe54f41: <JSDate (value has unexpected type)>,
     "route": bfe54f41: undefined,
     "_id": bfe54f41: "date",
-    "_url": bfe54f41: ,
-    "_query": bfe54f41: ,
-    "query": bfe54f41: ,
+    "_url": bfe54f41: <JSDate (value has unexpected type)>,
+    "_query": bfe54f41: <JSDate (value has unexpected type)>,
+    "query": bfe54f41: <JSDate (value has unexpected type)>,
     "maZone": bfe54f41: {
         "z_zonename": bfe54f41: "1d346dd9-026e-468b-9a59-0027ecef2c1e",
         "z_spawner": bfe54f41: [...],
@@ -63473,11 +63473,11 @@ bfe54569: {
     },
     "_time": bfe54569: "x-response-time",
     "_version": bfe54569: <couldn't read type>,
-    "params": bfe54569: ,
-    "context": bfe54569: ,
+    "params": bfe54569: <JSDate (value has unexpected type)>,
+    "context": bfe54569: <JSDate (value has unexpected type)>,
     "route": bfe54569: undefined,
     "_id": bfe54569: "10",
-    "_url": bfe54569: ,
+    "_url": bfe54569: <JSDate (value has unexpected type)>,
     "_query": bfe54569: <sliced string (failed to read offset)>,
     "query": bfe54569: <sliced string (failed to read offset)>,
     "maZone": bfe54569: {
@@ -63896,7 +63896,7 @@ object has invalid-looking property values
 bfe53bf1: {
     "_readableState": bfe53bf1: {
         "highWaterMark": bfe53bf1: 16384,
-        "buffer": bfe53bf1: ,
+        "buffer": bfe53bf1: <JSDate (value has unexpected type)>,
         "length": bfe53bf1: 0,
         "pipes": bfe53bf1: null,
         "pipesCount": bfe53bf1: 0,
@@ -63920,9 +63920,9 @@ bfe53bf1: {
     "readable": bfe53bf1: false,
     "domain": bfe53bf1: {
         "domain": bfe53bf1: null,
-        "_events": bfe53bf1: ,
+        "_events": bfe53bf1: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe53bf1: 10,
-        "members": bfe53bf1: ,
+        "members": bfe53bf1: <JSDate (value has unexpected type)>,
     },
     "_events": bfe53bf1: {
         "<JSDate>": bfe53bf1: 0,
@@ -63963,8 +63963,8 @@ bfe53bf1: {
     "route": bfe53bf1: undefined,
     "_id": bfe53bf1: <couldn't read type>,
     "_url": bfe53bf1: <couldn't read type>,
-    "_query": bfe53bf1: ,
-    "query": bfe53bf1: ,
+    "_query": bfe53bf1: <JSDate (value has unexpected type)>,
+    "query": bfe53bf1: <JSDate (value has unexpected type)>,
     "maZone": bfe53bf1: {
         "z_zonename": bfe53bf1: "1d346dd9-026e-468b-9a59-0027ecef2c1e",
         "z_spawner": bfe53bf1: [...],
@@ -64137,7 +64137,7 @@ bfe52d95: {
     "upgrade": bfe52d95: false,
     "log": bfe52d95: {
         "domain": bfe52d95: [...],
-        "_events": bfe52d95: ,
+        "_events": bfe52d95: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe52d95: 10,
         "_isSimpleChild": bfe52d95: true,
         "_level": bfe52d95: 30,
@@ -64219,7 +64219,7 @@ bfe52c0d: {
         "domain": bfe52c0d: null,
         "_events": bfe52c0d: <external string (failed to read ExternalString data)>,
         "_maxListeners": bfe52c0d: 10,
-        "members": bfe52c0d: ,
+        "members": bfe52c0d: <JSDate (value has unexpected type)>,
     },
     "_events": bfe52c0d: {
         "<JSDate>": bfe52c0d: 0,
@@ -64542,14 +64542,14 @@ bfe52a85: {
     "upgrade": bfe52a85: false,
     "log": bfe52a85: {
         "domain": bfe52a85: [...],
-        "_events": bfe52a85: ,
+        "_events": bfe52a85: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe52a85: 10,
         "_isSimpleChild": bfe52a85: true,
         "_level": bfe52a85: 30,
         "streams": bfe52a85: [...],
         "serializers": bfe52a85: [...],
         "src": bfe52a85: false,
-        "fields": bfe52a85: ,
+        "fields": bfe52a85: <JSDate (value has unexpected type)>,
     },
     "_time": bfe52a85: "keep-alive",
     "_version": bfe52a85: <couldn't read type>,
@@ -64764,8 +64764,8 @@ bfe528fd: {
     },
     "_time": bfe528fd: <couldn't read type>,
     "_version": bfe528fd: <couldn't read type>,
-    "params": bfe528fd: ,
-    "context": bfe528fd: ,
+    "params": bfe528fd: <JSDate (value has unexpected type)>,
+    "context": bfe528fd: <JSDate (value has unexpected type)>,
     "route": bfe528fd: undefined,
     "_id": bfe528fd: <couldn't read type>,
     "_url": bfe528fd: 1 (1969 Dec 31 16:00:00),
@@ -64833,9 +64833,9 @@ bfe51165: {
     "readable": bfe51165: false,
     "domain": bfe51165: {
         "domain": bfe51165: null,
-        "_events": bfe51165: ,
+        "_events": bfe51165: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe51165: 10,
-        "members": bfe51165: ,
+        "members": bfe51165: <JSDate (value has unexpected type)>,
     },
     "_events": bfe51165: [],
     "_maxListeners": bfe51165: 10,
@@ -64955,8 +64955,8 @@ bfe51165: {
     "route": bfe51165: undefined,
     "_id": bfe51165: <couldn't read type>,
     "_url": bfe51165: <unknown JavaScript object type "FixedArray">,
-    "_query": bfe51165: ,
-    "query": bfe51165: ,
+    "_query": bfe51165: <JSDate (value has unexpected type)>,
+    "query": bfe51165: <JSDate (value has unexpected type)>,
     "maZone": bfe51165: {
         "z_zonename": bfe51165: "efb803d7-a1c7-496e-8e7a-2c8283c1fb75",
         "z_spawner": bfe51165: [...],
@@ -66239,11 +66239,11 @@ bbea2855: {
     "log": bbea2855: <couldn't read type>,
     "_time": bbea2855: 1430328371225,
     "_version": bbea2855: "~1.0",
-    "params": bbea2855: ,
-    "context": bbea2855: ,
+    "params": bbea2855: <JSDate (value has unexpected type)>,
+    "context": bbea2855: <JSDate (value has unexpected type)>,
     "route": bbea2855: undefined,
     "_id": bbea2855: "d3737c7d-5f61-4489-b0a3-3b9636682ea3",
-    "_url": bbea2855: ,
+    "_url": bbea2855: <JSDate (value has unexpected type)>,
     "_query": bbea2855: "uted-md5‚P’0[...]",
     "query": bbea2855: "uted-md5‚P’0[...]",
     "maZone": bbea2855: {
@@ -66276,8 +66276,8 @@ bbea2855: {
         "z_pending_command": bbea2855: undefined,
         "z_taskstream": bbea2855: [...],
     },
-    "pause": bbea2855: ,
-    "resume": bbea2855: ,
+    "pause": bbea2855: <JSDate (value has unexpected type)>,
+    "resume": bbea2855: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -69937,7 +69937,7 @@ bfeddeb5: {
     "onwrite": bfeddeb5: <unknown JavaScript object type "DebugInfo">,
     "writecb": bfeddeb5: null,
     "writelen": bfeddeb5: 0,
-    "buffer": bfeddeb5: ,
+    "buffer": bfeddeb5: <JSDate (value has unexpected type)>,
     "errorEmitted": bfeddeb5: false,
 }
 property kind: in-object 
@@ -69958,7 +69958,7 @@ bfed8b61: {
     "onwrite": bfed8b61: <unknown JavaScript object type "DebugInfo">,
     "writecb": bfed8b61: null,
     "writelen": bfed8b61: 0,
-    "buffer": bfed8b61: ,
+    "buffer": bfed8b61: <JSDate (value has unexpected type)>,
     "errorEmitted": bfed8b61: false,
 }
 property kind: in-object 
@@ -70210,7 +70210,7 @@ bfe47f49: {
     "onwrite": bfe47f49: <unknown JavaScript object type "FixedArray">,
     "writecb": bfe47f49: null,
     "writelen": bfe47f49: 0,
-    "buffer": bfe47f49: ,
+    "buffer": bfe47f49: <JSDate (value has unexpected type)>,
     "errorEmitted": bfe47f49: false,
 }
 property kind: in-object 
@@ -70378,7 +70378,7 @@ bfe39a99: {
     "onwrite": bfe39a99: <unknown JavaScript object type "FreeSpace">,
     "writecb": bfe39a99: null,
     "writelen": bfe39a99: 0,
-    "buffer": bfe39a99: ,
+    "buffer": bfe39a99: <JSDate (value has unexpected type)>,
     "errorEmitted": bfe39a99: false,
 }
 property kind: in-object 
@@ -70651,7 +70651,7 @@ bfe2dde9: {
     "onwrite": bfe2dde9: <unknown JavaScript object type "FreeSpace">,
     "writecb": bfe2dde9: null,
     "writelen": bfe2dde9: 0,
-    "buffer": bfe2dde9: ,
+    "buffer": bfe2dde9: <JSDate (value has unexpected type)>,
     "errorEmitted": bfe2dde9: false,
 }
 property kind: in-object 
@@ -70735,7 +70735,7 @@ bfe2b41d: {
     "onwrite": bfe2b41d: <couldn't read type>,
     "writecb": bfe2b41d: null,
     "writelen": bfe2b41d: 0,
-    "buffer": bfe2b41d: ,
+    "buffer": bfe2b41d: <JSDate (value has unexpected type)>,
     "errorEmitted": bfe2b41d: false,
 }
 property kind: in-object 
@@ -70798,7 +70798,7 @@ bfe29455: {
     "onwrite": bfe29455: <couldn't read type>,
     "writecb": bfe29455: null,
     "writelen": bfe29455: 0,
-    "buffer": bfe29455: ,
+    "buffer": bfe29455: <JSDate (value has unexpected type)>,
     "errorEmitted": bfe29455: false,
 }
 property kind: in-object 
@@ -70882,7 +70882,7 @@ bfe28b85: {
     "onwrite": bfe28b85: <couldn't read type>,
     "writecb": bfe28b85: null,
     "writelen": bfe28b85: 0,
-    "buffer": bfe28b85: ,
+    "buffer": bfe28b85: <JSDate (value has unexpected type)>,
     "errorEmitted": bfe28b85: false,
 }
 property kind: in-object 
@@ -70921,7 +70921,7 @@ bfe12e1d: {
     "writing": bfe12e1d: false,
     "sync": bfe12e1d: false,
     "bufferProcessing": bfe12e1d: false,
-    "onwrite": bfe12e1d: ,
+    "onwrite": bfe12e1d: <JSDate (value has unexpected type)>,
     "writecb": bfe12e1d: null,
     "writelen": bfe12e1d: 0,
     "buffer": bfe12e1d: <couldn't read type>,
@@ -70942,7 +70942,7 @@ bfe11d6d: {
     "writing": bfe11d6d: false,
     "sync": bfe11d6d: false,
     "bufferProcessing": bfe11d6d: false,
-    "onwrite": bfe11d6d: ,
+    "onwrite": bfe11d6d: <JSDate (value has unexpected type)>,
     "writecb": bfe11d6d: null,
     "writelen": bfe11d6d: 0,
     "buffer": bfe11d6d: <unknown JavaScript object type "<unknown>">,
@@ -71113,7 +71113,7 @@ bbea54b1: {
     "onwrite": bbea54b1: <couldn't read type>,
     "writecb": bbea54b1: null,
     "writelen": bbea54b1: 0,
-    "buffer": bbea54b1: ,
+    "buffer": bbea54b1: <JSDate (value has unexpected type)>,
     "errorEmitted": bbea54b1: false,
 }
 property kind: in-object 
@@ -71554,7 +71554,7 @@ bbe96511: {
     "onwrite": bbe96511: <unknown JavaScript object type "FixedArray">,
     "writecb": bbe96511: null,
     "writelen": bbe96511: 0,
-    "buffer": bbe96511: ,
+    "buffer": bbe96511: <JSDate (value has unexpected type)>,
     "errorEmitted": bbe96511: false,
 }
 property kind: in-object 
@@ -71575,7 +71575,7 @@ bbe963ed: {
     "onwrite": bbe963ed: <couldn't read type>,
     "writecb": bbe963ed: null,
     "writelen": bbe963ed: 0,
-    "buffer": bbe963ed: ,
+    "buffer": bbe963ed: <JSDate (value has unexpected type)>,
     "errorEmitted": bbe963ed: false,
 }
 property kind: in-object 
@@ -71596,7 +71596,7 @@ bbe962c9: {
     "onwrite": bbe962c9: <unknown JavaScript object type "FixedArray">,
     "writecb": bbe962c9: null,
     "writelen": bbe962c9: 0,
-    "buffer": bbe962c9: ,
+    "buffer": bbe962c9: <JSDate (value has unexpected type)>,
     "errorEmitted": bbe962c9: false,
 }
 property kind: in-object 
@@ -71635,7 +71635,7 @@ bbe61529: {
     "writing": bbe61529: false,
     "sync": bbe61529: false,
     "bufferProcessing": bbe61529: false,
-    "onwrite": bbe61529: ,
+    "onwrite": bbe61529: <JSDate (value has unexpected type)>,
     "writecb": bbe61529: null,
     "writelen": bbe61529: 0,
     "buffer": bbe61529: <unknown JavaScript object type "ObjectTemplateInfo">,
@@ -71677,7 +71677,7 @@ bbe4c331: {
     "writing": bbe4c331: false,
     "sync": bbe4c331: false,
     "bufferProcessing": bbe4c331: false,
-    "onwrite": bbe4c331: ,
+    "onwrite": bbe4c331: <JSDate (value has unexpected type)>,
     "writecb": bbe4c331: null,
     "writelen": bbe4c331: 0,
     "buffer": bbe4c331: <unknown JavaScript object type "<unknown>">,
@@ -71827,7 +71827,7 @@ a14e0215: {
     "onwrite": a14e0215: <unknown JavaScript object type "SignatureInfo">,
     "writecb": a14e0215: null,
     "writelen": a14e0215: 0,
-    "buffer": a14e0215: ,
+    "buffer": a14e0215: <JSDate (value has unexpected type)>,
     "errorEmitted": a14e0215: false,
 }
 property kind: in-object 
@@ -71911,7 +71911,7 @@ object has invalid-looking property values
     "onwrite": 9c1b4e5d: <unknown JavaScript object type "<unknown>">,
     "writecb": 9c1b4e5d: null,
     "writelen": 9c1b4e5d: 0,
-    "buffer": 9c1b4e5d: ,
+    "buffer": 9c1b4e5d: <JSDate (value has unexpected type)>,
     "errorEmitted": 9c1b4e5d: false,
 }
 property kind: in-object 
@@ -72016,7 +72016,7 @@ object has invalid-looking property values
     "onwrite": 9c12ef5d: <couldn't read type>,
     "writecb": 9c12ef5d: null,
     "writelen": 9c12ef5d: 0,
-    "buffer": 9c12ef5d: ,
+    "buffer": 9c12ef5d: <JSDate (value has unexpected type)>,
     "errorEmitted": 9c12ef5d: false,
 }
 property kind: in-object 
@@ -72037,7 +72037,7 @@ object has invalid-looking property values
     "onwrite": 9c12db89: <unknown JavaScript object type "<unknown>">,
     "writecb": 9c12db89: null,
     "writelen": 9c12db89: 0,
-    "buffer": 9c12db89: ,
+    "buffer": 9c12db89: <JSDate (value has unexpected type)>,
     "errorEmitted": 9c12db89: false,
 }
 property kind: in-object 
@@ -74752,7 +74752,7 @@ bfefd159: {
         "onwrite": bfefd159: <string (failed to read length)>,
         "writecb": bfefd159: null,
         "writelen": bfefd159: 0,
-        "buffer": bfefd159: ,
+        "buffer": bfefd159: <JSDate (value has unexpected type)>,
         "errorEmitted": bfefd159: false,
     },
     "writable": bfefd159: false,
@@ -75059,7 +75059,7 @@ bfe5b6b5: {
         "writing": bfe5b6b5: false,
         "sync": bfe5b6b5: false,
         "bufferProcessing": bfe5b6b5: false,
-        "onwrite": bfe5b6b5: ,
+        "onwrite": bfe5b6b5: <JSDate (value has unexpected type)>,
         "writecb": bfe5b6b5: null,
         "writelen": bfe5b6b5: 0,
         "buffer": bfe5b6b5: [...],
@@ -75889,7 +75889,7 @@ bfe56d21: {
         "onwrite": bfe56d21: function <anonymous> (as WritableState.onwrite),
         "writecb": bfe56d21: null,
         "writelen": bfe56d21: 0,
-        "buffer": bfe56d21: ,
+        "buffer": bfe56d21: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe56d21: false,
     },
     "writable": bfe56d21: false,
@@ -75930,7 +75930,7 @@ bfe56c5d: {
     "_handle": bfe56c5d: null,
     "_readableState": bfe56c5d: {
         "highWaterMark": bfe56c5d: 16384,
-        "buffer": bfe56c5d: ,
+        "buffer": bfe56c5d: <JSDate (value has unexpected type)>,
         "length": bfe56c5d: 0,
         "pipes": bfe56c5d: null,
         "pipesCount": bfe56c5d: 0,
@@ -75971,7 +75971,7 @@ bfe56c5d: {
         "onwrite": bfe56c5d: function <anonymous> (as WritableState.onwrite),
         "writecb": bfe56c5d: null,
         "writelen": bfe56c5d: 0,
-        "buffer": bfe56c5d: ,
+        "buffer": bfe56c5d: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe56c5d: false,
     },
     "writable": bfe56c5d: false,
@@ -76012,7 +76012,7 @@ bfe56959: {
     "_handle": bfe56959: null,
     "_readableState": bfe56959: {
         "highWaterMark": bfe56959: 16384,
-        "buffer": bfe56959: ,
+        "buffer": bfe56959: <JSDate (value has unexpected type)>,
         "length": bfe56959: 0,
         "pipes": bfe56959: null,
         "pipesCount": bfe56959: 0,
@@ -76094,7 +76094,7 @@ bfe56895: {
     "_handle": bfe56895: null,
     "_readableState": bfe56895: {
         "highWaterMark": bfe56895: 16384,
-        "buffer": bfe56895: ,
+        "buffer": bfe56895: <JSDate (value has unexpected type)>,
         "length": bfe56895: 0,
         "pipes": bfe56895: null,
         "pipesCount": bfe56895: 0,
@@ -76135,7 +76135,7 @@ bfe56895: {
         "onwrite": bfe56895: function <anonymous> (as WritableState.onwrite),
         "writecb": bfe56895: null,
         "writelen": bfe56895: 0,
-        "buffer": bfe56895: ,
+        "buffer": bfe56895: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe56895: false,
     },
     "writable": bfe56895: false,
@@ -76176,7 +76176,7 @@ bfe567d1: {
     "_handle": bfe567d1: null,
     "_readableState": bfe567d1: {
         "highWaterMark": bfe567d1: 16384,
-        "buffer": bfe567d1: ,
+        "buffer": bfe567d1: <JSDate (value has unexpected type)>,
         "length": bfe567d1: 0,
         "pipes": bfe567d1: null,
         "pipesCount": bfe567d1: 0,
@@ -76577,11 +76577,11 @@ bfe55f09: {
     "readable": bfe55f09: false,
     "domain": bfe55f09: null,
     "_events": bfe55f09: {
-        "drain": bfe55f09: ,
-        "error": bfe55f09: ,
+        "drain": bfe55f09: <JSDate (value has unexpected type)>,
+        "error": bfe55f09: <JSDate (value has unexpected type)>,
         "_socketEnd": bfe55f09: function onSocketEnd,
-        "close": bfe55f09: ,
-        "timeout": bfe55f09: ,
+        "close": bfe55f09: <JSDate (value has unexpected type)>,
+        "timeout": bfe55f09: <JSDate (value has unexpected type)>,
         "finish": bfe55f09: function onSocketFinish,
     },
     "_maxListeners": bfe55f09: 10,
@@ -77223,7 +77223,7 @@ bfe55005: {
     "_handle": bfe55005: null,
     "_readableState": bfe55005: {
         "highWaterMark": bfe55005: 16384,
-        "buffer": bfe55005: ,
+        "buffer": bfe55005: <JSDate (value has unexpected type)>,
         "length": bfe55005: 0,
         "pipes": bfe55005: null,
         "pipesCount": bfe55005: 0,
@@ -77266,7 +77266,7 @@ bfe55005: {
         "onwrite": bfe55005: function <anonymous> (as WritableState.onwrite),
         "writecb": bfe55005: null,
         "writelen": bfe55005: 0,
-        "buffer": bfe55005: ,
+        "buffer": bfe55005: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe55005: false,
     },
     "writable": bfe55005: false,
@@ -77307,7 +77307,7 @@ bfe54e7d: {
     "_handle": bfe54e7d: null,
     "_readableState": bfe54e7d: {
         "highWaterMark": bfe54e7d: 16384,
-        "buffer": bfe54e7d: ,
+        "buffer": bfe54e7d: <JSDate (value has unexpected type)>,
         "length": bfe54e7d: 0,
         "pipes": bfe54e7d: null,
         "pipesCount": bfe54e7d: 0,
@@ -77350,7 +77350,7 @@ bfe54e7d: {
         "onwrite": bfe54e7d: function <anonymous> (as WritableState.onwrite),
         "writecb": bfe54e7d: null,
         "writelen": bfe54e7d: 0,
-        "buffer": bfe54e7d: ,
+        "buffer": bfe54e7d: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe54e7d: false,
     },
     "writable": bfe54e7d: false,
@@ -77391,7 +77391,7 @@ bfe54cd9: {
     "_handle": bfe54cd9: null,
     "_readableState": bfe54cd9: {
         "highWaterMark": bfe54cd9: 16384,
-        "buffer": bfe54cd9: ,
+        "buffer": bfe54cd9: <JSDate (value has unexpected type)>,
         "length": bfe54cd9: 0,
         "pipes": bfe54cd9: null,
         "pipesCount": bfe54cd9: 0,
@@ -77434,7 +77434,7 @@ bfe54cd9: {
         "onwrite": bfe54cd9: <unknown JavaScript object type "FreeSpace">,
         "writecb": bfe54cd9: null,
         "writelen": bfe54cd9: 0,
-        "buffer": bfe54cd9: ,
+        "buffer": bfe54cd9: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe54cd9: false,
     },
     "writable": bfe54cd9: false,
@@ -77850,7 +77850,7 @@ bfe52e59: {
         "onwrite": bfe52e59: function <anonymous> (as WritableState.onwrite),
         "writecb": bfe52e59: null,
         "writelen": bfe52e59: 0,
-        "buffer": bfe52e59: ,
+        "buffer": bfe52e59: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe52e59: false,
     },
     "writable": bfe52e59: false,
@@ -77891,7 +77891,7 @@ bfe52cd1: {
     "_handle": bfe52cd1: null,
     "_readableState": bfe52cd1: {
         "highWaterMark": bfe52cd1: 16384,
-        "buffer": bfe52cd1: ,
+        "buffer": bfe52cd1: <JSDate (value has unexpected type)>,
         "length": bfe52cd1: 0,
         "pipes": bfe52cd1: null,
         "pipesCount": bfe52cd1: 0,
@@ -78264,7 +78264,7 @@ bfe51229: {
         "onwrite": bfe51229: <couldn't read type>,
         "writecb": bfe51229: null,
         "writelen": bfe51229: 0,
-        "buffer": bfe51229: ,
+        "buffer": bfe51229: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe51229: false,
     },
     "writable": bfe51229: false,
@@ -78425,10 +78425,10 @@ bfe50efd: {
         "writing": bfe50efd: false,
         "sync": bfe50efd: false,
         "bufferProcessing": bfe50efd: false,
-        "onwrite": bfe50efd: ,
+        "onwrite": bfe50efd: <JSDate (value has unexpected type)>,
         "writecb": bfe50efd: null,
         "writelen": bfe50efd: 0,
-        "buffer": bfe50efd: ,
+        "buffer": bfe50efd: <JSDate (value has unexpected type)>,
         "errorEmitted": bfe50efd: false,
     },
     "writable": bfe50efd: false,
@@ -79145,7 +79145,7 @@ bfe2002d: {
         "writing": bfe2002d: false,
         "sync": bfe2002d: false,
         "bufferProcessing": bfe2002d: false,
-        "onwrite": bfe2002d: ,
+        "onwrite": bfe2002d: <JSDate (value has unexpected type)>,
         "writecb": bfe2002d: null,
         "writelen": bfe2002d: 0,
         "buffer": bfe2002d: [...],
@@ -79930,7 +79930,7 @@ bbea9325: {
         "writing": bbea9325: false,
         "sync": bbea9325: false,
         "bufferProcessing": bbea9325: false,
-        "onwrite": bbea9325: ,
+        "onwrite": bbea9325: <JSDate (value has unexpected type)>,
         "writecb": bbea9325: null,
         "writelen": bbea9325: 0,
         "buffer": bbea9325: [...],
@@ -80178,7 +80178,7 @@ bbea4129: {
         "writing": bbea4129: false,
         "sync": bbea4129: false,
         "bufferProcessing": bbea4129: false,
-        "onwrite": bbea4129: ,
+        "onwrite": bbea4129: <JSDate (value has unexpected type)>,
         "writecb": bbea4129: null,
         "writelen": bbea4129: 0,
         "buffer": bbea4129: <unknown JavaScript object type "<unknown>">,
@@ -80324,7 +80324,7 @@ bbea3509: {
         "writing": bbea3509: false,
         "sync": bbea3509: false,
         "bufferProcessing": bbea3509: false,
-        "onwrite": bbea3509: ,
+        "onwrite": bbea3509: <JSDate (value has unexpected type)>,
         "writecb": bbea3509: null,
         "writelen": bbea3509: 0,
         "buffer": bbea3509: [...],
@@ -80470,7 +80470,7 @@ object has invalid-looking property values
 9c10abad: {
     "_connecting": 9c10abad: false,
     "_handle": 9c10abad: null,
-    "_readableState": 9c10abad: ,
+    "_readableState": 9c10abad: <JSDate (value has unexpected type)>,
     "readable": 9c10abad: false,
     "domain": 9c10abad: null,
     "_events": 9c10abad: "<not a string>,
@@ -80643,7 +80643,7 @@ bfef1c41: {
     "upgrade": bfef1c41: false,
     "log": bfef1c41: {
         "domain": bfef1c41: [...],
-        "_events": bfef1c41: ,
+        "_events": bfef1c41: <JSDate (value has unexpected type)>,
         "_maxListeners": bfef1c41: 10,
         "_isSimpleChild": bfef1c41: true,
         "_level": bfef1c41: 30,
@@ -80654,10 +80654,10 @@ bfef1c41: {
     },
     "_time": bfef1c41: <couldn't read type>,
     "_version": bfef1c41: <couldn't read type>,
-    "_url": bfef1c41: ,
+    "_url": bfef1c41: <JSDate (value has unexpected type)>,
     "_path": bfef1c41: <couldn't read type>,
-    "params": bfef1c41: ,
-    "context": bfef1c41: ,
+    "params": bfef1c41: <JSDate (value has unexpected type)>,
+    "context": bfef1c41: <JSDate (value has unexpected type)>,
     "route": bfef1c41: undefined,
     "_id": bfef1c41: <couldn't read type>,
     "_query": bfef1c41: "<not a string>,
@@ -80839,8 +80839,8 @@ bfee92f1: {
         "z_pending_command": bfee92f1: undefined,
         "z_taskstream": bfee92f1: [...],
     },
-    "pause": bfee92f1: ,
-    "resume": bfee92f1: ,
+    "pause": bfee92f1: <JSDate (value has unexpected type)>,
+    "resume": bfee92f1: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -80882,12 +80882,12 @@ bfecf74d: {
     "_version": bfecf74d: <couldn't read type>,
     "_url": bfecf74d: 0 (1969 Dec 31 16:00:00),
     "_path": bfecf74d: <couldn't read type>,
-    "params": bfecf74d: ,
-    "context": bfecf74d: ,
+    "params": bfecf74d: <JSDate (value has unexpected type)>,
+    "context": bfecf74d: <JSDate (value has unexpected type)>,
     "route": bfecf74d: undefined,
     "_id": bfecf74d: <couldn't read type>,
-    "_query": bfecf74d: ,
-    "query": bfecf74d: ,
+    "_query": bfecf74d: <JSDate (value has unexpected type)>,
+    "query": bfecf74d: <JSDate (value has unexpected type)>,
     "maZone": bfecf74d: {
         "z_zonename": bfecf74d: "84e9c976-6245-43a3-9594-b03298833fbe",
         "z_spawner": bfecf74d: [...],
@@ -81131,25 +81131,25 @@ bfe99321: {
     "upgrade": bfe99321: false,
     "log": bfe99321: {
         "domain": bfe99321: <unknown JavaScript object type "DebugInfo">,
-        "_events": bfe99321: ,
+        "_events": bfe99321: <JSDate (value has unexpected type)>,
         "_maxListeners": bfe99321: 10,
         "_isSimpleChild": bfe99321: true,
         "_level": bfe99321: 30,
         "streams": bfe99321: <couldn't read type>,
         "serializers": bfe99321: <couldn't read type>,
         "src": bfe99321: false,
-        "fields": bfe99321: ,
+        "fields": bfe99321: <JSDate (value has unexpected type)>,
     },
     "_time": bfe99321: <couldn't read type>,
     "_version": bfe99321: <couldn't read type>,
-    "_url": bfe99321: ,
+    "_url": bfe99321: <JSDate (value has unexpected type)>,
     "_path": bfe99321: <couldn't read type>,
     "params": bfe99321: <unknown JavaScript object type "<unknown>">,
     "context": bfe99321: <unknown JavaScript object type "<unknown>">,
     "route": bfe99321: undefined,
     "_id": bfe99321: <couldn't read type>,
-    "_query": bfe99321: ,
-    "query": bfe99321: ,
+    "_query": bfe99321: <JSDate (value has unexpected type)>,
+    "query": bfe99321: <JSDate (value has unexpected type)>,
     "maZone": bfe99321: {
         "z_zonename": bfe99321: "36340fca-6934-4a3e-a8cf-110029972ddd",
         "z_spawner": bfe99321: [...],
@@ -81186,13 +81186,13 @@ bfe99321: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 bfe964b9: {
-    "_readableState": bfe964b9: ,
+    "_readableState": bfe964b9: <JSDate (value has unexpected type)>,
     "readable": bfe964b9: false,
     "domain": bfe964b9: <unknown JavaScript object type "DebugInfo">,
-    "_events": bfe964b9: ,
+    "_events": bfe964b9: <JSDate (value has unexpected type)>,
     "_maxListeners": bfe964b9: 10,
-    "socket": bfe964b9: ,
-    "connection": bfe964b9: ,
+    "socket": bfe964b9: <JSDate (value has unexpected type)>,
+    "connection": bfe964b9: <JSDate (value has unexpected type)>,
     "httpVersion": bfe964b9: <couldn't read type>,
     "complete": bfe964b9: false,
     "headers": bfe964b9: 896 (1969 Dec 31 16:00:00),
@@ -81202,7 +81202,7 @@ bfe964b9: {
     "url": bfe964b9: <couldn't read type>,
     "method": bfe964b9: "PUT",
     "statusCode": bfe964b9: null,
-    "client": bfe964b9: ,
+    "client": bfe964b9: <JSDate (value has unexpected type)>,
     "_consuming": bfe964b9: true,
     "_dumped": bfe964b9: true,
     "httpVersionMajor": bfe964b9: 1,
@@ -81280,14 +81280,14 @@ bfe5708d: {
     "log": bfe5708d: <unknown JavaScript object type "DebugInfo">,
     "_time": bfe5708d: <couldn't read type>,
     "_version": bfe5708d: <couldn't read type>,
-    "_url": bfe5708d: ,
+    "_url": bfe5708d: <JSDate (value has unexpected type)>,
     "_path": bfe5708d: <couldn't read type>,
-    "params": bfe5708d: ,
-    "context": bfe5708d: ,
+    "params": bfe5708d: <JSDate (value has unexpected type)>,
+    "context": bfe5708d: <JSDate (value has unexpected type)>,
     "route": bfe5708d: undefined,
     "_id": bfe5708d: <couldn't read type>,
-    "_query": bfe5708d: ,
-    "query": bfe5708d: ,
+    "_query": bfe5708d: <JSDate (value has unexpected type)>,
+    "query": bfe5708d: <JSDate (value has unexpected type)>,
     "maZone": bfe5708d: {
         "z_zonename": bfe5708d: "6e8d5b97-f49f-4b25-8b34-ee7e72f754f4",
         "z_spawner": bfe5708d: [...],
@@ -81326,11 +81326,11 @@ object has invalid-looking property values
 bfe54239: {
     "_readableState": bfe54239: <unknown JavaScript object type "<unknown>">,
     "readable": bfe54239: false,
-    "domain": bfe54239: ,
+    "domain": bfe54239: <JSDate (value has unexpected type)>,
     "_events": bfe54239: <unknown JavaScript object type "DebugInfo">,
     "_maxListeners": bfe54239: 10,
-    "socket": bfe54239: ,
-    "connection": bfe54239: ,
+    "socket": bfe54239: <JSDate (value has unexpected type)>,
+    "connection": bfe54239: <JSDate (value has unexpected type)>,
     "httpVersion": bfe54239: <couldn't read type>,
     "complete": bfe54239: false,
     "headers": bfe54239: <unknown JavaScript object type "DebugInfo">,
@@ -81340,7 +81340,7 @@ bfe54239: {
     "url": bfe54239: <couldn't read type>,
     "method": bfe54239: "PUT",
     "statusCode": bfe54239: null,
-    "client": bfe54239: ,
+    "client": bfe54239: <JSDate (value has unexpected type)>,
     "_consuming": bfe54239: true,
     "_dumped": bfe54239: true,
     "httpVersionMajor": bfe54239: 1,
@@ -81366,8 +81366,8 @@ object has invalid-looking property values
 bfe4b0c9: {
     "_readableState": bfe4b0c9: <unknown JavaScript object type "<unknown>">,
     "readable": bfe4b0c9: false,
-    "domain": bfe4b0c9: ,
-    "_events": bfe4b0c9: ,
+    "domain": bfe4b0c9: <JSDate (value has unexpected type)>,
+    "_events": bfe4b0c9: <JSDate (value has unexpected type)>,
     "_maxListeners": bfe4b0c9: 10,
     "socket": bfe4b0c9: <unknown JavaScript object type "FixedArray">,
     "connection": bfe4b0c9: <unknown JavaScript object type "FixedArray">,
@@ -81375,7 +81375,7 @@ bfe4b0c9: {
     "complete": bfe4b0c9: true,
     "headers": bfe4b0c9: "<not a string>,
     "trailers": bfe4b0c9: "<not a string>,
-    "_pendings": bfe4b0c9: ,
+    "_pendings": bfe4b0c9: <JSDate (value has unexpected type)>,
     "_pendingIndex": bfe4b0c9: 0,
     "url": bfe4b0c9: <couldn't read type>,
     "method": bfe4b0c9: "PUT",
@@ -81404,7 +81404,7 @@ bfe4b0c9: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 bfe25199: {
-    "_readableState": bfe25199: ,
+    "_readableState": bfe25199: <JSDate (value has unexpected type)>,
     "readable": bfe25199: false,
     "domain": bfe25199: <unknown JavaScript object type "FixedArray">,
     "_events": bfe25199: <unknown JavaScript object type "FixedArray">,
@@ -81696,7 +81696,7 @@ bbefb52d: {
     "httpVersion": bbefb52d: "77",
     "complete": bbefb52d: true,
     "headers": bbefb52d: <unknown JavaScript object type "DebugInfo">,
-    "trailers": bbefb52d: ,
+    "trailers": bbefb52d: <JSDate (value has unexpected type)>,
     "_pendings": bbefb52d: "<not a string>,
     "_pendingIndex": bbefb52d: 0,
     "url": bbefb52d: 1430328370934,
@@ -81767,7 +81767,7 @@ bbefb52d: {
         "z_pending_command": bbefb52d: undefined,
         "z_taskstream": bbefb52d: [...],
     },
-    "pause": bbefb52d: ,
+    "pause": bbefb52d: <JSDate (value has unexpected type)>,
     "resume": bbefb52d: 512 (1969 Dec 31 16:00:00),
 }
 property kind: in-object "properties" array 
@@ -81844,7 +81844,7 @@ object has invalid-looking property values
 bbe94e69: {
     "_readableState": bbe94e69: <unknown JavaScript object type "<unknown>">,
     "readable": bbe94e69: false,
-    "domain": bbe94e69: ,
+    "domain": bbe94e69: <JSDate (value has unexpected type)>,
     "_events": bbe94e69: <unknown JavaScript object type "DebugInfo">,
     "_maxListeners": bbe94e69: 10,
     "socket": bbe94e69: <couldn't read type>,
@@ -82116,9 +82116,9 @@ b94994f9: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 b5c3c9a9: {
-    "_readableState": b5c3c9a9: ,
+    "_readableState": b5c3c9a9: <JSDate (value has unexpected type)>,
     "readable": b5c3c9a9: false,
-    "domain": b5c3c9a9: ,
+    "domain": b5c3c9a9: <JSDate (value has unexpected type)>,
     "_events": b5c3c9a9: <couldn't read type>,
     "_maxListeners": b5c3c9a9: 10,
     "socket": b5c3c9a9: <unknown JavaScript object type "CodeCache">,
@@ -82126,8 +82126,8 @@ b5c3c9a9: {
     "httpVersion": b5c3c9a9: "restify/2.3.5 (ia32-sunos; v8/3.14.5.9; OpenSSL/1.0.1i) node/0.10.32",
     "complete": b5c3c9a9: true,
     "headers": b5c3c9a9: <couldn't read type>,
-    "trailers": b5c3c9a9: ,
-    "_pendings": b5c3c9a9: ,
+    "trailers": b5c3c9a9: <JSDate (value has unexpected type)>,
+    "_pendings": b5c3c9a9: <JSDate (value has unexpected type)>,
     "_pendingIndex": b5c3c9a9: 0,
     "url": b5c3c9a9: <couldn't read type>,
     "method": b5c3c9a9: "PUT",
@@ -82138,7 +82138,7 @@ b5c3c9a9: {
     "httpVersionMajor": b5c3c9a9: 1,
     "httpVersionMinor": b5c3c9a9: 1,
     "upgrade": b5c3c9a9: false,
-    "log": b5c3c9a9: ,
+    "log": b5c3c9a9: <JSDate (value has unexpected type)>,
     "_time": b5c3c9a9: 3,
     "_version": b5c3c9a9: 2,
     "_url": b5c3c9a9: 32,
@@ -82156,29 +82156,29 @@ b5c3c9a9: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 b5c36bbd: {
-    "_readableState": b5c36bbd: ,
+    "_readableState": b5c36bbd: <JSDate (value has unexpected type)>,
     "readable": b5c36bbd: false,
-    "domain": b5c36bbd: ,
-    "_events": b5c36bbd: ,
+    "domain": b5c36bbd: <JSDate (value has unexpected type)>,
+    "_events": b5c36bbd: <JSDate (value has unexpected type)>,
     "_maxListeners": b5c36bbd: 10,
-    "socket": b5c36bbd: ,
-    "connection": b5c36bbd: ,
+    "socket": b5c36bbd: <JSDate (value has unexpected type)>,
+    "connection": b5c36bbd: <JSDate (value has unexpected type)>,
     "httpVersion": b5c36bbd: <couldn't read type>,
     "complete": b5c36bbd: true,
-    "headers": b5c36bbd: ,
-    "trailers": b5c36bbd: ,
-    "_pendings": b5c36bbd: ,
+    "headers": b5c36bbd: <JSDate (value has unexpected type)>,
+    "trailers": b5c36bbd: <JSDate (value has unexpected type)>,
+    "_pendings": b5c36bbd: <JSDate (value has unexpected type)>,
     "_pendingIndex": b5c36bbd: 0,
     "url": b5c36bbd: <couldn't read type>,
     "method": b5c36bbd: "PUT",
     "statusCode": b5c36bbd: null,
-    "client": b5c36bbd: ,
+    "client": b5c36bbd: <JSDate (value has unexpected type)>,
     "_consuming": b5c36bbd: true,
     "_dumped": b5c36bbd: false,
     "httpVersionMajor": b5c36bbd: 1,
     "httpVersionMinor": b5c36bbd: 1,
     "upgrade": b5c36bbd: false,
-    "log": b5c36bbd: ,
+    "log": b5c36bbd: <JSDate (value has unexpected type)>,
     "_time": b5c36bbd: 2,
     "_version": b5c36bbd: 0,
     "_url": b5c36bbd: 32,
@@ -82263,12 +82263,12 @@ b5c29c39: {
     "_version": b5c29c39: <couldn't read type>,
     "_url": b5c29c39: <unknown JavaScript object type "BreakPointInfo">,
     "_path": b5c29c39: <couldn't read type>,
-    "params": b5c29c39: ,
-    "context": b5c29c39: ,
+    "params": b5c29c39: <JSDate (value has unexpected type)>,
+    "context": b5c29c39: <JSDate (value has unexpected type)>,
     "route": b5c29c39: undefined,
     "_id": b5c29c39: <string (failed to read length)>,
-    "_query": b5c29c39: ,
-    "query": b5c29c39: ,
+    "_query": b5c29c39: <JSDate (value has unexpected type)>,
+    "query": b5c29c39: <JSDate (value has unexpected type)>,
     "maZone": b5c29c39: {
         "z_zonename": b5c29c39: "67093180-556e-486f-9905-2506ae0c558c",
         "z_spawner": b5c29c39: [...],
@@ -82369,9 +82369,9 @@ a147375d: {
     "readable": a147375d: false,
     "domain": a147375d: {
         "domain": a147375d: null,
-        "_events": a147375d: ,
+        "_events": a147375d: <JSDate (value has unexpected type)>,
         "_maxListeners": a147375d: 10,
-        "members": a147375d: ,
+        "members": a147375d: <JSDate (value has unexpected type)>,
     },
     "_events": a147375d: {
         "<JSDate>": a147375d: 0,
@@ -82411,12 +82411,12 @@ a147375d: {
     "_version": a147375d: <couldn't read type>,
     "_url": a147375d: <couldn't read type>,
     "_path": a147375d: <couldn't read type>,
-    "params": a147375d: ,
-    "context": a147375d: ,
+    "params": a147375d: <JSDate (value has unexpected type)>,
+    "context": a147375d: <JSDate (value has unexpected type)>,
     "route": a147375d: undefined,
     "_id": a147375d: <couldn't read type>,
-    "_query": a147375d: ,
-    "query": a147375d: ,
+    "_query": a147375d: <JSDate (value has unexpected type)>,
+    "query": a147375d: <JSDate (value has unexpected type)>,
     "maZone": a147375d: {
         "z_zonename": a147375d: "84e9c976-6245-43a3-9594-b03298833fbe",
         "z_spawner": a147375d: [...],
@@ -82447,7 +82447,7 @@ a147375d: {
         "z_pending_command": a147375d: undefined,
         "z_taskstream": a147375d: [...],
     },
-    "pause": a147375d: ,
+    "pause": a147375d: <JSDate (value has unexpected type)>,
     "resume": a147375d: <couldn't read type>,
 }
 property kind: in-object "properties" array 
@@ -82557,8 +82557,8 @@ a1473639: {
         "z_pending_command": a1473639: undefined,
         "z_taskstream": a1473639: [...],
     },
-    "pause": a1473639: ,
-    "resume": a1473639: ,
+    "pause": a1473639: <JSDate (value has unexpected type)>,
+    "resume": a1473639: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -82700,7 +82700,7 @@ a146b005: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 a1439f05: {
-    "_readableState": a1439f05: ,
+    "_readableState": a1439f05: <JSDate (value has unexpected type)>,
     "readable": a1439f05: false,
     "domain": a1439f05: {
         "domain": a1439f05: null,
@@ -82755,9 +82755,9 @@ a1439f05: {
 property kind: in-object "properties" array 
 object has invalid-looking property values
 a1439e81: {
-    "_readableState": a1439e81: ,
+    "_readableState": a1439e81: <JSDate (value has unexpected type)>,
     "readable": a1439e81: false,
-    "domain": a1439e81: ,
+    "domain": a1439e81: <JSDate (value has unexpected type)>,
     "_events": a1439e81: <couldn't read type>,
     "_maxListeners": a1439e81: 10,
     "socket": a1439e81: <unknown JavaScript object type "FixedArray">,
@@ -82766,7 +82766,7 @@ a1439e81: {
     "complete": a1439e81: true,
     "headers": a1439e81: <couldn't read type>,
     "trailers": a1439e81: <couldn't read type>,
-    "_pendings": a1439e81: ,
+    "_pendings": a1439e81: <JSDate (value has unexpected type)>,
     "_pendingIndex": a1439e81: 0,
     "url": a1439e81: <couldn't read type>,
     "method": a1439e81: "PUT",
@@ -82821,9 +82821,9 @@ a143870d: {
     "readable": a143870d: false,
     "domain": a143870d: {
         "domain": a143870d: null,
-        "_events": a143870d: ,
+        "_events": a143870d: <JSDate (value has unexpected type)>,
         "_maxListeners": a143870d: 10,
-        "members": a143870d: ,
+        "members": a143870d: <JSDate (value has unexpected type)>,
     },
     "_events": a143870d: [],
     "_maxListeners": a143870d: 10,
@@ -82865,8 +82865,8 @@ a143870d: {
     "context": a143870d: <sliced string (failed to read offset)>,
     "route": a143870d: undefined,
     "_id": a143870d: <unknown JavaScript object type "ByteArray">,
-    "_query": a143870d: ,
-    "query": a143870d: ,
+    "_query": a143870d: <JSDate (value has unexpected type)>,
+    "query": a143870d: <JSDate (value has unexpected type)>,
     "maZone": a143870d: {
         "z_zonename": a143870d: "abf1e6ed-88ee-49df-b4ef-e0c612f107f3",
         "z_spawner": a143870d: [...],
@@ -82898,7 +82898,7 @@ a143870d: {
         "z_taskstream": a143870d: [...],
     },
     "pause": a143870d: <could not read type>,
-    "resume": a143870d: ,
+    "resume": a143870d: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -82974,7 +82974,7 @@ object has invalid-looking property values
 a1428f95: {
     "_readableState": a1428f95: {
         "highWaterMark": a1428f95: 16384,
-        "buffer": a1428f95: ,
+        "buffer": a1428f95: <JSDate (value has unexpected type)>,
         "length": a1428f95: 0,
         "pipes": a1428f95: null,
         "pipesCount": a1428f95: 0,
@@ -83027,7 +83027,7 @@ a1428f95: {
     "upgrade": a1428f95: false,
     "log": a1428f95: {
         "domain": a1428f95: [...],
-        "_events": a1428f95: ,
+        "_events": a1428f95: <JSDate (value has unexpected type)>,
         "_maxListeners": a1428f95: 10,
         "_isSimpleChild": a1428f95: true,
         "_level": a1428f95: 30,
@@ -83040,8 +83040,8 @@ a1428f95: {
     "_version": a1428f95: <string (failed to read length)>,
     "_url": a1428f95: <unknown JavaScript object type "JSFunctionProxy">,
     "_path": a1428f95: <couldn't read type>,
-    "params": a1428f95: ,
-    "context": a1428f95: ,
+    "params": a1428f95: <JSDate (value has unexpected type)>,
+    "context": a1428f95: <JSDate (value has unexpected type)>,
     "route": a1428f95: undefined,
     "_id": a1428f95: <unknown JavaScript object type "ByteArray">,
     "_query": a1428f95: <external string (failed to read ExternalString data)>,
@@ -83169,7 +83169,7 @@ object has invalid-looking property values
         "z_taskstream": 9c1fe9ed: [...],
     },
     "pause": 9c1fe9ed: <couldn't read type>,
-    "resume": 9c1fe9ed: ,
+    "resume": 9c1fe9ed: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -83205,8 +83205,8 @@ object has invalid-looking property values
     "context": 9c1fd3cd: <unknown JavaScript object type "<unknown>">,
     "route": 9c1fd3cd: undefined,
     "_id": 9c1fd3cd: <couldn't read type>,
-    "_query": 9c1fd3cd: ,
-    "query": 9c1fd3cd: ,
+    "_query": 9c1fd3cd: <JSDate (value has unexpected type)>,
+    "query": 9c1fd3cd: <JSDate (value has unexpected type)>,
     "maZone": 9c1fd3cd: {
         "z_zonename": 9c1fd3cd: "3d4d0a74-c9cb-436e-ba49-b11c30ebcb42",
         "z_spawner": 9c1fd3cd: [...],
@@ -83253,7 +83253,7 @@ object has invalid-looking property values
     "httpVersion": 9c1fcfa1: <couldn't read type>,
     "complete": 9c1fcfa1: true,
     "headers": 9c1fcfa1: <unknown JavaScript object type "FixedDoubleArray">,
-    "trailers": 9c1fcfa1: ,
+    "trailers": 9c1fcfa1: <JSDate (value has unexpected type)>,
     "_pendings": 9c1fcfa1: "<could not read type>,
     "_pendingIndex": 9c1fcfa1: 0,
     "url": 9c1fcfa1: <couldn't read type>,
@@ -83268,7 +83268,7 @@ object has invalid-looking property values
     "log": 9c1fcfa1: "",
     "_time": 9c1fcfa1: <couldn't read type>,
     "_version": 9c1fcfa1: <couldn't read type>,
-    "_url": 9c1fcfa1: ,
+    "_url": 9c1fcfa1: <JSDate (value has unexpected type)>,
     "_path": 9c1fcfa1: <couldn't read type>,
     "params": 9c1fcfa1: <couldn't read type>,
     "context": 9c1fcfa1: <couldn't read type>,
@@ -83339,12 +83339,12 @@ object has invalid-looking property values
     "_version": 9c1fce99: <couldn't read type>,
     "_url": 9c1fce99: <unknown JavaScript object type "DebugInfo">,
     "_path": 9c1fce99: "147",
-    "params": 9c1fce99: ,
-    "context": 9c1fce99: ,
+    "params": 9c1fce99: <JSDate (value has unexpected type)>,
+    "context": 9c1fce99: <JSDate (value has unexpected type)>,
     "route": 9c1fce99: undefined,
     "_id": 9c1fce99: <couldn't read type>,
-    "_query": 9c1fce99: ,
-    "query": 9c1fce99: ,
+    "_query": 9c1fce99: <JSDate (value has unexpected type)>,
+    "query": 9c1fce99: <JSDate (value has unexpected type)>,
     "maZone": 9c1fce99: {
         "z_zonename": 9c1fce99: "1ba15af9-62dc-4086-bc6f-09eacbc76f19",
         "z_spawner": 9c1fce99: [...],
@@ -83437,10 +83437,10 @@ object has invalid-looking property values
     "log": 9c1e9579: <couldn't read type>,
     "_time": 9c1e9579: <unknown JavaScript object type "ByteArray">,
     "_version": 9c1e9579: <unknown JavaScript object type "ByteArray">,
-    "_url": 9c1e9579: ,
+    "_url": 9c1e9579: <JSDate (value has unexpected type)>,
     "_path": 9c1e9579: <couldn't read type>,
-    "params": 9c1e9579: ,
-    "context": 9c1e9579: ,
+    "params": 9c1e9579: <JSDate (value has unexpected type)>,
+    "context": 9c1e9579: <JSDate (value has unexpected type)>,
     "route": 9c1e9579: undefined,
     "_id": 9c1e9579: <couldn't read type>,
     "_query": 9c1e9579: "<not a string>,
@@ -83536,7 +83536,7 @@ object has invalid-looking property values
     "log": 9c1e7551: <couldn't read type>,
     "_time": 9c1e7551: <couldn't read type>,
     "_version": 9c1e7551: <couldn't read type>,
-    "_url": 9c1e7551: ,
+    "_url": 9c1e7551: <JSDate (value has unexpected type)>,
     "_path": 9c1e7551: <couldn't read type>,
     "params": 9c1e7551: <unknown JavaScript object type "ExternalFloatArray">,
     "context": 9c1e7551: <unknown JavaScript object type "ExternalFloatArray">,
@@ -83574,8 +83574,8 @@ object has invalid-looking property values
         "z_pending_command": 9c1e7551: undefined,
         "z_taskstream": 9c1e7551: [...],
     },
-    "pause": 9c1e7551: ,
-    "resume": 9c1e7551: ,
+    "pause": 9c1e7551: <JSDate (value has unexpected type)>,
+    "resume": 9c1e7551: <JSDate (value has unexpected type)>,
 }
 property kind: in-object "properties" array 
 object has invalid-looking property values
@@ -83860,8 +83860,8 @@ object has invalid-looking property values
 9c166c95: {
     "_readableState": 9c166c95: "json; type=directory‚P’",
     "readable": 9c166c95: false,
-    "domain": 9c166c95: ,
-    "_events": 9c166c95: ,
+    "domain": 9c166c95: <JSDate (value has unexpected type)>,
+    "_events": 9c166c95: <JSDate (value has unexpected type)>,
     "_maxListeners": 9c166c95: 10,
     "socket": 9c166c95: {
         "<JSDate>": 9c166c95: 0,
@@ -83873,7 +83873,7 @@ object has invalid-looking property values
     "complete": 9c166c95: true,
     "headers": 9c166c95: 640 (1969 Dec 31 16:00:00),
     "trailers": 9c166c95: <couldn't read type>,
-    "_pendings": 9c166c95: ,
+    "_pendings": 9c166c95: <JSDate (value has unexpected type)>,
     "_pendingIndex": 9c166c95: 0,
     "url": 9c166c95: <couldn't read type>,
     "method": 9c166c95: "PUT",
@@ -83935,7 +83935,7 @@ object has invalid-looking property values
         "streams": 986c3611: [...],
         "serializers": 986c3611: [...],
         "src": 986c3611: false,
-        "fields": 986c3611: ,
+        "fields": 986c3611: <JSDate (value has unexpected type)>,
     },
     "_time": 986c3611: {
         "name": 986c3611: "getmyjobstasktask100",
@@ -84403,9 +84403,9 @@ object has invalid-looking property values
 property kind: in-object "properties" array 
 object has invalid-looking property values
 98660985: {
-    "_readableState": 98660985: ,
+    "_readableState": 98660985: <JSDate (value has unexpected type)>,
     "readable": 98660985: false,
-    "domain": 98660985: ,
+    "domain": 98660985: <JSDate (value has unexpected type)>,
     "_events": 98660985: <couldn't read type>,
     "_maxListeners": 98660985: 10,
     "socket": 98660985: <unknown JavaScript object type "<unknown>">,
@@ -84414,9 +84414,9 @@ object has invalid-looking property values
     "complete": 98660985: false,
     "headers": 98660985: <couldn't read type>,
     "trailers": 98660985: <couldn't read type>,
-    "_pendings": 98660985: ,
+    "_pendings": 98660985: <JSDate (value has unexpected type)>,
     "_pendingIndex": 98660985: 0,
-    "url": 98660985: ,
+    "url": 98660985: <JSDate (value has unexpected type)>,
     "method": 98660985: "PUT",
     "statusCode": 98660985: null,
     "client": 98660985: <unknown JavaScript object type "<unknown>">,
@@ -84425,7 +84425,7 @@ object has invalid-looking property values
     "httpVersionMajor": 98660985: 1,
     "httpVersionMinor": 98660985: 1,
     "upgrade": 98660985: false,
-    "log": 98660985: ,
+    "log": 98660985: <JSDate (value has unexpected type)>,
     "_time": 98660985: 2,
     "_version": 98660985: 3,
     "_url": 98660985: 32,
@@ -84470,14 +84470,14 @@ object has invalid-looking property values
     "log": 9860efa1: <unknown JavaScript object type "FixedArray">,
     "_time": 9860efa1: <couldn't read type>,
     "_version": 9860efa1: <couldn't read type>,
-    "_url": 9860efa1: ,
+    "_url": 9860efa1: <JSDate (value has unexpected type)>,
     "_path": 9860efa1: <couldn't read type>,
-    "params": 9860efa1: ,
-    "context": 9860efa1: ,
+    "params": 9860efa1: <JSDate (value has unexpected type)>,
+    "context": 9860efa1: <JSDate (value has unexpected type)>,
     "route": 9860efa1: undefined,
     "_id": 9860efa1: <couldn't read type>,
-    "_query": 9860efa1: ,
-    "query": 9860efa1: ,
+    "_query": 9860efa1: <JSDate (value has unexpected type)>,
+    "query": 9860efa1: <JSDate (value has unexpected type)>,
     "maZone": 9860efa1: {
         "z_zonename": 9860efa1: "00faceec-ed19-42ae-bb19-d016774b4536",
         "z_spawner": 9860efa1: [...],
@@ -84597,7 +84597,7 @@ object has invalid-looking property values
     "_readableState": 90cb12d9: "<not a string>,
     "readable": 90cb12d9: false,
     "domain": 90cb12d9: "<not a string>,
-    "_events": 90cb12d9: ,
+    "_events": 90cb12d9: <JSDate (value has unexpected type)>,
     "_maxListeners": 90cb12d9: 10,
     "socket": 90cb12d9: <unknown JavaScript object type "FixedArray">,
     "connection": 90cb12d9: <unknown JavaScript object type "FixedArray">,
@@ -84605,7 +84605,7 @@ object has invalid-looking property values
     "complete": 90cb12d9: true,
     "headers": 90cb12d9: "<not a string>,
     "trailers": 90cb12d9: "<not a string>,
-    "_pendings": 90cb12d9: ,
+    "_pendings": 90cb12d9: <JSDate (value has unexpected type)>,
     "_pendingIndex": 90cb12d9: 0,
     "url": 90cb12d9: <couldn't read type>,
     "method": 90cb12d9: "PUT",
@@ -84616,17 +84616,17 @@ object has invalid-looking property values
     "httpVersionMajor": 90cb12d9: 1,
     "httpVersionMinor": 90cb12d9: 1,
     "upgrade": 90cb12d9: false,
-    "log": 90cb12d9: ,
+    "log": 90cb12d9: <JSDate (value has unexpected type)>,
     "_time": 90cb12d9: <couldn't read type>,
     "_version": 90cb12d9: <couldn't read type>,
     "_url": 90cb12d9: 128 (1969 Dec 31 16:00:00),
     "_path": 90cb12d9: <couldn't read type>,
-    "params": 90cb12d9: ,
-    "context": 90cb12d9: ,
+    "params": 90cb12d9: <JSDate (value has unexpected type)>,
+    "context": 90cb12d9: <JSDate (value has unexpected type)>,
     "route": 90cb12d9: undefined,
     "_id": 90cb12d9: <couldn't read type>,
-    "_query": 90cb12d9: ,
-    "query": 90cb12d9: ,
+    "_query": 90cb12d9: <JSDate (value has unexpected type)>,
+    "query": 90cb12d9: <JSDate (value has unexpected type)>,
     "maZone": 90cb12d9: {
         "z_zonename": 90cb12d9: "83e2f372-66a7-4124-99d7-98b5b458be77",
         "z_spawner": 90cb12d9: [...],
@@ -84663,18 +84663,18 @@ object has invalid-looking property values
 property kind: in-object "properties" array 
 object has invalid-looking property values
 90c6e025: {
-    "_readableState": 90c6e025: ,
+    "_readableState": 90c6e025: <JSDate (value has unexpected type)>,
     "readable": 90c6e025: false,
-    "domain": 90c6e025: ,
+    "domain": 90c6e025: <JSDate (value has unexpected type)>,
     "_events": 90c6e025: <couldn't read type>,
     "_maxListeners": 90c6e025: 10,
     "socket": 90c6e025: "<not a string>,
     "connection": 90c6e025: "<not a string>,
     "httpVersion": 90c6e025: <couldn't read type>,
     "complete": 90c6e025: true,
-    "headers": 90c6e025: ,
-    "trailers": 90c6e025: ,
-    "_pendings": 90c6e025: ,
+    "headers": 90c6e025: <JSDate (value has unexpected type)>,
+    "trailers": 90c6e025: <JSDate (value has unexpected type)>,
+    "_pendings": 90c6e025: <JSDate (value has unexpected type)>,
     "_pendingIndex": 90c6e025: 0,
     "url": 90c6e025: <couldn't read type>,
     "method": 90c6e025: "PUT",
@@ -84685,7 +84685,7 @@ object has invalid-looking property values
     "httpVersionMajor": 90c6e025: 1,
     "httpVersionMinor": 90c6e025: 1,
     "upgrade": 90c6e025: false,
-    "log": 90c6e025: ,
+    "log": 90c6e025: <JSDate (value has unexpected type)>,
     "_time": 90c6e025: 2,
     "_version": 90c6e025: 1,
     "_url": 90c6e025: 32,
@@ -84706,7 +84706,7 @@ object has invalid-looking property values
     "_readableState": 90c4e231: <couldn't read type>,
     "readable": 90c4e231: false,
     "domain": 90c4e231: <unknown JavaScript object type "DebugInfo">,
-    "_events": 90c4e231: ,
+    "_events": 90c4e231: <JSDate (value has unexpected type)>,
     "_maxListeners": 90c4e231: 10,
     "socket": 90c4e231: <unknown JavaScript object type "FixedArray">,
     "connection": 90c4e231: <unknown JavaScript object type "FixedArray">,
@@ -85134,7 +85134,7 @@ bfe3e885: {
     "_httpMessage": bfe3e885: 0,
     "ondata": bfe3e885: [],
     "_idleNext": bfe3e885: false,
-    "_idlePrev": bfe3e885: ,
+    "_idlePrev": bfe3e885: <JSDate (value has unexpected type)>,
     "_idleTimeout": bfe3e885: <couldn't read type>,
 }
 property kind: in-object "properties" array 
@@ -85984,7 +85984,7 @@ property kind: in-object "properties" array
 object has invalid-looking property values
 bbe2e531: {
     "_connecting": bbe2e531: <unknown JavaScript object type "Map">,
-    "_handle": bbe2e531: ,
+    "_handle": bbe2e531: <JSDate (value has unexpected type)>,
     "_readableState": bbe2e531: <unknown JavaScript object type "FixedArray">,
     "readable": bbe2e531: <unknown JavaScript object type "Map">,
     "domain": bbe2e531: <unknown JavaScript object type "FixedArray">,
@@ -86231,7 +86231,7 @@ bbe2d8bd: {
     "_readableState": bbe2d8bd: <unknown JavaScript object type "FixedArray">,
     "readable": bbe2d8bd: {
         "highWaterMark": bbe2d8bd: 16384,
-        "buffer": bbe2d8bd: ,
+        "buffer": bbe2d8bd: <JSDate (value has unexpected type)>,
         "length": bbe2d8bd: 0,
         "pipes": bbe2d8bd: null,
         "pipesCount": bbe2d8bd: 0,
@@ -86253,11 +86253,11 @@ bbe2d8bd: {
         "encoding": bbe2d8bd: null,
     },
     "domain": bbe2d8bd: false,
-    "_events": bbe2d8bd: ,
+    "_events": bbe2d8bd: <JSDate (value has unexpected type)>,
     "_maxListeners": bbe2d8bd: function <could not read type>,
     "_writableState": bbe2d8bd: 10,
-    "writable": bbe2d8bd: ,
-    "allowHalfOpen": bbe2d8bd: ,
+    "writable": bbe2d8bd: <JSDate (value has unexpected type)>,
+    "allowHalfOpen": bbe2d8bd: <JSDate (value has unexpected type)>,
     "onend": bbe2d8bd: <couldn't read type>,
     "destroyed": bbe2d8bd: true,
     "bytesRead": bbe2d8bd: function <could not read type>,
@@ -86267,7 +86267,7 @@ bbe2d8bd: {
     "parser": bbe2d8bd: "",
     "_httpMessage": bbe2d8bd: null,
     "ondata": bbe2d8bd: 204,
-    "_idleNext": bbe2d8bd: ,
+    "_idleNext": bbe2d8bd: <JSDate (value has unexpected type)>,
     "_idlePrev": bbe2d8bd: 9,
     "_idleTimeout": bbe2d8bd: 0,
 }
@@ -86282,7 +86282,7 @@ bbe2d8b1: {
     "_events": bbe2d8b1: <unknown JavaScript object type "FixedArray">,
     "_maxListeners": bbe2d8b1: {
         "highWaterMark": bbe2d8b1: 16384,
-        "buffer": bbe2d8b1: ,
+        "buffer": bbe2d8b1: <JSDate (value has unexpected type)>,
         "length": bbe2d8b1: 0,
         "pipes": bbe2d8b1: null,
         "pipesCount": bbe2d8b1: 0,
@@ -86304,11 +86304,11 @@ bbe2d8b1: {
         "encoding": bbe2d8b1: null,
     },
     "_writableState": bbe2d8b1: false,
-    "writable": bbe2d8b1: ,
+    "writable": bbe2d8b1: <JSDate (value has unexpected type)>,
     "allowHalfOpen": bbe2d8b1: function <could not read type>,
     "onend": bbe2d8b1: 10,
-    "destroyed": bbe2d8b1: ,
-    "bytesRead": bbe2d8b1: ,
+    "destroyed": bbe2d8b1: <JSDate (value has unexpected type)>,
+    "bytesRead": bbe2d8b1: <JSDate (value has unexpected type)>,
     "_bytesDispatched": bbe2d8b1: <couldn't read type>,
     "_pendingData": bbe2d8b1: true,
     "_pendingEncoding": bbe2d8b1: function <could not read type>,
@@ -87497,7 +87497,7 @@ b94b90c5: {
     "_bytesDispatched": b94b90c5: {},
     "_pendingData": b94b90c5: function InternalArray,
     "_pendingEncoding": b94b90c5: undefined,
-    "parser": b94b90c5: ,
+    "parser": b94b90c5: <JSDate (value has unexpected type)>,
     "_httpMessage": b94b90c5: <unknown JavaScript object type "FixedArray">,
     "ondata": b94b90c5: 33558527,
     "_idleNext": b94b90c5: <unknown JavaScript object type "Map">,
@@ -95449,7 +95449,7 @@ object has invalid-looking property values
     "_connecting": 9157eec1: 1408411776,
     "_handle": 9157eec1: hole,
     "_readableState": 9157eec1: <unknown JavaScript object type "SharedFunctionInfo">,
-    "readable": 9157eec1: ,
+    "readable": 9157eec1: <JSDate (value has unexpected type)>,
     "domain": 9157eec1: <unknown JavaScript object type "FixedArray">,
     "_events": 9157eec1: undefined,
     "_maxListeners": 9157eec1: <unknown JavaScript object type "Map">,
